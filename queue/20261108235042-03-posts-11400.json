@@ -1,0 +1,1 @@
+{"action": "get", "path": "wp/v2/posts?categories=11400&per_page=4&status=publish&_fields=id,title.rendered,categories,tags,featured_media,date,author"}
