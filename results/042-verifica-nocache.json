@@ -1,0 +1,133 @@
+{
+  "file": "042-verifica-nocache.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T23:00:25+00:00",
+  "response": {
+    "status": "ended",
+    "new_items": [
+      {
+        "id": 10,
+        "title": "AEW National Championship: Andrade El Idolo (c) vs. Tommaso Ciampa",
+        "type": "match",
+        "winner": "Tommaso Ciampa per schienamento – NUOVO AEW National Champion",
+        "source": "Wrestleview",
+        "ref": "collision-20261107-national-title",
+        "time_hm": "00:00",
+        "iso_date": "2026-11-08T23:00:04Z",
+        "html_card": "\t\t<article id=\"update-10\" class=\"zw-live-card\" data-update-id=\"10\">\n\t\t\t<header class=\"zw-live-card-header\">\n\t\t\t\t<span class=\"zw-badge zw-badge-match\">Match</span>\n\t\t\t\t<time class=\"zw-live-time\" datetime=\"2026-11-08T23:00:04Z\">00:00</time>\n\t\t\t</header>\n\t\t\t\t\t\t\t<h3 class=\"zw-live-card-title\">AEW National Championship: Andrade El Idolo (c) vs. Tommaso Ciampa</h3>\n\t\t\t\t\t\t<div class=\"zw-live-card-body\">\n\t\t\t\t<p>Ciampa parte meglio, poi Andrade reagisce con i three amigos e un lariat. Su un tentativo di powerslam Ciampa sembra scivolare sul ring bagnato e si tiene il gomito sinistro.</p>\n<p>Nel finale, con la pioggia sempre più forte, Ciampa travolge l'arbitro Aubrey Edwards; mentre Andrade si preoccupa per lei, Ciampa lo colpisce con un colpo basso e una ginocchiata in corsa a ginocchio scoperto, poi lo schiena con un roll-up.</p>\n<p>Tommaso Ciampa è il nuovo campione nazionale AEW: la puntata si chiude con i suoi festeggiamenti a bordo ring insieme alla moglie e alla figlia.</p>\n\t\t\t</div>\n\t\t\t\t\t\t\t<footer class=\"zw-live-card-winner\">\n\t\t\t\t\t🏆 <strong>Esito:</strong> Tommaso Ciampa per schienamento – NUOVO AEW National Champion\t\t\t\t</footer>\n\t\t\t\t\t\t\t\t\t\t<p class=\"zw-live-card-source\">Fonte: Wrestleview</p>\n\t\t\t\t\t</article>\n\t\t",
+        "raw_text": "Ciampa parte meglio, poi Andrade reagisce con i three amigos e un lariat. Su un tentativo di powerslam Ciampa sembra scivolare sul ring bagnato e si tiene il gomito sinistro.Nel finale, con la pioggia sempre più forte, Ciampa travolge l'arbitro Aubrey Edwards; mentre Andrade si preoccupa per lei, Ciampa lo colpisce con un colpo basso e una ginocchiata in corsa a ginocchio scoperto, poi lo schiena con un roll-up.Tommaso Ciampa è il nuovo campione nazionale AEW: la puntata si chiude con i suoi festeggiamenti a bordo ring insieme alla moglie e alla figlia."
+      },
+      {
+        "id": 9,
+        "title": "The Cut giurano vendetta, Davis e Doyle puntano agli Young Bucks",
+        "type": "backstage",
+        "winner": "",
+        "source": "Wrestleview",
+        "ref": "collision-20261107-cut-davis-doyle",
+        "time_hm": "00:00",
+        "iso_date": "2026-11-08T23:00:03Z",
+        "html_card": "\t\t<article id=\"update-9\" class=\"zw-live-card\" data-update-id=\"9\">\n\t\t\t<header class=\"zw-live-card-header\">\n\t\t\t\t<span class=\"zw-badge zw-badge-backstage\">Backstage</span>\n\t\t\t\t<time class=\"zw-live-time\" datetime=\"2026-11-08T23:00:03Z\">00:00</time>\n\t\t\t</header>\n\t\t\t\t\t\t\t<h3 class=\"zw-live-card-title\">The Cut giurano vendetta, Davis e Doyle puntano agli Young Bucks</h3>\n\t\t\t\t\t\t<div class=\"zw-live-card-body\">\n\t\t\t\t<p>Nel backstage i The Cut vengono mostrati in un ambiente sporco di sangue: Juice Robinson è stato portato in ospedale. Jay White raccoglie una forchetta da terra e il gruppo giura vendetta ai Death Riders.</p>\n<p>In un altro segmento Davis e Doyle annunciano che a Full Gear strapperanno i titoli mondiali di coppia agli Young Bucks.</p>\n\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<p class=\"zw-live-card-source\">Fonte: Wrestleview</p>\n\t\t\t\t\t</article>\n\t\t",
+        "raw_text": "Nel backstage i The Cut vengono mostrati in un ambiente sporco di sangue: Juice Robinson è stato portato in ospedale. Jay White raccoglie una forchetta da terra e il gruppo giura vendetta ai Death Riders.In un altro segmento Davis e Doyle annunciano che a Full Gear strapperanno i titoli mondiali di coppia agli Young Bucks."
+      },
+      {
+        "id": 8,
+        "title": "Persephone vs. Mina Shirakawa",
+        "type": "match",
+        "winner": "Persephone per schienamento (frog splash)",
+        "source": "Wrestleview",
+        "ref": "collision-20261107-persephone-shirakawa",
+        "time_hm": "00:00",
+        "iso_date": "2026-11-08T23:00:02Z",
+        "html_card": "\t\t<article id=\"update-8\" class=\"zw-live-card\" data-update-id=\"8\">\n\t\t\t<header class=\"zw-live-card-header\">\n\t\t\t\t<span class=\"zw-badge zw-badge-match\">Match</span>\n\t\t\t\t<time class=\"zw-live-time\" datetime=\"2026-11-08T23:00:02Z\">00:00</time>\n\t\t\t</header>\n\t\t\t\t\t\t\t<h3 class=\"zw-live-card-title\">Persephone vs. Mina Shirakawa</h3>\n\t\t\t\t\t\t<div class=\"zw-live-card-body\">\n\t\t\t\t<p>Persephone vince con un frog splash, sfruttando un momento di distrazione di Mina Shirakawa. A fine match continua ad attaccarla finché non interviene Queen Aminata; prima di andarsene Persephone rivendica il TBS Championship come suo.</p>\n\t\t\t</div>\n\t\t\t\t\t\t\t<footer class=\"zw-live-card-winner\">\n\t\t\t\t\t🏆 <strong>Esito:</strong> Persephone per schienamento (frog splash)\t\t\t\t</footer>\n\t\t\t\t\t\t\t\t\t\t<p class=\"zw-live-card-source\">Fonte: Wrestleview</p>\n\t\t\t\t\t</article>\n\t\t",
+        "raw_text": "Persephone vince con un frog splash, sfruttando un momento di distrazione di Mina Shirakawa. A fine match continua ad attaccarla finché non interviene Queen Aminata; prima di andarsene Persephone rivendica il TBS Championship come suo."
+      },
+      {
+        "id": 7,
+        "title": "Mercedes Moné sfida Marina Shafir, The Cut travolgono Moxley",
+        "type": "breaking",
+        "winner": "",
+        "source": "Wrestleview",
+        "ref": "collision-20261107-mone-cut",
+        "time_hm": "00:00",
+        "iso_date": "2026-11-08T23:00:02Z",
+        "html_card": "\t\t<article id=\"update-7\" class=\"zw-live-card\" data-update-id=\"7\">\n\t\t\t<header class=\"zw-live-card-header\">\n\t\t\t\t<span class=\"zw-badge zw-badge-breaking\">Breaking</span>\n\t\t\t\t<time class=\"zw-live-time\" datetime=\"2026-11-08T23:00:02Z\">00:00</time>\n\t\t\t</header>\n\t\t\t\t\t\t\t<h3 class=\"zw-live-card-title\">Mercedes Moné sfida Marina Shafir, The Cut travolgono Moxley</h3>\n\t\t\t\t\t\t<div class=\"zw-live-card-body\">\n\t\t\t\t<p>Dopo il match Moxley prende la parola, ma viene interrotto da Mercedes Moné, che sfida Marina Shafir per Full Gear e ha un botta e risposta con lui.</p>\n<p>Arrivano poi i The Cut (Jay White, Juice Robinson e Ace Austin) e scatta l'aggressione: Moné colpisce Moxley con un calcio, White lo stende con la Blade Runner e Robinson e Austin infieriscono.</p>\n\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<p class=\"zw-live-card-source\">Fonte: Wrestleview</p>\n\t\t\t\t\t</article>\n\t\t",
+        "raw_text": "Dopo il match Moxley prende la parola, ma viene interrotto da Mercedes Moné, che sfida Marina Shafir per Full Gear e ha un botta e risposta con lui.Arrivano poi i The Cut (Jay White, Juice Robinson e Ace Austin) e scatta l'aggressione: Moné colpisce Moxley con un calcio, White lo stende con la Blade Runner e Robinson e Austin infieriscono."
+      },
+      {
+        "id": 6,
+        "title": "Death Riders vs. Shane Taylor Promotions",
+        "type": "match",
+        "winner": "Death Riders per schienamento (Gabe Kidd su Carlie Bravo)",
+        "source": "Wrestleview",
+        "ref": "collision-20261107-death-riders-stp",
+        "time_hm": "00:00",
+        "iso_date": "2026-11-08T23:00:01Z",
+        "html_card": "\t\t<article id=\"update-6\" class=\"zw-live-card\" data-update-id=\"6\">\n\t\t\t<header class=\"zw-live-card-header\">\n\t\t\t\t<span class=\"zw-badge zw-badge-match\">Match</span>\n\t\t\t\t<time class=\"zw-live-time\" datetime=\"2026-11-08T23:00:01Z\">00:00</time>\n\t\t\t</header>\n\t\t\t\t\t\t\t<h3 class=\"zw-live-card-title\">Death Riders vs. Shane Taylor Promotions</h3>\n\t\t\t\t\t\t<div class=\"zw-live-card-body\">\n\t\t\t\t<p>Jon Moxley, Daniel Garcia e Gabe Kidd affrontano Shane Taylor, Carlie Bravo e Shawn Dean. Moxley mette a segno un cutter su Taylor e apre la strada a Kidd, che schiena Bravo con un fisherman's buster.</p>\n\t\t\t</div>\n\t\t\t\t\t\t\t<footer class=\"zw-live-card-winner\">\n\t\t\t\t\t🏆 <strong>Esito:</strong> Death Riders per schienamento (Gabe Kidd su Carlie Bravo)\t\t\t\t</footer>\n\t\t\t\t\t\t\t\t\t\t<p class=\"zw-live-card-source\">Fonte: Wrestleview</p>\n\t\t\t\t\t</article>\n\t\t",
+        "raw_text": "Jon Moxley, Daniel Garcia e Gabe Kidd affrontano Shane Taylor, Carlie Bravo e Shawn Dean. Moxley mette a segno un cutter su Taylor e apre la strada a Kidd, che schiena Bravo con un fisherman's buster."
+      },
+      {
+        "id": 5,
+        "title": "Nick Wayne vs. Marcus Mathers",
+        "type": "match",
+        "winner": "Nick Wayne per schienamento (Wayne's World)",
+        "source": "Wrestleview",
+        "ref": "collision-20261107-wayne-mathers",
+        "time_hm": "00:00",
+        "iso_date": "2026-11-08T23:00:00Z",
+        "html_card": "\t\t<article id=\"update-5\" class=\"zw-live-card\" data-update-id=\"5\">\n\t\t\t<header class=\"zw-live-card-header\">\n\t\t\t\t<span class=\"zw-badge zw-badge-match\">Match</span>\n\t\t\t\t<time class=\"zw-live-time\" datetime=\"2026-11-08T23:00:00Z\">00:00</time>\n\t\t\t</header>\n\t\t\t\t\t\t\t<h3 class=\"zw-live-card-title\">Nick Wayne vs. Marcus Mathers</h3>\n\t\t\t\t\t\t<div class=\"zw-live-card-body\">\n\t\t\t\t<p>Nick Wayne vince con la Wayne's World. Poi prende il microfono e si proclama \"capitano della nave\": il pubblico lo sommerge di fischi e, al posto dei fuochi d'artificio, per lui c'è solo il suono di una sirena.</p>\n\t\t\t</div>\n\t\t\t\t\t\t\t<footer class=\"zw-live-card-winner\">\n\t\t\t\t\t🏆 <strong>Esito:</strong> Nick Wayne per schienamento (Wayne&#039;s World)\t\t\t\t</footer>\n\t\t\t\t\t\t\t\t\t\t<p class=\"zw-live-card-source\">Fonte: Wrestleview</p>\n\t\t\t\t\t</article>\n\t\t",
+        "raw_text": "Nick Wayne vince con la Wayne's World. Poi prende il microfono e si proclama \"capitano della nave\": il pubblico lo sommerge di fischi e, al posto dei fuochi d'artificio, per lui c'è solo il suono di una sirena."
+      },
+      {
+        "id": 4,
+        "title": "FTR vs. Motor City Machine Guns (gara 4 della serie al meglio delle cinque)",
+        "type": "match",
+        "winner": "FTR per schienamento – serie sul 2-2",
+        "source": "Wrestleview",
+        "ref": "collision-20261107-ftr-mcmg",
+        "time_hm": "23:59",
+        "iso_date": "2026-11-08T22:59:59Z",
+        "html_card": "\t\t<article id=\"update-4\" class=\"zw-live-card\" data-update-id=\"4\">\n\t\t\t<header class=\"zw-live-card-header\">\n\t\t\t\t<span class=\"zw-badge zw-badge-match\">Match</span>\n\t\t\t\t<time class=\"zw-live-time\" datetime=\"2026-11-08T22:59:59Z\">23:59</time>\n\t\t\t</header>\n\t\t\t\t\t\t\t<h3 class=\"zw-live-card-title\">FTR vs. Motor City Machine Guns (gara 4 della serie al meglio delle cinque)</h3>\n\t\t\t\t\t\t<div class=\"zw-live-card-body\">\n\t\t\t\t<p>I Motor City Machine Guns arrivano a gara 4 in vantaggio per 2-1. Nel finale Stokely Hathaway tira la gamba di Alex Shelley e lo distrae: Dax Harwood ne approfitta e lo sorprende con un roll-up.</p>\n<p>Con questa vittoria gli FTR pareggiano la serie: si va 2-2.</p>\n\t\t\t</div>\n\t\t\t\t\t\t\t<footer class=\"zw-live-card-winner\">\n\t\t\t\t\t🏆 <strong>Esito:</strong> FTR per schienamento – serie sul 2-2\t\t\t\t</footer>\n\t\t\t\t\t\t\t\t\t\t<p class=\"zw-live-card-source\">Fonte: Wrestleview</p>\n\t\t\t\t\t</article>\n\t\t",
+        "raw_text": "I Motor City Machine Guns arrivano a gara 4 in vantaggio per 2-1. Nel finale Stokely Hathaway tira la gamba di Alex Shelley e lo distrae: Dax Harwood ne approfitta e lo sorprende con un roll-up.Con questa vittoria gli FTR pareggiano la serie: si va 2-2."
+      },
+      {
+        "id": 3,
+        "title": "I New Level verso il Texas Death Match",
+        "type": "backstage",
+        "winner": "",
+        "source": "Wrestleview",
+        "ref": "collision-20261107-new-level",
+        "time_hm": "23:59",
+        "iso_date": "2026-11-08T22:59:59Z",
+        "html_card": "\t\t<article id=\"update-3\" class=\"zw-live-card\" data-update-id=\"3\">\n\t\t\t<header class=\"zw-live-card-header\">\n\t\t\t\t<span class=\"zw-badge zw-badge-backstage\">Backstage</span>\n\t\t\t\t<time class=\"zw-live-time\" datetime=\"2026-11-08T22:59:59Z\">23:59</time>\n\t\t\t</header>\n\t\t\t\t\t\t\t<h3 class=\"zw-live-card-title\">I New Level verso il Texas Death Match</h3>\n\t\t\t\t\t\t<div class=\"zw-live-card-body\">\n\t\t\t\t<p>Intervistati da Lexy Nair, Kofi e Austin Creed parlano del Texas Death Match di Full Gear e ammettono di temere ciò che dovranno diventare pur di vincerlo.</p>\n\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<p class=\"zw-live-card-source\">Fonte: Wrestleview</p>\n\t\t\t\t\t</article>\n\t\t",
+        "raw_text": "Intervistati da Lexy Nair, Kofi e Austin Creed parlano del Texas Death Match di Full Gear e ammettono di temere ciò che dovranno diventare pur di vincerlo."
+      },
+      {
+        "id": 2,
+        "title": "Chris Jericho vs. Blake Christian: il finale",
+        "type": "match",
+        "winner": "Chris Jericho per sottomissione (Walls of Jericho)",
+        "source": "Wrestleview",
+        "ref": "collision-20261107-jericho-christian-finale",
+        "time_hm": "23:59",
+        "iso_date": "2026-11-08T22:59:58Z",
+        "html_card": "\t\t<article id=\"update-2\" class=\"zw-live-card\" data-update-id=\"2\">\n\t\t\t<header class=\"zw-live-card-header\">\n\t\t\t\t<span class=\"zw-badge zw-badge-match\">Match</span>\n\t\t\t\t<time class=\"zw-live-time\" datetime=\"2026-11-08T22:59:58Z\">23:59</time>\n\t\t\t</header>\n\t\t\t\t\t\t\t<h3 class=\"zw-live-card-title\">Chris Jericho vs. Blake Christian: il finale</h3>\n\t\t\t\t\t\t<div class=\"zw-live-card-body\">\n\t\t\t\t<p>Al rientro dalla pubblicità Blake Christian va vicinissimo alla vittoria con un cutter, ma Jericho chiude i conti con la Walls of Jericho.</p>\n<p>Dopo il match l'arbitro Aubrey Edwards aiuta Jericho a togliersi parte del costume, mentre il pubblico canta in coro la sua musica d'ingresso.</p>\n\t\t\t</div>\n\t\t\t\t\t\t\t<footer class=\"zw-live-card-winner\">\n\t\t\t\t\t🏆 <strong>Esito:</strong> Chris Jericho per sottomissione (Walls of Jericho)\t\t\t\t</footer>\n\t\t\t\t\t\t\t\t\t\t<p class=\"zw-live-card-source\">Fonte: Wrestleview</p>\n\t\t\t\t\t</article>\n\t\t",
+        "raw_text": "Al rientro dalla pubblicità Blake Christian va vicinissimo alla vittoria con un cutter, ma Jericho chiude i conti con la Walls of Jericho.Dopo il match l'arbitro Aubrey Edwards aiuta Jericho a togliersi parte del costume, mentre il pubblico canta in coro la sua musica d'ingresso."
+      },
+      {
+        "id": 1,
+        "title": "Chris Jericho vs. Blake Christian",
+        "type": "match",
+        "winner": "",
+        "source": "Wrestleview",
+        "ref": "collision-20261107-jericho-christian",
+        "time_hm": "23:51",
+        "iso_date": "2026-11-08T22:51:10Z",
+        "html_card": "\t\t<article id=\"update-1\" class=\"zw-live-card\" data-update-id=\"1\">\n\t\t\t<header class=\"zw-live-card-header\">\n\t\t\t\t<span class=\"zw-badge zw-badge-match\">Match</span>\n\t\t\t\t<time class=\"zw-live-time\" datetime=\"2026-11-08T22:51:10Z\">23:51</time>\n\t\t\t</header>\n\t\t\t\t\t\t\t<h3 class=\"zw-live-card-title\">Chris Jericho vs. Blake Christian</h3>\n\t\t\t\t\t\t<div class=\"zw-live-card-body\">\n\t\t\t\t<p>Blake Christian, accompagnato da Jay Lethal, viene accolto dai fischi del pubblico. Christian aggredisce Jericho alle spalle e lo bersaglia all'angolo; mentre distrae l'arbitro, Lethal ne approfitta per strangolare Jericho.</p>\n<p>Jericho si riprende e, dopo una corsa alle corde, mette al tappeto Christian con uno slam. Poi si cambia, indossando una maglietta a tema taco e dei pantaloncini, si lancia dalla terza corda su Christian e lo colpisce con un oggetto preso dal pubblico, che la telecronaca non identifica. Christian manda Jericho fuori dal ring e lo ricaccia giù con un calcio mentre prova a rientrare.</p>\n<p>Si va alla pausa pubblicitaria con il match ancora in corso.</p>\n\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<p class=\"zw-live-card-source\">Fonte: Wrestleview</p>\n\t\t\t\t\t</article>\n\t\t",
+        "raw_text": "Blake Christian, accompagnato da Jay Lethal, viene accolto dai fischi del pubblico. Christian aggredisce Jericho alle spalle e lo bersaglia all'angolo; mentre distrae l'arbitro, Lethal ne approfitta per strangolare Jericho.Jericho si riprende e, dopo una corsa alle corde, mette al tappeto Christian con uno slam. Poi si cambia, indossando una maglietta a tema taco e dei pantaloncini, si lancia dalla terza corda su Christian e lo colpisce con un oggetto preso dal pubblico, che la telecronaca non identifica. Christian manda Jericho fuori dal ring e lo ricaccia giù con un calcio mentre prova a rientrare.Si va alla pausa pubblicitaria con il match ancora in corso."
+      }
+    ],
+    "total": 10
+  }
+}
