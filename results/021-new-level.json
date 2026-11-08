@@ -1,0 +1,12 @@
+{
+  "file": "021-new-level.json",
+  "action": "add_update",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-08T22:59:59+00:00",
+  "response": {
+    "created": true,
+    "id": 3,
+    "url": "https://zonawrestling.net/?p=385118#update-3"
+  }
+}

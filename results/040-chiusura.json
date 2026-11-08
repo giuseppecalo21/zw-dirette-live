@@ -1,0 +1,14 @@
+{
+  "file": "040-chiusura.json",
+  "action": "set_status",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T23:00:04+00:00",
+  "response": {
+    "post_id": 385118,
+    "enabled": "1",
+    "status": "ended",
+    "end_hours": 3,
+    "source_url": "https://www.wrestleview.com/top-story/396827-aew-collision-results-11-7-26-live-from-chris-jerichos-rock-n-wrestling-rager-at-sea/"
+  }
+}

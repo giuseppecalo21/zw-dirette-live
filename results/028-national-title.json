@@ -1,0 +1,12 @@
+{
+  "file": "028-national-title.json",
+  "action": "add_update",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-08T23:00:04+00:00",
+  "response": {
+    "created": true,
+    "id": 10,
+    "url": "https://zonawrestling.net/?p=385118#update-10"
+  }
+}
