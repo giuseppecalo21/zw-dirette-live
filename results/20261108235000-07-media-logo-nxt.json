@@ -1,0 +1,65 @@
+{
+  "file": "20261108235000-07-media-logo-nxt.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T23:50:20+00:00",
+  "response": [
+    {
+      "id": 365452,
+      "title": {
+        "rendered": "nxt logo"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2025/12/20/nxt-logo.jpg"
+    },
+    {
+      "id": 364797,
+      "title": {
+        "rendered": "nxt-deadline-2025-logo-ufficiale-ppv"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2025/12/07/nxt-deadline-2025-logo-ufficiale-ppv.jpg"
+    },
+    {
+      "id": 363681,
+      "title": {
+        "rendered": "NXT Gold RUsh 2025 logo"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2025/11/19/NXT-Gold-RUsh-2025-logo.webp"
+    },
+    {
+      "id": 360408,
+      "title": {
+        "rendered": "nxt-no-mercy-logo-2025"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2025/09/28/nxt-no-mercy-logo-2025.jpg"
+    },
+    {
+      "id": 353267,
+      "title": {
+        "rendered": "WWE-NXT-logo-1"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2025/06/16/WWE-NXT-logo-1.webp"
+    },
+    {
+      "id": 339376,
+      "title": {
+        "rendered": "nxt-deadline-logo.jpg.optimal-2512955675"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2024/12/08/nxt-deadline-logo.jpg.optimal-2512955675.jpg"
+    },
+    {
+      "id": 335330,
+      "title": {
+        "rendered": "NXT-Logo-1"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2024/10/15/NXT-Logo-1.jpg"
+    },
+    {
+      "id": 334302,
+      "title": {
+        "rendered": "nxt-2024-nuovo-logo"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2024/10/02/nxt-2024-nuovo-logo.jpg"
+    }
+  ]
+}

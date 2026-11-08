@@ -1,0 +1,65 @@
+{
+  "file": "20261108235000-08-media-logo-dynamite.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T23:50:22+00:00",
+  "response": [
+    {
+      "id": 374323,
+      "title": {
+        "rendered": "aew-dynamite-collision-logo"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2026/05/28/aew-dynamite-collision-logo.jpg"
+    },
+    {
+      "id": 319727,
+      "title": {
+        "rendered": "aew-dynamite-logo-2024-new"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2024/03/07/aew-dynamite-logo-2024-new.jpg"
+    },
+    {
+      "id": 315100,
+      "title": {
+        "rendered": "aew-dynamite-logo-2024"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2024/01/04/aew-dynamite-logo-2024.jpg"
+    },
+    {
+      "id": 286901,
+      "title": {
+        "rendered": "aew-dynamite-logo-ufficiale-2023"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2023/01/03/aew-dynamite-logo-ufficiale-2023.jpg"
+    },
+    {
+      "id": 258706,
+      "title": {
+        "rendered": "logo aew-dynamite"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2022/01/19/logo-aew-dynamite.jpg"
+    },
+    {
+      "id": 255834,
+      "title": {
+        "rendered": "AEW-Dynamite-Rampage-logo"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2021/12/23/AEW-Dynamite-Rampage-logo.jpg"
+    },
+    {
+      "id": 185056,
+      "title": {
+        "rendered": "dynamite logo"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2019/10/03/dynamite-logo.jpg"
+    },
+    {
+      "id": 183994,
+      "title": {
+        "rendered": "aew-dynamite-logo"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2019/09/19/aew-dynamite-logo.jpg"
+    }
+  ]
+}

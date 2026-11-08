@@ -1,0 +1,23 @@
+{
+  "file": "20261108235000-02-cat-nxt.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T23:50:12+00:00",
+  "response": [
+    {
+      "id": 17,
+      "count": 670,
+      "name": "NXT",
+      "slug": "nxt",
+      "parent": 7
+    },
+    {
+      "id": 10544,
+      "count": 183,
+      "name": "NXT UK",
+      "slug": "nxt-uk",
+      "parent": 7
+    }
+  ]
+}

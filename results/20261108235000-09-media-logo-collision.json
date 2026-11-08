@@ -1,0 +1,44 @@
+{
+  "file": "20261108235000-09-media-logo-collision.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T23:50:24+00:00",
+  "response": [
+    {
+      "id": 374323,
+      "title": {
+        "rendered": "aew-dynamite-collision-logo"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2026/05/28/aew-dynamite-collision-logo.jpg"
+    },
+    {
+      "id": 342417,
+      "title": {
+        "rendered": "collision-maximum-carnage-logo"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2025/01/19/collision-maximum-carnage-logo.jpg"
+    },
+    {
+      "id": 300417,
+      "title": {
+        "rendered": "aew-collision-logo-2023"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2023/06/18/aew-collision-logo-2023.jpg"
+    },
+    {
+      "id": 297863,
+      "title": {
+        "rendered": "aew-collision-logo"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2023/05/17/aew-collision-logo.jpg"
+    },
+    {
+      "id": 69387,
+      "title": {
+        "rendered": "Collisione_Logo"
+      },
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2015/11/Collisione_Logo.jpg"
+    }
+  ]
+}
