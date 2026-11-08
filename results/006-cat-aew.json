@@ -1,0 +1,27 @@
+{
+  "file": "006-cat-aew.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T22:50:18+00:00",
+  "response": [
+    {
+      "id": 10805,
+      "count": 10115,
+      "name": "AEW",
+      "slug": "aew"
+    },
+    {
+      "id": 11460,
+      "count": 237,
+      "name": "Dark",
+      "slug": "aew-dark"
+    },
+    {
+      "id": 11400,
+      "count": 370,
+      "name": "Dynamite",
+      "slug": "aew-dynamite"
+    }
+  ]
+}

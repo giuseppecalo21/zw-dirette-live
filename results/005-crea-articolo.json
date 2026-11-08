@@ -1,0 +1,170 @@
+{
+  "file": "005-crea-articolo.json",
+  "action": "create_post",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-08T22:50:17+00:00",
+  "response": {
+    "id": 385118,
+    "date": "2026-11-08T03:00:00",
+    "date_gmt": "2026-11-08T02:00:00",
+    "guid": {
+      "rendered": "https://zonawrestling.net/?p=385118",
+      "raw": "https://zonawrestling.net/?p=385118"
+    },
+    "modified": "2026-11-08T03:00:00",
+    "modified_gmt": "2026-11-08T02:00:00",
+    "password": "",
+    "slug": "",
+    "status": "draft",
+    "type": "post",
+    "link": "https://zonawrestling.net/?p=385118",
+    "title": {
+      "raw": "Collision 07.11.2026 In crociera con Jericho",
+      "rendered": "Collision 07.11.2026 In crociera con Jericho"
+    },
+    "content": {
+      "raw": "<p>La puntata di AEW Collision del 7 novembre 2026 va in onda in diretta dalla Norwegian Jewel, la nave del Chris Jericho's Rock 'N' Wrestling Rager at Sea, a Miami. Al tavolo di commento ci sono Tony Schiavone, Nigel McGuinness e Paul Wight.</p><p>Di seguito la cronaca della serata, aggiornata segmento per segmento.</p>",
+      "rendered": "<p>La puntata di AEW Collision del 7 novembre 2026 va in onda in diretta dalla Norwegian Jewel, la nave del Chris Jericho&#8217;s Rock &#8216;N&#8217; Wrestling Rager at Sea, a Miami. Al tavolo di commento ci sono Tony Schiavone, Nigel McGuinness e Paul Wight.</p>\n<p>Di seguito la cronaca della serata, aggiornata segmento per segmento.</p>\n",
+      "protected": false,
+      "block_version": 0
+    },
+    "excerpt": {
+      "raw": "",
+      "rendered": "<p>La puntata di AEW Collision del 7 novembre 2026 va in onda in diretta dalla Norwegian Jewel, la nave del Chris Jericho&#8217;s Rock &#8216;N&#8217; Wrestling Rager at Sea, a Miami. Al tavolo di commento ci sono Tony Schiavone, Nigel McGuinness e Paul Wight. Di seguito la cronaca della serata, aggiornata segmento per segmento.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      45
+    ],
+    "tags": [],
+    "permalink_template": "https://zonawrestling.net/%postname%/",
+    "generated_slug": "collision-07-11-2026-in-crociera-con-jericho",
+    "class_list": [
+      "post-385118",
+      "post",
+      "type-post",
+      "status-draft",
+      "format-standard",
+      "category-news"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385118",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/comments?post=385118"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385118/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/media?parent=385118"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/categories?post=385118"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/tags?post=385118"
+        }
+      ],
+      "wp:action-publish": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385118"
+        }
+      ],
+      "wp:action-unfiltered-html": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385118"
+        }
+      ],
+      "wp:action-sticky": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385118"
+        }
+      ],
+      "wp:action-assign-author": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385118"
+        }
+      ],
+      "wp:action-create-categories": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385118"
+        }
+      ],
+      "wp:action-assign-categories": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385118"
+        }
+      ],
+      "wp:action-create-tags": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385118"
+        }
+      ],
+      "wp:action-assign-tags": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385118"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}
