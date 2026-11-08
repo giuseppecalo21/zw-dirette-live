@@ -1,0 +1,1 @@
+{"action": "get", "path": "wp/v2/media?search=logo%20dynamite&per_page=8&_fields=id,title.rendered,source_url,media_details.width,media_details.height"}
