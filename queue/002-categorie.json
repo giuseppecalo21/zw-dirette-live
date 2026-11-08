@@ -1,0 +1,1 @@
+{"action": "get", "path": "wp/v2/categories?search=news&_fields=id,name,slug,count"}

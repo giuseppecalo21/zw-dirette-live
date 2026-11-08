@@ -1,0 +1,1 @@
+{"action": "get", "path": "wp/v2/users/me?_fields=id,name,slug"}

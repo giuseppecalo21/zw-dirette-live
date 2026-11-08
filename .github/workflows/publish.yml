@@ -1,0 +1,41 @@
+name: Pubblica sulla diretta
+
+on:
+  push:
+    branches: [main]
+    paths: ['queue/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zw-live-queue
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Invia i file in coda a WordPress
+        env:
+          WP_BASE_URL: ${{ secrets.WP_BASE_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+        run: python3 scripts/process_queue.py
+
+      - name: Salva gli esiti
+        run: |
+          git config user.name "zw-live-bot"
+          git config user.email "zw-live-bot@users.noreply.github.com"
+          git add -A queue results
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Esiti coda $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && exit 0
+            sleep 3
+          done
+          exit 1
