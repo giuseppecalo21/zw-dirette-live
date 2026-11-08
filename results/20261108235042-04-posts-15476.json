@@ -1,0 +1,72 @@
+{
+  "file": "20261108235042-04-posts-15476.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T23:50:53+00:00",
+  "response": [
+    {
+      "id": 384557,
+      "date": "2026-11-02T00:06:11",
+      "title": {
+        "rendered": "Collision 31.10.2026 Fright Night Collision"
+      },
+      "author": 1,
+      "featured_media": 384558,
+      "categories": [
+        15476,
+        6507
+      ],
+      "tags": []
+    },
+    {
+      "id": 383955,
+      "date": "2026-10-25T13:46:19",
+      "title": {
+        "rendered": "Collision 24.10.2026 The Last Outfit"
+      },
+      "author": 1,
+      "featured_media": 310258,
+      "categories": [
+        15476,
+        6507
+      ],
+      "tags": [
+        10650,
+        15394
+      ]
+    },
+    {
+      "id": 383188,
+      "date": "2026-10-16T01:50:01",
+      "title": {
+        "rendered": "Dynamite/Collision 14.10.2026 L&#8217;ultimo anno di Adam Copeland"
+      },
+      "author": 1,
+      "featured_media": 374323,
+      "categories": [
+        15476,
+        11400,
+        6507
+      ],
+      "tags": []
+    },
+    {
+      "id": 382740,
+      "date": "2026-10-11T10:13:28",
+      "title": {
+        "rendered": "Collision 10.10.2026 Nessuno ama questa roba come noi"
+      },
+      "author": 1,
+      "featured_media": 300417,
+      "categories": [
+        15476,
+        6507
+      ],
+      "tags": [
+        10650,
+        15394
+      ]
+    }
+  ]
+}

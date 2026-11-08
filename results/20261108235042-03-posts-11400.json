@@ -1,0 +1,71 @@
+{
+  "file": "20261108235042-03-posts-11400.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T23:50:52+00:00",
+  "response": [
+    {
+      "id": 384964,
+      "date": "2026-11-05T16:54:51",
+      "title": {
+        "rendered": "Dynamite 04.11.2026 Blood &amp; Guts"
+      },
+      "author": 1,
+      "featured_media": 363297,
+      "categories": [
+        11400,
+        6507
+      ],
+      "tags": []
+    },
+    {
+      "id": 384281,
+      "date": "2026-10-30T00:37:38",
+      "title": {
+        "rendered": "Dynamite 28.10.2026 Anarchia all’orizzonte"
+      },
+      "author": 1,
+      "featured_media": 384282,
+      "categories": [
+        11400,
+        6507
+      ],
+      "tags": [
+        10650
+      ]
+    },
+    {
+      "id": 383751,
+      "date": "2026-10-22T09:34:22",
+      "title": {
+        "rendered": "Dynamite 21.10.2026 Il giorno dei tradimenti"
+      },
+      "author": 1,
+      "featured_media": 319727,
+      "categories": [
+        11400,
+        6507
+      ],
+      "tags": [
+        10650,
+        11348
+      ]
+    },
+    {
+      "id": 383188,
+      "date": "2026-10-16T01:50:01",
+      "title": {
+        "rendered": "Dynamite/Collision 14.10.2026 L&#8217;ultimo anno di Adam Copeland"
+      },
+      "author": 1,
+      "featured_media": 374323,
+      "categories": [
+        15476,
+        11400,
+        6507
+      ],
+      "tags": []
+    }
+  ]
+}

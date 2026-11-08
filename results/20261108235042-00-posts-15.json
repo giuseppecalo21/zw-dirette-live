@@ -1,0 +1,77 @@
+{
+  "file": "20261108235042-00-posts-15.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T23:50:50+00:00",
+  "response": [
+    {
+      "id": 383458,
+      "date": "2026-11-03T02:47:47",
+      "title": {
+        "rendered": "Raw 02.11.2026 John Cena is back"
+      },
+      "author": 526,
+      "featured_media": 368661,
+      "categories": [
+        6507,
+        15
+      ],
+      "tags": [
+        5096,
+        69
+      ]
+    },
+    {
+      "id": 382954,
+      "date": "2026-10-27T03:43:23",
+      "title": {
+        "rendered": "Raw 26.10.2026 Titoli in palio"
+      },
+      "author": 526,
+      "featured_media": 368661,
+      "categories": [
+        6507,
+        15
+      ],
+      "tags": [
+        5096,
+        69
+      ]
+    },
+    {
+      "id": 382651,
+      "date": "2026-10-20T04:25:35",
+      "title": {
+        "rendered": "Raw 19.10.2026 Sfida a tre"
+      },
+      "author": 526,
+      "featured_media": 368661,
+      "categories": [
+        6507,
+        15
+      ],
+      "tags": [
+        5096,
+        69
+      ]
+    },
+    {
+      "id": 382089,
+      "date": "2026-10-13T11:29:06",
+      "title": {
+        "rendered": "Raw 12.10.2026 Fallout from Money in The Bank"
+      },
+      "author": 526,
+      "featured_media": 368661,
+      "categories": [
+        6507,
+        15
+      ],
+      "tags": [
+        5096,
+        69
+      ]
+    }
+  ]
+}

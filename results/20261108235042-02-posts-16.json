@@ -1,0 +1,68 @@
+{
+  "file": "20261108235042-02-posts-16.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T23:50:52+00:00",
+  "response": [
+    {
+      "id": 384967,
+      "date": "2026-11-07T10:08:00",
+      "title": {
+        "rendered": "SmackDown 06.11.2026 KO abbatte Punk"
+      },
+      "author": 1,
+      "featured_media": 333101,
+      "categories": [
+        6507,
+        16
+      ],
+      "tags": [
+        242,
+        69
+      ]
+    },
+    {
+      "id": 384465,
+      "date": "2026-11-01T01:26:56",
+      "title": {
+        "rendered": "SmackDown 30.10.2026 Very nice, very evil Demon"
+      },
+      "author": 1,
+      "featured_media": 333101,
+      "categories": [
+        6507,
+        16
+      ],
+      "tags": []
+    },
+    {
+      "id": 383953,
+      "date": "2026-10-25T13:37:12",
+      "title": {
+        "rendered": "SmackDown 23.10.2026 Il killer del Legend Killer"
+      },
+      "author": 1,
+      "featured_media": 333101,
+      "categories": [
+        6507,
+        16
+      ],
+      "tags": []
+    },
+    {
+      "id": 383250,
+      "date": "2026-10-19T11:28:44",
+      "title": {
+        "rendered": "Smackdown 16.10.2026: il ritorno del Punt Kick"
+      },
+      "author": 601,
+      "featured_media": 333101,
+      "categories": [
+        6507,
+        16
+      ],
+      "tags": []
+    }
+  ]
+}
