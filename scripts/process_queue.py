@@ -69,7 +69,7 @@ def handle(job):
     if action == "update_post":
         return call("POST", f"wp/v2/posts/{pid}", job["post"])
     if action == "add_update":
-        fields = {k: job[k] for k in ("title", "type", "winner", "content", "source", "ref") if k in job}
+        fields = {k: job[k] for k in ("title", "type", "label", "winner", "content", "source", "ref") if k in job}
         return call("POST", f"zw-live/v1/updates/{pid}", fields)
     if action == "delete_update":
         return call("DELETE", f"zw-live/v1/updates/{pid}/{int(job['update_id'])}")
