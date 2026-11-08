@@ -1,1 +1,0 @@
-{"action": "get", "path": "wp/v2/users?search=giuseppe&_fields=id,name,slug"}

@@ -1,0 +1,33 @@
+{
+  "file": "002-categorie.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T22:49:13+00:00",
+  "response": [
+    {
+      "id": 45,
+      "count": 13242,
+      "name": "News",
+      "slug": "news"
+    },
+    {
+      "id": 57,
+      "count": 3966,
+      "name": "news-italia",
+      "slug": "news-italia"
+    },
+    {
+      "id": 15936,
+      "count": 25,
+      "name": "RevPro",
+      "slug": "revpro-news"
+    },
+    {
+      "id": 55,
+      "count": 6008,
+      "name": "Videonews",
+      "slug": "videonews"
+    }
+  ]
+}

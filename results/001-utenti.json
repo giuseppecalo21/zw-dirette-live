@@ -1,0 +1,39 @@
+{
+  "file": "001-utenti.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T22:49:12+00:00",
+  "response": [
+    {
+      "id": 616,
+      "name": "Giuseppe \"∅M\" Urselli",
+      "slug": "giuseppe-urselli"
+    },
+    {
+      "id": 555,
+      "name": "Giuseppe Aparo",
+      "slug": "giuseppe-aparo"
+    },
+    {
+      "id": 1,
+      "name": "Giuseppe Calò",
+      "slug": "admin"
+    },
+    {
+      "id": 531,
+      "name": "Giuseppe Di Fabio",
+      "slug": "giuseppe-di-fabio"
+    },
+    {
+      "id": 361,
+      "name": "Giuseppe Petrellese",
+      "slug": "giuseppepetrellese"
+    },
+    {
+      "id": 561,
+      "name": "Giuseppe Rinella",
+      "slug": "giuseppe-rinella"
+    }
+  ]
+}

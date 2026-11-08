@@ -1,0 +1,12 @@
+{
+  "file": "004-io.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T22:49:15+00:00",
+  "response": {
+    "id": 318,
+    "name": "Redazione di Zona Wrestling",
+    "slug": "redazione-di-zona-wrestling"
+  }
+}
