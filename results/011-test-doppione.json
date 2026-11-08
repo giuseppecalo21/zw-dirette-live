@@ -1,0 +1,12 @@
+{
+  "file": "011-test-doppione.json",
+  "action": "add_update",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T22:51:11+00:00",
+  "response": {
+    "created": false,
+    "duplicate": true,
+    "id": 1
+  }
+}

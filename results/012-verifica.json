@@ -1,0 +1,25 @@
+{
+  "file": "012-verifica.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-08T22:51:12+00:00",
+  "response": {
+    "status": "live",
+    "new_items": [
+      {
+        "id": 1,
+        "title": "Chris Jericho vs. Blake Christian",
+        "type": "match",
+        "winner": "",
+        "source": "Wrestleview",
+        "ref": "collision-20261107-jericho-christian",
+        "time_hm": "23:51",
+        "iso_date": "2026-11-08T22:51:10Z",
+        "html_card": "\t\t<article id=\"update-1\" class=\"zw-live-card\" data-update-id=\"1\">\n\t\t\t<header class=\"zw-live-card-header\">\n\t\t\t\t<span class=\"zw-badge zw-badge-match\">Match</span>\n\t\t\t\t<time class=\"zw-live-time\" datetime=\"2026-11-08T22:51:10Z\">23:51</time>\n\t\t\t</header>\n\t\t\t\t\t\t\t<h3 class=\"zw-live-card-title\">Chris Jericho vs. Blake Christian</h3>\n\t\t\t\t\t\t<div class=\"zw-live-card-body\">\n\t\t\t\t<p>Blake Christian, accompagnato da Jay Lethal, viene accolto dai fischi del pubblico. Christian aggredisce Jericho alle spalle e lo bersaglia all'angolo; mentre distrae l'arbitro, Lethal ne approfitta per strangolare Jericho.</p>\n<p>Jericho si riprende e, dopo una corsa alle corde, mette al tappeto Christian con uno slam. Poi si cambia, indossando una maglietta a tema taco e dei pantaloncini, si lancia dalla terza corda su Christian e lo colpisce con un oggetto preso dal pubblico, che la telecronaca non identifica. Christian manda Jericho fuori dal ring e lo ricaccia giù con un calcio mentre prova a rientrare.</p>\n<p>Si va alla pausa pubblicitaria con il match ancora in corso.</p>\n\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<p class=\"zw-live-card-source\">Fonte: Wrestleview</p>\n\t\t\t\t\t</article>\n\t\t",
+        "raw_text": "Blake Christian, accompagnato da Jay Lethal, viene accolto dai fischi del pubblico. Christian aggredisce Jericho alle spalle e lo bersaglia all'angolo; mentre distrae l'arbitro, Lethal ne approfitta per strangolare Jericho.Jericho si riprende e, dopo una corsa alle corde, mette al tappeto Christian con uno slam. Poi si cambia, indossando una maglietta a tema taco e dei pantaloncini, si lancia dalla terza corda su Christian e lo colpisce con un oggetto preso dal pubblico, che la telecronaca non identifica. Christian manda Jericho fuori dal ring e lo ricaccia giù con un calcio mentre prova a rientrare.Si va alla pausa pubblicitaria con il match ancora in corso."
+      }
+    ],
+    "total": 1
+  }
+}
