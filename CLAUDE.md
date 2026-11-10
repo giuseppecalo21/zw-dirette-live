@@ -40,7 +40,8 @@ python3 scripts/zw.py job '{"action":"create_post","post":{
 1. `python3 scripts/zw.py feed SHOW AAAA-MM-GG --key CHIAVE` → stampa SOLO i paragrafi nuovi dal giro precedente.
 2. Individua i **segmenti conclusi** non ancora pubblicati (confronta con `refs` nello stato).
    - Un match è concluso quando la fonte ne riporta il vincitore. Se è ancora in corso (es. interrotto dalla pubblicità),
-     **non pubblicarlo**: aspetta il giro dopo. Non esiste modifica dei blocchi: ogni blocco deve nascere completo.
+     **non pubblicarlo**: aspetta il giro dopo. Ogni blocco deve nascere completo; la modifica (punto 6) serve solo
+     a correggere errori o a integrare un dettaglio importante arrivato dopo, non a pubblicare a pezzi.
    - Promo, backstage e video: pubblicali quando la fonte li ha descritti per intero.
    - Segmenti brevi e consecutivi (due clip, un video promozionale) si possono unire in un solo blocco.
 3. Scrivi i blocchi (regole al punto 5) in file JSON e inviali **in ordine cronologico** in un solo invio:
@@ -123,5 +124,10 @@ eventuali segmenti saltati e perché.
 - Altre letture: `python3 scripts/zw.py job '{"action":"get","path":"zw-live/v1/updates/ID?after_id=0"}'`
 - Fonte di riserva se il feed non funziona: `python3 scripts/zw.py page URL_DEL_REPORT --key CHIAVE`
   (domini consentiti: wrestleview, fightful, prowrestling.net, 411mania, pwinsider, wrestlinginc, f4wonline, pwtorch).
-- Eliminare un blocco sbagliato: `{"action":"delete_update","post_id":ID,"update_id":N}` (poi ripubblicalo corretto con un `ref` nuovo).
+- Correggere un blocco: `{"action":"edit_update","post_id":ID,"update_id":N,"content":"<p>…</p>"}` — invia solo i campi da cambiare
+  (`title`, `type`, `label`, `winner`, `content`, `link_url`, `link_label`). L'ID `N` è quello restituito alla creazione.
+  I lettori con la pagina aperta vedono la correzione al successivo aggiornamento automatico.
+- Eliminare un blocco: `{"action":"delete_update","post_id":ID,"update_id":N}`.
+- Link di approfondimento (`link_url` + `link_label`) e tweet/video incorporati (URL su una riga da sola nel `content`):
+  li usa Giuseppe dalla regia. Tu non aggiungerli nelle dirette notturne, salvo richiesta esplicita nel prompt.
 - Non toccare mai altri articoli del sito. Le uniche scritture consentite sono sull'articolo della diretta di stanotte.

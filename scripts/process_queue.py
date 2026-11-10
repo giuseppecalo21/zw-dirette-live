@@ -6,6 +6,7 @@ Azioni supportate (campo "action"):
   create_post    -> POST /wp-json/wp/v2/posts       (campo "post": corpo JSON)
   update_post    -> POST /wp-json/wp/v2/posts/<id>  (campi "post_id", "post")
   add_update     -> POST /wp-json/zw-live/v1/updates/<post_id>
+  edit_update    -> POST /wp-json/zw-live/v1/updates/<post_id>/<update_id>  (solo i campi inviati)
   delete_update  -> DELETE /wp-json/zw-live/v1/updates/<post_id>/<update_id>
   set_status     -> POST /wp-json/zw-live/v1/status/<post_id>
 """
@@ -91,8 +92,11 @@ def handle(job):
     if action == "update_post":
         return call("POST", f"wp/v2/posts/{pid}", job["post"])
     if action == "add_update":
-        fields = {k: job[k] for k in ("title", "type", "label", "winner", "content", "source", "ref") if k in job}
+        fields = {k: job[k] for k in ("title", "type", "label", "winner", "content", "link_url", "link_label", "source", "ref") if k in job}
         return call("POST", f"zw-live/v1/updates/{pid}", fields)
+    if action == "edit_update":
+        fields = {k: job[k] for k in ("title", "type", "label", "winner", "content", "link_url", "link_label") if k in job}
+        return call("POST", f"zw-live/v1/updates/{pid}/{int(job['update_id'])}", fields)
     if action == "delete_update":
         return call("DELETE", f"zw-live/v1/updates/{pid}/{int(job['update_id'])}")
     if action == "set_status":
