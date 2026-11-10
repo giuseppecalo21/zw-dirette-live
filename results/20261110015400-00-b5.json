@@ -1,0 +1,12 @@
+{
+  "file": "20261110015400-00-b5.json",
+  "action": "add_update",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-10T01:54:09+00:00",
+  "response": {
+    "created": true,
+    "id": 15,
+    "url": "https://zonawrestling.net/diretta-live-wwe-raw-del-09-11-2026/#update-15"
+  }
+}
