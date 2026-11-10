@@ -106,14 +106,69 @@ def diff_and_save(key, paras, meta):
     latest.write_text("\n\n".join(paras), "utf-8")
     print(json.dumps(meta, ensure_ascii=False))
     print(f"Paragrafi totali: {len(paras)} | nuovi o modificati rispetto al giro precedente: {len(new)}")
-    if any("touch up" in p.lower() or "refresh" in p.lower() for p in paras[-3:]):
+    tail = " ".join(paras[-3:]).lower()
+    if "thanks for following" in tail or "that's all for" in tail or "that’s all for" in tail:
+        print("NOTA: il live blog segnala la chiusura dello show.")
+    elif any("touch up" in p.lower() or "refresh" in p.lower() for p in paras[-3:]):
         print("NOTA: il report risulta ancora in aggiornamento.")
     print("=" * 60)
     for p in new:
         print(p, end="\n\n")
 
 
+MONTH_SLUGS = ["jan", "feb", "mar", "apr", "may", "june", "july", "aug", "sept", "oct", "nov", "dec"]
+
+
+def show_config(show):
+    cfg = json.loads((ROOT / "config" / "shows.json").read_text("utf-8"))
+    return cfg["shows"][show]
+
+
+def cageside_paras(body):
+    comps = re.split(r'(?=<div[^>]*class="duet--article--article-body-component)', body)
+    out = []
+    for c in comps[1:]:
+        for p in strip_html(c[:12000]):
+            if p.startswith("See More"):
+                return out
+            if p.startswith("<img") or len(p) < 3:
+                continue
+            out.append(p)
+    return out
+
+
+def cmd_cageside(show, d, key, fonte):
+    """Trova il live blog dello show nella pagina di categoria di Cageside Seats e ne legge il testo."""
+    st_file = STATE / f"{key}.json"
+    st = json.loads(st_file.read_text("utf-8")) if st_file.exists() else {}
+    url = st.get("source_url")
+    if not url:
+        res = send([("fetch-cageside-cat", {"action": "fetch", "url": fonte["categoria"]})])[0]
+        if not res["ok"]:
+            sys.exit(f"Categoria Cageside non scaricata: {summarize(res)}")
+        body = (RESULTS / res["body_file"]).read_text("utf-8")
+        dt = datetime.strptime(d, "%Y-%m-%d")
+        tag = f"-{MONTH_SLUGS[dt.month - 1]}-{dt.day}-{dt.year}"
+        links = sorted(set(re.findall(r'href="(/wwe/\d+/' + re.escape(fonte["slug"]) + r'[^"#?]*)"', body)))
+        match = [l for l in links if tag in l or (MONTH_SLUGS[dt.month - 1][:3] + f"-{dt.day}-{dt.year}") in l]
+        if not match:
+            print("REPORT NON ANCORA PRESENTE NEL FEED (live blog di Cageside non trovato). Ultimi link:")
+            for l in sorted(links, key=lambda x: int(x.split("/")[2]))[-5:]:
+                print(" -", l)
+            return
+        url = "https://www.cagesideseats.com" + sorted(match, key=lambda x: int(x.split("/")[2]))[-1]
+        cmd_state(key, [f"source_url={url}"], quiet=True)
+    res = send([("fetch-cageside-post", {"action": "fetch", "url": url})])[0]
+    if not res["ok"]:
+        sys.exit(f"Live blog non scaricato: {summarize(res)}")
+    paras = cageside_paras((RESULTS / res["body_file"]).read_text("utf-8"))
+    diff_and_save(key, paras, {"link": url})
+
+
 def cmd_feed(show, d, key):
+    fonte = show_config(show).get("fonte", {"tipo": "wrestleview"})
+    if fonte.get("tipo") == "cageside":
+        return cmd_cageside(show, d, key, fonte)
     res = send([("fetch-feed", {"action": "fetch", "url": FEED_URL})])[0]
     if not res["ok"]:
         sys.exit(f"Feed non scaricato: {summarize(res)}")
@@ -145,7 +200,7 @@ def cmd_page(url, key):
     diff_and_save(key, strip_html(m.group(2) if m else body), {"url": url})
 
 
-def cmd_state(key, sets):
+def cmd_state(key, sets, quiet=False):
     STATE.mkdir(exist_ok=True)
     f = STATE / f"{key}.json"
     st = json.loads(f.read_text("utf-8")) if f.exists() else {}
@@ -166,7 +221,8 @@ def cmd_state(key, sets):
         st["updated_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
         f.write_text(json.dumps(st, ensure_ascii=False, indent=2), "utf-8")
         push(f"stato {key}")
-    print(json.dumps(st, ensure_ascii=False, indent=2))
+    if not quiet:
+        print(json.dumps(st, ensure_ascii=False, indent=2))
 
 
 def main(argv):

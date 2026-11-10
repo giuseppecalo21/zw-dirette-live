@@ -3,10 +3,67 @@
   "author_id": 1,
   "news_category": 45,
   "shows": {
-    "raw":       { "nome": "WWE Raw",       "federazione": "WWE", "categoria_fed": 53,    "logo_media_id": 368661, "giorno_us": "lunedì",    "inizio_italia": "02:00", "durata_ore": 3 },
-    "nxt":       { "nome": "WWE NXT",       "federazione": "WWE", "categoria_fed": 53,    "logo_media_id": 365452, "giorno_us": "martedì",   "inizio_italia": "02:00", "durata_ore": 2 },
-    "dynamite":  { "nome": "AEW Dynamite",  "federazione": "AEW", "categoria_fed": 10805, "logo_media_id": 319727, "giorno_us": "mercoledì", "inizio_italia": "02:00", "durata_ore": 2 },
-    "smackdown": { "nome": "WWE SmackDown", "federazione": "WWE", "categoria_fed": 53,    "logo_media_id": 333101, "giorno_us": "venerdì",   "inizio_italia": "02:00", "durata_ore": 2 },
-    "collision": { "nome": "AEW Collision", "federazione": "AEW", "categoria_fed": 10805, "logo_media_id": 300417, "giorno_us": "sabato",    "inizio_italia": "02:00", "durata_ore": 2 }
+    "raw": {
+      "nome": "WWE Raw",
+      "federazione": "WWE",
+      "categoria_fed": 53,
+      "logo_media_id": 368661,
+      "giorno_us": "lunedì",
+      "inizio_italia": "02:00",
+      "durata_ore": 3,
+      "fonte": {
+        "tipo": "wrestleview"
+      }
+    },
+    "nxt": {
+      "nome": "WWE NXT",
+      "federazione": "WWE",
+      "categoria_fed": 53,
+      "logo_media_id": 365452,
+      "giorno_us": "martedì",
+      "inizio_italia": "02:00",
+      "durata_ore": 2,
+      "fonte": {
+        "tipo": "cageside",
+        "categoria": "https://www.cagesideseats.com/wwe-nxt-live-blogs",
+        "slug": "wwe-nxt"
+      }
+    },
+    "dynamite": {
+      "nome": "AEW Dynamite",
+      "federazione": "AEW",
+      "categoria_fed": 10805,
+      "logo_media_id": 319727,
+      "giorno_us": "mercoledì",
+      "inizio_italia": "02:00",
+      "durata_ore": 2,
+      "fonte": {
+        "tipo": "wrestleview"
+      }
+    },
+    "smackdown": {
+      "nome": "WWE SmackDown",
+      "federazione": "WWE",
+      "categoria_fed": 53,
+      "logo_media_id": 333101,
+      "giorno_us": "venerdì",
+      "inizio_italia": "02:00",
+      "durata_ore": 2,
+      "fonte": {
+        "tipo": "wrestleview"
+      }
+    },
+    "collision": {
+      "nome": "AEW Collision",
+      "federazione": "AEW",
+      "categoria_fed": 10805,
+      "logo_media_id": 300417,
+      "giorno_us": "sabato",
+      "inizio_italia": "02:00",
+      "durata_ore": 2,
+      "fonte": {
+        "tipo": "wrestleview"
+      }
+    }
   }
 }
