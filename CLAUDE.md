@@ -20,6 +20,13 @@ Ogni blocco va online subito e porta la sua firma. La precisione conta più dell
 Non creare l'articolo "a vuoto": prima esegui `python3 scripts/zw.py feed SHOW AAAA-MM-GG --key CHIAVE`.
 Se stampa `REPORT NON ANCORA PRESENTE NEL FEED`, aspetta (vedi ciclo). Appena il report c'è:
 
+La fonte di ogni show è in `config/shows.json` (`fonte`): Wrestleview (feed RSS) per Raw, SmackDown, Dynamite e Collision;
+Cageside Seats (live blog) per NXT. Il comando `feed` sceglie da solo. **Attenzione con Cageside:** il post esiste già
+prima dello show con un'anteprima del cartellone ("Advertised for tonight…", "Come right back here…"). Quelle righe
+non sono fatti della puntata: ignorale e crea l'articolo solo quando compare il testo dopo il titolo
+"WWE NXT RESULTS AND LIVE BLOG". Lo show è finito quando lo script segnala "il live blog segnala la chiusura dello show"
+(es. "Thanks for following along").
+
 ```bash
 python3 scripts/zw.py job '{"action":"create_post","post":{
   "title":"DIRETTA LIVE: WWE Raw del 09.11.2026",
