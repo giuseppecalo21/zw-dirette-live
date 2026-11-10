@@ -1,0 +1,10 @@
+{
+  "file": "20261110225928-00-fetch-css-rss.json",
+  "action": "fetch",
+  "http_status": 404,
+  "ok": false,
+  "processed_at": "2026-11-10T22:59:37+00:00",
+  "response": {
+    "error": "HTTP 404"
+  }
+}
