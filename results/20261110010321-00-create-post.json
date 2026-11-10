@@ -1,0 +1,179 @@
+{
+  "file": "20261110010321-00-create-post.json",
+  "action": "create_post",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-10T01:03:47+00:00",
+  "response": {
+    "id": 385191,
+    "date": "2026-11-10T02:03:30",
+    "date_gmt": "2026-11-10T01:03:30",
+    "guid": {
+      "rendered": "https://zonawrestling.net/diretta-live-wwe-raw-del-09-11-2026/",
+      "raw": "https://zonawrestling.net/diretta-live-wwe-raw-del-09-11-2026/"
+    },
+    "modified": "2026-11-10T02:03:30",
+    "modified_gmt": "2026-11-10T01:03:30",
+    "password": "",
+    "slug": "diretta-live-wwe-raw-del-09-11-2026",
+    "status": "publish",
+    "type": "post",
+    "link": "https://zonawrestling.net/diretta-live-wwe-raw-del-09-11-2026/",
+    "title": {
+      "raw": "DIRETTA LIVE: WWE Raw del 09.11.2026",
+      "rendered": "DIRETTA LIVE: WWE Raw del 09.11.2026"
+    },
+    "content": {
+      "raw": "<p>Benvenuti alla diretta testuale di Raw, in onda stanotte dalla Bon Secours Wellness Arena di Greenville, in South Carolina. Di seguito la cronaca della serata, aggiornata segmento per segmento.</p>",
+      "rendered": "<p>Benvenuti alla diretta testuale di Raw, in onda stanotte dalla Bon Secours Wellness Arena di Greenville, in South Carolina. Di seguito la cronaca della serata, aggiornata segmento per segmento.</p>\n",
+      "protected": false,
+      "block_version": 0
+    },
+    "excerpt": {
+      "raw": "",
+      "rendered": "<p>Benvenuti alla diretta testuale di Raw, in onda stanotte dalla Bon Secours Wellness Arena di Greenville, in South Carolina. Di seguito la cronaca della serata, aggiornata segmento per segmento.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 368661,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      45,
+      53
+    ],
+    "tags": [],
+    "permalink_template": "https://zonawrestling.net/%postname%/",
+    "generated_slug": "diretta-live-wwe-raw-del-09-11-2026",
+    "class_list": [
+      "post-385191",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "category-news",
+      "category-wwe"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385191",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/comments?post=385191"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385191/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/media/368661"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/media?parent=385191"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/categories?post=385191"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/tags?post=385191"
+        }
+      ],
+      "wp:action-publish": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385191"
+        }
+      ],
+      "wp:action-unfiltered-html": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385191"
+        }
+      ],
+      "wp:action-sticky": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385191"
+        }
+      ],
+      "wp:action-assign-author": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385191"
+        }
+      ],
+      "wp:action-create-categories": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385191"
+        }
+      ],
+      "wp:action-assign-categories": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385191"
+        }
+      ],
+      "wp:action-create-tags": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385191"
+        }
+      ],
+      "wp:action-assign-tags": [
+        {
+          "href": "https://www.zonawrestling.net/wp-json/wp/v2/posts/385191"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}
