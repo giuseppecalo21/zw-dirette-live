@@ -1,0 +1,12 @@
+{
+  "file": "20261110225946-01-css-nxt-cat.json",
+  "action": "fetch",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-10T22:59:55+00:00",
+  "response": {
+    "bytes": 877132,
+    "content_type": "text/html; charset=utf-8"
+  },
+  "body_file": "20261110225946-01-css-nxt-cat.body"
+}
