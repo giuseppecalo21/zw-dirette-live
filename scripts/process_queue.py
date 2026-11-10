@@ -25,7 +25,7 @@ RESULTS = ROOT / "results"
 ALLOWED_GET_PREFIXES = ("wp/v2/", "zw-live/v1/")
 # Domini da cui il ponte può scaricare pagine/feed per conto di Claude (solo lettura)
 FETCH_DOMAINS = ("wrestleview.com", "fightful.com", "prowrestling.net", "411mania.com",
-                 "pwinsider.com", "wrestlinginc.com", "f4wonline.com", "pwtorch.com")
+                 "pwinsider.com", "wrestlinginc.com", "f4wonline.com", "pwtorch.com", "cagesideseats.com")
 
 base = os.environ.get("WP_BASE_URL", "").rstrip("/")
 user = os.environ.get("WP_USER", "")
