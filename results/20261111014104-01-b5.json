@@ -1,0 +1,12 @@
+{
+  "file": "20261111014104-01-b5.json",
+  "action": "add_update",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-11T01:41:14+00:00",
+  "response": {
+    "created": true,
+    "id": 34,
+    "url": "https://zonawrestling.net/diretta-live-wwe-nxt-del-10-11-2026/#update-34"
+  }
+}
