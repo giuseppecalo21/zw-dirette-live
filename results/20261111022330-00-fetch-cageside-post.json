@@ -1,0 +1,12 @@
+{
+  "file": "20261111022330-00-fetch-cageside-post.json",
+  "action": "fetch",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-11T02:23:38+00:00",
+  "response": {
+    "bytes": 411747,
+    "content_type": "text/html; charset=utf-8"
+  },
+  "body_file": "20261111022330-00-fetch-cageside-post.body"
+}
