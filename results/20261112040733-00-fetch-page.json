@@ -1,0 +1,12 @@
+{
+  "file": "20261112040733-00-fetch-page.json",
+  "action": "fetch",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-12T04:07:40+00:00",
+  "response": {
+    "bytes": 144670,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "body_file": "20261112040733-00-fetch-page.body"
+}
