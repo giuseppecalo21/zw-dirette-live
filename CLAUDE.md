@@ -22,7 +22,7 @@ Se stampa `REPORT NON ANCORA PRESENTE NEL FEED`, aspetta (vedi ciclo). Appena il
 
 La fonte di ogni show è in `config/shows.json` (`fonte`): Wrestleview (feed RSS) per Raw, SmackDown, Dynamite e Collision;
 Cageside Seats (live blog) per NXT. Il comando `feed` sceglie da solo. **Attenzione con Cageside:** il post esiste già
-prima dello show con un'anteprima del cartellone ("Advertised for tonight…", "Come right back here…"). Quelle righe
+prima dello show con un'anteprima della card ("Advertised for tonight…", "Come right back here…"). Quelle righe
 non sono fatti della puntata: ignorale e crea l'articolo solo quando compare il testo dopo il titolo
 "WWE NXT RESULTS AND LIVE BLOG". Lo show è finito quando lo script segnala "il live blog segnala la chiusura dello show"
 (es. "Thanks for following along").
@@ -92,7 +92,7 @@ eventuali segmenti saltati e perché.
 - Tweet incorporati, pubblicità ("FULL AD BREAK"), firme e note di servizio del report non si riportano.
 
 ### Forma dei blocchi
-- **Titolo del blocco**: per i match i nomi come da cartellone, forma originale inglese compreso "The"
+- **Titolo del blocco**: per i match i nomi come da card, forma originale inglese compreso "The"
   (es. `The Judgment Day vs. The New Day`); con titolo in palio `Nome del titolo: Campione (c) vs. Sfidante`.
   Per promo e segmenti un titolo breve e informativo in italiano.
 - **Testo**: 1-3 paragrafi `<p>`, circa 3-6 righe in tutto. Fasi salienti e soprattutto **il finale e come ci si arriva**
@@ -113,7 +113,7 @@ eventuali segmenti saltati e perché.
 - Wrestler donne: nome completo alla prima citazione, poi "la + cognome" (mai il cognome da solo).
 - Mosse femminili per default: la spear, una lariat, una suplex, una clothesline, la GTS, una moonsault, una senton,
   una piledriver, una backstabber. Eccezioni maschili: il dropkick, il DDT. Mai verbi inventati ("suplessare").
-- "titolo" (mai "campionato"); "pubblico" o "platea" (mai "folla"); "il promo"/"i promo"; "segmento" o "clip" (mai "vignetta");
+- "card" (mai "cartellone": la parola va bene al massimo per il tabellone di un torneo); "titolo" (mai "campionato"); "pubblico" o "platea" (mai "folla"); "il promo"/"i promo"; "segmento" o "clip" (mai "vignetta");
   video: "Va in onda un video…"; backstage: si dice dove siamo ("Nel backstage…").
 - **Mai la parola "devastante"**, in nessuna forma.
 - Termini lasciati in inglese: nearfall, apron, hot tag, squash, heel, babyface, small package, roll-up, kendo stick, ecc.
