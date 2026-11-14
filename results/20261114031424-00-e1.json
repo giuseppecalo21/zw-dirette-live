@@ -1,0 +1,14 @@
+{
+  "file": "20261114031424-00-e1.json",
+  "action": "edit_update",
+  "http_status": 404,
+  "ok": false,
+  "processed_at": "2026-11-14T03:14:33+00:00",
+  "response": {
+    "code": "rest_no_route",
+    "message": "Nessun percorso fornisce una corrispondenza tra l'URL ed il metodo richiesto.",
+    "data": {
+      "status": 404
+    }
+  }
+}
