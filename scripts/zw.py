@@ -6,7 +6,7 @@
   python3 scripts/zw.py feed SHOW DATA [--key CHIAVE]      scarica il feed Wrestleview tramite GitHub,
                                                            trova il report dello show e stampa SOLO
                                                            i paragrafi nuovi rispetto al giro precedente
-        SHOW = raw | nxt | smackdown | dynamite | collision   DATA = AAAA-MM-GG (data USA dello show)
+        SHOW = raw | nxt | smackdown | dynamite | collision | <evento speciale in shows.json>   DATA = AAAA-MM-GG (data USA dello show)
   python3 scripts/zw.py page URL --key CHIAVE              come feed ma su una pagina (fonte di riserva)
   python3 scripts/zw.py state CHIAVE [--set k=v ...]       legge/aggiorna lo stato della diretta (state/CHIAVE.json)
 """
@@ -175,11 +175,17 @@ def cmd_feed(show, d, key):
     body = (RESULTS / res["body_file"]).read_text("utf-8")
     ns = {"content": "http://purl.org/rss/1.0/modules/content/"}
     root = ET.fromstring(body)
-    words, dates = SHOW_WORDS[show], date_patterns(d)
+    cfg = show_config(show)
+    words = cfg.get("parole") or SHOW_WORDS[show]
+    dates = date_patterns(d)
+    if cfg.get("evento_speciale"):
+        dates = dates + [d[:4]]  # PPV/PLE: basta l'anno nel titolo
     for item in root.iter("item"):
         title = item.findtext("title") or ""
         link = item.findtext("link") or ""
         hay = (title + " " + link).lower()
+        if cfg.get("evento_speciale") and any(x in hay for x in ("dynamite", "collision", "rampage", "raw", "smackdown", "nxt", "preview", "prediction")):
+            continue  # puntate TV che citano il PPV, anteprime e pronostici
         if any(w in hay for w in words) and "result" in hay and any(p.lower() in hay or p.replace("/", "-").lower() in hay for p in dates):
             content = item.findtext("content:encoded", default="", namespaces=ns) or item.findtext("description") or ""
             meta = {"title": title, "link": link, "pubDate": item.findtext("pubDate")}

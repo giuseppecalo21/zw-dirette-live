@@ -64,6 +64,23 @@
       "fonte": {
         "tipo": "wrestleview"
       }
+    },
+    "fullgear": {
+      "nome": "AEW Full Gear 2026",
+      "titolo_articolo": "DIRETTA LIVE: AEW Full Gear 2026",
+      "federazione": "AEW",
+      "categoria_fed": 10805,
+      "logo_media_id": 385484,
+      "giorno_us": "sabato 14.11.2026 (PPV)",
+      "inizio_italia": "01:00",
+      "durata_ore": 5,
+      "evento_speciale": true,
+      "parole": [
+        "full gear"
+      ],
+      "fonte": {
+        "tipo": "wrestleview"
+      }
     }
   }
 }
