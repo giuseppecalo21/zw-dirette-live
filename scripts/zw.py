@@ -184,7 +184,7 @@ def cmd_feed(show, d, key):
         title = item.findtext("title") or ""
         link = item.findtext("link") or ""
         hay = (title + " " + link).lower()
-        if cfg.get("evento_speciale") and any(x in hay for x in ("dynamite", "collision", "rampage", "raw", "smackdown", "nxt", "preview", "prediction")):
+        if cfg.get("evento_speciale") and re.search(r"\b(dynamite|collision|rampage|raw|smackdown|nxt|preview|predictions?)\b", hay):
             continue  # puntate TV che citano il PPV, anteprime e pronostici
         if any(w in hay for w in words) and "result" in hay and any(p.lower() in hay or p.replace("/", "-").lower() in hay for p in dates):
             content = item.findtext("content:encoded", default="", namespaces=ns) or item.findtext("description") or ""

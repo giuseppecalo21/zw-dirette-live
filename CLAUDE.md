@@ -138,3 +138,13 @@ eventuali segmenti saltati e perché.
 - Link di approfondimento (`link_url` + `link_label`) e tweet/video incorporati (URL su una riga da sola nel `content`):
   li usa Giuseppe dalla regia. Tu non aggiungerli nelle dirette notturne, salvo richiesta esplicita nel prompt.
 - Non toccare mai altri articoli del sito. Le uniche scritture consentite sono sull'articolo della diretta di stanotte.
+
+## 7. Eventi speciali (PPV/PLE)
+- Ogni evento ha una voce propria in `config/shows.json` con `evento_speciale: true`, `parole` (es. `["full gear"]`),
+  `titolo_articolo` e `logo_media_id` dell'immagine dell'evento. Il comando `feed` accetta il report se il titolo contiene
+  le parole, "results" e la data o l'anno, e scarta le puntate TV che citano l'evento, le anteprime e i pronostici.
+- Titolo dell'articolo: `titolo_articolo` (es. `DIRETTA LIVE: AEW Full Gear 2026`), senza data.
+- Il pre-show (Tailgate Brawl, Zero Hour, Countdown ecc.) si segue nella stessa diretta: apri con i suoi segmenti e,
+  all'inizio del main show, inserisci un blocco `altro` con etichetta del nome dell'evento (es. "Full Gear").
+  Se il pre-show ha un report separato da quello del main show, seguilo con `page URL --key CHIAVE` e poi passa al feed.
+- I limiti di sicurezza si calcolano da `inizio_italia` e `durata_ore` della voce dell'evento.
