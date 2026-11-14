@@ -1,0 +1,12 @@
+{
+  "file": "20261114005557-00-fetch-feed.json",
+  "action": "fetch",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-14T00:56:06+00:00",
+  "response": {
+    "bytes": 85556,
+    "content_type": "application/rss+xml; charset=UTF-8"
+  },
+  "body_file": "20261114005557-00-fetch-feed.body"
+}
