@@ -1,0 +1,1523 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+            
+        <!-- START email detection/removal script -->
+        <script>
+            !function(){"use strict";function e(e){const t=e.match(/((?=([a-z0-9._!#$%+^&*()[\]<>-]+))@[a-z0-9._-]+\.[a-z0-9._-]+)/gi);return t?t[0]:""}function t(t){return e(a(t.toLowerCase()))}function a(e){return e.replace(/\s/g,"")}async function n(e){const t={sha256Hash:"",sha1Hash:""};if(!("msCrypto"in window)&&"https:"===location.protocol&&"crypto"in window&&"TextEncoder"in window){const a=(new TextEncoder).encode(e),[n,c]=await Promise.all([s("SHA-256",a),s("SHA-1",a)]);t.sha256Hash=n,t.sha1Hash=c}return t}async function s(e,t){const a=await crypto.subtle.digest(e,t);return Array.from(new Uint8Array(a)).map(e=>("00"+e.toString(16)).slice(-2)).join("")}function c(e){let t=!0;return Object.keys(e).forEach(a=>{0===e[a].length&&(t=!1)}),t}function i(e,t,a){e.splice(t,1);const n="?"+e.join("&")+a.hash;history.replaceState(null,"",n)}var o={checkEmail:e,validateEmail:t,trimInput:a,hashEmail:n,hasHashes:c,removeEmailAndReplaceHistory:i,detectEmails:async function(){const e=new URL(window.location.href),a=Array.from(e.searchParams.entries()).map(e=>`=`);let s,o;const r=["adt_eih","sh_kit"];if(a.forEach((e,t)=>{const a=decodeURIComponent(e),[n,c]=a.split("=");if("adt_ei"===n&&(s={value:c,index:t,emsrc:"url"}),r.includes(n)){o={value:c,index:t,emsrc:"sh_kit"===n?"urlhck":"urlh"}}}),s)t(s.value)&&n(s.value).then(e=>{if(c(e)){const t={value:e,created:Date.now()};localStorage.setItem("adt_ei",JSON.stringify(t)),localStorage.setItem("adt_emsrc",s.emsrc)}});else if(o){const e={value:{sha256Hash:o.value,sha1Hash:""},created:Date.now()};localStorage.setItem("adt_ei",JSON.stringify(e)),localStorage.setItem("adt_emsrc",o.emsrc)}s&&i(a,s.index,e),o&&i(a,o.index,e)},cb:"adthrive"};const{detectEmails:r,cb:l}=o;r()}();
+        </script>
+        <!-- END email detection/removal script -->
+        <!-- AdThrive Head Tag Manual -->
+        <script data-no-optimize="1" data-cfasync="false">
+            (function(w, d) {
+                w.adthrive = w.adthrive || {};
+                w.adthrive.cmd = w.
+                    adthrive.cmd || [];
+                w.adthrive.plugin = 'adthrive-ads-manual';
+                w.adthrive.host = 'ads.adthrive.com';var s = d.createElement('script');
+                s.async = true;
+                s.referrerpolicy='no-referrer-when-downgrade';
+                s.src = 'https://' + w.adthrive.host + '/sites/5ebc2d5abf40e50d3c3e8153/ads.min.js?referrer=' + w.encodeURIComponent(w.location.href) + '&cb=' + (Math.floor(Math.random() * 100) + 1);
+                var n = d.getElementsByTagName('script')[0];
+                n.parentNode.insertBefore(s, n);
+            })(window, document);
+        </script>
+        <!-- End of AdThrive Head Tag -->
+        <script async preferred-sources-control="manual" src="https://news.google.com/swg/js/v1/publisher.js"></script>            <link rel="preload" href="/wp-content/themes/unified/css/article.wrestlinginc.min.css?design=3&v=1792688283" as="style"><link rel="preload" href="https://www.wrestlinginc.com/img/gallery/aew-full-gear-results-111426-w-live-updates/intro-1794631665.sm.webp" as="image">
+<link class="preloadFont" rel="preload" href="https://www.wrestlinginc.com/font/urw-din-regular.woff2" as="font" crossorigin>
+<link class="preloadFont" rel="preload" href="https://www.wrestlinginc.com/font/urw-din-bold.woff2" as="font" crossorigin>
+<link class="preloadFont" rel="preload" href="https://www.wrestlinginc.com/font/urw-din-condensed-black.woff2" as="font" crossorigin>
+<link rel="preconnect" href="//wrestlinginc.disqus.com" crossorigin>
+
+        <link rel="stylesheet" type="text/css" href="/wp-content/themes/unified/css/article.wrestlinginc.min.css?design=3&v=1792688283" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+        <meta http-equiv="X-UA-Compatible" content="IE=10" />
+        
+        
+                <meta name="robots" content="max-image-preview:large">
+        <meta name="thumbnail" content="https://www.wrestlinginc.com/img/gallery/aew-full-gear-results-111426-w-live-updates/l-intro-1794631665.jpg">
+        <title>AEW Full Gear Results 11/14/26 W/ Live Updates: Mercedes Mone Vs. Marina Shafir</title>
+        <meta name='description' content="This is Wrestling Inc.’s live blog for AEW Full Gear 2026, with several championships up for grabs & an Anarchy In The Arena Match among tonight's card!" />
+        <meta property="mrf:tags" content="Content Type:Liveblog;Primary Category:AEW News;Category:AEW News;Headline Approver:Olivia Quinlan;Trello Board:News;Pitcher:Olivia Quinlan;Ideation Source:Liveblog;Intent:Liveblog;Important Topic:False" />
+        
+                <meta property="og:site_name" content="Wrestling Inc." />
+        <meta property="og:title" content="AEW Full Gear Results 11/14/26 W/ Live Updates: Mercedes Mone Vs. Marina Shafir - Wrestling Inc.">
+        <meta property="og:image" content="https://www.wrestlinginc.com/img/gallery/aew-full-gear-results-111426-w-live-updates/l-intro-1794631665.jpg" />
+        <meta property="og:description" content="This is Wrestling Inc.’s live blog for AEW Full Gear 2026, with several championships up for grabs & an Anarchy In The Arena Match among tonight's card!">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://www.wrestlinginc.com/2316784/aew-full-gear-november-14-2026-results/">
+                <meta name="twitter:title" content="AEW Full Gear Results 11/14/26 W/ Live Updates: Mercedes Mone Vs. Marina Shafir - Wrestling Inc.">
+        <meta name="twitter:description" content="This is Wrestling Inc.’s live blog for AEW Full Gear 2026, with several championships up for grabs & an Anarchy In The Arena Match among tonight's card!">
+        <meta name="twitter:site" content="@wrestlinginc">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="https://www.wrestlinginc.com/img/gallery/aew-full-gear-results-111426-w-live-updates/l-intro-1794631665.jpg">
+            <meta property="article:published_time" content="2026-11-14T21:00:00+00:00" />
+    <meta property="article:modified_time" content="2026-11-15T04:21:28+00:00" />
+    <meta property="article:author" content="Olivia Quinlan" />
+        
+        <link rel="shortcut icon" href="https://www.wrestlinginc.com/img/winc-favicon-448x448.png">
+        <link rel="icon" href="https://www.wrestlinginc.com/img/winc-favicon-448x448.png">
+        <link rel="canonical" href="https://www.wrestlinginc.com/2316784/aew-full-gear-november-14-2026-results/"/>
+        <link rel="alternate" type="application/rss+xml" title="AEW News - Wrestling Inc." href="https://www.wrestlinginc.com/category/aew-news/feed/" />
+
+        
+        <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.wrestlinginc.com\/category\/aew-news\/","name":"AEW News"}}]}},"isAccessibleForFree":true,"headline":"AEW Full Gear Results 11\/14\/26 W\/ Live Updates: Mercedes Mone Vs. Marina Shafir","image":{"@type":"ImageObject","url":"https:\/\/www.wrestlinginc.com\/img\/gallery\/aew-full-gear-results-111426-w-live-updates\/l-intro-1794631665.jpg","height":898,"width":1600},"datePublished":"2026-11-14T21:00:00+00:00","dateModified":"2026-11-15T04:21:28+00:00","author":[{"@type":"Person","name":"Olivia Quinlan","description":"Joining the Wrestling Inc. team in 2022, Olivia has honed her craft as a writer and grasped the ins and outs of doing live coverage for weekly professional wrestling shows.","url":"https:\/\/www.wrestlinginc.com\/author\/oliviaquinlan\/","knowsAbout":["AEW","Canadian Wrestling","Women's Wrestling"],"alumniOf":{"@type":"Organization","name":"Brock University"},"sameAs":["https:\/\/www.linkedin.com\/in\/olivia-quinlan-47a1a927a"]},{"@type":"Person","name":"Miles Schneiderman","description":"Miles has been a published writer and prolific podcaster in pop culture and media spaces since 2010, when he first started writing essays for the A Song of Ice and Fire fan site Tower of the Hand. Since that time he's been published in numerous places, from progressive political quarterly Yes!","url":"https:\/\/www.wrestlinginc.com\/author\/milesschneiderman\/","knowsAbout":["WWE NXT","independent women's wrestling","Ring of Honor (Cary Silkin era)"],"alumniOf":{"@type":"Organization","name":"Northern Arizona University"},"sameAs":["https:\/\/x.com\/mjschneiderman","https:\/\/www.linkedin.com\/in\/miles-schneiderman-b9667a8a"]}],"publisher":{"@type":"Organization","address":{"@type":"PostalAddress","streetAddress":"11787 Lantern Road #201","addressLocality":"Fishers","addressRegion":"IN","postalCode":"46038","addressCountry":"US"},"contactPoint":{"@type":"ContactPoint","telephone":"(908) 514-8038","contactType":"customer support","email":"staff@wrestlinginc.com"},"publishingPrinciples":"https:\/\/www.wrestlinginc.com\/policies\/","@id":"https:\/\/www.wrestlinginc.com\/","name":"Wrestling Inc.","url":"https:\/\/www.wrestlinginc.com\/","logo":{"@type":"ImageObject","url":"https:\/\/www.wrestlinginc.com\/img\/winc-share-image-1280x720.png","caption":"Wrestling Inc. Logo"},"description":"The latest WWE, AEW, NJPW real-time results, news, exclusive interviews, live coverage, and more - since 1997.","sameAs":["https:\/\/www.facebook.com\/WrestlingINC","https:\/\/x.com\/wrestlinginc","https:\/\/subscribe.wrestlinginc.com\/newsletter","https:\/\/www.youtube.com\/@WrestlingINC","https:\/\/flipboard.com\/@wrestleinc","https:\/\/profile.google.com\/@wrestlinginc"]},"description":"This is Wrestling Inc.&rsquo;s live blog for AEW Full Gear 2026, with several championships up for grabs &amp; an Anarchy In The Arena Match among tonight's card!"}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"LiveBlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.wrestlinginc.com\/category\/aew-news\/","name":"AEW News"}}]}},"isAccessibleForFree":true,"headline":"AEW Full Gear Results 11\/14\/26 W\/ Live Updates: Mercedes Mone Vs. Marina Shafir","image":{"@type":"ImageObject","url":"https:\/\/www.wrestlinginc.com\/img\/gallery\/aew-full-gear-results-111426-w-live-updates\/l-intro-1794631665.jpg","height":898,"width":1600},"datePublished":"2026-11-14T21:00:00+00:00","dateModified":"2026-11-15T04:21:28+00:00","author":[{"@type":"Person","name":"Olivia Quinlan","description":"Joining the Wrestling Inc. team in 2022, Olivia has honed her craft as a writer and grasped the ins and outs of doing live coverage for weekly professional wrestling shows.","url":"https:\/\/www.wrestlinginc.com\/author\/oliviaquinlan\/","knowsAbout":["AEW","Canadian Wrestling","Women's Wrestling"],"alumniOf":{"@type":"Organization","name":"Brock University"},"sameAs":["https:\/\/www.linkedin.com\/in\/olivia-quinlan-47a1a927a"]},{"@type":"Person","name":"Miles Schneiderman","description":"Miles has been a published writer and prolific podcaster in pop culture and media spaces since 2010, when he first started writing essays for the A Song of Ice and Fire fan site Tower of the Hand. Since that time he's been published in numerous places, from progressive political quarterly Yes!","url":"https:\/\/www.wrestlinginc.com\/author\/milesschneiderman\/","knowsAbout":["WWE NXT","independent women's wrestling","Ring of Honor (Cary Silkin era)"],"alumniOf":{"@type":"Organization","name":"Northern Arizona University"},"sameAs":["https:\/\/x.com\/mjschneiderman","https:\/\/www.linkedin.com\/in\/miles-schneiderman-b9667a8a"]}],"publisher":{"@type":"Organization","address":{"@type":"PostalAddress","streetAddress":"11787 Lantern Road #201","addressLocality":"Fishers","addressRegion":"IN","postalCode":"46038","addressCountry":"US"},"contactPoint":{"@type":"ContactPoint","telephone":"(908) 514-8038","contactType":"customer support","email":"staff@wrestlinginc.com"},"publishingPrinciples":"https:\/\/www.wrestlinginc.com\/policies\/","@id":"https:\/\/www.wrestlinginc.com\/","name":"Wrestling Inc.","url":"https:\/\/www.wrestlinginc.com\/","logo":{"@type":"ImageObject","url":"https:\/\/www.wrestlinginc.com\/img\/winc-share-image-1280x720.png","caption":"Wrestling Inc. Logo"},"description":"The latest WWE, AEW, NJPW real-time results, news, exclusive interviews, live coverage, and more - since 1997.","sameAs":["https:\/\/www.facebook.com\/WrestlingINC","https:\/\/x.com\/wrestlinginc","https:\/\/subscribe.wrestlinginc.com\/newsletter","https:\/\/www.youtube.com\/@WrestlingINC","https:\/\/flipboard.com\/@wrestleinc","https:\/\/profile.google.com\/@wrestlinginc"]},"description":"This is Wrestling Inc.&rsquo;s live blog for AEW Full Gear 2026, with several championships up for grabs &amp; an Anarchy In The Arena Match among tonight's card!","coverageStartTime":"2026-11-14T23:30:00+00:00","articleBody":"\nWelcome to Wrestling Inc.'s live coverage for AEW Full Gear on November 14, 2026, coming to you live from the Mortgage Matchup Center in Phoenix, Arizona! The show begins at 8 PM ET and can be streamed both on HBO MAX and in the USA, Amazon Prime Video in the US and Canada, and MyAEW, PPV.com, DAZN, and YouTube internationally.\nWill Ospreay will be putting the AEW World Championship on the line as he defends against Kyle Fletcher. After Fletcher defeated Jack Perry in singles competition during the Fright Night &quot;AEW Dynamite&quot; television special on October 28, he challenged his former friend Ospreay to tonight's Full Gear match.\nMarina Shafir has made it abundantly clear that she's had her eye on Mercedes Mone's AEW Women's World Championship by calling her out a handful of times over the past several weeks on &quot;Dynamite&quot;. Tonight, she will be receiving her shot when she challenges Mone for the AEW Women's World Championship.\nMatt Jackson and Nick Jackson of The Young Bucks will be putting their AEW World Tag Team Championship on the line as they defend against The Don Callis Family's Mark Davis and Jake Doyle. Davis and Doyle defeated The Young Bucks in an AEW World Tag Team Championship Eliminator Match in quick fashion on the October 21 episode of &quot;Dynamite&quot; to secure their title shot tonight.\nAdam Page, Brody King, and Bandido will be defending their AEW World Trios Championship against Swerve Strickland New Level in a Texas Death Match. With Strickland and New Level having dethroned Page, King, and Bandido in a World Trios Championship Roulette Royale that featured several other tag teams at AEW All In on August 30, Page, King, and Bandido captured the title once again at AEW WrestleDream on October 17. Strickland then demanded tonight's match with the Texas Death Match stipulation attached to it on October 21, but Page declined to agree not wanting to drag Bandido and King through what a Texas Death Match entails. This prompted Strickland to kidnap Bandido and leave him bloodied as Page and King watched helplessly from inside the ring in the midst of a verbal exchange with New Level.\nTommaso Ciampa dethroned Andrade El Idolo as National Champion during the Chris Jericho's Rock N' Wresting Rager &quot;Collision&quot; television special on November 7, and tonight, he will be making his second defense as he puts the National Championship on the line against Ilja Dragunov. Ciampa called out then-AEW National Champion Andrade on the Fright Night &quot;Dynamite&quot; special looking for a WrestleDream rematch, but Dragunov instead appeared looking for a fight from Ciampa and Ciampa subsequently declined to give Dragunov the fight that he was looking for.\nKazuchika Okada will be putting the International Championship on the line for the first time since retaining against Myron Reed of The Rascalz during a Clockwork Carnage Qualifier on the October 14 episode of &quot;Dynamite&quot; as he defends against Adam Copeland. This will mark Copeland's first time ever challenging for the International Championship throughout his time in AEW.\nJamie Hayter and Alex Windsor of The Brawling Birds will be putting their AEW Women's World Tag Team Championship on the line as they defend against Kris Statlander and Harley Cameron. Statlander and Cameron defeated Sisters of Sin's Skye Blue and Julia Hart and Divine Dominion's Megan Bayne and Lena Kross in a Three-Way Number One Contenders Match at &quot;AEW Collision&quot; Grand Slam: France on October 10 to earn their title shot.\nAEW Continental Champion Jon Moxley, Gabe Kidd, Wheeler Yuta, Daniel Garcia, and Claudio Castagnoli of The Death Riders will be going one-on-one with five members of The Cut in an Anarchy In The Arena Match. Moments after White and Orange Cassidy of The Conglomeration defeated Moxley and Garcia on October 21, White and the rest of The Bang Bang Gang betrayed Moxley and The Death Riders to reveal a newfound alliance with Finlay and Connors. White and Finlay later defeated Moxley and Garcia the following week on October 28 when Clark Connors speared Garcia as the referee was distracted by Wheeler Yuta and Ace Austin on the outside of the ring.\nFollowing a successful defense against Skye Blue of Triangle of Madness and Hyan in a Three-Way during this past Wednesday's &quot;AEW Collision&quot; special, Queen Aminata will be putting her TBS Championship on the line as she defends against Persephone and Hyan's tag team partner Maya World in another Three-Way on Saturday Tailgate Brawl, beginning at 7 PM ET. Aminata dethroned Persephone as TBS Champion during the Fright Night &quot;Dynamite&quot; special, with Persephone having previously won the TBS Championship from World at the AEW All In Buy-In show with assistance from Britt Baker on August 30.\n","liveBlogUpdate":[{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4730","articleBody":"Another November has dawned upon us, which means it\u2019s that time of year for AEW\u2019s flagship Full Gear pay-per-view event! Welcome to our live blog, and both myself and Miles are happy to have you here with us tonight!\r\nSaturday Tailgate Brawl coverage will be beginning at 7 PM ET, and main show coverage for Full Gear will be beginning at 8 PM ET. ","datePublished":"2026-11-14T23:29:48+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4731","articleBody":"Full Gear has a pretty stacked line up, and I predict that Will Ospreay and Mercedes Mone will both be hanging onto their respective AEW World Championship and AEW Women\u2019s World Championship. I also think there\u2019s a good chance we may see a double turn in the AEW World Trios Championship Texas Death Match with Swerve Strickland and Brody King and Bandido, and think that The Cut has to be the team to win the Anarchy In The Arena Match to make them look strong as a renewed stable. \r\nNow that you\u2019ve heard from me, it\u2019s your turn to let us know what you think we\u2019ll see happen on tonight\u2019s pay-per-view. Will there be any debuts or returns? Will we see any babyface and\/or heel turns? Will any titles change hands? Let us know your predictions for tonight\u2019s show down below in our comments section!","datePublished":"2026-11-14T23:45:13+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4732","articleBody":"We are live on Saturday Tailgate Brawl! Excalibur, Tony Schiavone, and Walker Stewart greet audiences at home before throwing it over to a video of the events leading into the AEW World Championship match between Will Ospreay and Kyle Fletcher. \r\nJack Perry then makes his way to the ring. The Beast Mortos follows. ","datePublished":"2026-11-15T00:05:21+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4733","articleBody":"The bell rings and the two lock up. Perry takes a sip of a fan\u2019s drink from the crowd on the outside and slides back into the ring, but Mortos levels Perry with a shoulder tackle before Perry dumps Mortos out of the ring over the top rope and delivers a chop to his chest in a match that I\u2019ve so far been really enjoying. Perry then ascends up one of the barricades and delivers a hurricanrana to Mortos off it. ","datePublished":"2026-11-15T00:08:30+00:00","headline":"Jack Perry vs. The Beast Mortos (Saturday Tailgate Brawl)","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4734","articleBody":"Back from the break, Perry delivers an open palm strike to Mortos. Mortos responds with a backbreaker and a clothesline to Perry, but Perry delivers a crazy looking piledriver to Mortos and runs over him with a knee to the back of his neck. \r\nPerry sits Mortos on the top rope and connects with a Muscle Buster on him for the win as a message to Opps leader Samoa Joe.\r\nWinner: Jack Perry\r\n[embed=https:\/\/x.com\/AEW\/status\/2121759217501556912]\r\nWe then head over to a video recapping Tommaso Ciampa becoming the new National Champion and the events leading up to his title match against Ilja Dragunov tonight.&nbsp;","datePublished":"2026-11-15T00:15:41+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4735","articleBody":"Back from the break, we head over to a video of The Death Riders and The Conglomeration meeting in the desert ahead of Anarchy In The Arena (presumably where no one can hear them, such drama queens!). Moxley tosses Orange Cassidy a bag, and Kyle O\u2019Reilly says this doesn\u2019t make The Conglomeration trust Moxley. Moxley says he never asked Cassidy, O\u2019Reilly, and Roderick Strong, then says he doesn\u2019t apologize, but Cassidy said he never asked him to and gets back in their car with Strong and O\u2019Reilly. Anything with The Death Riders will always be great, and this was no exception. \r\n[embed=https:\/\/x.com\/AEW\/status\/2121761622926446889]\r\nBack at ringside, The Don Callis Family makes their way out. Jaden Monroe, RJ Wydle, and Jordan Cruz are already waiting inside. ","datePublished":"2026-11-15T00:26:11+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4736","articleBody":"The bell rings and Clon rocks Wylde with an enzuigiri. Cruz and Wardlow tag in, and Wardlow quickly takes care of Cruz. Kevin Knight then tags in and delivers a UFO Splash to Cruz for the win. \r\nWinners: The Don Callis Family\r\n[embed=https:\/\/x.com\/AEW\/status\/2121762363795702097]\r\nAfter the match, Romero grabs a micrphone and says Phoenix is Don Callis Family territory. Beretta calls out Big Boom! A.J. and his \"nerd friends\" to \"get squashed\" (I don't wanna call that generic buuuuuut...)\r\nBig Boom! A.J., QT Marshall, Darius Martin, and Matt Sydal then make their way out and brawl with The Don Callis family at the bottom of the entrance ramp.&nbsp;\r\n ","datePublished":"2026-11-15T00:28:26+00:00","headline":"The Don Callis Family (w\/ Don Callis, Lance Archer, Trent Beretta, Rocky Romero, and Josh Alexander) vs. Jaden Monroe, RJ Wydle, and Jordan Cruz (Saturday Tailgate Brawl)","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4737","articleBody":"Commenter Abobo says \"I like Ciampa a lot more than Dragunov, but I believe Dragunov will be winning that belt,\" while Big Horn Staredown replies \"idk if TK would pull the trigger on two short reigns for Ciampa.\" If you want the WINC staff's opinion, make sure you've read our Full Gear predictions column!","datePublished":"2026-11-15T00:29:13+00:00","author":{"@type":"Person","name":"Miles Schneiderman"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4738","articleBody":"The bell rings and Romero goes after A.J. inside the ring. Sydal tags in and delivers a moonsault to Romero. ","datePublished":"2026-11-15T00:32:16+00:00","headline":"The Don Callis Family vs. Big Boom! A.J., QT Marshall, Darius Martin, and Matt Sydal (Saturday Tailgate Brawl)","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4739","articleBody":"Back from the break, Alexander levels Marshall with a clothesline. Alexander delivers a suplex to Marshall, and Romero ascends to the top rope. He delivers a belly-to-back piledriver-double stomp combination to Marshall before Archer (who has tagged in) sets up for a Razor\u2019s edge on A.J. A.J. escapes, but Beretta delivers a Full Nelson suplex to Darius. Sydal rocks Beretta with a jumping knee, but Romero takes down Sydal. Sydal responds with a Shining Wizard to the back of Romero\u2019s neck, and Darius flies out of the ring to level Berettal. Inside the ring, A.J. powerbombs Romero and Sydal connects with a moonsault on him. Darius pins Romero for the win. \r\nWinners: Big Boom! A.J., QT Marshall, Darius Martin, and Matt Sydal\r\n[embed=https:\/\/x.com\/AEW\/status\/2121765677379760361]\r\nAlthough there was no Rizzler or Big Justice tonight, Big&nbsp;Boom! A.J. has become a staple on AEW pre-shows and Saturday Tailgate Brawl. It's always nice to see him bring a little fun to AEW and do his thing between the ropes.&nbsp;\r\nBack at ringside, Persephone and Britt&nbsp;Baker (the latter of whom joins the announce desk) then make their way to the ring. Skye Blue, Hyan, and Queen Aminata follow after Maya World was unable to make it to Phoenix with the nationwide FAA grounding yesterday.&nbsp;","datePublished":"2026-11-15T00:40:18+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4740","articleBody":"The bell rings and Persephone tries to grab the TBS Championship from the referee. The referee wins, but Blue and Hyan deliver dropkicks to Persephone and Aminata to send them crashing out of the ring. Blue rolls up Hyan, but Hyan kicks out. Persephone then slides into the ring with Aminata and rains down right hands on her, but Aminata returns the favor and delivers a double suplex to Persephone and Blue with Hyan in a good start to this Four-Way.","datePublished":"2026-11-15T00:50:39+00:00","headline":"Queen Aminata (c) vs. Persephone vs. Skye Blue vs. Hyan in a Four-Way Match for the TBS Championship (Saturday Tailgate Brawl)","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4741","articleBody":"Back from the break, Persephone delivers a dropkick to Hyan. Aminata levels Persephone, then sends Blue crashing into her knee and the mat. She does the same to Hyan, but Aminata rocks Blue with a forearm and delivers a twisting neckbreaker to her. She goes for a pin, but Persephone breaks the fall. \r\nBlue sits Hyan on a chair outside of the ring, but Aminata throws a chair at Blue to level her and dumps her back in the ring. She ascends to the top rope and lands a meteora on Blue, but Persephone sends Aminata crashing into the ring post shoulder first and pins Blue. Blue kicks out and Persephone lands a Northern Nights suplex on her. ","datePublished":"2026-11-15T00:57:38+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4742","articleBody":"Persephone calls for Baker to hand her the TBS Championship, and Baker does so. Blue dumps Persephone out of the ring and looks to land a kick on her off the ring apron, but Persephone gets Blue up on her shoulders and sends her crashing into the TBS Championship belt face first. As Persephone has her back turned, Aminata absolutely clocks Baker (loved this little moment) and runs over Persephone with a meteora to her off the ring apron. Hyan lands a dive through the middle rope to take down Aminata on the outside as the pace of this one has really picked up, but Aminata delivers Off With Her Head to Hyan for the win in a nice little match I thoroughly enjoyed.\r\nWinner (and still): Queen Aminata\r\n[embed=https:\/\/x.com\/AEW\/status\/2121770609772319187]\r\nHere's the one major problem that I have with Saturday Tailgate Brawl: while it's an interesting concept to have a cable TV show before a pay-per-view, I think that AEW tries to cram too many matches onto it every time they do it&nbsp;\u2014 and just on their pre-shows on general. Considering they usually run 9-10 match cards on pay-per-views, it feels a little excessive to do four extra matches on the pre-show that are maybe worthy of being on a normal Saturday \"Collision\".&nbsp;","datePublished":"2026-11-15T00:59:32+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4743","articleBody":"In an online exclusive, Jack Perry has a message for Samoa Joe following his win over The Beast Mortos on the Tailgate Brawl!\r\n[embed=https:\/\/x.com\/AEW\/status\/2121767751073120422]","datePublished":"2026-11-15T01:05:11+00:00","author":{"@type":"Person","name":"Miles Schneiderman"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4744","articleBody":"We are live on the main show, which kicks off with a video backstage showing some of the events leading into various matches on tonight\u2019s card!\r\nExcalibur, Tony Schiavone, and Nigel McGuinness once again greet audiences at home before throwing it to another video recapping the events leading into the International Championship match between Adam Copeland and Kazuchika Okada. Both men and Okada\u2019s manager Don Callis then make their way to the ring. ","datePublished":"2026-11-15T01:05:50+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4745","articleBody":"The bell rings and the two lock up. Okada cinches in a waist lock on Copeland, but Copeland escapes and Okada lands a knee on his midsection. He delivers a couple of knees to the side of Copeland\u2019s head, but Copeland forces Okada to roll out of the ring where he regroups with Callis. ","datePublished":"2026-11-15T01:12:47+00:00","headline":"Kazuchika Okada (w\/ Don Callis) (c) vs. Adam Copeland for the International Championship","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4746","articleBody":"As the WINC staff is currently discussing, imagine telling someone a decade ago that in 10 years they'd be watching Okada vs&nbsp;Edge.\r\n[embed=https:\/\/x.com\/AEW\/status\/2121773417267392806]","datePublished":"2026-11-15T01:17:26+00:00","author":{"@type":"Person","name":"Miles Schneiderman"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4747","articleBody":"Okada fires off right hands on Copeland on the outside of the ring and sends him crashing into the ring steps shoulder first, then exposes part of the concrete on the outside. Copeland stares down Callis on the outside of the ring, but Okada hugs Callis and dumps Copeland back into the ring. \r\nOkada jams his boot into Copeland\u2019s chest, and I have to admit that I\u2019m finding this to be nothing more than mediocre so far. Copeland rocks Okada with a right hand, but Okada rocks Copeland with a boot and flies off the ropes to land a strike on Copeland. Okada looks to grab his International Championship belt and sneak out of the ring, but the referee stops him and Copeland takes advantage by rolling up Okada. Okada kicks out. ","datePublished":"2026-11-15T01:22:58+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4748","articleBody":"Okada and Copeland rock one another with right hands and forearms, but Okada lands a dropkick on Copeland\u2019s spine to rock him and connects with a piledriver on him in the middle of the ring and laughs (because it\u2019s Okada we\u2019re talking about after all). Copeland then hilariously mocks Okada by flipping off the crowd while Okada is down and charges at him, but Callis grabs onto Copeland\u2019s ankle as Copeland runs the ropes. \r\nOkada sends Copeland crashing off the ring apron and onto the exposed concrete, then dumps him back in the ring and levels him with a Rainmaker for the win.&nbsp;\r\nWinner (and still): Kazuchika Okada\r\n[embed=https:\/\/x.com\/AEW\/status\/2121778464650854442]","datePublished":"2026-11-15T01:29:11+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4749","articleBody":"After the match, Copeland tries to drag himself to his feet. Okada runs back into the ring and levels Copeland with a second Rainmaker like the true heel that he is. \r\n[embed=https:\/\/x.com\/AEW\/status\/2121779552661729553]\r\nAfter a video recapping some of the events leading into the upcoming match, Mark Davis and Jake Doyle make their way to the ring. The Young Bucks follow.&nbsp;","datePublished":"2026-11-15T01:32:04+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4750","articleBody":"Matt Jackson and Doyle begin the action. The bell rings and Doyle runs over Matt. He pulls Nick Jackson into the ring from the ring apron, and Davis levels Nick with a clothesline. Davis and Doyle then dump The Bucks out of the ring, with Doyle landing a lariat on Matt and Davis sending Nick crashing over the barricade and into the timekeeper\u2019s area. ","datePublished":"2026-11-15T01:36:50+00:00","headline":"The Young Bucks (c) vs. Mark Davis and Jake Doyle for the AEW World Tag Team Championship","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4751","articleBody":"Matt fires off right hands on Davis and Doyle inside the ring, but Nick tags in and sends Davis crashing into the mat spine first with Matt. Matt and Nick fire off right hands on Davis, then clothesline him out of the ring and send him crashing into the ring apron face first. Davis and Doyle send Matt and Nick crashing into one another, but Doyle levels Matt with a right hand and rocks him with a second one in the corner of the ring. \r\nDoyle tags in and levels Matt with a right hand, then goes for a pin but Matt kicks out. ","datePublished":"2026-11-15T01:41:52+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4752","articleBody":"Matt low bridges Davis out of the ring, but Doyle keeps him from tagging in Nick. Nick helps out Matt by rocking Doyle with a right hand so Matt can roll him up, but Doyle kicks out and Matt looks to tag out to Nick. Davis puts an end to those plans by pulling Nick off the ring apron. \r\nMatt rocks Davis with a right hand, but Nick rocks Davis with a knee to him off the ring apron. Nick tags in and delivers a crossbody to Doyle off the ropes, then goes for a pin but Doyle kicks out. Matt and Nick ascend up to opposite ropes, but Davis and Doyle trip them up and join them on the ropes. The Bucks pull Davis and Doyle off the top before flying off opposite top ropes to keep Davis and Doyle down. ","datePublished":"2026-11-15T01:48:25+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4753","articleBody":"Davis and Doyle send Nick crashing into Matt, but Doyle pins Matt and Nick breaks the fall. Davis dumps Nick out of the ring, but Doyle delivers a double powerbomb to The Bucks and tags out to Davis. Matt delivers a Sliced Bread to Matt and turns Nick inside out with a clothesline, then pins Matt but Matt kicks out as this pretty decent match is poised to continue. ","datePublished":"2026-11-15T01:52:49+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4754","articleBody":"Matt delivers a Code Red to Davis, and The Bucks deliver a BTE Trigger to Davis. They call for the Meltzer Driver, but Davis trips up Nick and powerbombs him into the barricade near the timekeeper\u2019s area. Davis spikes Nick with a nice looking piledriver and pins him, but Nick kicks out as this match has officially reached the point of being pretty damn great. \r\nDoyle looks to powerbomb Nick, but Matt comes to Nick\u2019s aid and levels Davis on the outside. This opens the door for Nick to roll up Doyle for the win, and while this kind of ending wouldn\u2019t work for most matches, it worked perfectly here to tell a story about two teams at the absolute top of their game. \r\nWinners (and still): The Young Bucks","datePublished":"2026-11-15T01:57:13+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4755","articleBody":"After the match, The Motor City Machine Guns make their way out. Chris Sabin and Alex Shelley raise The Young Bucks\u2019 arms, but sirens begin to sound and we see the words Kasper Brothers appear on the jumbo screen. Drew Kasper and Jacob Kasper (formerly known as Brutus Creed and Julius Creed in WWE respectively) make their way to the ring to take out The Bucks, but Motor City Machine Guns pull them off The Bucks. FTR then makes their way out and stares down The Kasper Brothers\u2026but then begin beating down The Young Bucks and Motor City Machine Guns with them. Dax Harwood and Jacob fight over one of the AEW World Tag Team Championship belts, but Stokely gets things calmed down and holds up the AEW World Tag Team Championship belts to send a clear message. \r\n[embed=https:\/\/x.com\/AEW\/status\/2121785950925652464]\r\nOf all the debuts to happen on this show, one that I absolutely did not expect to see was The Kasper Brothers and it legitimately took me by surprise. What did you guys think of this debut? Let us know down below in the comments. \r\nSwerve Strickland and Prince Nana then make their way to the ring. New Level, \"Hangman\"&nbsp;Adam Page, Brody King, and Bandido follow after a video shows King fighting a man inside a bar and carrying several out as Page takes down a series of other men and Bandido joins them in the wild, wild west before the three men get on horses and make their way to the ring without the horses (what a missed opportunity to have them ride to the ring on the horses but I digress).&nbsp;\r\nIt's also worth noting that a couple of tables lined with barbed wire and a board of it surround the outside of the ring.&nbsp;","datePublished":"2026-11-15T02:03:09+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4756","articleBody":"The bell rings and Strickland dares Page to come at him while Kofi and Austin Creed stare down King and Bandido. King dumps Kofi out of the ring as Page brawls with Creed and Strickland brawls with Bandido. Bandido lands a 21 Plex on Strickland, then delivers a beautiful springboard moonsault to level New Level and Strickland on the outside with assistance from King. ","datePublished":"2026-11-15T02:14:17+00:00","headline":"Adam Page, Brody King, and Bandido (c) vs. Swerve Strickland and New Level in a Texas Death Match for the AEW World Trios Championship","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4757","articleBody":"Opinions seem fairly split on AEW signing the former Creed Brothers. Commenter arrows92 says \"Ughh\u2026.these dudes are not needed,\" while MZA says \"The brothers will do big things in AEW. Glad they got signed.\" Meanwhile, another commentater, jaded crusader, predicts that \"We'll see these kasper jobbers in ROH in 3 months.\"\r\nThe WINC crew's reaction, for the record, can mostly be summed up by \"...huh?\"","datePublished":"2026-11-15T02:16:12+00:00","author":{"@type":"Person","name":"Miles Schneiderman"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4758","articleBody":"King grabs three bundles of skewers from under the ring and jam them into New Level and Strickland\u2019s heads, wasting no time introducing weaponry into this match. . The skewers gruesomely stick out of Kofi and Creed\u2019s head, but Strickland fires off a few right hands on Page before Creed blows his signature trombone wrapped in barbed wire into King\u2019s ear. He jams the barbed wire wrapped trombone into King\u2019s head and makes adjustments to the barbed wire on top of a couple of tables on the outside. \r\n[embed=https:\/\/x.com\/AEW\/status\/2121789439642849519]\r\nKofi lands a boot on King, and Page wraps some barbed wire off one of the tables around his fist. Kofi dumps him into the ring and fires off right hands on him, but Page uses the barbed wire wrapped around his fist to land a right hand on Kofi and ones on Creed and Strickland. Page uses the barbed wire to cinch in a crossface on Kofi, and Strickland hits Bandido with a chair. ","datePublished":"2026-11-15T02:21:55+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4759","articleBody":"King dumps several chairs into the ring, and Bandido sets up two of them face-to-face as the blood begins flowing in this match from Strickland and King. King sets up two more chairs face-to-face next to the ones Bandido had set up, and Bandido delivers a Tornado DDT to Strickland to send him crashing off the top rope and onto the chairs. \r\nCreed and Kofi whip King into the opposite corner, but King dumps Creed out of the ring and levels Kofi with a big boot. He props a barbed wire wrapped table in the corner of the ring and sends Creed crashing into it spine first, then delivers a cannonball to Creed to send him crashing through the table. ","datePublished":"2026-11-15T02:27:33+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4760","articleBody":"Strickland grabs two staple guns and throws one over to Page as a dare to him to use it. Page and Strickland begin stapling one another\u2019s chests (because they are total mad men) and fire off right hands on one another, but Page calls for a Buckshot Lariat. Nana distracts Page, but he gets fended off as all six men begin taking one another down inside the ring and King delivers a piledriver to Strickland. \r\n[embed=https:\/\/x.com\/AEW\/status\/2121792727838831087]\r\nKing grabs a glove from under the ring lined with tacks and slides it into his hand. He delivers a chop to his chest as some of the tacks remain in Strickland\u2019s chest (OUCH!), then jams the tacks on the glove into Creed\u2019s head (again, OUCH!) and grabs a black bag from under the ring. \r\nKing dumps a whole pile of tacks out of the back into the ring, but Creed delivers a suplex to King on top of the tacks. He delivers dives to Bandido and Page through the middle ropes on opposite sides of the ring, but Nana hands Creed a glove with a box on one side of it. He lands a right hand on King, releasing a bunch of pyro from the glove directly at King to take him down. \r\n[embed=https:\/\/x.com\/AEW\/status\/2121794519217717348]","datePublished":"2026-11-15T02:33:10+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4761","articleBody":"Creed fires off headbutts on Bandido near the top of the entrance ramp, and pyro explodes twice out of a barrel to burn Bandido (even though he is clearly several feet behind and not getting burned, but we continue on). Page cracks light tubes on Kofi when the two men end up on top of the entrance ramp, and King piledrives Strickland off the ring apron and through one of the barbed wire wrapped tables on the outside of the ring. ","datePublished":"2026-11-15T02:36:07+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4762","articleBody":"This has been a totally insane match thus far and my favorite of the night so far, but we aren\u2019t quite done just yet. Creed lays Page on top of two chairs that are face-to-face on the outside, and Kofi lays a window with the glass panes and all on top of Page. Kofi ascends up one of the announce desks and delivers a Boom Drop to send Page crashing through the chairs and break the glass (which might be my favorite spot of this match). \r\nKofi rains down right hands on Bandido as Nana hands Kofi and Creed a glove each. Creed places a lock into King\u2019s mouth and Kofi levels him, but Creed and King hold Bandido in place as Strickland ascends to the top rope. Page comes to Bandido\u2019s aid, but Strickland ascends to the middle rope. Bandido sends Kofi crashing through a barbed wire table inside the ring, and Strickland wraps a chain around Bandido\u2019s throat on the top rope to gain some extra leverage. Bandido pulls off Strickland and ascends to the top rope, then lands a splash to Strickland\u2019s spine as Strickland lays stomach first in the pile of tacks that has remained inside the ring (absolutely wild stuff and once again, OUCH!). ","datePublished":"2026-11-15T02:44:25+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4763","articleBody":"Strickland rips off Bandido\u2019s mask, but Page brings the fight to Strickland and rains down right hands on him. Strickland eerily laughs as his face is dripping in blood, but Page cracks a chair across Strickland\u2019s midsection and spine. He uses the chair to do the same to Creed and Kofi, then considers cracking the chair across Strickland\u2019s head. Strickland laughs once again and spits blood at Page, then delivers a Dead Eye to him.  \r\nStrickland grabs one of his prized cinderblock from the top of the entrance ramps and places it down in the ring as Nana trails behind him. Bandido picks up the cinderblock, but New Level double teams send Bandido crashing into the cinderblock themselves face first. ","datePublished":"2026-11-15T02:48:50+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4764","articleBody":"King places the barbed wire frame on top of New Level on the outside and delivers a crossbody using the barbed wire frame. Strickland drags King up on top of the ring steps and delivers a Dead Eye to him on them, but Page jams a piece of barbed wire into Strickland\u2019s head. Page connects with a trio of Buckshot Lariats on Strickland, but Strickland hits Page with a chair when Page goes for the third one. He connects with a House Call on Page to put an end to the match. \r\nWinners (and new): Swerve Strickland and New Level\r\nIt takes a lot for me to suggest to you guys that you watch this match yourselves, but this is one that I would absolutely recommend you seek out and watch it fully through for how awesome and incredible it was. It had everything you could ask for from a Texas Death Match between the violence, grittiness, and storytelling.&nbsp;","datePublished":"2026-11-15T02:54:14+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4765","articleBody":"We then head backstage, where we see Kyle Fletcher chatting with Don Callis and Will Ospreay grappling with \u201cSpeedball\u201d Mike Bailey as Alex Windsor is warming up and Jamie Hayter sits on a couch in preparation for the AEW WOrld Championship and AEW Women\u2019s World Tag Team Championships later tonight. \r\nWe then head backstage to a video from Samoa Joe, who calls out Jack Perry for sending him messages earlier tonight in his absence due to travel issues related to the FAA nationwide ground stop yesterday. He calls Perry a fool and says Perry gets his wish this weekend when he comes to \"Dynamite\" to unmercifully beat Perry in the ring.&nbsp;\r\n[embed=https:\/\/x.com\/AEW\/status\/2121799984647450672]\r\nBack at ringside, Kris Statlander and Harley Cameron make their way to the ring. The Brawling Birds follow, with a video preceeding the entrances recapping what's led up to the upcoming match.&nbsp;","datePublished":"2026-11-15T02:55:39+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4766","articleBody":"Alex Windsor and Statlander begin the action. The bell rings and the two lock up. Statlander runs over Windsor with a shoulder tackle and connects with a chop on her, but Hayter tags in and Windsor knocks over Statlander with a dropkick. Statlander delivers a suplex to Hayter, but Cameron tags in and runs over Hayter. Statlander bodyslams Cameron on top of Hayter, but Hayter delivers a suplex to Cameron. ","datePublished":"2026-11-15T03:08:00+00:00","headline":"The Brawling Birds (c) vs. Kris Statlander and Harley Cameron for the AEW World Women\u2019s Tag Team Championship","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4767","articleBody":"Hayter and Windsor deliver a Russian Leg Sweep-big boot combination to Statlander after Statlander has tagged back in, but Cameron tags back in and Windsor lands an atomic drop on her. Hayter runs over Cameron with a boot and pins her, but Cameron kicks out. \r\nI have to give these four women their flowers for putting on a pretty decent showing so far having to follow something like the AEW World Trios Championship Texas Death Match. Windsor fires off stomps on Cameron in the corner of the ring and pins her, but Cameron kicks out and The Brawling Birds look to land clotheslines on her. Cameron moves out of the way and The Brawling Birds are sent crashing into one another before Cameron rolls up Windsor and Windsor kicks out. ","datePublished":"2026-11-15T03:13:04+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4768","articleBody":"That Texas Death match was absolutely insane, and I think the craziest thing about it was New Level's participation.&nbsp;You all seem to agree \u2014 commenter JoPo says \"The's best part was New Level started the match treating like it was WWE and treated it with reluctance, but then they descended into primal monsters,\" while Ruthless comments \"If someone would've told me years ago New Day would be involved in one of the bloodiest matches in history I probably would've told that person the Unicorns would never do something like that. Never would've thought I would see it lol.\"","datePublished":"2026-11-15T03:13:40+00:00","author":{"@type":"Person","name":"Miles Schneiderman"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4769","articleBody":"Cameron and Windsor exchange right hands with one another as they\u2019re in electric chair positions on Hayter and Statlander\u2019s shoulders, but Cameron and Hayter exchange some right hands with one another back down on the mat. Statlander lands a missile dropkick to send Hayter crashing into the corner of the ring, but The Brawling Birds land a double clothesline on Statlander and look to land a spinebuster-clothesline combination on her. Cameron pulls Hayter out of the ring as she runs the ropes, opening the door for Statlander to deliver Saturday Night Fever to Windsor and pin her for the win in a title change that I\u2019m honestly not super mad about.&nbsp;\r\nWinners (and new): Kris Statlander and Harley Cameron\r\nAfter the match, Windsor and Hayter shake hands with Statlander and Cameron. Cameron and Statlander stand tall in the ring holding up their new AEW Women\u2019s World Tag Team Championship belts. \r\n[embed=https:\/\/x.com\/AEW\/status\/2121805945500004823]\r\nWe then head over to a video of several AEW stars arriving at a house with food in hand as an advertising for \"Dynamite\" Thanksgiving Eve and \"Collision\"&nbsp;Thanksgiving Eve on November 25 and November 26 respectively.&nbsp;\r\nBack at ringside, Ilja Dragunov makes his way to the ring. Tommaso Ciampa follows, with a video preceeding the entrances to show the recent ongoings between the two men ahead of their upcoming match.&nbsp;","datePublished":"2026-11-15T03:17:05+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4770","articleBody":"The bell rings and Dragnov sends Ciampa crashing into the mat spine first. The action spills out of the ring, but Ciampa knocks Dragunov off the ring apron and sends him crashing into a barricade spine first. ","datePublished":"2026-11-15T03:35:45+00:00","headline":"Tommaso Ciampa (c) vs. Ilja Dragunov for the National Championship","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4771","articleBody":"Dragunov fires off stomps on Ciampa\u2019s leg inside the ring, then fires off right hands and knees on Ciampa\u2019s arm. He runs over Ciampa with a big boot and sets up for an H-Bomb, but Ciampa avoids it and the two men stare one another down. They exchange right hands with one another, but Ciampa sends Dragunov crashing into the ring steps on the outside head first and pins him. Dragunov kicks out. \r\n[embed=https:\/\/x.com\/AEW\/status\/2121811057693823392]","datePublished":"2026-11-15T03:41:26+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4772","articleBody":"Dragunov delivers an H-Bomb to Ciampa on the outside of the ring off the ring apron, but the two men teeter on the ropes and Ciampa delivers a superplex to Dragunov. Dragunov connects with a powerbomb and a H-Bomb on Ciampa for the win. \r\nWinner (and new): Ilja Dragunov\r\n[embed=https:\/\/x.com\/AEW\/status\/2121811665129763318]\r\nWe then head over to a video announcing that the Continental Classic begins on this Wednesday's upcoming episode of \"Dynamite\", and another one recapping the events leading into tonight's AEW Women's World Championship match.&nbsp;\r\nBack at ringside, Marina Shafir makes her way out. Mercedes Mone follows. ","datePublished":"2026-11-15T03:47:24+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4773","articleBody":"Before we get started with the next match, what did you guys think of the AEW World Trios Championship, AEW Women's World Tag Team Championship and AEW National Championship changing hands? Leave us your thoughts down below in the comment section.&nbsp;","datePublished":"2026-11-15T03:51:40+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4774","articleBody":"Commenter Ruthless largely sums up the WINC crew's attitudes toward the National title match: \"Dam that was a good hard hitting match. But I hate that Tommaso lost the belt after just seven days. Dude deserve longer reigns but still good match.\"","datePublished":"2026-11-15T03:54:44+00:00","author":{"@type":"Person","name":"Miles Schneiderman"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4775","articleBody":"The bell rings and Shafir immediately cinches in a submission using her legs on Mone that actually looked pretty fantastic. Mone delivers an arm drag to Shafir, then sends her crashing into the corner of the ring shoulder first and wears her down with a submission hold. ","datePublished":"2026-11-15T04:01:41+00:00","headline":"Mercedes Mone (c) vs. Marina Shafir for the Women's World Championship","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4776","articleBody":"Shafir chokeslams Mone into the mat and pins her, but Mone kicks out and Shafir taunts Mone by doing Daniel Garcia\u2019s dance (in a little moment that I really adored). Shafir cinches in a Brutalizer on Mone as an ode to PAC (another little moment I adored), but Mone transitions into a Statement Maker. \r\nMone dumps Shafir onto the ring apron, but Shafir cinches in a submission on Mone on the outside. Shafir pulls Mone out of the ring through the middle rope, then sends Mone crashing off the ring apron. Mone locks in a Statement Maker on Shafir, but Shafir lands a kick on Mone\u2019s head. Mone transitions back into a Statement Maker, but Shafir transitions into a Brutalizer on Mone. \r\nWinner (and still): Mercedes Mone\r\n[embed=https:\/\/x.com\/AEW\/status\/2121819750095360462]\r\nAfter the match, we head over to a video from Tommaso Ciampa who is fuming about losing the National Championship and announces his intention to take part in the 2026 Continental Classic. \r\n[embed=https:\/\/x.com\/AEW\/status\/2121820210965389752]","datePublished":"2026-11-15T04:17:07+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}},{"@type":"BlogPosting","url":"https:\/\/www.wrestlinginc.com\/2316784\/aew-full-gear-november-14-2026-results\/#update-4777","articleBody":"We then head backstage, where Andrade El Idolo joins Will Ospreay with his contract for the AEW World Championship in hand and helps tape up Ospreay\u2019s hand tape as \u201cSpeedball\u201d Mike Bailey stands by. We also see Kyle Fletcher preparing with several push-ups. \r\nWe then head over to a video showing what\u2019s led to tonight\u2019s Anarchy In The Arena Match. ","datePublished":"2026-11-15T04:21:28+00:00","author":{"@type":"Person","name":"Olivia Quinlan"}}]}</script>
+                </head>
+<body>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5XJD7FKS');</script>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XJD7FKS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="wrapper">
+    <div class="page-wrap">
+        <header id="header" class="">
+            <div class="nav-drop">
+                <div class="jcf-scrollable">
+                    <div class="aside-holder">
+                                    <nav id="aside-nav">
+                <div class="nav-top">
+                    <div class="logo">
+                        <a href="/" class="logo-holder">
+                            <img src="https://www.wrestlinginc.com/img/winc-logo-color-borderless.svg" alt="Wrestling Inc." width="144" height="36">
+                        </a>
+                        <a href="#" class="nav-opener close"></a>
+                    </div>
+                </div>
+                
+                <ul class="main-nav"><li class="navlink navlink-news"><a href="/category/news/">News</a></li><li class="navlink navlink-exclusives"><a href="/category/exclusives/">Exclusives</a></li><li class="navlink navlink-wwe-news"><a href="/category/wwe-news/">WWE</a></li><li class="navlink navlink-aew-news"><a href="/category/aew-news/">AEW</a></li></ul>        <ul class="social-buttons">
+            <li><a href="https://www.facebook.com/WrestlingINC" target="_blank" title="Facebook" aria-label="Facebook"><svg class="icon"><use xlink:href="#facebook"></use></svg></a></li><li><a href="https://x.com/wrestlinginc" target="_blank" title="Twitter" aria-label="Twitter"><svg class="icon"><use xlink:href="#twitter"></use></svg></a></li><li><a href="https://www.youtube.com/@WrestlingINC" target="_blank" title="YouTube" aria-label="YouTube"><svg class="icon"><use xlink:href="#youtube"></use></svg></a></li><li><a href="https://flipboard.com/@wrestleinc" target="_blank" title="Flipboard" aria-label="Flipboard"><svg class="icon"><use xlink:href="#flipboard"></use></svg></a></li><li><a href="https://profile.google.com/@wrestlinginc" target="_blank" title="Google" aria-label="Google"><svg class="icon"><use xlink:href="#google"></use></svg></a></li><li><a href="/feed/" target="_blank" title="RSS" aria-label="RSS"><svg class="icon"><use xlink:href="#rss"></use></svg></a></li>
+            
+            <li class="menu-btn newsletter-btn"><a href="https://subscribe.wrestlinginc.com/newsletter?utm_source=wrestlinginc&utm_medium=side-nav" target="_blank" title="Newsletter" aria-label="Newsletter"><svg class="icon"><use xlink:href="#revue"></use></svg>Newsletter</a></li>
+        </ul>            <ul class="info-links">
+                <li class="info-link first-info-link"><a href="/about/">About</a></li>
+                <li class="info-link"><a href="/policies/">Editorial Policies</a></li>
+                <li class="info-link"><a href="/ai-policy/">No-AI Writing Policy</a></li>
+                
+                
+                
+                <li class="info-link"><a href="/sitemap/">Archive</a></li>
+                <li class="info-link"><a href="https://www.static.com/wrestlinginc-privacy-policy" target="_blank">Privacy Policy</a></a></li>
+                <li class="info-link"><a href="https://www.static.com/terms" target="_blank">Terms of Use</a></li>
+            </ul>
+            </nav>                        <div class="nav-bottom">
+                            <span class="copyright-info">&copy; 2026                                <a href="https://www.static.com/" target="_blank">Static Media</a>. All Rights Reserved
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="bg"></div>
+         
+            <div id="header-container">
+                <div id="hamburger-holder">
+                    <div class="hamburger nav-opener"></div>
+                </div>
+
+                    <div id="logo" class="top-nav-standard">
+        <a href="/"><img src="https://www.wrestlinginc.com/img/winc-logo-color-borderless.svg" alt="Wrestling Inc." width="144" height="36"></a>
+    </div>
+                <div id="logo-icon" class="top-nav-scrolled">
+                    <a href="/" >
+                        <img src="https://www.wrestlinginc.com/img/winc-icon-color-borderless.svg" alt="Wrestling Inc." width="49" height="46">                    </a>
+                </div>
+
+                <div id="top-nav-title" class="top-nav-scrolled">AEW Full Gear Results 11/14/26 W/ Live Updates: Mercedes Mone Vs. Marina Shafir</div>
+
+                            <div id="top-nav" class="top-nav-standard">
+                <nav id="top-nav-holder">
+                    
+                    <a href="/category/news/" class="navlink-news">News</a>
+<a href="/category/exclusives/" class="navlink-exclusives">Exclusives</a>
+<a href="/category/wwe-news/" class="navlink-wwe-news">WWE</a>
+<a href="/category/aew-news/" class="navlink-aew-news">AEW</a>
+
+                </nav>
+            </div>                <svg width="0" height="0" class="hidden">
+            <symbol version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="rss">
+    <path d="M2.13 11.733c-1.175 0-2.13 0.958-2.13 2.126 0 1.174 0.955 2.122 2.13 2.122 1.179 0 2.133-0.948 2.133-2.122-0-1.168-0.954-2.126-2.133-2.126zM0.002 5.436v3.067c1.997 0 3.874 0.781 5.288 2.196 1.412 1.411 2.192 3.297 2.192 5.302h3.080c-0-5.825-4.739-10.564-10.56-10.564zM0.006 0v3.068c7.122 0 12.918 5.802 12.918 12.932h3.076c0-8.82-7.176-16-15.994-16z"></path>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="twitter">
+    <path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="facebook">
+    <path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"></path>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14" id="flipboard">
+    <path d="m 6.9999999,0.99982 5.9993001,0 0,1.99835 0,1.99357 -1.993367,0 -1.9980673,0 -0.014998,1.99357 -0.01,1.99835 -1.9980669,0.01 -1.9933674,0.0146 -0.014998,1.99835 -0.01,1.99357 -1.9834686,0 -1.9836686,0 0,-6.00006 0,-5.99994 5.9992001,0 z"></path>
+</symbol>
+        <symbol viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="instagram">
+    <path d="M17.3183118,0.0772036939 C18.5358869,0.132773211 19.3775594,0.311686093 20.156489,0.614412318 C20.9357539,0.917263935 21.5259307,1.30117806 22.1124276,1.88767349 C22.6988355,2.47414659 23.0827129,3.06422396 23.3856819,3.84361655 C23.688357,4.62263666 23.8672302,5.46418415 23.9227984,6.68172489 C23.9916356,8.19170553 24,8.72394829 24,11.9999742 C24,15.2760524 23.9916355,15.808302 23.9227954,17.3182896 C23.8672306,18.5358038 23.6883589,19.3773584 23.3855877,20.1566258 C23.0826716,20.9358162 22.6987642,21.5259396 22.1124276,22.1122749 C21.5259871,22.6987804 20.9357958,23.0827198 20.1563742,23.3856323 C19.3772192,23.6883583 18.5357324,23.8672318 17.3183209,23.9227442 C15.8086874,23.9916325 15.2765626,24 12,24 C8.72343739,24 8.19131258,23.9916325 6.68172382,23.9227463 C5.46426077,23.8672314 4.62270711,23.6883498 3.84342369,23.3855738 C3.0641689,23.0827004 2.47399369,22.6987612 1.88762592,22.1123283 C1.30117312,21.525877 0.91721975,20.9357071 0.614318116,20.1563835 C0.311643016,19.3773633 0.132769821,18.5358159 0.0772038909,17.3183251 C0.0083529426,15.8092887 0,15.2774634 0,11.9999742 C0,8.7225328 0.00835296697,8.19071076 0.0772047368,6.68165632 C0.132769821,5.46418415 0.311643016,4.62263666 0.614362729,3.84350174 C0.91719061,3.06430165 1.30113536,2.4741608 1.88757245,1.88772514 C2.47399369,1.30123879 3.0641689,0.917299613 3.84345255,0.614414972 C4.62236201,0.311696581 5.46409415,0.132773979 6.68163888,0.0772035898 C8.19074867,0.00835221992 8.72252573,0 12,0 C15.2774788,0 15.8092594,0.00835235053 17.3183118,0.0772036939 Z M12,2.66666667 C8.75959504,2.66666667 8.26400713,2.67445049 6.80319929,2.74109814 C5.87614637,2.78341009 5.31952221,2.90172878 4.80947575,3.09995521 C4.37397765,3.26922052 4.09725505,3.44924273 3.77324172,3.77329203 C3.44916209,4.09737087 3.26913181,4.37408574 3.09996253,4.80937168 C2.90169965,5.31965737 2.78340891,5.87618164 2.74109927,6.80321713 C2.67445122,8.26397158 2.66666667,8.75960374 2.66666667,11.9999742 C2.66666667,15.2403924 2.67445121,15.7360281 2.74109842,17.1967643 C2.78340891,18.1238184 2.90169965,18.6803426 3.09990404,19.1904778 C3.26914133,19.6259017 3.44919889,19.9026659 3.77329519,20.2267614 C4.09725505,20.5507573 4.37397765,20.7307795 4.80932525,20.8999863 C5.31971515,21.0982887 5.87621193,21.2165784 6.80323907,21.2588497 C8.26460439,21.3255353 8.76051223,21.3333333 12,21.3333333 C15.2394878,21.3333333 15.7353956,21.3255353 17.1968056,21.2588476 C18.123775,21.216579 18.6802056,21.0982995 19.1905083,20.9000309 C19.6260288,20.7307713 19.9027426,20.5507596 20.2267583,20.226708 C20.5507492,19.9027179 20.7308046,19.6259456 20.9000375,19.1906283 C21.0983009,18.6803412 21.2165908,18.1238118 21.2588986,17.196779 C21.3255376,15.7350718 21.3333333,15.2390126 21.3333333,11.9999742 C21.3333333,8.76098665 21.3255376,8.26493375 21.2589016,6.80323567 C21.2165911,5.87618164 21.0983004,5.31965737 20.9001178,4.80957831 C20.7308131,4.37403932 20.550774,4.09729207 20.2267583,3.77324038 C19.9027658,3.44924868 19.6260264,3.26922777 19.1905015,3.09996643 C18.6803988,2.90171817 18.1238378,2.78341062 17.1967608,2.74109868 C15.7359966,2.67445057 15.2404012,2.66666667 12,2.66666667 Z M12,18.2222222 C8.56356156,18.2222222 5.77777778,15.4364384 5.77777778,12 C5.77777778,8.56356156 8.56356156,5.77777778 12,5.77777778 C15.4364384,5.77777778 18.2222222,8.56356156 18.2222222,12 C18.2222222,15.4364384 15.4364384,18.2222222 12,18.2222222 Z M12,15.5555556 C13.9636791,15.5555556 15.5555556,13.9636791 15.5555556,12 C15.5555556,10.0363209 13.9636791,8.44444444 12,8.44444444 C10.0363209,8.44444444 8.44444444,10.0363209 8.44444444,12 C8.44444444,13.9636791 10.0363209,15.5555556 12,15.5555556 Z M18.2222222,7.11111111 C17.4858426,7.11111111 16.8888889,6.51415744 16.8888889,5.77777778 C16.8888889,5.04139811 17.4858426,4.44444444 18.2222222,4.44444444 C18.9586019,4.44444444 19.5555556,5.04139811 19.5555556,5.77777778 C19.5555556,6.51415744 18.9586019,7.11111111 18.2222222,7.11111111 Z"/>
+</symbol>
+         <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" id="linkedin">
+    <path d="M100.3 448H7.4V148.9h92.9zM53.8 108.1C24.1 108.1 0 83.5 0 53.8a53.8 53.8 0 0 1 107.6 0c0 29.7-24.1 54.3-53.8 54.3zM447.9 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448z"/>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240.1 113.49" id="muckrack">
+    <path class="b" d="M223.2,73.59c11.2-7.6,16.8-20.3,16.9-33.3C240.1,20.39,226.8.09,199.4.09c-8.35-.1-18.27-.1-28.14-.07-9.86.02-19.66.07-27.76.07v113.4h29.6v-35h17l17.1,35h30.6l.8-5-18.7-33.4c2.5-.8,3.3-1.5,3.3-1.5ZM199,54.29h-25.8v-29.7h25.8c8.4,0,12.3,7.4,12.3,14.6s-4.1,15.1-12.3,15.1Z"/><polygon class="b" points="0 .14 10.9 .14 64.5 49.24 117.9 .14 129.3 .14 129.3 113.34 99.7 113.34 99.7 54.24 66.1 83.74 62.7 83.74 29.6 54.24 29.6 113.34 0 113.34 0 .14"/>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="7 2 2 12" id="youtube">
+    <path d="M15.841 4.8c0 0-0.156-1.103-0.637-1.587-0.609-0.637-1.291-0.641-1.603-0.678-2.237-0.163-5.597-0.163-5.597-0.163h-0.006c0 0-3.359 0-5.597 0.163-0.313 0.038-0.994 0.041-1.603 0.678-0.481 0.484-0.634 1.587-0.634 1.587s-0.159 1.294-0.159 2.591v1.213c0 1.294 0.159 2.591 0.159 2.591s0.156 1.103 0.634 1.588c0.609 0.637 1.409 0.616 1.766 0.684 1.281 0.122 5.441 0.159 5.441 0.159s3.363-0.006 5.6-0.166c0.313-0.037 0.994-0.041 1.603-0.678 0.481-0.484 0.637-1.588 0.637-1.588s0.159-1.294 0.159-2.591v-1.213c-0.003-1.294-0.162-2.591-0.162-2.591zM6.347 10.075v-4.497l4.322 2.256-4.322 2.241z"></path>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="pinterest">
+    <g>
+    <path d="M220.646,338.475C207.223,408.825,190.842,476.269,142.3,511.5
+            c-14.996-106.33,21.994-186.188,39.173-270.971c-29.293-49.292,3.518-148.498,65.285-124.059
+            c76.001,30.066-65.809,183.279,29.38,202.417c99.405,19.974,139.989-172.476,78.359-235.054
+            C265.434-6.539,95.253,81.775,116.175,211.161c5.09,31.626,37.765,41.22,13.062,84.884c-57.001-12.65-74.005-57.6-71.822-117.533
+            c3.53-98.108,88.141-166.787,173.024-176.293c107.34-12.014,208.081,39.398,221.991,140.376
+            c15.67,113.978-48.442,237.412-163.23,228.529C258.085,368.704,245.023,353.283,220.646,338.475z">
+    </path>
+    </g>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="tiktok">
+    <path d="M 22.472559,-3.8146973e-6 C 23.000559,4.5408962 25.535059,7.2481962 29.941559,7.5361962 v 5.1073998 c -2.5536,0.2496 -4.7905,-0.5856 -7.3922,-2.1601 v 9.5523 c 0,12.1348 -13.2292004,15.927 -18.5478004,7.2291 -3.4177,-5.597 -1.3248,-15.4181 9.6387004,-15.8117 v 5.3857 c -0.8352,0.1344 -1.728,0.3456 -2.5441,0.6241 -2.4384004,0.8256 -3.8209004,2.3712 -3.4369004,5.0977 0.7392,5.2226 10.3204004,6.7682 9.5235004,-3.4369 V 0.00959619 h 5.2898 z" />
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="twitch">
+    <path d="M3 0l-3 5v23h8v4h4l4-4h5l9-9v-19h-27zM26 17l-5 5h-5l-4 4v-4h-6v-18h20v13z"></path><path d="M19 8h3v8h-3v-8z"></path><path d="M13 8h3v8h-3v-8z"></path>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.016 512.016" id="snapchat" >
+    <g>
+        <g>
+            <path d="M500.459,375.368c-64.521-10.633-93.918-75.887-97.058-83.294c-0.06-0.145-0.307-0.666-0.375-0.819
+                c-3.234-6.571-4.036-11.904-2.347-15.838c3.388-8.013,17.741-12.553,26.931-15.462c2.586-0.836,5.009-1.604,6.938-2.372
+                c18.586-7.339,27.913-16.717,27.716-27.895c-0.179-8.866-7.134-17.007-17.434-20.651c-3.55-1.485-7.774-2.295-11.887-2.295
+                c-2.842,0-7.066,0.401-11.102,2.287c-7.868,3.678-14.865,5.658-20.156,5.888c-2.355-0.094-4.139-0.486-5.427-0.922
+                c0.162-2.79,0.35-5.658,0.529-8.585l0.094-1.493c2.193-34.807,4.915-78.123-6.673-104.081
+                c-34.27-76.834-106.999-82.807-128.478-82.807l-10.018,0.094c-21.436,0-94.029,5.965-128.265,82.756
+                c-11.614,26.018-8.866,69.316-6.664,104.115c0.213,3.422,0.427,6.758,0.614,10.01c-1.468,0.503-3.584,0.947-6.46,0.947
+                c-6.161,0-13.542-1.997-21.931-5.922c-12.126-5.683-34.295,1.911-37.291,17.647c-1.63,8.516,1.801,20.796,27.383,30.908
+                c1.988,0.785,4.489,1.587,7.561,2.56c8.576,2.722,22.929,7.27,26.325,15.266c1.681,3.951,0.879,9.284-2.662,16.512
+                c-1.263,2.944-31.65,72.124-98.765,83.174c-6.963,1.143-11.93,7.322-11.537,14.353c0.111,1.954,0.563,3.917,1.399,5.897
+                c5.641,13.193,27.119,22.349,67.55,28.766c0.887,2.295,1.92,7.006,2.509,9.737c0.853,3.9,1.749,7.927,2.97,12.1
+                c1.229,4.224,4.881,11.307,15.445,11.307c3.575,0,7.714-0.811,12.211-1.681c6.468-1.271,15.309-2.995,26.274-2.995
+                c6.084,0,12.416,0.546,18.825,1.604c12.092,2.005,22.699,9.506,35.004,18.202c18.116,12.809,34.586,22.605,67.524,22.605
+                c0.87,0,1.732-0.026,2.577-0.085c1.22,0.06,2.449,0.085,3.695,0.085c28.851,0,54.246-7.62,75.494-22.63
+                c11.742-8.311,22.835-16.162,34.935-18.176c6.426-1.058,12.766-1.604,18.85-1.604c10.513,0,18.901,1.348,26.385,2.816
+                c5.06,0.998,9.02,1.476,12.672,1.476c7.373,0,12.8-4.053,14.874-11.127c1.195-4.113,2.091-8.021,2.961-12.015
+                c0.461-2.125,1.57-7.211,2.509-9.66c39.851-6.34,60.203-15.138,65.835-28.297c0.845-1.894,1.34-3.9,1.476-6.033
+                C512.372,382.707,507.422,376.529,500.459,375.368z"/>
+        </g>
+    </g>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" id="threads">
+    <path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z" />
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="bluesky">
+    <path d="M111.8 62.2C170.2 105.9 233 194.7 256 242.4c23-47.6 85.8-136.4 144.2-180.2c42.1-31.6 110.3-56 110.3 21.8c0 15.5-8.9 130.5-14.1 149.2C478.2 298 412 314.6 353.1 304.5c102.9 17.5 129.1 75.5 72.5 133.5c-107.4 110.2-154.3-27.6-166.3-62.9l0 0c-1.7-4.9-2.6-7.8-3.3-7.8s-1.6 3-3.3 7.8l0 0c-12 35.3-59 173.1-166.3 62.9c-56.5-58-30.4-116 72.5-133.5C100 314.6 33.8 298 15.7 233.1C10.4 214.4 1.5 99.4 1.5 83.9c0-77.8 68.2-53.4 110.3-21.8z"/>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="google">
+    <path d="M500 261.8C500 403.3 403.1 504 260 504 122.8 504 12 393.2 12 256S122.8 8 260 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9c-88.3-85.2-252.5-21.2-252.5 118.2 0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9l-140.8 0 0-85.3 236.1 0c2.3 12.7 3.9 24.9 3.9 41.4z"/>
+</symbol>
+        <symbol id="website" viewBox="0 0 17 17" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1.91041 1.47245C3.56879 -0.185927 6.25755 -0.185927 7.91592 1.47245L10.9186 4.47521C12.577 6.13361 12.577 8.82231 10.9186 10.4807C10.5041 10.8954 9.83185 10.8954 9.41728 10.4807C9.00271 10.0661 9.00271 9.39389 9.41728 8.97932C10.2465 8.15019 10.2465 6.80573 9.41728 5.97659L6.41454 2.97383C5.58535 2.14465 4.24097 2.14465 3.41178 2.97383C2.58261 3.80302 2.58261 5.1474 3.41178 5.97659L4.16248 6.72728C4.57708 7.14185 4.57707 7.81407 4.16248 8.22864C3.74789 8.64321 3.07569 8.64321 2.6611 8.22864L1.91041 7.47796C0.252031 5.81959 0.252031 3.13083 1.91041 1.47245ZM7.91592 5.9766C8.33049 6.39116 8.33049 7.06339 7.91592 7.47796C7.08678 8.3072 7.08678 9.65155 7.91592 10.4807L10.9186 13.4835C11.7479 14.3127 13.0922 14.3127 13.9215 13.4835C14.7506 12.6543 14.7506 11.3099 13.9215 10.4807L13.1708 9.73C12.7561 9.31544 12.7561 8.64321 13.1708 8.22864C13.5854 7.81407 14.2575 7.81407 14.6722 8.22864L15.4228 8.97932C17.0812 10.6377 17.0812 13.3265 15.4228 14.9849C13.7645 16.6433 11.0757 16.6433 9.41728 14.9849L6.41455 11.9822C4.75618 10.3238 4.75618 7.63498 6.41455 5.9766C6.82912 5.562 7.50135 5.562 7.91592 5.9766Z"/>
+</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="revue">
+        <path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/>
+    </symbol>
+        
+        
+        
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="advertise">
+            <g clip-path="url(#clip0_1911_5435)">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M12 1.40497L2.26973 4.27073L0 2.34144V12.6558L2.26967 10.7271L3.84476 11.191V14.1933C3.84529 15.229 4.55813 16.067 5.43904 16.0676H9.23405C9.67247 16.0682 10.0745 15.8571 10.3609 15.5183C10.6488 15.1814 10.8284 14.709 10.8278 14.1932V13.2478L12 13.593V1.40497ZM5.09306 14.5997C5.00434 14.4935 4.95039 14.3537 4.94986 14.1932V11.5168L9.72281 12.9219V14.1932C9.72227 14.3537 9.66885 14.4935 9.5796 14.5997C9.48985 14.7047 9.37052 14.7676 9.23409 14.7676H5.4391C5.30214 14.7676 5.18281 14.7047 5.09306 14.5997Z" />
+            <path d="M13 1.11045L17 -0.067627V15.0654L13 13.8875V1.11045Z" />
+            </g>
+            <defs>
+            <clipPath id="clip0_1911_5435">
+            <rect width="16" height="16" fill="white"/>
+            </clipPath>
+            </defs>
+        </symbol>
+    
+</svg>                    <nav id="social-nav-holder" class="top-nav-standard">
+        <ul class="social-buttons">
+            <li><a href="https://www.facebook.com/WrestlingINC" target="_blank" title="Facebook" aria-label="Facebook"><svg class="icon"><use xlink:href="#facebook"></use></svg></a></li><li><a href="https://x.com/wrestlinginc" target="_blank" title="Twitter" aria-label="Twitter"><svg class="icon"><use xlink:href="#twitter"></use></svg></a></li><li><a href="https://www.youtube.com/@WrestlingINC" target="_blank" title="YouTube" aria-label="YouTube"><svg class="icon"><use xlink:href="#youtube"></use></svg></a></li><li><a href="https://flipboard.com/@wrestleinc" target="_blank" title="Flipboard" aria-label="Flipboard"><svg class="icon"><use xlink:href="#flipboard"></use></svg></a></li><li><a href="https://profile.google.com/@wrestlinginc" target="_blank" title="Google" aria-label="Google"><svg class="icon"><use xlink:href="#google"></use></svg></a></li><li><a href="/feed/" target="_blank" title="RSS" aria-label="RSS"><svg class="icon"><use xlink:href="#rss"></use></svg></a></li>
+            
+            <li class="menu-btn newsletter-btn"><a href="https://subscribe.wrestlinginc.com/newsletter?utm_source=wrestlinginc&utm_medium=top-nav" target="_blank" title="Newsletter" aria-label="Newsletter"><svg class="icon"><use xlink:href="#revue"></use></svg>Newsletter</a></li>
+        </ul>
+    </nav>
+                                <div id="top-nav-share" class="top-nav-scrolled"></div>
+	                        </div>
+            <div id="is-tablet"></div>
+            <div id="is-mobile"></div>
+        </header>
+<main id="main" role="main" class="infinite Liveblog" data-post-type="articles">
+    <div class="holder">
+        <div id="content" class="article">
+            
+
+            <article class="news-post">
+    
+    
+    
+                <div class="news-article">
+                <h1 class="title-gallery" data-post-id="2316784" id="title-gallery" data-author="Olivia Quinlan" data-category="aew-news" data-content_type="Liveblog" data-mod_date="2026-11-14" data-layout="Infinite" data-post_id="2316784" data-pub_date="2026-11-14" data-day="Saturday" data-dayhour="Saturday-4PM" data-pubhour="4PM" data-num_slides="2" data-num_words="800" data-pitcher="Olivia Quinlan" data-trello_board="News" data-intent="liveblog" data-ideation="liveblog">AEW Full Gear Results 11/14/26 W/ Live Updates: Mercedes Mone Vs. Marina Shafir</h1>
+					
+            </div>
+
+    
+                <div class="news-article">
+                                <div class="byline-container">
+                    <div class="byline-text-wrap">
+                        <span class="byline-by">By</span> <a href="/author/oliviaquinlan/" class="byline-author">Olivia Quinlan</a>
+                         <span>and</span> <a href="/author/milesschneiderman/" class="byline-author">Miles Schneiderman</a>
+                        <span class="byline-timestamp">
+                            <time datetime="2026-11-15T04:21:28+00:00">Updated: Nov. 14, 2026 11:21 pm EST</time>
+                        </span>
+                    </div>
+                    
+                </div>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap  lead-image-holder" data-post-url="https://www.wrestlinginc.com/2316784/aew-full-gear-november-14-2026-results/" data-post-title="AEW Full Gear Results 11/14/26 W/ Live Updates: Mercedes Mone vs. Marina Shafir" data-slide-num="0" data-post-id="2316784">
+                         
+                                             <picture id="p82c8e276d3e5c25b9ab5224a85f715f7">
+                                                    <source media="(min-width: 429px)" srcset="https://www.wrestlinginc.com/img/gallery/aew-full-gear-results-111426-w-live-updates/intro-1794631665.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.wrestlinginc.com/img/gallery/aew-full-gear-results-111426-w-live-updates/intro-1794631665.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.wrestlinginc.com/img/gallery/aew-full-gear-results-111426-w-live-updates/intro-1794631665.jpg" data-slide-url="https://www.wrestlinginc.com/2316784/aew-full-gear-november-14-2026-results/" data-post-id="2316784" data-slide-num="0" data-slide-title="AEW Full Gear Results 11/14/26 W/ Live Updates: Mercedes Mone vs. Marina Shafir: " width="780" height="438" alt="Fletcher on the entrance ramp with the AEW World Championship belt over one shoulder">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">AEW/Speedy Ruiz</span>
+                    </div>
+                        <div class="columns-holder">
+            <div class="add-on-google-widget">
+                <div class="add-on-google-heading">Add Wrestling Inc. on Google:</div>
+                <div class="add-on-google-buttons-row">
+                    <button type="button" class="add-on-google-btn" id="preferred-source">Preferred Source</button>
+                    <a href="https://profile.google.com/@wrestlinginc" target="_blank" class="add-on-google-btn" id="google-discover">Google Discover</a>
+                </div>
+            </div>
+        </div>
+				            <div class="columns-holder ">
+                
+                        <div class="raptive-video-player"></div>
+                <p dir="ltr">Welcome to Wrestling Inc.'s live coverage for AEW Full Gear on November 14, 2026, coming to you live from the Mortgage Matchup Center in Phoenix, Arizona! The show begins at 8 PM ET and can be streamed both on HBO MAX and in the USA, Amazon Prime Video in the US and Canada, and MyAEW, PPV.com, DAZN, and YouTube internationally.</p>
+<p dir="ltr">Will Ospreay will be putting the AEW World Championship on the line as he defends against Kyle Fletcher. After Fletcher defeated Jack Perry in singles competition during the Fright Night "AEW Dynamite" television special on October 28, he challenged his former friend Ospreay to tonight's Full Gear match.</p>
+<p dir="ltr">Marina Shafir has made it abundantly clear that she's had her eye on Mercedes Mone's AEW Women's World Championship by calling her out a handful of times over the past several weeks on "Dynamite". Tonight, she will be receiving her shot when she challenges Mone for the AEW Women's World Championship.</p>
+<p dir="ltr">Matt Jackson and Nick Jackson of The Young Bucks will be putting their AEW World Tag Team Championship on the line as they defend against The Don Callis Family's Mark Davis and Jake Doyle. Davis and Doyle defeated The Young Bucks in an AEW World Tag Team Championship Eliminator Match in quick fashion on the October 21 episode of "Dynamite" to secure their title shot tonight.</p>
+<p dir="ltr">Adam Page, Brody King, and Bandido will be defending their AEW World Trios Championship against Swerve Strickland New Level in a Texas Death Match. With Strickland and New Level having dethroned Page, King, and Bandido in a World Trios Championship Roulette Royale that featured several other tag teams at AEW All In on August 30, Page, King, and Bandido captured the title once again at AEW WrestleDream on October 17. Strickland then demanded tonight's match with the Texas Death Match stipulation attached to it on October 21, but Page declined to agree not wanting to drag Bandido and King through what a Texas Death Match entails. This prompted Strickland to kidnap Bandido and leave him bloodied as Page and King watched helplessly from inside the ring in the midst of a verbal exchange with New Level.</p>
+<p dir="ltr">Tommaso Ciampa dethroned Andrade El Idolo as National Champion during the Chris Jericho's Rock N' Wresting Rager "Collision" television special on November 7, and tonight, he will be making his second defense as he puts the National Championship on the line against Ilja Dragunov. Ciampa called out then-AEW National Champion Andrade on the Fright Night "Dynamite" special looking for a WrestleDream rematch, but Dragunov instead appeared looking for a fight from Ciampa and Ciampa subsequently declined to give Dragunov the fight that he was looking for.</p>
+<p dir="ltr">Kazuchika Okada will be putting the International Championship on the line for the first time since retaining against Myron Reed of The Rascalz during a Clockwork Carnage Qualifier on the October 14 episode of "Dynamite" as he defends against Adam Copeland. This will mark Copeland's first time ever challenging for the International Championship throughout his time in AEW.</p>
+<p dir="ltr">Jamie Hayter and Alex Windsor of The Brawling Birds will be putting their AEW Women's World Tag Team Championship on the line as they defend against Kris Statlander and Harley Cameron. Statlander and Cameron defeated Sisters of Sin's Skye Blue and Julia Hart and Divine Dominion's Megan Bayne and Lena Kross in a Three-Way Number One Contenders Match at "AEW Collision" Grand Slam: France on October 10 to earn their title shot.</p>
+<p dir="ltr">AEW Continental Champion Jon Moxley, Gabe Kidd, Wheeler Yuta, Daniel Garcia, and Claudio Castagnoli of The Death Riders will be going one-on-one with five members of The Cut in an Anarchy In The Arena Match. Moments after White and Orange Cassidy of The Conglomeration defeated Moxley and Garcia on October 21, White and the rest of The Bang Bang Gang betrayed Moxley and The Death Riders to reveal a newfound alliance with Finlay and Connors. White and Finlay later defeated Moxley and Garcia the following week on October 28 when Clark Connors speared Garcia as the referee was distracted by Wheeler Yuta and Ace Austin on the outside of the ring.</p>
+<p dir="ltr">Following a successful defense against Skye Blue of Triangle of Madness and Hyan in a Three-Way during this past Wednesday's "AEW Collision" special, Queen Aminata will be putting her TBS Championship on the line as she defends against Persephone and Hyan's tag team partner Maya World in another Three-Way on Saturday Tailgate Brawl, beginning at 7 PM ET. Aminata dethroned Persephone as TBS Champion during the Fright Night "Dynamite" special, with Persephone having previously won the TBS Championship from World at the AEW All In Buy-In show with assistance from Britt Baker on August 30.</p>
+
+            </div>
+            </div>
+<div class="news-article"><div class="columns-holder"><section class="live-blog liveblog-container active"><div class="live-top">
+    <span class="live-status">Active</span><br>
+    <span class="live-updates-count">We're Live! New posts will appear automatically.</span>
+</div>
+<ul id="liveblog-2316784" class="live-updates-list">
+<li class="live-entry le-4730" data-id="4730" data-hash="b28d873cec71200e807e9359091a2bc56c060050" id="update-4730">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-14T23:29:48+00:00" class="timestamp liveblog-entry-date">November 14th @ 6:29 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Another November has dawned upon us, which means it's that time of year for AEW's flagship Full Gear pay-per-view event! Welcome to our live blog, and both myself and Miles are happy to have you here with us tonight!</p>
+<p dir="ltr">Saturday Tailgate Brawl coverage will be beginning at 7 PM ET, and main show coverage for Full Gear will be beginning at 8 PM ET.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4731" data-id="4731" data-hash="884fe1cf0edb1312e673f5e10621ff5b30685bd1" id="update-4731">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-14T23:45:13+00:00" class="timestamp liveblog-entry-date">November 14th @ 6:45 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Full Gear has a pretty stacked line up, and I predict that Will Ospreay and Mercedes Mone will both be hanging onto their respective AEW World Championship and AEW Women's World Championship. I also think there's a good chance we may see a double turn in the AEW World Trios Championship Texas Death Match with Swerve Strickland and Brody King and Bandido, and think that The Cut has to be the team to win the Anarchy In The Arena Match to make them look strong as a renewed stable.</p>
+<p dir="ltr">Now that you've heard from me, it's your turn to let us know what you think we'll see happen on tonight's pay-per-view. Will there be any debuts or returns? Will we see any babyface and/or heel turns? Will any titles change hands? Let us know your predictions for tonight's show down below in our comments section!</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4732" data-id="4732" data-hash="3a52058d2a610dd1222ef807b47ed26c7a532dc6" id="update-4732">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T00:05:21+00:00" class="timestamp liveblog-entry-date">7:05 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">We are live on Saturday Tailgate Brawl! Excalibur, Tony Schiavone, and Walker Stewart greet audiences at home before throwing it over to a video of the events leading into the AEW World Championship match between Will Ospreay and Kyle Fletcher.</p>
+<p dir="ltr">Jack Perry then makes his way to the ring. The Beast Mortos follows.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4733" data-id="4733" data-hash="236469da39fec6ea55c1b5742ba386089143a17d" id="update-4733">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T00:08:30+00:00" class="timestamp liveblog-entry-date">7:08 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    <h3 class="live-title">Jack Perry vs. The Beast Mortos (Saturday Tailgate Brawl)</h3>
+    
+                <div class="columns-holder ">
+                <p dir="ltr">The bell rings and the two lock up. Perry takes a sip of a fan's drink from the crowd on the outside and slides back into the ring, but Mortos levels Perry with a shoulder tackle before Perry dumps Mortos out of the ring over the top rope and delivers a chop to his chest in a match that I've so far been really enjoying. Perry then ascends up one of the barricades and delivers a hurricanrana to Mortos off it.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4734" data-id="4734" data-hash="667a38bf95b0bb46a119d40908211e6b2eeceff4" id="update-4734">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T00:15:41+00:00" class="timestamp liveblog-entry-date">7:15 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Back from the break, Perry delivers an open palm strike to Mortos. Mortos responds with a backbreaker and a clothesline to Perry, but Perry delivers a crazy looking piledriver to Mortos and runs over him with a knee to the back of his neck.</p>
+<p dir="ltr">Perry sits Mortos on the top rope and connects with a Muscle Buster on him for the win as a message to Opps leader Samoa Joe.</p>
+<p dir="ltr"><strong>Winner: Jack Perry</strong></p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">.<a href="https://x.com/boy_myth_legend?ref_src=twsrc%5Etfw" target="_blank">@boy_myth_legend</a> sends a message to <a href="https://x.com/SamoaJoe?ref_src=twsrc%5Etfw" target="_blank">@SamoaJoe</a>! 😳</p>
+<p>Watch the <a href="https://x.com/hashtag/AEWTailgateBrawl?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWTailgateBrawl</a> LIVE Coast-To-Coast on TNT + HBO Max! <a href="https://t.co/ZQGpDgvDo8" target="_blank">pic.twitter.com/ZQGpDgvDo8</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121759217501556912?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">We then head over to a video recapping Tommaso Ciampa becoming the new National Champion and the events leading up to his title match against Ilja Dragunov tonight. </p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4735" data-id="4735" data-hash="955c27c3f682666d8a2dbb31aa9af59ec39bb344" id="update-4735">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T00:26:11+00:00" class="timestamp liveblog-entry-date">7:26 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Back from the break, we head over to a video of The Death Riders and The Conglomeration meeting in the desert ahead of Anarchy In The Arena (presumably where no one can hear them, such drama queens!). Moxley tosses Orange Cassidy a bag, and Kyle O'Reilly says this doesn't make The Conglomeration trust Moxley. Moxley says he never asked Cassidy, O'Reilly, and Roderick Strong, then says he doesn't apologize, but Cassidy said he never asked him to and gets back in their car with Strong and O'Reilly. Anything with The Death Riders will always be great, and this was no exception.</p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">A VIOLENT PAST. A COMMON ENEMY.</p>
+<p>On the Utah Salt Flats, the Death Riders and The Conglomeration meet in seclusion ahead of ANARCHY IN THE ARENA!</p>
+<p>Watch the <a href="https://x.com/hashtag/AEWTailgateBrawl?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWTailgateBrawl</a> LIVE Coast-To-Coast on TNT + HBO Max! <a href="https://t.co/H3iP5i8em2" target="_blank">pic.twitter.com/H3iP5i8em2</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121761622926446889?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">Back at ringside, The Don Callis Family makes their way out. Jaden Monroe, RJ Wydle, and Jordan Cruz are already waiting inside.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4736" data-id="4736" data-hash="dfb4428bba9b85225d65c4bce310014ba4b37c97" id="update-4736">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T00:28:26+00:00" class="timestamp liveblog-entry-date">7:28 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    <h3 class="live-title">The Don Callis Family (w/ Don Callis, Lance Archer, Trent Beretta, Rocky Romero, and Josh Alexander) vs. Jaden Monroe, RJ Wydle, and Jordan Cruz (Saturday Tailgate Brawl)</h3>
+    
+                <div class="columns-holder ">
+                <p dir="ltr">The bell rings and Clon rocks Wylde with an enzuigiri. Cruz and Wardlow tag in, and Wardlow quickly takes care of Cruz. Kevin Knight then tags in and delivers a UFO Splash to Cruz for the win.</p>
+<p dir="ltr"><strong>Winners: The Don Callis Family</strong></p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">The Don Callis Family make it look EASY 😮‍💨</p>
+<p>Watch the <a href="https://x.com/hashtag/AEWTailgateBrawl?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWTailgateBrawl</a> LIVE Coast-To-Coast on TNT + HBO Max! <a href="https://t.co/FzVd9AMl01" target="_blank">pic.twitter.com/FzVd9AMl01</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121762363795702097?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">After the match, Romero grabs a micrphone and says Phoenix is Don Callis Family territory. Beretta calls out Big Boom! A.J. and his "nerd friends" to "get squashed" (I don't wanna call that generic buuuuuut...)</p>
+<p dir="ltr">Big Boom! A.J., QT Marshall, Darius Martin, and Matt Sydal then make their way out and brawl with The Don Callis family at the bottom of the entrance ramp. </p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4737" data-id="4737" data-hash="c6fac258755f4752d2a08aa1b330494ac91faf50" id="update-4737">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T00:29:13+00:00" class="timestamp liveblog-entry-date">7:29 PM EST</time>        
+        <div class="author-name">Miles Schneiderman</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p>Commenter Abobo says "I like Ciampa a lot more than Dragunov, but I believe Dragunov will be winning that belt," while Big Horn Staredown replies "idk if TK would pull the trigger on two short reigns for Ciampa." If you want the WINC staff's opinion, make sure you've read our <a href="https://www.wrestlinginc.com/2316696/aew-full-gear-2026-predictions-winners/" target="_blank">Full Gear predictions column!</a></p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4738" data-id="4738" data-hash="009e6e45910f7099c790fe11328a3da29f6869b9" id="update-4738">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T00:32:16+00:00" class="timestamp liveblog-entry-date">7:32 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    <h3 class="live-title">The Don Callis Family vs. Big Boom! A.J., QT Marshall, Darius Martin, and Matt Sydal (Saturday Tailgate Brawl)</h3>
+    
+                <div class="columns-holder ">
+                <p dir="ltr">The bell rings and Romero goes after A.J. inside the ring. Sydal tags in and delivers a moonsault to Romero.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4739" data-id="4739" data-hash="123f4f84b565c214b3d9b37726b2ab76e7e1a780" id="update-4739">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T00:40:18+00:00" class="timestamp liveblog-entry-date">7:40 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Back from the break, Alexander levels Marshall with a clothesline. Alexander delivers a suplex to Marshall, and Romero ascends to the top rope. He delivers a belly-to-back piledriver-double stomp combination to Marshall before Archer (who has tagged in) sets up for a Razor's edge on A.J. A.J. escapes, but Beretta delivers a Full Nelson suplex to Darius. Sydal rocks Beretta with a jumping knee, but Romero takes down Sydal. Sydal responds with a Shining Wizard to the back of Romero's neck, and Darius flies out of the ring to level Berettal. Inside the ring, A.J. powerbombs Romero and Sydal connects with a moonsault on him. Darius pins Romero for the win.</p>
+<p dir="ltr"><strong>Winners: Big Boom! A.J., QT Marshall, Darius Martin, and Matt Sydal</strong></p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">SkyFlight and Boom &amp; Doom take down The Don Callis Family! 👊</p>
+<p>Watch the <a href="https://x.com/hashtag/AEWTailgateBrawl?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWTailgateBrawl</a> LIVE Coast-To-Coast on TNT + HBO Max! <a href="https://t.co/Ll3CHnbWZu" target="_blank">pic.twitter.com/Ll3CHnbWZu</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121765677379760361?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">Although there was no Rizzler or Big Justice tonight, Big Boom! A.J. has become a staple on AEW pre-shows and Saturday Tailgate Brawl. It's always nice to see him bring a little fun to AEW and do his thing between the ropes. </p>
+<p dir="ltr">Back at ringside, Persephone and Britt Baker (the latter of whom joins the announce desk) then make their way to the ring. Skye Blue, Hyan, and Queen Aminata follow after Maya World was unable to make it to Phoenix with the nationwide FAA grounding yesterday. </p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4740" data-id="4740" data-hash="9e3fbe0008d110390f72ecce57fdb85d464b84a6" id="update-4740">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T00:50:39+00:00" class="timestamp liveblog-entry-date">7:50 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    <h3 class="live-title">Queen Aminata (c) vs. Persephone vs. Skye Blue vs. Hyan in a Four-Way Match for the TBS Championship (Saturday Tailgate Brawl)</h3>
+    
+                <div class="columns-holder ">
+                <p dir="ltr">The bell rings and Persephone tries to grab the TBS Championship from the referee. The referee wins, but Blue and Hyan deliver dropkicks to Persephone and Aminata to send them crashing out of the ring. Blue rolls up Hyan, but Hyan kicks out. Persephone then slides into the ring with Aminata and rains down right hands on her, but Aminata returns the favor and delivers a double suplex to Persephone and Blue with Hyan in a good start to this Four-Way.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4741" data-id="4741" data-hash="74a4a11a98ec846b2d331eb36281eb5d32cb20a1" id="update-4741">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T00:57:38+00:00" class="timestamp liveblog-entry-date">7:57 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Back from the break, Persephone delivers a dropkick to Hyan. Aminata levels Persephone, then sends Blue crashing into her knee and the mat. She does the same to Hyan, but Aminata rocks Blue with a forearm and delivers a twisting neckbreaker to her. She goes for a pin, but Persephone breaks the fall.</p>
+<p dir="ltr">Blue sits Hyan on a chair outside of the ring, but Aminata throws a chair at Blue to level her and dumps her back in the ring. She ascends to the top rope and lands a meteora on Blue, but Persephone sends Aminata crashing into the ring post shoulder first and pins Blue. Blue kicks out and Persephone lands a Northern Nights suplex on her.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4742" data-id="4742" data-hash="3fb07cd530954816ec2f79a5cd4a643250f27908" id="update-4742">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T00:59:32+00:00" class="timestamp liveblog-entry-date">7:59 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Persephone calls for Baker to hand her the TBS Championship, and Baker does so. Blue dumps Persephone out of the ring and looks to land a kick on her off the ring apron, but Persephone gets Blue up on her shoulders and sends her crashing into the TBS Championship belt face first. As Persephone has her back turned, Aminata absolutely clocks Baker (loved this little moment) and runs over Persephone with a meteora to her off the ring apron. Hyan lands a dive through the middle rope to take down Aminata on the outside as the pace of this one has really picked up, but Aminata delivers Off With Her Head to Hyan for the win in a nice little match I thoroughly enjoyed.</p>
+<p dir="ltr"><strong>Winner (and still): Queen Aminata</strong></p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr"><a href="https://x.com/hashtag/AndSTILL?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AndSTILL</a> 🏆 <a href="https://x.com/amisylle?ref_src=twsrc%5Etfw" target="_blank">@amisylle</a>'s reign as TBS Champion continues! 👑</p>
+<p>Watch the <a href="https://x.com/hashtag/AEWTailgateBrawl?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWTailgateBrawl</a> LIVE Coast-To-Coast on TNT + HBO Max! <a href="https://t.co/HlrtnWkdbe" target="_blank">pic.twitter.com/HlrtnWkdbe</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121770609772319187?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">Here's the one major problem that I have with Saturday Tailgate Brawl: while it's an interesting concept to have a cable TV show before a pay-per-view, I think that AEW tries to cram too many matches onto it every time they do it — and just on their pre-shows on general. Considering they usually run 9-10 match cards on pay-per-views, it feels a little excessive to do four extra matches on the pre-show that are maybe worthy of being on a normal Saturday "Collision". </p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4743" data-id="4743" data-hash="3bd30553ddc1b6fe9cad73d652d6e794458c5e31" id="update-4743">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T01:05:11+00:00" class="timestamp liveblog-entry-date">8:05 PM EST</time>        
+        <div class="author-name">Miles Schneiderman</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p>In an online exclusive, Jack Perry has a message for Samoa Joe following his win over The Beast Mortos on the Tailgate Brawl!</p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">"I've already said everything that I have to say. I have already shown you everything that I can show you ... I'm here. Come and kill me!"</p>
+<p>EXCLUSIVE: After his victory on the <a href="https://x.com/hashtag/AEWTailgateBrawl?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWTailgateBrawl</a>, <a href="https://x.com/boy_myth_legend?ref_src=twsrc%5Etfw" target="_blank">@boy_myth_legend</a> has a message for Samoa Joe! <a href="https://t.co/Sf9Hs7q7EM" target="_blank">pic.twitter.com/Sf9Hs7q7EM</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121767751073120422?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4744" data-id="4744" data-hash="76eba5db05ce6e0628fbe375908319672c4f9ccb" id="update-4744">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T01:05:50+00:00" class="timestamp liveblog-entry-date">8:05 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">We are live on the main show, which kicks off with a video backstage showing some of the events leading into various matches on tonight's card!</p>
+<p dir="ltr">Excalibur, Tony Schiavone, and Nigel McGuinness once again greet audiences at home before throwing it to another video recapping the events leading into the International Championship match between Adam Copeland and Kazuchika Okada. Both men and Okada's manager Don Callis then make their way to the ring.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4745" data-id="4745" data-hash="dcd372a12562cbdfb09ea2eaa787cb57fcb37aab" id="update-4745">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T01:12:47+00:00" class="timestamp liveblog-entry-date">8:12 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    <h3 class="live-title">Kazuchika Okada (w/ Don Callis) (c) vs. Adam Copeland for the International Championship</h3>
+    
+                <div class="columns-holder ">
+                <p dir="ltr">The bell rings and the two lock up. Okada cinches in a waist lock on Copeland, but Copeland escapes and Okada lands a knee on his midsection. He delivers a couple of knees to the side of Copeland's head, but Copeland forces Okada to roll out of the ring where he regroups with Callis.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4746" data-id="4746" data-hash="9d1ad9cc614a12b06fbbf4c2dd1b86aa62490c7c" id="update-4746">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T01:17:26+00:00" class="timestamp liveblog-entry-date">8:17 PM EST</time>        
+        <div class="author-name">Miles Schneiderman</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p>As the WINC staff is currently discussing, imagine telling someone a decade ago that in 10 years they'd be watching Okada vs Edge.</p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">BIG FIGHT FEEL TO KICK OFF <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a>! 🔥</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/0PFcB6XanX" target="_blank">pic.twitter.com/0PFcB6XanX</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121773417267392806?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4747" data-id="4747" data-hash="197d98aa387ce8843b27c858e1fd7e92e65cc967" id="update-4747">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T01:22:58+00:00" class="timestamp liveblog-entry-date">8:22 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Okada fires off right hands on Copeland on the outside of the ring and sends him crashing into the ring steps shoulder first, then exposes part of the concrete on the outside. Copeland stares down Callis on the outside of the ring, but Okada hugs Callis and dumps Copeland back into the ring.</p>
+<p dir="ltr">Okada jams his boot into Copeland's chest, and I have to admit that I'm finding this to be nothing more than mediocre so far. Copeland rocks Okada with a right hand, but Okada rocks Copeland with a boot and flies off the ropes to land a strike on Copeland. Okada looks to grab his International Championship belt and sneak out of the ring, but the referee stops him and Copeland takes advantage by rolling up Okada. Okada kicks out.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4748" data-id="4748" data-hash="099756b5e6dda3ee18d89a650a2073ccb0ac0442" id="update-4748">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T01:29:11+00:00" class="timestamp liveblog-entry-date">8:29 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Okada and Copeland rock one another with right hands and forearms, but Okada lands a dropkick on Copeland's spine to rock him and connects with a piledriver on him in the middle of the ring and laughs (because it's Okada we're talking about after all). Copeland then hilariously mocks Okada by flipping off the crowd while Okada is down and charges at him, but Callis grabs onto Copeland's ankle as Copeland runs the ropes.</p>
+<p dir="ltr">Okada sends Copeland crashing off the ring apron and onto the exposed concrete, then dumps him back in the ring and levels him with a Rainmaker for the win. </p>
+<p dir="ltr"><strong>Winner (and still): Kazuchika Okada</strong></p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">IMPALER OFF THE APRON 😱</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/Xr91ruCkPc" target="_blank">pic.twitter.com/Xr91ruCkPc</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121778464650854442?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4749" data-id="4749" data-hash="5d9d52fa8a0d632ec0b9e3458fba894601eedb20" id="update-4749">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T01:32:04+00:00" class="timestamp liveblog-entry-date">8:32 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">After the match, Copeland tries to drag himself to his feet. Okada runs back into the ring and levels Copeland with a second Rainmaker like the true heel that he is.</p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">The match is over, but <a href="https://x.com/rainmakerXokada?ref_src=twsrc%5Etfw" target="_blank">@rainmakerxOkada</a> isn't finished with <a href="https://x.com/RatedRCope?ref_src=twsrc%5Etfw" target="_blank">@RatedRCope</a>! 😱</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/ilP4NbC9Vb" target="_blank">pic.twitter.com/ilP4NbC9Vb</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121779552661729553?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">After a video recapping some of the events leading into the upcoming match, Mark Davis and Jake Doyle make their way to the ring. The Young Bucks follow. </p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4750" data-id="4750" data-hash="04338438d9d929a2cae489b9081d61a1b656b86e" id="update-4750">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T01:36:50+00:00" class="timestamp liveblog-entry-date">8:36 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    <h3 class="live-title">The Young Bucks (c) vs. Mark Davis and Jake Doyle for the AEW World Tag Team Championship</h3>
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Matt Jackson and Doyle begin the action. The bell rings and Doyle runs over Matt. He pulls Nick Jackson into the ring from the ring apron, and Davis levels Nick with a clothesline. Davis and Doyle then dump The Bucks out of the ring, with Doyle landing a lariat on Matt and Davis sending Nick crashing over the barricade and into the timekeeper's area.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4751" data-id="4751" data-hash="5803de0c5b2bc740d02169a1fc66802d82945da4" id="update-4751">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T01:41:52+00:00" class="timestamp liveblog-entry-date">8:41 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Matt fires off right hands on Davis and Doyle inside the ring, but Nick tags in and sends Davis crashing into the mat spine first with Matt. Matt and Nick fire off right hands on Davis, then clothesline him out of the ring and send him crashing into the ring apron face first. Davis and Doyle send Matt and Nick crashing into one another, but Doyle levels Matt with a right hand and rocks him with a second one in the corner of the ring.</p>
+<p dir="ltr">Doyle tags in and levels Matt with a right hand, then goes for a pin but Matt kicks out.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4752" data-id="4752" data-hash="1175a26a1dca616f919bd7629c18400a8a22b9a0" id="update-4752">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T01:48:25+00:00" class="timestamp liveblog-entry-date">8:48 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Matt low bridges Davis out of the ring, but Doyle keeps him from tagging in Nick. Nick helps out Matt by rocking Doyle with a right hand so Matt can roll him up, but Doyle kicks out and Matt looks to tag out to Nick. Davis puts an end to those plans by pulling Nick off the ring apron.</p>
+<p dir="ltr">Matt rocks Davis with a right hand, but Nick rocks Davis with a knee to him off the ring apron. Nick tags in and delivers a crossbody to Doyle off the ropes, then goes for a pin but Doyle kicks out. Matt and Nick ascend up to opposite ropes, but Davis and Doyle trip them up and join them on the ropes. The Bucks pull Davis and Doyle off the top before flying off opposite top ropes to keep Davis and Doyle down.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4753" data-id="4753" data-hash="820ebc68811d77f28ecf8936e6bed181fa161eaa" id="update-4753">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T01:52:49+00:00" class="timestamp liveblog-entry-date">8:52 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Davis and Doyle send Nick crashing into Matt, but Doyle pins Matt and Nick breaks the fall. Davis dumps Nick out of the ring, but Doyle delivers a double powerbomb to The Bucks and tags out to Davis. Matt delivers a Sliced Bread to Matt and turns Nick inside out with a clothesline, then pins Matt but Matt kicks out as this pretty decent match is poised to continue.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4754" data-id="4754" data-hash="25db189908247746965adcbe579d8ce9b74fd8da" id="update-4754">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T01:57:13+00:00" class="timestamp liveblog-entry-date">8:57 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Matt delivers a Code Red to Davis, and The Bucks deliver a BTE Trigger to Davis. They call for the Meltzer Driver, but Davis trips up Nick and powerbombs him into the barricade near the timekeeper's area. Davis spikes Nick with a nice looking piledriver and pins him, but Nick kicks out as this match has officially reached the point of being pretty damn great.</p>
+<p dir="ltr">Doyle looks to powerbomb Nick, but Matt comes to Nick's aid and levels Davis on the outside. This opens the door for Nick to roll up Doyle for the win, and while this kind of ending wouldn't work for most matches, it worked perfectly here to tell a story about two teams at the absolute top of their game.</p>
+<p dir="ltr"><strong>Winners (and still): The Young Bucks</strong></p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4755" data-id="4755" data-hash="4f23a3fde4443cd75ed99ca11ce20d27ca96790c" id="update-4755">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T02:03:09+00:00" class="timestamp liveblog-entry-date">9:03 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">After the match, The Motor City Machine Guns make their way out. Chris Sabin and Alex Shelley raise The Young Bucks' arms, but sirens begin to sound and we see the words Kasper Brothers appear on the jumbo screen. Drew Kasper and Jacob Kasper (formerly known as Brutus Creed and Julius Creed in WWE respectively) make their way to the ring to take out The Bucks, but Motor City Machine Guns pull them off The Bucks. FTR then makes their way out and stares down The Kasper Brothers...but then begin beating down The Young Bucks and Motor City Machine Guns with them. Dax Harwood and Jacob fight over one of the AEW World Tag Team Championship belts, but Stokely gets things calmed down and holds up the AEW World Tag Team Championship belts to send a clear message.</p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">The Kasper Brothers are here, and they're after the AEW World Tag Team Champions! 😱</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/gGctby4pHC" target="_blank">pic.twitter.com/gGctby4pHC</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121785950925652464?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">Of all the debuts to happen on this show, one that I absolutely did not expect to see was The Kasper Brothers and it legitimately took me by surprise. What did you guys think of this debut? Let us know down below in the comments.</p>
+<p dir="ltr">Swerve Strickland and Prince Nana then make their way to the ring. New Level, "Hangman" Adam Page, Brody King, and Bandido follow after a video shows King fighting a man inside a bar and carrying several out as Page takes down a series of other men and Bandido joins them in the wild, wild west before the three men get on horses and make their way to the ring without the horses (what a missed opportunity to have them ride to the ring on the horses but I digress). </p>
+<p dir="ltr">It's also worth noting that a couple of tables lined with barbed wire and a board of it surround the outside of the ring. </p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4756" data-id="4756" data-hash="828767358fcdee225e2b81ded9c3a2fd7b80070e" id="update-4756">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T02:14:17+00:00" class="timestamp liveblog-entry-date">9:14 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    <h3 class="live-title">Adam Page, Brody King, and Bandido (c) vs. Swerve Strickland and New Level in a Texas Death Match for the AEW World Trios Championship</h3>
+    
+                <div class="columns-holder ">
+                <p dir="ltr">The bell rings and Strickland dares Page to come at him while Kofi and Austin Creed stare down King and Bandido. King dumps Kofi out of the ring as Page brawls with Creed and Strickland brawls with Bandido. Bandido lands a 21 Plex on Strickland, then delivers a beautiful springboard moonsault to level New Level and Strickland on the outside with assistance from King.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4757" data-id="4757" data-hash="f8b5943d94f333431726be2e63ede6876d69d0d0" id="update-4757">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T02:16:12+00:00" class="timestamp liveblog-entry-date">9:16 PM EST</time>        
+        <div class="author-name">Miles Schneiderman</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p>Opinions seem fairly split on AEW signing the former Creed Brothers. Commenter arrows92 says "Ughh....these dudes are not needed," while MZA says "The brothers will do big things in AEW. Glad they got signed." Meanwhile, another commentater, jaded crusader, predicts that "We'll see these kasper jobbers in ROH in 3 months."</p>
+<p>The WINC crew's reaction, for the record, can mostly be summed up by "...huh?"</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4758" data-id="4758" data-hash="9c76d91fa63c26e4f3f67eb96b61a60f04135e23" id="update-4758">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T02:21:55+00:00" class="timestamp liveblog-entry-date">9:21 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">King grabs three bundles of skewers from under the ring and jam them into New Level and Strickland's heads, wasting no time introducing weaponry into this match. . The skewers gruesomely stick out of Kofi and Creed's head, but Strickland fires off a few right hands on Page before Creed blows his signature trombone wrapped in barbed wire into King's ear. He jams the barbed wire wrapped trombone into King's head and makes adjustments to the barbed wire on top of a couple of tables on the outside.</p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">NOT THE SKEWERS 😱</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/0qdrE2gF3n" target="_blank">pic.twitter.com/0qdrE2gF3n</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121789439642849519?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">Kofi lands a boot on King, and Page wraps some barbed wire off one of the tables around his fist. Kofi dumps him into the ring and fires off right hands on him, but Page uses the barbed wire wrapped around his fist to land a right hand on Kofi and ones on Creed and Strickland. Page uses the barbed wire to cinch in a crossface on Kofi, and Strickland hits Bandido with a chair.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4759" data-id="4759" data-hash="18a3773684ac109d40b98af066b13283682eaed4" id="update-4759">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T02:27:33+00:00" class="timestamp liveblog-entry-date">9:27 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">King dumps several chairs into the ring, and Bandido sets up two of them face-to-face as the blood begins flowing in this match from Strickland and King. King sets up two more chairs face-to-face next to the ones Bandido had set up, and Bandido delivers a Tornado DDT to Strickland to send him crashing off the top rope and onto the chairs.</p>
+<p dir="ltr">Creed and Kofi whip King into the opposite corner, but King dumps Creed out of the ring and levels Kofi with a big boot. He props a barbed wire wrapped table in the corner of the ring and sends Creed crashing into it spine first, then delivers a cannonball to Creed to send him crashing through the table.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4760" data-id="4760" data-hash="4e4e5d311e5ce53c97a362f50e894d7e415cea4f" id="update-4760">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T02:33:10+00:00" class="timestamp liveblog-entry-date">9:33 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Strickland grabs two staple guns and throws one over to Page as a dare to him to use it. Page and Strickland begin stapling one another's chests (because they are total mad men) and fire off right hands on one another, but Page calls for a Buckshot Lariat. Nana distracts Page, but he gets fended off as all six men begin taking one another down inside the ring and King delivers a piledriver to Strickland.</p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">Shades of <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> 2023 😱 Hangman Page and <a href="https://x.com/swerveconfident?ref_src=twsrc%5Etfw" target="_blank">@swerveconfident</a> bring out the STAPLE GUNS once again!</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/2pV8DdtTLA" target="_blank">pic.twitter.com/2pV8DdtTLA</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121792727838831087?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">King grabs a glove from under the ring lined with tacks and slides it into his hand. He delivers a chop to his chest as some of the tacks remain in Strickland's chest (OUCH!), then jams the tacks on the glove into Creed's head (again, OUCH!) and grabs a black bag from under the ring.</p>
+<p dir="ltr">King dumps a whole pile of tacks out of the back into the ring, but Creed delivers a suplex to King on top of the tacks. He delivers dives to Bandido and Page through the middle ropes on opposite sides of the ring, but Nana hands Creed a glove with a box on one side of it. He lands a right hand on King, releasing a bunch of pyro from the glove directly at King to take him down.</p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">.<a href="https://x.com/AustinCreedWins?ref_src=twsrc%5Etfw" target="_blank">@AustinCreedWins</a> takes Texas Death to a NEW LEVEL! 💥</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/nWhrG4Ro7m" target="_blank">pic.twitter.com/nWhrG4Ro7m</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121794519217717348?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4761" data-id="4761" data-hash="06840c06db0a3f9f53fc6c55945b2fdb743eea4c" id="update-4761">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T02:36:07+00:00" class="timestamp liveblog-entry-date">9:36 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Creed fires off headbutts on Bandido near the top of the entrance ramp, and pyro explodes twice out of a barrel to burn Bandido (even though he is clearly several feet behind and not getting burned, but we continue on). Page cracks light tubes on Kofi when the two men end up on top of the entrance ramp, and King piledrives Strickland off the ring apron and through one of the barbed wire wrapped tables on the outside of the ring.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4762" data-id="4762" data-hash="1eef232748f2e1ab5ffb7b29002a5f7b92c234ab" id="update-4762">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T02:44:25+00:00" class="timestamp liveblog-entry-date">9:44 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">This has been a totally insane match thus far and my favorite of the night so far, but we aren't quite done just yet. Creed lays Page on top of two chairs that are face-to-face on the outside, and Kofi lays a window with the glass panes and all on top of Page. Kofi ascends up one of the announce desks and delivers a Boom Drop to send Page crashing through the chairs and break the glass (which might be my favorite spot of this match).</p>
+<p dir="ltr">Kofi rains down right hands on Bandido as Nana hands Kofi and Creed a glove each. Creed places a lock into King's mouth and Kofi levels him, but Creed and King hold Bandido in place as Strickland ascends to the top rope. Page comes to Bandido's aid, but Strickland ascends to the middle rope. Bandido sends Kofi crashing through a barbed wire table inside the ring, and Strickland wraps a chain around Bandido's throat on the top rope to gain some extra leverage. Bandido pulls off Strickland and ascends to the top rope, then lands a splash to Strickland's spine as Strickland lays stomach first in the pile of tacks that has remained inside the ring (absolutely wild stuff and once again, OUCH!).</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4763" data-id="4763" data-hash="d09218faf44853beeae7e254acd63d80e51ab9aa" id="update-4763">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T02:48:50+00:00" class="timestamp liveblog-entry-date">9:48 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Strickland rips off Bandido's mask, but Page brings the fight to Strickland and rains down right hands on him. Strickland eerily laughs as his face is dripping in blood, but Page cracks a chair across Strickland's midsection and spine. He uses the chair to do the same to Creed and Kofi, then considers cracking the chair across Strickland's head. Strickland laughs once again and spits blood at Page, then delivers a Dead Eye to him.</p>
+<p dir="ltr">Strickland grabs one of his prized cinderblock from the top of the entrance ramps and places it down in the ring as Nana trails behind him. Bandido picks up the cinderblock, but New Level double teams send Bandido crashing into the cinderblock themselves face first.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4764" data-id="4764" data-hash="6ad2f88a8971b52f83e5469bcfd64d97514cb774" id="update-4764">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T02:54:14+00:00" class="timestamp liveblog-entry-date">9:54 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">King places the barbed wire frame on top of New Level on the outside and delivers a crossbody using the barbed wire frame. Strickland drags King up on top of the ring steps and delivers a Dead Eye to him on them, but Page jams a piece of barbed wire into Strickland's head. Page connects with a trio of Buckshot Lariats on Strickland, but Strickland hits Page with a chair when Page goes for the third one. He connects with a House Call on Page to put an end to the match.</p>
+<p dir="ltr"><strong>Winners (and new): Swerve Strickland and New Level</strong></p>
+<p dir="ltr">It takes a lot for me to suggest to you guys that you watch this match yourselves, but this is one that I would absolutely recommend you seek out and watch it fully through for how awesome and incredible it was. It had everything you could ask for from a Texas Death Match between the violence, grittiness, and storytelling. </p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4765" data-id="4765" data-hash="e078cc416076cb5e1dbcd96a7f5f374f39f1e66d" id="update-4765">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T02:55:39+00:00" class="timestamp liveblog-entry-date">9:55 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">We then head backstage, where we see Kyle Fletcher chatting with Don Callis and Will Ospreay grappling with "Speedball" Mike Bailey as Alex Windsor is warming up and Jamie Hayter sits on a couch in preparation for the AEW WOrld Championship and AEW Women's World Tag Team Championships later tonight.</p>
+<p dir="ltr">We then head backstage to a video from Samoa Joe, who calls out Jack Perry for sending him messages earlier tonight in his absence due to travel issues related to the FAA nationwide ground stop yesterday. He calls Perry a fool and says Perry gets his wish this weekend when he comes to "Dynamite" to unmercifully beat Perry in the ring. </p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">SAMOA JOE HAS RESPONDED!<a href="https://x.com/SamoaJoe?ref_src=twsrc%5Etfw" target="_blank">@SamoaJoe</a> heard <a href="https://x.com/boy_myth_legend?ref_src=twsrc%5Etfw" target="_blank">@boy_myth_legend</a> loud and clear during <a href="https://x.com/hashtag/AEWTailgateBrawl?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWTailgateBrawl</a>!</p>
+<p>Now, Joe has a message of his own, and it's one Jack Perry won't soon forget!</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/rrgL6QWyyO" target="_blank">pic.twitter.com/rrgL6QWyyO</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121799984647450672?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">Back at ringside, Kris Statlander and Harley Cameron make their way to the ring. The Brawling Birds follow, with a video preceeding the entrances recapping what's led up to the upcoming match. </p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4766" data-id="4766" data-hash="1eb174bd778f6845667d91a9642b3b665d912c93" id="update-4766">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T03:08:00+00:00" class="timestamp liveblog-entry-date">10:08 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    <h3 class="live-title">The Brawling Birds (c) vs. Kris Statlander and Harley Cameron for the AEW World Women’s Tag Team Championship</h3>
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Alex Windsor and Statlander begin the action. The bell rings and the two lock up. Statlander runs over Windsor with a shoulder tackle and connects with a chop on her, but Hayter tags in and Windsor knocks over Statlander with a dropkick. Statlander delivers a suplex to Hayter, but Cameron tags in and runs over Hayter. Statlander bodyslams Cameron on top of Hayter, but Hayter delivers a suplex to Cameron.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4767" data-id="4767" data-hash="1f2a662e7fd111b7edd98876df7ca3cedd1b654c" id="update-4767">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T03:13:04+00:00" class="timestamp liveblog-entry-date">10:13 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Hayter and Windsor deliver a Russian Leg Sweep-big boot combination to Statlander after Statlander has tagged back in, but Cameron tags back in and Windsor lands an atomic drop on her. Hayter runs over Cameron with a boot and pins her, but Cameron kicks out.</p>
+<p dir="ltr">I have to give these four women their flowers for putting on a pretty decent showing so far having to follow something like the AEW World Trios Championship Texas Death Match. Windsor fires off stomps on Cameron in the corner of the ring and pins her, but Cameron kicks out and The Brawling Birds look to land clotheslines on her. Cameron moves out of the way and The Brawling Birds are sent crashing into one another before Cameron rolls up Windsor and Windsor kicks out.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4768" data-id="4768" data-hash="5b7d16cc3646bc0a037fd1b7a492c7bf59cbeae5" id="update-4768">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T03:13:40+00:00" class="timestamp liveblog-entry-date">10:13 PM EST</time>        
+        <div class="author-name">Miles Schneiderman</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p>That Texas Death match was absolutely insane, and I think the craziest thing about it was New Level's participation. You all seem to agree — commenter JoPo says "The's best part was New Level started the match treating like it was WWE and treated it with reluctance, but then they descended into primal monsters," while Ruthless comments "If someone would've told me years ago New Day would be involved in one of the bloodiest matches in history I probably would've told that person the Unicorns would never do something like that. Never would've thought I would see it lol."</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4769" data-id="4769" data-hash="32918fcc0ddd4aed81706aa023be296c2830a6eb" id="update-4769">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T03:17:05+00:00" class="timestamp liveblog-entry-date">10:17 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Cameron and Windsor exchange right hands with one another as they're in electric chair positions on Hayter and Statlander's shoulders, but Cameron and Hayter exchange some right hands with one another back down on the mat. Statlander lands a missile dropkick to send Hayter crashing into the corner of the ring, but The Brawling Birds land a double clothesline on Statlander and look to land a spinebuster-clothesline combination on her. Cameron pulls Hayter out of the ring as she runs the ropes, opening the door for Statlander to deliver Saturday Night Fever to Windsor and pin her for the win in a title change that I'm honestly not super mad about. </p>
+<p dir="ltr"><strong>Winners (and new): Kris Statlander and Harley Cameron</strong></p>
+<p dir="ltr">After the match, Windsor and Hayter shake hands with Statlander and Cameron. Cameron and Statlander stand tall in the ring holding up their new AEW Women's World Tag Team Championship belts. <strong><br></strong></p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr"><a href="https://x.com/hashtag/AndNEW?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AndNEW</a> 🏆 Wrathlander dethrone The Brawling Birds to become the NEW AEW Women's World Tag Team Champions! 👏</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/nRMGDncgEn" target="_blank">pic.twitter.com/nRMGDncgEn</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121805945500004823?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">We then head over to a video of several AEW stars arriving at a house with food in hand as an advertising for "Dynamite" Thanksgiving Eve and "Collision" Thanksgiving Eve on November 25 and November 26 respectively. </p>
+<p dir="ltr">Back at ringside, Ilja Dragunov makes his way to the ring. Tommaso Ciampa follows, with a video preceeding the entrances to show the recent ongoings between the two men ahead of their upcoming match. </p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4770" data-id="4770" data-hash="61ec814b4203e114cbb07b3aa666011d6152e722" id="update-4770">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T03:35:45+00:00" class="timestamp liveblog-entry-date">10:35 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    <h3 class="live-title">Tommaso Ciampa (c) vs. Ilja Dragunov for the National Championship</h3>
+    
+                <div class="columns-holder ">
+                <p dir="ltr">The bell rings and Dragnov sends Ciampa crashing into the mat spine first. The action spills out of the ring, but Ciampa knocks Dragunov off the ring apron and sends him crashing into a barricade spine first.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4771" data-id="4771" data-hash="a67f9f6d7a8ea4d5f7171f2ba0845af1cf5606ff" id="update-4771">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T03:41:26+00:00" class="timestamp liveblog-entry-date">10:41 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Dragunov fires off stomps on Ciampa's leg inside the ring, then fires off right hands and knees on Ciampa's arm. He runs over Ciampa with a big boot and sets up for an H-Bomb, but Ciampa avoids it and the two men stare one another down. They exchange right hands with one another, but Ciampa sends Dragunov crashing into the ring steps on the outside head first and pins him. Dragunov kicks out.</p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">ON THE EDGE OF THE STEEL STEPS 😨</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/MKTAW4Ryob" target="_blank">pic.twitter.com/MKTAW4Ryob</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121811057693823392?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4772" data-id="4772" data-hash="5c2a698a55e9e0b760e3f52c5377691bda95782e" id="update-4772">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T03:47:24+00:00" class="timestamp liveblog-entry-date">10:47 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Dragunov delivers an H-Bomb to Ciampa on the outside of the ring off the ring apron, but the two men teeter on the ropes and Ciampa delivers a superplex to Dragunov. Dragunov connects with a powerbomb and a H-Bomb on Ciampa for the win.</p>
+<p dir="ltr"><strong>Winner (and new): Ilja Dragunov</strong></p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">.<a href="https://x.com/UNBESIEGBAR_ZAR?ref_src=twsrc%5Etfw" target="_blank">@UNBESIEGBAR_ZAR</a> is putting everything on the line with a D-Bomb off the apron!</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/GTlQV6Zwpz" target="_blank">pic.twitter.com/GTlQV6Zwpz</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121811665129763318?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">We then head over to a video announcing that the Continental Classic begins on this Wednesday's upcoming episode of "Dynamite", and another one recapping the events leading into tonight's AEW Women's World Championship match. </p>
+<p dir="ltr">Back at ringside, Marina Shafir makes her way out. Mercedes Mone follows.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4773" data-id="4773" data-hash="326e2e893b44a286012f83aa14776c53695c3108" id="update-4773">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T03:51:40+00:00" class="timestamp liveblog-entry-date">10:51 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p>Before we get started with the next match, what did you guys think of the AEW World Trios Championship, AEW Women's World Tag Team Championship and AEW National Championship changing hands? Leave us your thoughts down below in the comment section. </p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4774" data-id="4774" data-hash="e25676bf1371c667ca497333ee5b751507c7d078" id="update-4774">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T03:54:44+00:00" class="timestamp liveblog-entry-date">10:54 PM EST</time>        
+        <div class="author-name">Miles Schneiderman</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p>Commenter Ruthless largely sums up the WINC crew's attitudes toward the National title match: "Dam that was a good hard hitting match. But I hate that Tommaso lost the belt after just seven days. Dude deserve longer reigns but still good match."</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4775" data-id="4775" data-hash="a6e5880263dfcabca9007a089b86343b1a7c9aa7" id="update-4775">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T04:01:41+00:00" class="timestamp liveblog-entry-date">11:01 PM EST</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    <h3 class="live-title">Mercedes Mone (c) vs. Marina Shafir for the Women's World Championship</h3>
+    
+                <div class="columns-holder ">
+                <p dir="ltr">The bell rings and Shafir immediately cinches in a submission using her legs on Mone that actually looked pretty fantastic. Mone delivers an arm drag to Shafir, then sends her crashing into the corner of the ring shoulder first and wears her down with a submission hold.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4776" data-id="4776" data-hash="140e02b16340acf6bdb2e80caf888b79e1d1c071" id="update-4776">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T04:17:07+00:00" class="timestamp liveblog-entry-date">5 min ago</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">Shafir chokeslams Mone into the mat and pins her, but Mone kicks out and Shafir taunts Mone by doing Daniel Garcia's dance (in a little moment that I really adored). Shafir cinches in a Brutalizer on Mone as an ode to PAC (another little moment I adored), but Mone transitions into a Statement Maker.</p>
+<p dir="ltr">Mone dumps Shafir onto the ring apron, but Shafir cinches in a submission on Mone on the outside. Shafir pulls Mone out of the ring through the middle rope, then sends Mone crashing off the ring apron. Mone locks in a Statement Maker on Shafir, but Shafir lands a kick on Mone's head. Mone transitions back into a Statement Maker, but Shafir transitions into a Brutalizer on Mone.</p>
+<p dir="ltr"><strong>Winner (and still): Mercedes Mone</strong></p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">.<a href="https://x.com/MercedesVarnado?ref_src=twsrc%5Etfw" target="_blank">@MercedesVarnado</a> tried to send a message with The Brutalizer, but <a href="https://x.com/MarinaShafir?ref_src=twsrc%5Etfw" target="_blank">@MarinaShafir</a> isn't having it! 😤</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/RWgIiOAcM4" target="_blank">pic.twitter.com/RWgIiOAcM4</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121819750095360462?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">After the match, we head over to a video from Tommaso Ciampa who is fuming about losing the National Championship and announces his intention to take part in the 2026 Continental Classic.</p>
+<blockquote class="twitter-tweet" data-dnt="true" align="center">
+<p lang="en" dir="ltr">THE PSYCHO KILLER IS FAR FROM FINISHED!<a href="https://x.com/MrTommasoCiampa?ref_src=twsrc%5Etfw" target="_blank">@MrTommasoCiampa</a> is furious over losing the <a href="https://x.com/hashtag/AEW?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEW</a> National Title, but his focus has already shifted to the Continental Classic!</p>
+<p>Watch <a href="https://x.com/hashtag/AEWFullGear?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AEWFullGear</a> LIVE on HBO Max PPV! <a href="https://t.co/8S4KKwxhHr" target="_blank">pic.twitter.com/8S4KKwxhHr</a></p>
+<p>— All Elite Wrestling (@AEW) <a href="https://x.com/AEW/status/2121820210965389752?ref_src=twsrc%5Etfw" target="_blank">November 15, 2026</a></p>
+</blockquote>
+<p>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></p>
+
+            </div>
+</div>
+    </div>
+</li>
+<li class="live-entry le-4777" data-id="4777" data-hash="ab27def5d55b49ec83d5490a53dcddb074475ee8" id="update-4777">
+    <div class="live-article">
+        <div class="live-header">
+    <div class="live-metadata">
+        <time datetime="2026-11-15T04:21:28+00:00" class="timestamp liveblog-entry-date">18 sec ago</time>        
+        <div class="author-name">Olivia Quinlan</div>
+    </div>
+</div>    
+<div class="live-section">
+    
+    
+                <div class="columns-holder ">
+                <p dir="ltr">We then head backstage, where Andrade El Idolo joins Will Ospreay with his contract for the AEW World Championship in hand and helps tape up Ospreay's hand tape as "Speedball" Mike Bailey stands by. We also see Kyle Fletcher preparing with several push-ups.</p>
+<p dir="ltr">We then head over to a video showing what's led to tonight's Anarchy In The Arena Match.</p>
+
+            </div>
+</div>
+    </div>
+</li>
+</ul></section></div></div>
+    
+</article>            	<div>
+		<div class="disqus-comment-container closed" data-disqus-domain="wrestlinginc" data-disqus-identifier="static_47e18aa8797a8f796006509e8ebea2b4" data-post-url="https://www.wrestlinginc.com/2316784/aew-full-gear-november-14-2026-results/" data-post-title="AEW Full Gear Results 11/14/26 W/ Live Updates: Mercedes Mone Vs. Marina Shafir">
+			<a class="comment-count comment-button disqus-comment-count" data-disqus-identifier="static_47e18aa8797a8f796006509e8ebea2b4"></a>
+			<span id="static_47e18aa8797a8f796006509e8ebea2b4"> Comments</span>
+			<span class="disqus-arrow"></span>
+		</div>
+		<div class="disqus-thread-container"></div>
+		<script id="dsq-count-scr" src="https://wrestlinginc.disqus.com/count.js" async defer></script>
+	</div>            
+            <div class="under-art" data-post-url="https://www.wrestlinginc.com/2316784/aew-full-gear-november-14-2026-results/" data-post-title="AEW Full Gear Results 11/14/26 W/ Live Updates: Mercedes Mone Vs. Marina Shafir"> 
+                <h2 class="section-header">Recommended</h2>
+                <input type="hidden" class="next-article-url" value="https://www.wrestlinginc.com/2241662/wwe-ilja-dragunov-additional-details-departure/"/>
+                                <div class="zergnet-widget" id="zergnet-widget-90808" data-lazyload="2000" data-no-snippet>
+                    <div class="loading-more">
+    <svg xmlns="http://www.w3.org/2000/svg" style="margin:auto;background:0 0;display:block;shape-rendering:auto" width="30px" height="30px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+        <path fill="#E29B2E" d="M0 0h25v25H0z"><animate attributeName="fill" values="#ffffff;#E29B2E;#E29B2E" keyTimes="0;0.08333333333333333;1" dur="1.1764705882352942s" repeatCount="indefinite" begin="0s" calcMode="discrete"/></path>
+        <path fill="#E29B2E" d="M25 0h25v25H25z"><animate attributeName="fill" values="#ffffff;#E29B2E;#E29B2E" keyTimes="0;0.08333333333333333;1" dur="1.1764705882352942s" repeatCount="indefinite" begin="0.09803921568627452s" calcMode="discrete"/></path>
+        <path fill="#E29B2E" d="M50 0h25v25H50z"><animate attributeName="fill" values="#ffffff;#E29B2E;#E29B2E" keyTimes="0;0.08333333333333333;1" dur="1.1764705882352942s" repeatCount="indefinite" begin="0.19607843137254904s" calcMode="discrete"/></path>
+        <path fill="#E29B2E" d="M75 0h25v25H75z"><animate attributeName="fill" values="#ffffff;#E29B2E;#E29B2E" keyTimes="0;0.08333333333333333;1" dur="1.1764705882352942s" repeatCount="indefinite" begin="0.29411764705882354s" calcMode="discrete"/></path>
+        <path fill="#E29B2E" d="M0 25h25v25H0z"><animate attributeName="fill" values="#ffffff;#E29B2E;#E29B2E" keyTimes="0;0.08333333333333333;1" dur="1.1764705882352942s" repeatCount="indefinite" begin="1.0784313725490198s" calcMode="discrete"/></path>
+        <path fill="#E29B2E" d="M75 25h25v25H75z"><animate attributeName="fill" values="#ffffff;#E29B2E;#E29B2E" keyTimes="0;0.08333333333333333;1" dur="1.1764705882352942s" repeatCount="indefinite" begin="0.3921568627450981s" calcMode="discrete"/></path>
+        <path fill="#E29B2E" d="M0 50h25v25H0z"><animate attributeName="fill" values="#ffffff;#E29B2E;#E29B2E" keyTimes="0;0.08333333333333333;1" dur="1.1764705882352942s" repeatCount="indefinite" begin="0.9803921568627452s" calcMode="discrete"/></path>
+        <path fill="#E29B2E" d="M75 50h25v25H75z"><animate attributeName="fill" values="#ffffff;#E29B2E;#E29B2E" keyTimes="0;0.08333333333333333;1" dur="1.1764705882352942s" repeatCount="indefinite" begin="0.4901960784313726s" calcMode="discrete"/></path>
+        <path fill="#E29B2E" d="M0 75h25v25H0z"><animate attributeName="fill" values="#ffffff;#E29B2E;#E29B2E" keyTimes="0;0.08333333333333333;1" dur="1.1764705882352942s" repeatCount="indefinite" begin="0.8823529411764707s" calcMode="discrete"/></path>
+        <path fill="#E29B2E" d="M25 75h25v25H25z"><animate attributeName="fill" values="#ffffff;#E29B2E;#E29B2E" keyTimes="0;0.08333333333333333;1" dur="1.1764705882352942s" repeatCount="indefinite" begin="0.7843137254901962s" calcMode="discrete"/></path>
+        <path fill="#E29B2E" d="M50 75h25v25H50z"><animate attributeName="fill" values="#ffffff;#E29B2E;#E29B2E" keyTimes="0;0.08333333333333333;1" dur="1.1764705882352942s" repeatCount="indefinite" begin="0.6862745098039216s" calcMode="discrete"/></path>
+        <path fill="#E29B2E" d="M75 75h25v25H75z"><animate attributeName="fill" values="#ffffff;#E29B2E;#E29B2E" keyTimes="0;0.08333333333333333;1" dur="1.1764705882352942s" repeatCount="indefinite" begin="0.5882352941176471s" calcMode="discrete"/></path>
+    </svg>
+</div>
+                </div>
+        	</div>
+                            <script language="javascript" type="text/javascript">
+                    setTimeout(function() {
+                        var n = document.getElementById("#zergnet-widget-90808");
+                        var h = false;
+                        if ( n ) {
+                            h = n.innerHTML;
+                        }
+                        if ( h ) {
+                            return false;
+                        }
+                        var zergnet = document.createElement('script');
+                        zergnet.type = 'text/javascript'; zergnet.async = true;
+                        zergnet.src = '//www.zergnet.com/zerg.js?v=1&id=90808';
+                        var znscr = document.getElementsByTagName('script')[0];
+                        znscr.parentNode.insertBefore(zergnet, znscr);
+                    }, 3500);
+                </script>
+                           <div id="div-ad-1x1a" class="google-ad-placeholder clear placeholder placeholder-1-1" data-ad-height="any" data-ad-width="any" data-ad-pos="1x1"></div>
+
+        </div>
+    </div>
+    <div class="sidebar-container">
+                <div id="floatingAd">
+                    </div>
+    </div>
+    </main>
+
+</div>
+</div>
+
+            
+                        <script>
+        window.LooperConfig = window.LooperConfig || {};
+        window.dataLayer = window.dataLayer || [];
+        window.LooperConfig.ga4tag = "G-D0CH5KJPK0";
+        window.LooperConfig.ga4data = {"author":"Olivia Quinlan","category":"aew-news","content_type":"Liveblog","mod_date":"2026-11-14","layout":"Infinite","post_id":2316784,"pub_date":"2026-11-14","day":"Saturday","dayhour":"Saturday-4PM","pubhour":"4PM","num_slides":2,"num_words":800,"pitcher":"Olivia Quinlan","trello_board":"News","intent":"liveblog","ideation":"liveblog"};
+        window.LooperConfig.categories = ["AEW News"];
+        window.LooperReady = function(){
+            if ( typeof( window.LooperReadyInside ) !== 'undefined' ) {
+                window.LooperReadyInside();
+            }
+            LooperConfig.params = false;
+            try {
+                LooperConfig.params = (new URL(document.location)).searchParams;
+            } catch( e ) {
+                //do nothing
+            }
+            
+            var widgets = document.querySelectorAll(".zergnet-widget");
+            var hasWidget = false;
+            for ( i = 0; i < widgets.length; i++ ) {
+                if ( !hasWidget && LoopGalObj.isVisible(widgets[i]) ) {
+                    hasWidget = true;
+                }
+            }
+            if (!hasWidget) {
+                LooperConfig['ga4data']["ad_block"] = true;
+            } else {
+                LooperConfig['ga4data']["ad_block"] = false;
+            }
+
+            var validZSource = {"newsletter":"newsletter","flipboard":"flipboard","smartnews":"smartnews","smartnews_sponsored":"smartnews_sponsored","msnsyndicated":"msnsyndicated","newsbreakapp":"newsbreakapp","topbuzz":"topbuzz","zinf_abtest":"zinf_abtest","nexthighlights":"nexthighlights","fb":"fb","fb_ios":"fb_ios","fb_android":"fb_android","gemini":"gemini","facebook_organic":"facebook_organic","gdiscover_sponsored":"gdiscover_sponsored","googlenewsapp":"googlenewsapp","snapchat":"snapchat","dt_app":"dt_app","youtube":"youtube","opera":"opera","aol":"aol"};
+
+            if (window.location.href.indexOf("zsource") !== -1) {
+                var vars = {};
+                var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                    vars[key] = value.toLowerCase();
+                });
+                if (typeof( vars['zsource'] !== "undefined") && typeof( validZSource[vars['zsource']] ) !== "undefined") {
+                    LooperConfig['zsource'] = validZSource[vars['zsource']];
+                }
+            }
+
+            if (typeof( LooperConfig['zsource'] ) !== "undefined") {
+                LooperConfig['ga4data']["zsource"] = LooperConfig['zsource'];
+            }
+
+            LooperConfig['ga4data']['view_type'] = Looper.viewType;
+            LooperConfig['ga4data']['last_id'] = Looper.lastID;
+            LooperConfig['ga4data']['last_url'] = Looper.lastURL;
+            LooperConfig['ga4data']['infinite_position'] = 0;
+            
+            let is_config = Object.assign({},LooperConfig.ga4data);
+            is_config['event'] = "looper_page_view_ready";
+            is_config['ga4tag'] = LooperConfig.ga4tag;
+            
+            window.dataLayer.push(is_config);
+        };
+    </script>
+                <script type="text/javascript" src="/wp-content/themes/unified/js/loopgal.min.js?v=1791993771"></script>
+        <script>
+        (function(){
+                    var config = {};
+        config['v3UI'] = true;
+config['newGTM'] = true;
+config['allowFullUrlForID'] = true;
+config['allowLiveblog'] = true;
+config['liveblogDirection'] = 'ASC';
+config['doHeaderHide'] = true;
+config['disqusDomain'] = 'wrestlinginc';
+
+            window.LoopGalObj = new LoopGal( config );
+                    window.Looper = new LoopEs();
+        if ( typeof( LooperReady ) !== "undefined" ){
+            LooperReady();
+        }
+        })();
+        </script>
+        <script type="text/javascript" async src="https://btloader.com/tag?o=5698917485248512&upapi=true&domain=wrestlinginc.com"></script>
+
+<script>!function(){"use strict";var e;e=document,function(){var t,n;function r(){var t=e.createElement("script");t.src="https://cafemedia-com.videoplayerhub.com/galleryplayer.js",e.head.appendChild(t)}function a(){var t=e.cookie.match("(^|[^;]+)\s*__adblocker\s*=\s*([^;]+)");return t&&t.pop()}function c(){clearInterval(n)}return{init:function(){var e;"true"===(t=a())?r():(e=0,n=setInterval((function(){100!==e&&"false" !== t || c(), "true" === t && (r(), c()), t = a(), e++}), 50))}}}().init()}();
+</script>
+        
+        
+        
+        
+            <script>
+    window.LooperConfig = window.LooperConfig || {};
+    window.LooperConfig.clip = {"readmore":{"text":"Read More: "},"followus":{"text":"Follow Us: ","enabled":0},"visitus":{"text":"Visit Us At: ","enabled":0}};
+    
+    (self.PREFERRED_SOURCE = self.PREFERRED_SOURCE || []).push(function(preferredSource) {
+        preferredSource.init({
+        theme: 'light',
+        lang: 'en'
+    });
+const button = document.querySelector('#preferred-source');
+button.addEventListener('click', () => {
+        preferredSource.addPreferredSource();
+    });
+});
+</script>
+</body>
+</html>
