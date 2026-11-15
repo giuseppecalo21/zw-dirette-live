@@ -1,0 +1,12 @@
+{
+  "file": "20261115042210-00-r12-1.json",
+  "action": "add_update",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-15T04:22:21+00:00",
+  "response": {
+    "created": true,
+    "id": 100,
+    "url": "https://zonawrestling.net/diretta-live-aew-full-gear-2026/#update-100"
+  }
+}
