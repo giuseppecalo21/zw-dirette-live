@@ -1,0 +1,14 @@
+{
+  "file": "20261118033050-00-set-status.json",
+  "action": "set_status",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-18T03:30:58+00:00",
+  "response": {
+    "post_id": 385740,
+    "enabled": "1",
+    "status": "ended",
+    "end_hours": 2,
+    "source_url": ""
+  }
+}
