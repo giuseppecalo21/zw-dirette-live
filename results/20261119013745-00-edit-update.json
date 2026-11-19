@@ -1,0 +1,12 @@
+{
+  "file": "20261119013745-00-edit-update.json",
+  "action": "edit_update",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-19T01:38:00+00:00",
+  "response": {
+    "updated": true,
+    "id": 135,
+    "url": "https://zonawrestling.net/diretta-live-aew-dynamite-del-18-11-2026/#update-135"
+  }
+}
