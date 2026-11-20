@@ -1,0 +1,129 @@
+{
+  "file": "20261120235216-00-get.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T23:52:23+00:00",
+  "response": [
+    {
+      "id": 385888,
+      "date": "2026-11-20T19:02:01",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: ROH TV 19.11.2026"
+      }
+    },
+    {
+      "id": 385875,
+      "date": "2026-11-20T15:36:12",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW Bound For Unbound 2026"
+      }
+    },
+    {
+      "id": 385869,
+      "date": "2026-11-20T15:34:18",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: TNA iMPACT 19.11.2026"
+      }
+    },
+    {
+      "id": 385866,
+      "date": "2026-11-20T15:33:33",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: TNA iMPACT 19.11.2026"
+      }
+    },
+    {
+      "id": 385873,
+      "date": "2026-11-19T15:54:53",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW TANAHASHI Jam 2 2026"
+      }
+    },
+    {
+      "id": 385871,
+      "date": "2026-11-19T05:30:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE Evolve 18.11.2026"
+      }
+    },
+    {
+      "id": 385864,
+      "date": "2026-11-19T01:15:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: AEW Dynamite 18.11.2026"
+      }
+    },
+    {
+      "id": 385767,
+      "date": "2026-11-18T12:55:02",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Martes de Arena México 17.11.2026"
+      }
+    },
+    {
+      "id": 385743,
+      "date": "2026-11-18T06:56:13",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE NXT 17.11.2026"
+      }
+    },
+    {
+      "id": 385710,
+      "date": "2026-11-17T12:57:02",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL x NJPW Lucha Kingdom 2026"
+      }
+    },
+    {
+      "id": 385707,
+      "date": "2026-11-17T12:55:16",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Revolución de Campeones 2026"
+      }
+    },
+    {
+      "id": 385810,
+      "date": "2026-11-17T12:00:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: Wrestling Open RI (Beyond Wrestling) 16.11.2026"
+      }
+    },
+    {
+      "id": 385698,
+      "date": "2026-11-17T06:56:21",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: GCW Bedlam In Boise 2026"
+      }
+    },
+    {
+      "id": 385695,
+      "date": "2026-11-17T06:55:18",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE Raw 16.11.2026"
+      }
+    },
+    {
+      "id": 385678,
+      "date": "2026-11-16T19:02:16",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE NXT Holiday Live Tour Chicago 15.11.2026"
+      }
+    }
+  ]
+}
