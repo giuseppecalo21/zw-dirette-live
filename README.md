@@ -6,3 +6,5 @@ Claude salva un file JSON in `queue/`; GitHub Actions lo invia all'API REST di W
 (utente dedicato con password delle applicazioni nei segreti del repository) e scrive l'esito in `results/`.
 
 Segreti richiesti: `WP_BASE_URL`, `WP_USER`, `WP_APP_PASSWORD`.
+
+Il ponte serve anche a "Risultati automatici" per pubblicare articoli con immagine in evidenza (azione `create_post_image`, vedi `RISULTATI.md`).

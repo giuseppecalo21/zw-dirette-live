@@ -1,5 +1,7 @@
 # Dirette live di Zona Wrestling — istruzioni operative per Claude
 
+> Se sei l'attività "Risultati automatici", queste istruzioni non ti riguardano: leggi e segui solo `RISULTATI.md`.
+
 Questo repository è il ponte tra te (Claude) e zonawrestling.net. Tu scrivi file JSON nella coda;
 GitHub Actions li invia all'API REST di WordPress (plugin "WP Wrestling Live Pro") e scrive l'esito in `results/`.
 Tutto passa da `scripts/zw.py`: non chiamare mai il sito o le fonti in altro modo.
