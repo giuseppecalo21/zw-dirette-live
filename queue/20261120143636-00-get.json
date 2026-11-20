@@ -1,0 +1,1 @@
+{"action": "get", "path": "wp/v2/posts?include=385864,385866,385871,385873,385875&context=edit&_fields=id,status,author,featured_media,categories,date"}
