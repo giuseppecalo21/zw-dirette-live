@@ -1,0 +1,37 @@
+{
+  "file": "20261120143147-00-risultato-1.json",
+  "action": "create_post_image",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-20T14:32:42+00:00",
+  "response": {
+    "image": {
+      "ok": true,
+      "media_id": 385863,
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2026/11/20/risultati-aew-dynamite-18-11-2026.jpg"
+    },
+    "post": {
+      "id": 385864,
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-aew-dynamite-18-11-2026/",
+      "slug": "risultati-aew-dynamite-18-11-2026",
+      "date": "2026-11-19T01:15:00",
+      "featured_media": 385863,
+      "categories": [
+        10805,
+        2
+      ],
+      "tags": [
+        10650,
+        11389,
+        11538,
+        10720,
+        15075,
+        11054,
+        11543,
+        16054
+      ],
+      "title": "RISULTATI: AEW Dynamite 18.11.2026"
+    }
+  }
+}
