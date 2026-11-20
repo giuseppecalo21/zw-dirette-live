@@ -1,0 +1,11 @@
+{
+  "file": "20261120085742-00-c1.json",
+  "action": "check_image",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T08:57:51+00:00",
+  "response": {
+    "content_type": "image/jpeg",
+    "bytes": 141734
+  }
+}
