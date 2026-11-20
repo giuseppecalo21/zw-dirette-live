@@ -1,0 +1,129 @@
+{
+  "file": "20261120142116-00-dup.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:22:16+00:00",
+  "response": [
+    {
+      "id": 385767,
+      "date": "2026-11-18T12:55:02",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Martes de Arena México 17.11.2026"
+      }
+    },
+    {
+      "id": 385743,
+      "date": "2026-11-18T06:56:13",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE NXT 17.11.2026"
+      }
+    },
+    {
+      "id": 385710,
+      "date": "2026-11-17T12:57:02",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL x NJPW Lucha Kingdom 2026"
+      }
+    },
+    {
+      "id": 385707,
+      "date": "2026-11-17T12:55:16",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Revolución de Campeones 2026"
+      }
+    },
+    {
+      "id": 385810,
+      "date": "2026-11-17T12:00:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: Wrestling Open RI (Beyond Wrestling) 16.11.2026"
+      }
+    },
+    {
+      "id": 385698,
+      "date": "2026-11-17T06:56:21",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: GCW Bedlam In Boise 2026"
+      }
+    },
+    {
+      "id": 385695,
+      "date": "2026-11-17T06:55:18",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE Raw 16.11.2026"
+      }
+    },
+    {
+      "id": 385678,
+      "date": "2026-11-16T19:02:16",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE NXT Holiday Live Tour Chicago 15.11.2026"
+      }
+    },
+    {
+      "id": 385675,
+      "date": "2026-11-16T18:59:43",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Domingo Familiar 15.11.2026"
+      }
+    },
+    {
+      "id": 385645,
+      "date": "2026-11-16T15:58:26",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: SIW Colossal 2026 Parte 2"
+      }
+    },
+    {
+      "id": 385611,
+      "date": "2026-11-16T06:54:22",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: TNA Destination X 2026"
+      }
+    },
+    {
+      "id": 385586,
+      "date": "2026-11-15T18:54:56",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE NXT Holiday Live Tour Detroit 14.11.2026"
+      }
+    },
+    {
+      "id": 385583,
+      "date": "2026-11-15T18:53:48",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: GCW Massacre in Missoula 2026"
+      }
+    },
+    {
+      "id": 385770,
+      "date": "2026-11-15T12:00:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NWA Powerrr 14.11.2026"
+      }
+    },
+    {
+      "id": 385672,
+      "date": "2026-11-15T12:00:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Sábado de Coliseo 14.11.2026"
+      }
+    }
+  ]
+}
