@@ -9,6 +9,10 @@
         SHOW = raw | nxt | smackdown | dynamite | collision | <evento speciale in shows.json>   DATA = AAAA-MM-GG (data USA dello show)
   python3 scripts/zw.py page URL --key CHIAVE              come feed ma su una pagina (fonte di riserva)
   python3 scripts/zw.py state CHIAVE [--set k=v ...]       legge/aggiorna lo stato della diretta (state/CHIAVE.json)
+  python3 scripts/zw.py read URL [--links PAROLA]          scarica una pagina tramite GitHub (domini consentiti in
+                                                           process_queue.py) e stampa meta tag (og:image, date di
+                                                           pubblicazione/modifica), testo e, con --links, i link che
+                                                           contengono PAROLA. Serve quando WebFetch è bloccato.
 """
 import html
 import json
@@ -206,6 +210,42 @@ def cmd_page(url, key):
     diff_and_save(key, strip_html(m.group(2) if m else body), {"url": url})
 
 
+def cmd_read(url, link_word=None):
+    res = send([("read", {"action": "fetch", "url": url})])[0]
+    if not res["ok"]:
+        sys.exit(f"Pagina non scaricata: {summarize(res)}")
+    body = (RESULTS / res["body_file"]).read_text("utf-8")
+    meta = {}
+    for m in re.finditer(r'<meta\s+[^>]*>', body, re.I):
+        tag = m.group(0)
+        k = re.search(r'(?:property|name|itemprop)=["\']([^"\']+)["\']', tag, re.I)
+        v = re.search(r'content=["\']([^"\']*)["\']', tag, re.I)
+        if k and v and k.group(1).lower() in ("og:title", "og:image", "twitter:image", "article:published_time",
+                                              "article:modified_time", "og:updated_time", "datepublished", "datemodified",
+                                              "description", "og:description"):
+            meta[k.group(1).lower()] = html.unescape(v.group(1))
+    for k in ("datePublished", "dateModified"):
+        m = re.search(r'"' + k + r'"\s*:\s*"([^"]+)"', body)
+        if m:
+            meta["jsonld_" + k] = m.group(1)
+    t = re.search(r"(?is)<title>(.*?)</title>", body)
+    print(json.dumps({"url": url, "title": html.unescape(t.group(1).strip()) if t else None, **meta}, ensure_ascii=False, indent=1))
+    if link_word:
+        from urllib.parse import urljoin
+        seen = set()
+        print("=" * 60 + f"\nLINK che contengono '{link_word}':")
+        for m in re.finditer(r'<a\s[^>]*href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', body, re.I | re.S):
+            href = urljoin(url, html.unescape(m.group(1)))
+            text = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", m.group(2)))).strip()
+            if link_word.lower() in href.lower() and href not in seen and text:
+                seen.add(href)
+                print(f"- {text[:160]} | {href}")
+    m = re.search(r'(?is)<article[^>]*>(.*?)</article>', body)
+    paras = strip_html(m.group(1) if m else body)
+    print("=" * 60)
+    print("\n\n".join(paras)[:60000])
+
+
 def cmd_state(key, sets, quiet=False):
     STATE.mkdir(exist_ok=True)
     f = STATE / f"{key}.json"
@@ -248,6 +288,9 @@ def main(argv):
         cmd_feed(argv[2], argv[3], key)
     elif cmd == "page":
         cmd_page(argv[2], argv[argv.index("--key") + 1])
+    elif cmd == "read":
+        lw = argv[argv.index("--links") + 1] if "--links" in argv else None
+        cmd_read(argv[2], lw)
     elif cmd == "state":
         sets = [a for a in argv[3:] if a != "--set"]
         cmd_state(argv[2], sets)
