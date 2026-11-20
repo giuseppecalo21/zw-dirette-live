@@ -1,0 +1,22 @@
+{
+  "file": "20261120235441-00-get.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T23:54:53+00:00",
+  "response": {
+    "id": 385900,
+    "date": "2026-11-21T00:54:10",
+    "status": "publish",
+    "link": "https://zonawrestling.net/risultati-wwe-road-to-survivor-series-19-11-2026/",
+    "title": {
+      "raw": "RISULTATI: WWE Road to Survivor Series 19.11.2026"
+    },
+    "author": 1,
+    "featured_media": 385899,
+    "categories": [
+      2,
+      53
+    ]
+  }
+}
