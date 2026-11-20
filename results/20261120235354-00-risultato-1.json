@@ -1,0 +1,37 @@
+{
+  "file": "20261120235354-00-risultato-1.json",
+  "action": "create_post_image",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-20T23:54:31+00:00",
+  "response": {
+    "image": {
+      "ok": true,
+      "media_id": 385899,
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2026/11/21/risultati-wwe-road-to-survivor-series-19-11-2026.jpg"
+    },
+    "post": {
+      "id": 385900,
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-wwe-road-to-survivor-series-19-11-2026/",
+      "slug": "risultati-wwe-road-to-survivor-series-19-11-2026",
+      "date": "2026-11-21T00:54:10",
+      "featured_media": 385899,
+      "categories": [
+        2,
+        53
+      ],
+      "tags": [
+        3456,
+        297,
+        12571,
+        14162,
+        13527,
+        362,
+        3267,
+        13862
+      ],
+      "title": "RISULTATI: WWE Road to Survivor Series 19.11.2026"
+    }
+  }
+}
