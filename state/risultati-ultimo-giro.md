@@ -1,16 +1,14 @@
 # Risultati automatici – ultimo giro
 
-Ora: 20/11/2026 18:51–19:03 (ora italiana). Canale: GitHub (create_post_image). Make non chiamato (crediti fino al 22/11 23:30).
+Ora: 21/11/2026 00:50–00:56 (ora italiana). Canale: GitHub (create_post_image). Make non chiamato (crediti fino al 22/11 23:30).
 
 ## Candidati (Fightful, ultime 48 ore)
-- ROH TV 19.11 (pubbl. 20/11 16:30 UTC) → PUBBLICATO dopo i 90 minuti: https://zonawrestling.net/risultati-roh-tv-19-11-2026/ (id 385888)
-- PRODUCE x ASSEMBLY 14.11 (pubbl. 19/11 20:04 UTC) → PUBBLICATO, retrodatato al 15/11 20:00: https://zonawrestling.net/risultati-produce-x-assembly-2026/ (id 385886, categoria Altro)
-- AEW Dynamite 18.11, TNA iMPACT 19.11, WWE EVOLVE 18.11, NJPW TANAHASHI Jam 2, NJPW Bound For Unbound → già pubblicati nel giro precedente.
-
-Entrambi: immagine ok, autore 1, categorie Risultati + federazione.
+- WWE Road To Survivor Series Live Event Huntsville 19.11 (pubbl. 20/11 21:00 UTC) → PUBBLICATO: https://zonawrestling.net/risultati-wwe-road-to-survivor-series-19-11-2026/ (id 385900; immagine ok, autore 1, categorie Risultati + WWE)
+- ROH TV 19.11, NJPW Bound For Unbound, TNA iMPACT 19.11, PRODUCE x ASSEMBLY, NJPW TANAHASHI Jam 2, WWE EVOLVE 18.11, AEW Dynamite 18.11 → già pubblicati.
 
 ## Da controllare
-- DOPPIONE TNA iMPACT 19.11: oltre a 385866 (creato dal giro delle 15:30) esiste 385869 (https://zonawrestling.net/risultati-tna-impact-19-11-2026-2/, pubblicato 15:34, autore 1). Non risulta tra i job di results/: non toccato, da eliminare a mano.
+- DOPPIONE TNA iMPACT 19.11 ancora presente: 385866 e 385869 (https://zonawrestling.net/risultati-tna-impact-19-11-2026-2/). Non toccato, da eliminare a mano.
 
-## Mancanti su Fightful
-- WWE Main Event: non presente nell'elenco Fightful in questo giro.
+## Note
+- Il clone locale era in "detached HEAD" e zw.py non riusciva a fare push ("push fallito"): risolto con `git checkout -B main origin/main`.
+- SmackDown 20.11 non ancora presente su Fightful (show in corso/appena finito negli USA).
