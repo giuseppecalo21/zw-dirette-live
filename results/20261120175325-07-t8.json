@@ -1,0 +1,39 @@
+{
+  "file": "20261120175325-07-t8.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T17:53:40+00:00",
+  "response": [
+    {
+      "id": 18680,
+      "count": 1,
+      "name": "PRODUCE"
+    },
+    {
+      "id": 18482,
+      "count": 2,
+      "name": "Produce Wrestling"
+    },
+    {
+      "id": 10788,
+      "count": 13,
+      "name": "producer"
+    },
+    {
+      "id": 11299,
+      "count": 1,
+      "name": "Producers"
+    },
+    {
+      "id": 12709,
+      "count": 1,
+      "name": "video producer"
+    },
+    {
+      "id": 10727,
+      "count": 5,
+      "name": "WWE producers"
+    }
+  ]
+}

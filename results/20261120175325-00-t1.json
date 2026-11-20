@@ -1,0 +1,59 @@
+{
+  "file": "20261120175325-00-t1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T17:53:35+00:00",
+  "response": [
+    {
+      "id": 18635,
+      "count": 0,
+      "name": "#ROH"
+    },
+    {
+      "id": 10603,
+      "count": 1,
+      "name": "17esimo Anniversario ROH"
+    },
+    {
+      "id": 8354,
+      "count": 1,
+      "name": "AAA. ROH"
+    },
+    {
+      "id": 18161,
+      "count": 8,
+      "name": "Best of ROH"
+    },
+    {
+      "id": 4010,
+      "count": 2,
+      "name": "Mr. ROH"
+    },
+    {
+      "id": 148,
+      "count": 1509,
+      "name": "roh"
+    },
+    {
+      "id": 4164,
+      "count": 1,
+      "name": "ROH 13th Anniversary"
+    },
+    {
+      "id": 9577,
+      "count": 0,
+      "name": "ROH 19/07"
+    },
+    {
+      "id": 16690,
+      "count": 1,
+      "name": "ROH 6 Man Tag Team Championship"
+    },
+    {
+      "id": 14758,
+      "count": 5,
+      "name": "roh championship"
+    }
+  ]
+}

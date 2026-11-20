@@ -1,0 +1,14 @@
+{
+  "file": "20261120175325-03-t4.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T17:53:37+00:00",
+  "response": [
+    {
+      "id": 11508,
+      "count": 13,
+      "name": "HYAN"
+    }
+  ]
+}

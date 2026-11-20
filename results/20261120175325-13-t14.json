@@ -1,0 +1,44 @@
+{
+  "file": "20261120175325-13-t14.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T17:53:52+00:00",
+  "response": [
+    {
+      "date": "2026-10-13T10:00:00",
+      "link": "https://zonawrestling.net/risultati-produce-volume-5-skoden-2026/",
+      "title": {
+        "rendered": "RISULTATI: PRODUCE Volume 5: Skoden 2026"
+      }
+    },
+    {
+      "date": "2026-06-05T19:57:53",
+      "link": "https://zonawrestling.net/aew-si-amplia-lofferta-streaming-di-myaew-arrivano-anche-ppv-indipendenti/",
+      "title": {
+        "rendered": "AEW: Si amplia l&#8217;offerta streaming di myAEW, arrivano anche PPV indipendenti"
+      }
+    },
+    {
+      "date": "2025-03-30T22:29:07",
+      "link": "https://zonawrestling.net/wwe-gcw-charlie-dempsey-sfida-shinya-aoki-a-bloodsport/",
+      "title": {
+        "rendered": "WWE/GCW: Charlie Dempsey sfida Shinya Aoki a Bloodsport"
+      }
+    },
+    {
+      "date": "2024-04-05T15:50:00",
+      "link": "https://zonawrestling.net/risultati-gcw-josh-barnetts-bloodsport-x-04-04-2024/",
+      "title": {
+        "rendered": "RISULTATI: GCW Josh Barnett&#8217;s Bloodsport X 04.04.2024"
+      }
+    },
+    {
+      "date": "2024-04-05T12:32:08",
+      "link": "https://zonawrestling.net/gcw-stardom-e-defy-protagoniste-in-quel-di-philadelphia-i-risultati-del-primo-giorno-di-wrestlemania-week/",
+      "title": {
+        "rendered": "GCW, STARDOM e DEFY protagoniste in quel di Philadelphia: i risultati del &#8220;primo giorno&#8221; di Wrestlemania Week"
+      }
+    }
+  ]
+}

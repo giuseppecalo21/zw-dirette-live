@@ -1,0 +1,14 @@
+{
+  "file": "20261120175325-05-t6.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T17:53:38+00:00",
+  "response": [
+    {
+      "id": 12733,
+      "count": 23,
+      "name": "Grizzled Young Veterans"
+    }
+  ]
+}

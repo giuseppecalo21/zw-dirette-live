@@ -1,0 +1,44 @@
+{
+  "file": "20261120175325-11-t12.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T17:53:47+00:00",
+  "response": [
+    {
+      "date": "2025-06-19T12:06:38",
+      "link": "https://zonawrestling.net/aew-bryan-danielson-torna-a-sorpresa-e-salva-blue-panther-dopo-grand-slam-mexico/",
+      "title": {
+        "rendered": "AEW: Bryan Danielson torna a sorpresa e salva Blue Panther dopo Grand Slam Mexico"
+      }
+    },
+    {
+      "date": "2025-05-23T12:50:57",
+      "link": "https://zonawrestling.net/collision-22-05-2025-ultima-fermata-prima-di-double-or-nothing/",
+      "title": {
+        "rendered": "Collision 22.05.2025 Ultima fermata prima di Double or Nothing"
+      }
+    },
+    {
+      "date": "2024-08-24T14:22:21",
+      "link": "https://zonawrestling.net/aew-cmll-grande-serata-per-castagnoli-in-messico-vince-linternational-grand-prix/",
+      "title": {
+        "rendered": "AEW/CMLL: Grande serata per Castagnoli in Messico, vince l’International Grand Prix"
+      }
+    },
+    {
+      "date": "2024-07-14T09:38:06",
+      "link": "https://zonawrestling.net/risultati-njpw-presents-cmll-fantastica-mania-2024-13-07-2024-difesi-titoli-cmll-e-mlw/",
+      "title": {
+        "rendered": "RISULTATI: NJPW Presents CMLL Fantastica Mania 2024 13.07.2024 (Difesi titoli CMLL e MLW)"
+      }
+    },
+    {
+      "date": "2024-04-02T12:50:00",
+      "link": "https://zonawrestling.net/risultati-cmll-homenaje-a-dos-leyendas-2024-puebla-01-04-2024/",
+      "title": {
+        "rendered": "RISULTATI: CMLL &#8220;Homenaje A Dos Leyendas 2024 &#8211; Puebla&#8221; 01.04.2024"
+      }
+    }
+  ]
+}
