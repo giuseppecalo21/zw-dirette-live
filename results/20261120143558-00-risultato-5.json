@@ -1,0 +1,33 @@
+{
+  "file": "20261120143558-00-risultato-5.json",
+  "action": "create_post_image",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-20T14:36:25+00:00",
+  "response": {
+    "image": {
+      "ok": true,
+      "media_id": 385874,
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2026/11/20/risultati-njpw-bound-for-unbound-2026.jpg"
+    },
+    "post": {
+      "id": 385875,
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-njpw-bound-for-unbound-2026/",
+      "slug": "risultati-njpw-bound-for-unbound-2026",
+      "date": "2026-11-20T15:36:12",
+      "featured_media": 385874,
+      "categories": [
+        10273,
+        2
+      ],
+      "tags": [
+        8587,
+        123,
+        2685,
+        14238
+      ],
+      "title": "RISULTATI: NJPW Bound For Unbound 2026"
+    }
+  }
+}
