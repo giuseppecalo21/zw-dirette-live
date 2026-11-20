@@ -1,0 +1,22 @@
+{
+  "file": "20261120180225-02-v385869.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T18:02:43+00:00",
+  "response": {
+    "id": 385869,
+    "date": "2026-11-20T15:34:18",
+    "status": "publish",
+    "link": "https://zonawrestling.net/risultati-tna-impact-19-11-2026-2/",
+    "title": {
+      "raw": "RISULTATI: TNA iMPACT 19.11.2026"
+    },
+    "author": 1,
+    "featured_media": 385867,
+    "categories": [
+      2,
+      9547
+    ]
+  }
+}

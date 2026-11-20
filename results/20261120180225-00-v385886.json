@@ -1,0 +1,22 @@
+{
+  "file": "20261120180225-00-v385886.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T18:02:42+00:00",
+  "response": {
+    "id": 385886,
+    "date": "2026-11-15T20:00:00",
+    "status": "publish",
+    "link": "https://zonawrestling.net/risultati-produce-x-assembly-2026/",
+    "title": {
+      "raw": "RISULTATI: PRODUCE x ASSEMBLY 2026"
+    },
+    "author": 1,
+    "featured_media": 385885,
+    "categories": [
+      52,
+      2
+    ]
+  }
+}

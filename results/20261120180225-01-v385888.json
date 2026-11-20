@@ -1,0 +1,22 @@
+{
+  "file": "20261120180225-01-v385888.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T18:02:42+00:00",
+  "response": {
+    "id": 385888,
+    "date": "2026-11-20T19:02:01",
+    "status": "publish",
+    "link": "https://zonawrestling.net/risultati-roh-tv-19-11-2026/",
+    "title": {
+      "raw": "RISULTATI: ROH TV 19.11.2026"
+    },
+    "author": 1,
+    "featured_media": 385887,
+    "categories": [
+      2,
+      50
+    ]
+  }
+}
