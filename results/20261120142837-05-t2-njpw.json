@@ -1,0 +1,159 @@
+{
+  "file": "20261120142837-05-t2-njpw.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:28:55+00:00",
+  "response": [
+    {
+      "id": 123,
+      "count": 2190,
+      "name": "NJPW"
+    },
+    {
+      "id": 12203,
+      "count": 57,
+      "name": "NJPW Strong"
+    },
+    {
+      "id": 14458,
+      "count": 44,
+      "name": "AEW x NJPW: Forbidden Door"
+    },
+    {
+      "id": 14615,
+      "count": 10,
+      "name": "NJPW Dominion"
+    },
+    {
+      "id": 15249,
+      "count": 10,
+      "name": "AEW x NJPW: Forbidden Door 2"
+    },
+    {
+      "id": 3507,
+      "count": 9,
+      "name": "NJPW WORLD"
+    },
+    {
+      "id": 13963,
+      "count": 9,
+      "name": "NJPW Battle in the Valley"
+    },
+    {
+      "id": 13156,
+      "count": 9,
+      "name": "NJPW Strong Openweight Champion"
+    },
+    {
+      "id": 16622,
+      "count": 5,
+      "name": "AEW x NJPW Forbidden Door 3"
+    },
+    {
+      "id": 12584,
+      "count": 5,
+      "name": "NJPW Power Struggle"
+    },
+    {
+      "id": 15361,
+      "count": 5,
+      "name": "NJPW Strong Women&#039;s Championship"
+    },
+    {
+      "id": 18124,
+      "count": 3,
+      "name": "NJPW Wrestle Kingdom 20"
+    },
+    {
+      "id": 9059,
+      "count": 2,
+      "name": "NJPW 45Tth Anniversary show"
+    },
+    {
+      "id": 15325,
+      "count": 2,
+      "name": "NJPW Strong Openweight Tag Team Championship"
+    },
+    {
+      "id": 18505,
+      "count": 2,
+      "name": "AEW x NJPW Forbidden Door 2026"
+    },
+    {
+      "id": 18479,
+      "count": 2,
+      "name": "AEW x NJPW Forbidden Door Forbidden Door"
+    },
+    {
+      "id": 5753,
+      "count": 2,
+      "name": "Jushin Thunder Liger NJPW NXT"
+    },
+    {
+      "id": 11461,
+      "count": 2,
+      "name": "NJPW of America"
+    },
+    {
+      "id": 16466,
+      "count": 2,
+      "name": "NJPW RESURGENCE 2024"
+    },
+    {
+      "id": 2313,
+      "count": 1,
+      "name": "NJPW KUSHIDA"
+    },
+    {
+      "id": 14929,
+      "count": 1,
+      "name": "NJPW TAMASHII"
+    },
+    {
+      "id": 15146,
+      "count": 1,
+      "name": "NJPW World Tv Title"
+    },
+    {
+      "id": 15158,
+      "count": 1,
+      "name": "NJPW Strong Battle"
+    },
+    {
+      "id": 15445,
+      "count": 1,
+      "name": "NJPW/AJPW/NOAH All Together Again"
+    },
+    {
+      "id": 8604,
+      "count": 1,
+      "name": "NJPW World Tag Team League"
+    },
+    {
+      "id": 9087,
+      "count": 1,
+      "name": "NJPW Greatest Music V"
+    },
+    {
+      "id": 16453,
+      "count": 1,
+      "name": "NJPW DONTAKU"
+    },
+    {
+      "id": 16619,
+      "count": 1,
+      "name": "NJPW TELEVISION CHAMPION"
+    },
+    {
+      "id": 17754,
+      "count": 1,
+      "name": "AEW NJPW"
+    },
+    {
+      "id": 18089,
+      "count": 1,
+      "name": "NJPW WrestleKingdom"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "file": "20261120142837-03-t2-fujinami.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:28:53+00:00",
+  "response": [
+    {
+      "id": 4115,
+      "count": 3,
+      "name": "Tatsumi Fujinami"
+    },
+    {
+      "id": 4364,
+      "count": 2,
+      "name": "Fujinami"
+    },
+    {
+      "id": 4114,
+      "count": 1,
+      "name": "Tatsumi “The Dragon” Fujinami"
+    },
+    {
+      "id": 4373,
+      "count": 1,
+      "name": "Bruno Sammartino;- Tatsumi Fujinami"
+    }
+  ]
+}

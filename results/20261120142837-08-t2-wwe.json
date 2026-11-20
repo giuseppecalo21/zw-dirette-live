@@ -1,0 +1,159 @@
+{
+  "file": "20261120142837-08-t2-wwe.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:28:57+00:00",
+  "response": [
+    {
+      "id": 69,
+      "count": 47192,
+      "name": "WWE"
+    },
+    {
+      "id": 4887,
+      "count": 1216,
+      "name": "WWE Italia"
+    },
+    {
+      "id": 252,
+      "count": 406,
+      "name": "WWE network"
+    },
+    {
+      "id": 5757,
+      "count": 246,
+      "name": "WWE Smackdown"
+    },
+    {
+      "id": 11152,
+      "count": 228,
+      "name": "wwe raw"
+    },
+    {
+      "id": 10021,
+      "count": 124,
+      "name": "WWE Monday Night Raw"
+    },
+    {
+      "id": 4583,
+      "count": 120,
+      "name": "WWE Championship"
+    },
+    {
+      "id": 18563,
+      "count": 111,
+      "name": "WWE SummerSlam 2026"
+    },
+    {
+      "id": 85,
+      "count": 109,
+      "name": "WWE; NXT"
+    },
+    {
+      "id": 7744,
+      "count": 95,
+      "name": "licenziamenti WWE"
+    },
+    {
+      "id": 11297,
+      "count": 93,
+      "name": "wwe spoiler"
+    },
+    {
+      "id": 367,
+      "count": 92,
+      "name": "WWE; Raw"
+    },
+    {
+      "id": 9983,
+      "count": 83,
+      "name": "WWE Royal Rumble"
+    },
+    {
+      "id": 17223,
+      "count": 78,
+      "name": "WWE Evolve"
+    },
+    {
+      "id": 11101,
+      "count": 76,
+      "name": "wwe nxt"
+    },
+    {
+      "id": 10022,
+      "count": 74,
+      "name": "WWE Summerslam"
+    },
+    {
+      "id": 9268,
+      "count": 72,
+      "name": "wwe wrestlemania"
+    },
+    {
+      "id": 6421,
+      "count": 67,
+      "name": "wwe main event"
+    },
+    {
+      "id": 10528,
+      "count": 67,
+      "name": "WWE Wrestlemania 35"
+    },
+    {
+      "id": 9301,
+      "count": 57,
+      "name": "wwe hall of fame"
+    },
+    {
+      "id": 11379,
+      "count": 55,
+      "name": "WWE Backstage"
+    },
+    {
+      "id": 8051,
+      "count": 54,
+      "name": "WWE Draft"
+    },
+    {
+      "id": 7122,
+      "count": 52,
+      "name": "WWE2K17"
+    },
+    {
+      "id": 1454,
+      "count": 51,
+      "name": "WWE Live"
+    },
+    {
+      "id": 10518,
+      "count": 45,
+      "name": "WWE Crown Jewel"
+    },
+    {
+      "id": 18696,
+      "count": 44,
+      "name": "WWE Money in the Bank 2026"
+    },
+    {
+      "id": 1636,
+      "count": 43,
+      "name": "WWE Title"
+    },
+    {
+      "id": 13004,
+      "count": 40,
+      "name": "WWE WrestleMania 37"
+    },
+    {
+      "id": 18042,
+      "count": 38,
+      "name": "WWE WrestleMania 42"
+    },
+    {
+      "id": 10026,
+      "count": 37,
+      "name": "WWE Backlash"
+    }
+  ]
+}

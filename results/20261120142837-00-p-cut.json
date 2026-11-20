@@ -1,0 +1,44 @@
+{
+  "file": "20261120142837-00-p-cut.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:28:48+00:00",
+  "response": [
+    {
+      "date": "2026-11-16T08:00:00",
+      "link": "https://zonawrestling.net/le-storie-vere-la-top-5-di-aew-full-gear-2026/",
+      "title": {
+        "rendered": "Le storie vere: la top 5 di AEW Full Gear 2026"
+      }
+    },
+    {
+      "date": "2026-11-15T10:40:30",
+      "link": "https://zonawrestling.net/aew-the-cut-trionfano-nel-caos-dellanarchy-in-the-arena-match-a-full-gear/",
+      "title": {
+        "rendered": "AEW: The Cut trionfano nel caos dell&#8217;Anarchy in the Arena Match a Full Gear"
+      }
+    },
+    {
+      "date": "2026-11-13T08:00:00",
+      "link": "https://zonawrestling.net/aew-full-gear-2026-preview/",
+      "title": {
+        "rendered": "AEW Full Gear 2026 &#8211; Preview"
+      }
+    },
+    {
+      "date": "2026-11-12T09:31:16",
+      "link": "https://zonawrestling.net/aew-ciampa-e-dragunov-arrivano-allo-scontro-in-palio-laew-national-championship-a-full-gear/",
+      "title": {
+        "rendered": "AEW: Ciampa e Dragunov arrivano allo scontro, in palio l&#8217;AEW National Championship a Full Gear"
+      }
+    },
+    {
+      "date": "2026-11-12T06:57:05",
+      "link": "https://zonawrestling.net/risultati-aew-dynamite-11-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Dynamite 11.11.2026"
+      }
+    }
+  ]
+}

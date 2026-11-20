@@ -1,0 +1,159 @@
+{
+  "file": "20261120142837-04-t2-impact.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:28:54+00:00",
+  "response": [
+    {
+      "id": 332,
+      "count": 1196,
+      "name": "impact wrestling"
+    },
+    {
+      "id": 210,
+      "count": 1079,
+      "name": "Impact"
+    },
+    {
+      "id": 1597,
+      "count": 392,
+      "name": "Impact"
+    },
+    {
+      "id": 16080,
+      "count": 346,
+      "name": "#TNAiMPACT"
+    },
+    {
+      "id": 11708,
+      "count": 156,
+      "name": "impact spoiler"
+    },
+    {
+      "id": 12940,
+      "count": 130,
+      "name": "Before The Impact"
+    },
+    {
+      "id": 6918,
+      "count": 91,
+      "name": "Impact On POP"
+    },
+    {
+      "id": 16068,
+      "count": 65,
+      "name": "TNA iMPACT"
+    },
+    {
+      "id": 6714,
+      "count": 28,
+      "name": "Ascolti Impact"
+    },
+    {
+      "id": 10975,
+      "count": 23,
+      "name": "IMPACT WORLD CHAMPIONSHIP"
+    },
+    {
+      "id": 452,
+      "count": 21,
+      "name": "Tapings Impact"
+    },
+    {
+      "id": 9723,
+      "count": 12,
+      "name": "Johnny Impact"
+    },
+    {
+      "id": 7617,
+      "count": 11,
+      "name": "Analisi Impact Wrestling"
+    },
+    {
+      "id": 12555,
+      "count": 11,
+      "name": "impact knockouts title"
+    },
+    {
+      "id": 714,
+      "count": 9,
+      "name": "TNA; Impact"
+    },
+    {
+      "id": 16070,
+      "count": 9,
+      "name": "TNAiMPACT"
+    },
+    {
+      "id": 15771,
+      "count": 8,
+      "name": "IMPACT on AXS TV"
+    },
+    {
+      "id": 7530,
+      "count": 8,
+      "name": "Analisi Impact"
+    },
+    {
+      "id": 13822,
+      "count": 7,
+      "name": "Impact Digital Media Championship"
+    },
+    {
+      "id": 10887,
+      "count": 5,
+      "name": "IMPACT PPV"
+    },
+    {
+      "id": 9101,
+      "count": 5,
+      "name": "Impact Wrestling Tapings"
+    },
+    {
+      "id": 13349,
+      "count": 5,
+      "name": "risultati Impact Wrestling"
+    },
+    {
+      "id": 14522,
+      "count": 5,
+      "name": "Impact tag team titles"
+    },
+    {
+      "id": 15769,
+      "count": 5,
+      "name": "iMPACT!"
+    },
+    {
+      "id": 7571,
+      "count": 4,
+      "name": "ImpactOnPop"
+    },
+    {
+      "id": 10976,
+      "count": 4,
+      "name": "IMPACT X DIVISION CHAMPIONSHIP"
+    },
+    {
+      "id": 7487,
+      "count": 3,
+      "name": "Report Impact Wrestling"
+    },
+    {
+      "id": 7570,
+      "count": 3,
+      "name": "Analisti Impact Wrestling"
+    },
+    {
+      "id": 13362,
+      "count": 3,
+      "name": "IMPACT Plus"
+    },
+    {
+      "id": 15573,
+      "count": 3,
+      "name": "impact 1000"
+    }
+  ]
+}

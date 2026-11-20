@@ -1,0 +1,14 @@
+{
+  "file": "20261120142837-06-t2-riggins.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:28:55+00:00",
+  "response": [
+    {
+      "id": 18904,
+      "count": 2,
+      "name": "Harley Riggins"
+    }
+  ]
+}

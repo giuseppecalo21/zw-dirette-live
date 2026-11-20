@@ -1,0 +1,159 @@
+{
+  "file": "20261120142837-07-t2-tna.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:28:56+00:00",
+  "response": [
+    {
+      "id": 137,
+      "count": 2494,
+      "name": "TNA"
+    },
+    {
+      "id": 16080,
+      "count": 346,
+      "name": "#TNAiMPACT"
+    },
+    {
+      "id": 15920,
+      "count": 124,
+      "name": "TNA Wrestling"
+    },
+    {
+      "id": 16687,
+      "count": 86,
+      "name": "#NXTNA"
+    },
+    {
+      "id": 17721,
+      "count": 68,
+      "name": "TNA Xplosion"
+    },
+    {
+      "id": 16068,
+      "count": 65,
+      "name": "TNA iMPACT"
+    },
+    {
+      "id": 16604,
+      "count": 18,
+      "name": "NXTNA"
+    },
+    {
+      "id": 13796,
+      "count": 16,
+      "name": "Satnam Singh"
+    },
+    {
+      "id": 1119,
+      "count": 14,
+      "name": "TNA World Heavyweight Championship"
+    },
+    {
+      "id": 5045,
+      "count": 12,
+      "name": "TNA Slammiversary"
+    },
+    {
+      "id": 17347,
+      "count": 11,
+      "name": "TNA Rebellion 2025"
+    },
+    {
+      "id": 17634,
+      "count": 11,
+      "name": "TNA Slammiversary 2025"
+    },
+    {
+      "id": 714,
+      "count": 9,
+      "name": "TNA; Impact"
+    },
+    {
+      "id": 16070,
+      "count": 9,
+      "name": "TNAiMPACT"
+    },
+    {
+      "id": 17257,
+      "count": 9,
+      "name": "TNA Sacrifice"
+    },
+    {
+      "id": 615,
+      "count": 8,
+      "name": "TNA KNOCKOUT"
+    },
+    {
+      "id": 17781,
+      "count": 8,
+      "name": "TNA Bound for Glory"
+    },
+    {
+      "id": 17848,
+      "count": 8,
+      "name": "TNA Bound For Glory 2025"
+    },
+    {
+      "id": 17845,
+      "count": 7,
+      "name": "NXTvsTNAShowdown"
+    },
+    {
+      "id": 18959,
+      "count": 7,
+      "name": "TNA Bound for Glory 2026"
+    },
+    {
+      "id": 17677,
+      "count": 5,
+      "name": "TNA Emergence"
+    },
+    {
+      "id": 16801,
+      "count": 4,
+      "name": "#TNAWrestling"
+    },
+    {
+      "id": 17348,
+      "count": 4,
+      "name": "TNA Unbreakable"
+    },
+    {
+      "id": 17419,
+      "count": 4,
+      "name": "TNA Under Siege"
+    },
+    {
+      "id": 17833,
+      "count": 4,
+      "name": "TNA Victory Road"
+    },
+    {
+      "id": 18781,
+      "count": 4,
+      "name": "TNA Lockdown 2026"
+    },
+    {
+      "id": 19030,
+      "count": 3,
+      "name": "TNA Hall of Fame 2026"
+    },
+    {
+      "id": 7882,
+      "count": 3,
+      "name": "TNA Hall of Fame"
+    },
+    {
+      "id": 16021,
+      "count": 3,
+      "name": "TNA DIGITAL MEDIA CHAMPIONSHIP"
+    },
+    {
+      "id": 16800,
+      "count": 3,
+      "name": "#TNA"
+    }
+  ]
+}
