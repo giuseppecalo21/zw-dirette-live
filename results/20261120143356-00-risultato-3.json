@@ -1,0 +1,32 @@
+{
+  "file": "20261120143356-00-risultato-3.json",
+  "action": "create_post_image",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-20T14:35:08+00:00",
+  "response": {
+    "image": {
+      "ok": true,
+      "media_id": 385870,
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2026/11/20/risultati-wwe-evolve-18-11-2026.jpg"
+    },
+    "post": {
+      "id": 385871,
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-wwe-evolve-18-11-2026/",
+      "slug": "risultati-wwe-evolve-18-11-2026",
+      "date": "2026-11-19T05:30:00",
+      "featured_media": 385870,
+      "categories": [
+        2,
+        53
+      ],
+      "tags": [
+        18904,
+        69,
+        17223
+      ],
+      "title": "RISULTATI: WWE Evolve 18.11.2026"
+    }
+  }
+}

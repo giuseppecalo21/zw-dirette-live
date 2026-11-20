@@ -1,0 +1,18 @@
+{
+  "file": "20261120143309-00-get.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:34:49+00:00",
+  "response": {
+    "id": 385864,
+    "status": "publish",
+    "link": "https://zonawrestling.net/risultati-aew-dynamite-18-11-2026/",
+    "author": 1,
+    "featured_media": 385863,
+    "categories": [
+      10805,
+      2
+    ]
+  }
+}
