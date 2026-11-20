@@ -6,6 +6,14 @@ per i risultati non si usano feed, stato, refs né blocchi `add_update`.
 Si usa quando lo scenario Make 9888949 non è disponibile (crediti esauriti). Pubblica un articolo di risultati
 con immagine in evidenza, esattamente come faceva lo scenario.
 
+## Leggere le fonti e il sito (WebFetch nelle attività programmate è bloccato)
+- Elenco Fightful: `python3 scripts/zw.py read https://www.fightful.com/wrestling/results/ --links results`
+- Articolo Fightful (meta og:image, article:published_time/modified_time e testo completo):
+  `python3 scripts/zw.py read URL_ARTICOLO`
+- Sito (doppioni, tag, link interni): `python3 scripts/zw.py job '{"action":"get","path":"wp/v2/posts?categories=2&per_page=10&_fields=id,title,date,link,status"}'`
+  oppure `wp/v2/posts?search=NOME&per_page=5&_fields=title,link,date`, `wp/v2/tags?search=NOME&_fields=id,name,count`.
+  Puoi mettere più job in un solo invio con `zw.py send f1.json f2.json` per risparmiare tempo.
+
 ## Pubblicare un articolo
 Scrivi il job in un file e invialo (GitHub Actions lo esegue in meno di un minuto e scrive l'esito):
 
