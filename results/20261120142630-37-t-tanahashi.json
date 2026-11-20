@@ -1,0 +1,19 @@
+{
+  "file": "20261120142630-37-t-tanahashi.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:28:11+00:00",
+  "response": [
+    {
+      "id": 127,
+      "count": 136,
+      "name": "HIROSHI TANAHASHI"
+    },
+    {
+      "id": 415,
+      "count": 14,
+      "name": "TANAHASHI"
+    }
+  ]
+}

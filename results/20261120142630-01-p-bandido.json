@@ -1,0 +1,44 @@
+{
+  "file": "20261120142630-01-p-bandido.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:26:45+00:00",
+  "response": [
+    {
+      "date": "2026-11-19T10:32:08",
+      "link": "https://zonawrestling.net/aew-il-continental-classic-2026-entra-nel-vivo-con-tre-vittorie-a-sorpresa/",
+      "title": {
+        "rendered": "AEW: Il Continental Classic 2026 entra nel vivo con tre vittorie a sorpresa"
+      }
+    },
+    {
+      "date": "2026-11-17T16:29:58",
+      "link": "https://zonawrestling.net/aew-annunciati-i-wrestler-che-parteciperanno-al-continental-classic/",
+      "title": {
+        "rendered": "AEW: Annunciati i wrestler che parteciperanno al Continental Classic"
+      }
+    },
+    {
+      "date": "2026-11-16T08:00:00",
+      "link": "https://zonawrestling.net/le-storie-vere-la-top-5-di-aew-full-gear-2026/",
+      "title": {
+        "rendered": "Le storie vere: la top 5 di AEW Full Gear 2026"
+      }
+    },
+    {
+      "date": "2026-11-15T11:13:49",
+      "link": "https://zonawrestling.net/aew-swerve-strickland-e-i-new-level-riconquistano-i-titoli-trios-a-full-fear/",
+      "title": {
+        "rendered": "AEW: Swerve Strickland e i New Level riconquistano i titoli Trios a Full Gear"
+      }
+    },
+    {
+      "date": "2026-11-15T10:13:31",
+      "link": "https://zonawrestling.net/foto-aew-nuove-cinture-trios-tributo-pac/",
+      "title": {
+        "rendered": "FOTO: Le nuove cinture Trios della AEW in ricordo di PAC"
+      }
+    }
+  ]
+}

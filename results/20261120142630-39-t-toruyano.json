@@ -1,0 +1,19 @@
+{
+  "file": "20261120142630-39-t-toruyano.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:28:13+00:00",
+  "response": [
+    {
+      "id": 7800,
+      "count": 3,
+      "name": "NAOMICHI MARUFUJI &amp; TORU YANO"
+    },
+    {
+      "id": 7378,
+      "count": 19,
+      "name": "TORU YANO"
+    }
+  ]
+}

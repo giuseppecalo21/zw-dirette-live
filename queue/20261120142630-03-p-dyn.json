@@ -1,1 +1,0 @@
-{"action": "get", "path": "wp/v2/posts?categories=2&search=Dynamite&per_page=3&_fields=title,link,date"}

@@ -1,0 +1,44 @@
+{
+  "file": "20261120142630-11-p-tanahashi.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:27:43+00:00",
+  "response": [
+    {
+      "date": "2026-11-04T17:43:29",
+      "link": "https://zonawrestling.net/njpw-jon-moxley-contro-shingo-takagi-sara-un-unbound-deathmatch-ufficializzati-sette-incontri-per-wrestle-kingdom-21/",
+      "title": {
+        "rendered": "NJPW: Jon Moxley contro Shingo Takagi sarà un Unbound Deathmatch, ufficializzati sette incontri per Wrestle Kingdom 21"
+      }
+    },
+    {
+      "date": "2026-11-03T12:29:16",
+      "link": "https://zonawrestling.net/risultati-njpw-power-struggle-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW Power Struggle 2026"
+      }
+    },
+    {
+      "date": "2026-10-12T14:52:33",
+      "link": "https://zonawrestling.net/risultati-njpw-king-of-pro-wrestling-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW King of Pro-Wrestling 2026"
+      }
+    },
+    {
+      "date": "2026-10-12T14:47:43",
+      "link": "https://zonawrestling.net/njpw-kenny-omega-attacca-yota-tsuji-e-chiede-titolato-ma-vuole-guadagnarselo/",
+      "title": {
+        "rendered": "NJPW: Kenny Omega attacca Yota Tsuji e chiede titolato, ma vuole guadagnarselo"
+      }
+    },
+    {
+      "date": "2026-09-15T17:00:00",
+      "link": "https://zonawrestling.net/il-g1-climax-che-vorrei/",
+      "title": {
+        "rendered": "Il G1 Climax che vorrei"
+      }
+    }
+  ]
+}

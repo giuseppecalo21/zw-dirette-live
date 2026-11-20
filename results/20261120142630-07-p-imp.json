@@ -1,0 +1,30 @@
+{
+  "file": "20261120142630-07-p-imp.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:27:16+00:00",
+  "response": [
+    {
+      "date": "2026-11-16T06:54:22",
+      "link": "https://zonawrestling.net/risultati-tna-destination-x-2026/",
+      "title": {
+        "rendered": "RISULTATI: TNA Destination X 2026"
+      }
+    },
+    {
+      "date": "2026-11-13T12:54:40",
+      "link": "https://zonawrestling.net/risultati-tna-impact-12-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: TNA iMPACT 12.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-06T12:04:53",
+      "link": "https://zonawrestling.net/risultati-tna-impact-05-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: TNA iMPACT 05.11.2026"
+      }
+    }
+  ]
+}

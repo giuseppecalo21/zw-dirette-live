@@ -1,0 +1,14 @@
+{
+  "file": "20261120142630-17-t-bandido.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:27:57+00:00",
+  "response": [
+    {
+      "id": 11538,
+      "count": 99,
+      "name": "Bandido"
+    }
+  ]
+}

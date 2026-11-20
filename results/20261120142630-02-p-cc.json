@@ -1,0 +1,44 @@
+{
+  "file": "20261120142630-02-p-cc.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:26:50+00:00",
+  "response": [
+    {
+      "date": "2026-11-19T10:32:08",
+      "link": "https://zonawrestling.net/aew-il-continental-classic-2026-entra-nel-vivo-con-tre-vittorie-a-sorpresa/",
+      "title": {
+        "rendered": "AEW: Il Continental Classic 2026 entra nel vivo con tre vittorie a sorpresa"
+      }
+    },
+    {
+      "date": "2026-11-19T08:22:01",
+      "link": "https://zonawrestling.net/mjf-sfida-will-ospreay-a-worlds-end-mettiamo-in-palio-entrambe-le-cinture/",
+      "title": {
+        "rendered": "MJF sfida Will Ospreay a Worlds End: &#8220;Mettiamo in palio entrambe le cinture&#8221;"
+      }
+    },
+    {
+      "date": "2026-11-19T02:03:07",
+      "link": "https://zonawrestling.net/diretta-live-aew-dynamite-del-18-11-2026/",
+      "title": {
+        "rendered": "DIRETTA LIVE: AEW Dynamite del 18.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-17T16:29:58",
+      "link": "https://zonawrestling.net/aew-annunciati-i-wrestler-che-parteciperanno-al-continental-classic/",
+      "title": {
+        "rendered": "AEW: Annunciati i wrestler che parteciperanno al Continental Classic"
+      }
+    },
+    {
+      "date": "2026-11-17T13:57:13",
+      "link": "https://zonawrestling.net/raw-16-11-2026-advantage-match/",
+      "title": {
+        "rendered": "Raw 16.11.2026 Advantage Match"
+      }
+    }
+  ]
+}

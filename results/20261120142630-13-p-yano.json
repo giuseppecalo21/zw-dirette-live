@@ -1,0 +1,44 @@
+{
+  "file": "20261120142630-13-p-yano.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:27:53+00:00",
+  "response": [
+    {
+      "date": "2026-11-03T12:29:16",
+      "link": "https://zonawrestling.net/risultati-njpw-power-struggle-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW Power Struggle 2026"
+      }
+    },
+    {
+      "date": "2026-11-01T18:26:06",
+      "link": "https://zonawrestling.net/risultati-njpw-super-jr-tag-league-01-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW Super Jr. Tag League 01.11.2026"
+      }
+    },
+    {
+      "date": "2026-10-31T18:29:25",
+      "link": "https://zonawrestling.net/risultati-njpw-super-jr-tag-league-31-10-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW Super Jr. Tag League 31.10.2026"
+      }
+    },
+    {
+      "date": "2026-10-31T11:00:00",
+      "link": "https://zonawrestling.net/wrestling-tv-streaming-weekend-30-ottobre-1-novembre-2026/",
+      "title": {
+        "rendered": "Wrestling nel weekend in TV e streaming: NXT Halloween Havoc, Rey del Inframundo, Goddesses of STARDOM e tanto altro"
+      }
+    },
+    {
+      "date": "2026-10-30T18:29:48",
+      "link": "https://zonawrestling.net/risultati-njpw-super-jr-tag-league-30-10-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW Super Jr. Tag League 30.10.2026"
+      }
+    }
+  ]
+}

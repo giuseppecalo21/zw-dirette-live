@@ -1,0 +1,44 @@
+{
+  "file": "20261120142630-08-p-nemeth.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:27:28+00:00",
+  "response": [
+    {
+      "date": "2026-11-20T10:06:58",
+      "link": "https://zonawrestling.net/tna-leon-slater-sconfigge-nic-nemeth-e-conserva-il-world-championship-a-impact/",
+      "title": {
+        "rendered": "TNA: Leon Slater sconfigge Nic Nemeth e conserva il World Championship a Impact"
+      }
+    },
+    {
+      "date": "2026-11-16T06:54:22",
+      "link": "https://zonawrestling.net/risultati-tna-destination-x-2026/",
+      "title": {
+        "rendered": "RISULTATI: TNA Destination X 2026"
+      }
+    },
+    {
+      "date": "2026-11-14T08:00:00",
+      "link": "https://zonawrestling.net/i-pronostici-di-tna-destination-x-2026/",
+      "title": {
+        "rendered": "I pronostici di TNA Destination X 2026"
+      }
+    },
+    {
+      "date": "2026-11-13T16:34:00",
+      "link": "https://zonawrestling.net/wrestling-tv-streaming-weekend-13-15-novembre-2026/",
+      "title": {
+        "rendered": "Wrestling nel weekend in TV e streaming: AEW Full Gear, TNA Destination X, CMLL e tanto altro"
+      }
+    },
+    {
+      "date": "2026-11-13T12:54:40",
+      "link": "https://zonawrestling.net/risultati-tna-impact-12-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: TNA iMPACT 12.11.2026"
+      }
+    }
+  ]
+}

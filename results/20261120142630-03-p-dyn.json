@@ -1,0 +1,30 @@
+{
+  "file": "20261120142630-03-p-dyn.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:26:53+00:00",
+  "response": [
+    {
+      "date": "2026-11-15T08:21:13",
+      "link": "https://zonawrestling.net/risultati-aew-full-gear-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Full Gear 2026"
+      }
+    },
+    {
+      "date": "2026-11-12T06:57:05",
+      "link": "https://zonawrestling.net/risultati-aew-dynamite-11-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Dynamite 11.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-05T07:00:23",
+      "link": "https://zonawrestling.net/risultati-aew-dynamite-blood-guts-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Dynamite Blood &#038; Guts 2026"
+      }
+    }
+  ]
+}

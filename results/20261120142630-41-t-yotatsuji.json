@@ -1,0 +1,14 @@
+{
+  "file": "20261120142630-41-t-yotatsuji.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:28:14+00:00",
+  "response": [
+    {
+      "id": 14238,
+      "count": 36,
+      "name": "YOTA TSUJI"
+    }
+  ]
+}

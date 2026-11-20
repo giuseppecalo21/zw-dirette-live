@@ -1,0 +1,34 @@
+{
+  "file": "20261120142630-36-t-swerve.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T14:28:11+00:00",
+  "response": [
+    {
+      "id": 16386,
+      "count": 3,
+      "name": "Swerve"
+    },
+    {
+      "id": 14346,
+      "count": 2,
+      "name": "Swerve City Podcast"
+    },
+    {
+      "id": 14674,
+      "count": 5,
+      "name": "Swerve in Our Glory"
+    },
+    {
+      "id": 14819,
+      "count": 1,
+      "name": "Swerve In Your Glory"
+    },
+    {
+      "id": 16771,
+      "count": 0,
+      "name": "swerve str"
+    }
+  ]
+}
