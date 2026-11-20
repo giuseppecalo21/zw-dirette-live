@@ -1,0 +1,51 @@
+{
+  "file": "20261120235247-02-r3.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T23:53:07+00:00",
+  "response": [
+    {
+      "date": "2026-11-20T15:56:31",
+      "link": "https://zonawrestling.net/wwe-smackdown-annunciati-cody-rhodes-cm-punk-e-altre-stelle-per-la-puntata-del-20-novembre/",
+      "title": {
+        "rendered": "WWE: SmackDown, annunciati Cody Rhodes, CM Punk e altre stelle per la puntata del 20 novembre"
+      }
+    },
+    {
+      "date": "2026-11-20T09:13:10",
+      "link": "https://zonawrestling.net/the-rock-torna-a-survivor-series-vince-russo-la-wwe-ha-un-disperato-bisogno-di-the-rock/",
+      "title": {
+        "rendered": "The Rock torna a Survivor Series, Vince Russo: &#8220;La WWE ha un disperato bisogno di The Rock&#8221;"
+      }
+    },
+    {
+      "date": "2026-11-17T15:57:09",
+      "link": "https://zonawrestling.net/wwe-liv-morgan-ufficialmente-una-nuova-partecipante-del-john-cena-classic/",
+      "title": {
+        "rendered": "WWE: Liv Morgan ufficialmente una nuova partecipante del John Cena Classic"
+      }
+    },
+    {
+      "date": "2026-11-17T13:57:13",
+      "link": "https://zonawrestling.net/raw-16-11-2026-advantage-match/",
+      "title": {
+        "rendered": "Raw 16.11.2026 Advantage Match"
+      }
+    },
+    {
+      "date": "2026-11-17T09:12:48",
+      "link": "https://zonawrestling.net/wwe-iyo-sky-conquista-il-womens-intercontinental-championship/",
+      "title": {
+        "rendered": "WWE: IYO SKY conquista il Women’s Intercontinental Championship"
+      }
+    },
+    {
+      "date": "2026-11-17T09:00:06",
+      "link": "https://zonawrestling.net/wwe-i-946-sconfiggono-gli-usos-e-conquistano-il-vantaggio-per-il-wargames/",
+      "title": {
+        "rendered": "WWE: I 946 sconfiggono gli Usos e conquistano il vantaggio per il WarGames"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "file": "20261120235247-05-r6.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T23:53:13+00:00",
+  "response": [
+    {
+      "id": 16527,
+      "count": 1,
+      "name": "Alpha AcademSami Zayn"
+    },
+    {
+      "id": 362,
+      "count": 793,
+      "name": "Sami Zayn"
+    },
+    {
+      "id": 18484,
+      "count": 0,
+      "name": "Sami Zayn l"
+    }
+  ]
+}

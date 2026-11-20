@@ -1,0 +1,54 @@
+{
+  "file": "20261120235247-00-r1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T23:53:02+00:00",
+  "response": [
+    {
+      "id": 385383,
+      "date": "2026-11-13T07:55:31",
+      "slug": "wwe-nuova-direzione-creativa-in-vista-per-joe-hendry-spunta-lipotesi-di-un-tag-team",
+      "link": "https://zonawrestling.net/wwe-nuova-direzione-creativa-in-vista-per-joe-hendry-spunta-lipotesi-di-un-tag-team/",
+      "title": {
+        "rendered": "WWE: Nuova direzione creativa in vista per Joe Hendry, spunta l&#8217;ipotesi di un tag team"
+      }
+    },
+    {
+      "id": 385029,
+      "date": "2026-11-07T00:54:34",
+      "slug": "risultati-wwe-road-to-survivor-series-06-11-2026",
+      "link": "https://zonawrestling.net/risultati-wwe-road-to-survivor-series-06-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE Road to Survivor Series 06.11.2026"
+      }
+    },
+    {
+      "id": 384898,
+      "date": "2026-11-06T13:20:00",
+      "slug": "risultati-wwe-road-to-survivor-series-05-11-2026",
+      "link": "https://zonawrestling.net/risultati-wwe-road-to-survivor-series-05-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE Road to Survivor Series 05.11.2026"
+      }
+    },
+    {
+      "id": 384570,
+      "date": "2026-11-02T10:20:13",
+      "slug": "wwe-chad-gable-batte-cm-punk-durante-un-live-event-svelato-il-vero-motivo",
+      "link": "https://zonawrestling.net/wwe-chad-gable-batte-cm-punk-durante-un-live-event-svelato-il-vero-motivo/",
+      "title": {
+        "rendered": "WWE: Chad Gable batte CM Punk durante un Live Event, svelato il vero motivo"
+      }
+    },
+    {
+      "id": 384295,
+      "date": "2026-10-30T06:36:22",
+      "slug": "risultati-wwe-live-event-29-10-2026",
+      "link": "https://zonawrestling.net/risultati-wwe-live-event-29-10-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE Live Event 29.10.2026"
+      }
+    }
+  ]
+}

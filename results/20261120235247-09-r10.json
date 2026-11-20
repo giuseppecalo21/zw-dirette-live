@@ -1,0 +1,19 @@
+{
+  "file": "20261120235247-09-r10.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T23:53:15+00:00",
+  "response": [
+    {
+      "id": 13862,
+      "count": 255,
+      "name": "Trick Williams"
+    },
+    {
+      "id": 18557,
+      "count": 0,
+      "name": "Trick Williamsl"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "file": "20261120235247-04-r5.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T23:53:12+00:00",
+  "response": [
+    {
+      "date": "2026-11-13T18:54:10",
+      "link": "https://zonawrestling.net/risultati-wwe-live-event-fort-myers-12-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE Live Event Fort Myers 12.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-13T07:55:31",
+      "link": "https://zonawrestling.net/wwe-nuova-direzione-creativa-in-vista-per-joe-hendry-spunta-lipotesi-di-un-tag-team/",
+      "title": {
+        "rendered": "WWE: Nuova direzione creativa in vista per Joe Hendry, spunta l&#8217;ipotesi di un tag team"
+      }
+    },
+    {
+      "date": "2026-11-07T10:38:50",
+      "link": "https://zonawrestling.net/wwe-finn-balor-umilia-ancora-gunther-e-lo-costringe-alla-fuga/",
+      "title": {
+        "rendered": "WWE: Finn Balor umilia ancora Gunther e lo costringe alla fuga"
+      }
+    },
+    {
+      "date": "2026-11-07T10:08:00",
+      "link": "https://zonawrestling.net/smackdown-06-11-2026-ko-abbatte-punk/",
+      "title": {
+        "rendered": "SmackDown 06.11.2026 KO abbatte Punk"
+      }
+    },
+    {
+      "date": "2026-11-04T17:00:00",
+      "link": "https://zonawrestling.net/nxt-halloween-havoc-review/",
+      "title": {
+        "rendered": "NXT Halloween Havoc &#8211; Review"
+      }
+    }
+  ]
+}

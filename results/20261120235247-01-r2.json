@@ -1,0 +1,44 @@
+{
+  "file": "20261120235247-01-r2.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T23:53:04+00:00",
+  "response": [
+    {
+      "date": "2026-11-14T10:34:13",
+      "link": "https://zonawrestling.net/wwe-kevin-owens-lancia-un-avvertimento-a-sami-zayn-il-suo-regno-da-campione-e-agli-sgoccioli/",
+      "title": {
+        "rendered": "WWE: Kevin Owens lancia un avvertimento a Sami Zayn, il suo regno da campione è agli sgoccioli"
+      }
+    },
+    {
+      "date": "2026-11-13T18:54:10",
+      "link": "https://zonawrestling.net/risultati-wwe-live-event-fort-myers-12-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE Live Event Fort Myers 12.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-09T10:09:28",
+      "link": "https://zonawrestling.net/wwe-la-compagnia-vuole-preservare-roman-reigns-fino-a-wrestlemania-43-nel-mirino-ce-oba-femi/",
+      "title": {
+        "rendered": "WWE: La compagnia vuole preservare Roman Reigns fino a WrestleMania 43? Nel mirino c&#8217;è Oba Femi"
+      }
+    },
+    {
+      "date": "2026-11-08T21:27:05",
+      "link": "https://zonawrestling.net/sami-zayn-la-mia-consapevolezza-e-un-dono-e-una-maledizione/",
+      "title": {
+        "rendered": "Sami Zayn: “La mia consapevolezza è un dono e una maledizione”"
+      }
+    },
+    {
+      "date": "2026-11-07T21:16:46",
+      "link": "https://zonawrestling.net/crown-jewel-roman-reigns-batte-sami-zayn-poi-labbraccio-e-il-braccio-alzato/",
+      "title": {
+        "rendered": "CROWN JEWEL: Roman Reigns batte Sami Zayn, poi l&#8217;abbraccio e il braccio alzato"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "file": "20261120235247-08-r9.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-20T23:53:15+00:00",
+  "response": [
+    {
+      "id": 591,
+      "count": 253,
+      "name": "Charlotte"
+    },
+    {
+      "id": 3456,
+      "count": 679,
+      "name": "Charlotte Flair"
+    },
+    {
+      "id": 5626,
+      "count": 1,
+      "name": "Charlotte Flair hot"
+    },
+    {
+      "id": 18191,
+      "count": 0,
+      "name": "Charlotte Flait"
+    },
+    {
+      "id": 5625,
+      "count": 1,
+      "name": "Charlotte NXT"
+    },
+    {
+      "id": 5792,
+      "count": 3,
+      "name": "charlotte wwe"
+    },
+    {
+      "id": 7992,
+      "count": 1,
+      "name": "WWE Charlotte DanaBrooke Natalya BeckyLynch"
+    }
+  ]
+}
