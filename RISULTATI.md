@@ -43,3 +43,6 @@ python3 scripts/zw.py send /tmp/risultato-1.json
   `results/` e sul sito che l'articolo non sia già stato creato.
 - Letture del sito: si possono fare con WebFetch sull'API pubblica oppure con
   `python3 scripts/zw.py job '{"action":"get","path":"wp/v2/posts?search=...&per_page=5"}'`.
+
+## Regole di lingua aggiuntive (Giuseppe, 20/11/2026)
+- "League" è femminile: "la Blue League", "nella Gold League" (mai "il/nel Blue League"). "Tag" è maschile: "il tag", "il tag team".

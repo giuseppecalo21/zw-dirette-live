@@ -112,6 +112,7 @@ eventuali segmenti saltati e perché.
 - Stable e tag team nel testo: senza "The", con l'articolo italiano ("i Judgment Day", "gli Usos", "la Bloodline",
   "gli FTR", "gli Young Bucks", "il New Day", "le Divine Dominion", "i Death Riders", "i Dogs"). Mai "la The …".
   Nei titoli dei match e negli esiti: forma originale con "The".
+- "League" è femminile ("la Blue League", "nella Gold League", mai "il/nel Blue League"); "tag" è maschile ("il tag", "il tag team").
 - Wrestler donne: nome completo alla prima citazione, poi "la + cognome" (mai il cognome da solo).
 - Mosse femminili per default: la spear, una lariat, una suplex, una clothesline, la GTS, una moonsault, una senton,
   una piledriver, una backstabber. Eccezioni maschili: il dropkick, il DDT. Mai verbi inventati ("suplessare").
