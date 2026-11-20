@@ -1,0 +1,35 @@
+{
+  "file": "20261120143512-00-risultato-4.json",
+  "action": "create_post_image",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-20T14:35:47+00:00",
+  "response": {
+    "image": {
+      "ok": true,
+      "media_id": 385872,
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2026/11/20/risultati-njpw-tanahashi-jam-2-2026.png"
+    },
+    "post": {
+      "id": 385873,
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-njpw-tanahashi-jam-2-2026/",
+      "slug": "risultati-njpw-tanahashi-jam-2-2026",
+      "date": "2026-11-19T15:54:53",
+      "featured_media": 385872,
+      "categories": [
+        10273,
+        2
+      ],
+      "tags": [
+        8587,
+        123,
+        12695,
+        4115,
+        7378,
+        719
+      ],
+      "title": "RISULTATI: NJPW TANAHASHI Jam 2 2026"
+    }
+  }
+}
