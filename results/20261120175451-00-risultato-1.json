@@ -1,0 +1,31 @@
+{
+  "file": "20261120175451-00-risultato-1.json",
+  "action": "create_post_image",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-20T17:56:04+00:00",
+  "response": {
+    "image": {
+      "ok": true,
+      "media_id": 385885,
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2026/11/20/risultati-produce-x-assembly-2026.webp"
+    },
+    "post": {
+      "id": 385886,
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-produce-x-assembly-2026/",
+      "slug": "risultati-produce-x-assembly-2026",
+      "date": "2026-11-15T20:00:00",
+      "featured_media": 385885,
+      "categories": [
+        52,
+        2
+      ],
+      "tags": [
+        18482,
+        12855
+      ],
+      "title": "RISULTATI: PRODUCE x ASSEMBLY 2026"
+    }
+  }
+}
