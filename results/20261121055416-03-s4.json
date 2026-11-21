@@ -1,0 +1,29 @@
+{
+  "file": "20261121055416-03-s4.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-21T05:54:35+00:00",
+  "response": [
+    {
+      "id": 2284,
+      "count": 107,
+      "name": "KUSHIDA"
+    },
+    {
+      "id": 14447,
+      "count": 0,
+      "name": "kushida fired"
+    },
+    {
+      "id": 14446,
+      "count": 1,
+      "name": "kushida left"
+    },
+    {
+      "id": 2313,
+      "count": 1,
+      "name": "NJPW KUSHIDA"
+    }
+  ]
+}
