@@ -1,0 +1,41 @@
+{
+  "file": "20261121175339-01-q2.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-21T17:53:51+00:00",
+  "response": [
+    {
+      "date": "2026-11-16T19:02:16",
+      "slug": "risultati-wwe-nxt-holiday-live-tour-chicago-15-11-2026",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-holiday-live-tour-chicago-15-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT Holiday Live Tour Chicago 15.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-15T18:54:56",
+      "slug": "risultati-wwe-nxt-holiday-live-tour-detroit-14-11-2026",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-holiday-live-tour-detroit-14-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT Holiday Live Tour Detroit 14.11.2026"
+      }
+    },
+    {
+      "date": "2023-12-26T17:03:09",
+      "slug": "video-cm-punk-intervista-cora-jade-e-lei-parla-finalmente-della-loro-famosa-foto",
+      "link": "https://zonawrestling.net/video-cm-punk-intervista-cora-jade-e-lei-parla-finalmente-della-loro-famosa-foto/",
+      "title": {
+        "rendered": "VIDEO: CM Punk intervista Cora Jade, e lei parla finalmente della loro famosa foto"
+      }
+    },
+    {
+      "date": "2023-12-26T11:04:09",
+      "slug": "wwe-confermato-che-anche-smackdown-sara-un-best-of-2023-nessuno-show-live-fino-allanno-nuovo",
+      "link": "https://zonawrestling.net/wwe-confermato-che-anche-smackdown-sara-un-best-of-2023-nessuno-show-live-fino-allanno-nuovo/",
+      "title": {
+        "rendered": "WWE: Confermato che anche Smackdown sarà un Best Of 2023, nessuno show live fino all&#8217;anno nuovo"
+      }
+    }
+  ]
+}
