@@ -1,0 +1,12 @@
+{
+  "file": "20261121031936-01-b15.json",
+  "action": "add_update",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-21T03:19:46+00:00",
+  "response": {
+    "created": true,
+    "id": 165,
+    "url": "https://zonawrestling.net/diretta-live-wwe-smackdown-del-20-11-2026/#update-165"
+  }
+}
