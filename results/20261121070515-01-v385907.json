@@ -1,0 +1,22 @@
+{
+  "file": "20261121070515-01-v385907.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-21T07:05:26+00:00",
+  "response": {
+    "id": 385907,
+    "date": "2026-11-21T08:04:55",
+    "status": "publish",
+    "link": "https://zonawrestling.net/risultati-cmll-viernes-espectacular-20-11-2026/",
+    "title": {
+      "raw": "RISULTATI: CMLL Viernes Espectacular 20.11.2026"
+    },
+    "author": 1,
+    "featured_media": 385906,
+    "categories": [
+      16187,
+      2
+    ]
+  }
+}
