@@ -1,0 +1,14 @@
+{
+  "file": "20261121175248-08-q09.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-21T17:53:04+00:00",
+  "response": [
+    {
+      "id": 4533,
+      "count": 82,
+      "name": "EMI SAKURA"
+    }
+  ]
+}

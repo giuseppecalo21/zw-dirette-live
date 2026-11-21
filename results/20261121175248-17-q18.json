@@ -1,0 +1,44 @@
+{
+  "file": "20261121175248-17-q18.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-21T17:53:16+00:00",
+  "response": [
+    {
+      "date": "2026-10-16T17:00:00",
+      "link": "https://zonawrestling.net/chronicles-of-ring-of-honor-05/",
+      "title": {
+        "rendered": "Chronicles of Ring of Honor #05"
+      }
+    },
+    {
+      "date": "2026-08-13T10:38:20",
+      "link": "https://zonawrestling.net/aew-kris-statlander-e-hikaru-shida-sfidano-maya-world-per-il-tbs-championship/",
+      "title": {
+        "rendered": "AEW: Kris Statlander e Hikaru Shida sfidano Maya World per il TBS Championship"
+      }
+    },
+    {
+      "date": "2026-07-12T07:52:50",
+      "link": "https://zonawrestling.net/aew-buona-la-prima-per-hikaru-shida-campionessa-ma-a-fine-match-serve-qualcuno-per-fermarla/",
+      "title": {
+        "rendered": "AEW: Buona la prima per Hikaru Shida campionessa, ma a fine match serve qualcuno per fermarla"
+      }
+    },
+    {
+      "date": "2026-07-04T09:21:40",
+      "link": "https://zonawrestling.net/dynamite-01-07-2026/",
+      "title": {
+        "rendered": "Dynamite 01.07.2026 Guns Up"
+      }
+    },
+    {
+      "date": "2026-07-02T10:02:03",
+      "link": "https://zonawrestling.net/aew-hikaru-shida-trionfa-nel-survival-of-the-fittest-e-conquista-il-tbs-championship/",
+      "title": {
+        "rendered": "AEW: Hikaru Shida trionfa nel Survival of the Fittest e conquista il TBS Championship"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "file": "20261121175248-18-q19.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-21T17:53:19+00:00",
+  "response": [
+    {
+      "date": "2026-11-17T09:12:48",
+      "link": "https://zonawrestling.net/wwe-iyo-sky-conquista-il-womens-intercontinental-championship/",
+      "title": {
+        "rendered": "WWE: IYO SKY conquista il Women’s Intercontinental Championship"
+      }
+    },
+    {
+      "date": "2026-11-13T12:57:54",
+      "link": "https://zonawrestling.net/risultati-roh-tv-12-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: ROH TV 12.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-12T16:39:33",
+      "link": "https://zonawrestling.net/wwe-stephanie-vaquer-vince-la-pwi-womens-250-2026-il-pallone-doro-del-wrestling-femminile/",
+      "title": {
+        "rendered": "WWE: Stephanie Vaquer vince la PWI Women&#8217;s 250 2026, il &#8220;pallone d&#8217;oro&#8221; del wrestling femminile"
+      }
+    },
+    {
+      "date": "2026-11-08T11:12:02",
+      "link": "https://zonawrestling.net/wwe-polemiche-dopo-il-cash-in-di-tiffany-stratton-a-crown-jewel-nessuna-sorpresa-per-i-fan/",
+      "title": {
+        "rendered": "WWE: Polemiche dopo il cash-in di Tiffany Stratton a Crown Jewel, nessuna sorpresa per i fan"
+      }
+    },
+    {
+      "date": "2026-11-06T08:00:00",
+      "link": "https://zonawrestling.net/wwe-crown-jewel-preview/",
+      "title": {
+        "rendered": "WWE Crown Jewel – Preview"
+      }
+    }
+  ]
+}
