@@ -1,0 +1,44 @@
+{
+  "file": "20261121055228-00-q01.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-21T05:52:38+00:00",
+  "response": [
+    {
+      "date": "2026-11-18T10:31:22",
+      "link": "https://zonawrestling.net/bully-ray-ha-le-idee-chiare-chad-gable-ed-el-grande-americano-potrebbero-rubare-la-scena-a-survivor-series/",
+      "title": {
+        "rendered": "Bully Ray ha le idee chiare: &#8220;Chad Gable ed El Grande Americano potrebbero rubare la scena a Survivor Series&#8221;"
+      }
+    },
+    {
+      "date": "2026-11-17T13:57:13",
+      "link": "https://zonawrestling.net/raw-16-11-2026-advantage-match/",
+      "title": {
+        "rendered": "Raw 16.11.2026 Advantage Match"
+      }
+    },
+    {
+      "date": "2026-11-17T06:55:18",
+      "link": "https://zonawrestling.net/risultati-wwe-raw-16-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE Raw 16.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-14T16:47:39",
+      "link": "https://zonawrestling.net/smackdown-13-11-2026-e-tempo-di-wargames/",
+      "title": {
+        "rendered": "SmackDown 13.11.2026: è tempo di Wargames"
+      }
+    },
+    {
+      "date": "2026-11-14T10:45:04",
+      "link": "https://zonawrestling.net/wwe-il-team-mexico-si-rinforza-rey-mysterio-annuncia-larrivo-di-rey-fenix/",
+      "title": {
+        "rendered": "WWE: Il Team Mexico si rinforza, Rey Mysterio annuncia l&#8217;arrivo di Rey Fénix"
+      }
+    }
+  ]
+}

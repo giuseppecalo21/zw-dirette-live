@@ -1,0 +1,59 @@
+{
+  "file": "20261121055228-06-q07.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-21T05:52:50+00:00",
+  "response": [
+    {
+      "id": 5583,
+      "count": 1,
+      "name": "John Cena Kevin Owens Live Event Japan WWE Battleground Finn Bàlor"
+    },
+    {
+      "id": 3587,
+      "count": 988,
+      "name": "Kevin Owens"
+    },
+    {
+      "id": 5342,
+      "count": 1,
+      "name": "Kevin Owens Elimination Chamber"
+    },
+    {
+      "id": 5420,
+      "count": 1,
+      "name": "Kevin Owens merchandising"
+    },
+    {
+      "id": 5340,
+      "count": 1,
+      "name": "Kevin Owens Money in the Bank"
+    },
+    {
+      "id": 12523,
+      "count": 1,
+      "name": "kevin owens show"
+    },
+    {
+      "id": 5341,
+      "count": 1,
+      "name": "Kevin Owens Summerslam"
+    },
+    {
+      "id": 5390,
+      "count": 2,
+      "name": "Kevin Owens T-shirt"
+    },
+    {
+      "id": 5337,
+      "count": 5,
+      "name": "kevin owens vs john cena"
+    },
+    {
+      "id": 5815,
+      "count": 1,
+      "name": "kevin owens wwe"
+    }
+  ]
+}

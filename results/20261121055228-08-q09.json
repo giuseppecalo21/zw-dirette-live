@@ -1,0 +1,19 @@
+{
+  "file": "20261121055228-08-q09.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-21T05:52:52+00:00",
+  "response": [
+    {
+      "id": 12672,
+      "count": 360,
+      "name": "jade cargill"
+    },
+    {
+      "id": 18309,
+      "count": 1,
+      "name": "Jade Cargill Stephanie Vaquer"
+    }
+  ]
+}

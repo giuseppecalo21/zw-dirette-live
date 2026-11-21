@@ -1,0 +1,59 @@
+{
+  "file": "20261121055228-05-q06.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-21T05:52:50+00:00",
+  "response": [
+    {
+      "id": 18210,
+      "count": 9,
+      "name": "#SmackDown"
+    },
+    {
+      "id": 6265,
+      "count": 3,
+      "name": "analisi smackdown"
+    },
+    {
+      "id": 11409,
+      "count": 4,
+      "name": "ascolti Friday Night Smackdown"
+    },
+    {
+      "id": 4663,
+      "count": 68,
+      "name": "Ascolti Smackdown"
+    },
+    {
+      "id": 8227,
+      "count": 31,
+      "name": "Ascolti Smackdown Live"
+    },
+    {
+      "id": 109,
+      "count": 4,
+      "name": "Backstage Fallout Smackdown"
+    },
+    {
+      "id": 7755,
+      "count": 5,
+      "name": "Dark main event Smackdown"
+    },
+    {
+      "id": 8564,
+      "count": 1,
+      "name": "Dark main event Smackdown Live"
+    },
+    {
+      "id": 1625,
+      "count": 9,
+      "name": "Dark matches prima di Main Event/Smackdown"
+    },
+    {
+      "id": 11351,
+      "count": 602,
+      "name": "Friday Night Smackdown"
+    }
+  ]
+}
