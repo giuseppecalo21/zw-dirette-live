@@ -1,0 +1,1 @@
+{"action": "get", "path": "wp/v2/tags?search=smackdown&_fields=id,name,count"}
