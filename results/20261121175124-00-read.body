@@ -28,7 +28,7 @@
 	            },
 	            "author": {
 	                "name": "user",
-	                "@id": "https://www.fightful.com/#/schema/person/0e3b5bb810abb62f0ab05e6596552c69"
+	                "@id": "https://www.fightful.com/#/schema/person/f1fe4bb4a11fd66553b1dce5b03b862b"
 	            },
 	            "headline": "Results",
 	            "datePublished": "2024-07-03T15:58:18+00:00",
@@ -137,7 +137,7 @@
 	        },
 	        {
 	            "@type": "Person",
-	            "@id": "https://www.fightful.com/#/schema/person/0e3b5bb810abb62f0ab05e6596552c69",
+	            "@id": "https://www.fightful.com/#/schema/person/f1fe4bb4a11fd66553b1dce5b03b862b",
 	            "name": "user",
 	            "image": {
 	                "@type": "ImageObject",
@@ -255,9 +255,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=fightful-patreon-tier-inline-css */
 </style>
 <link rel='stylesheet' id='ctf_styles-css' href='https://www.fightful.com/wp-content/plugins/custom-twitter-feeds-pro/css/ctf-styles.min.css?ver=2.5.0' media='all' />
-<link rel='stylesheet' id='patreon-wordpress-css-css' href='https://www.fightful.com/wp-content/plugins/patreon-connect/assets/css/app.css?ver=5a2683d37941496e5a96a94c35f14cd5' media='all' />
-<link rel='stylesheet' id='wpdp-style2-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/front-styles.css?t=1795261888&#038;ver=5a2683d37941496e5a96a94c35f14cd5' media='all' />
-<link rel='stylesheet' id='wpdp-style3-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/jquery-ui.css?ver=5a2683d37941496e5a96a94c35f14cd5' media='all' />
+<link rel='stylesheet' id='patreon-wordpress-css-css' href='https://www.fightful.com/wp-content/plugins/patreon-connect/assets/css/app.css?ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
+<link rel='stylesheet' id='wpdp-style2-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/front-styles.css?t=1795283493&#038;ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
+<link rel='stylesheet' id='wpdp-style3-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/jquery-ui.css?ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
 <link rel='stylesheet' id='tie-css-base-css' href='https://www.fightful.com/wp-content/themes/jannah/assets/css/base.min.css?ver=7.3.0' media='all' />
 <link rel='stylesheet' id='tie-css-styles-css' href='https://www.fightful.com/wp-content/themes/jannah/assets/css/style.min.css?ver=7.3.0' media='all' />
 <link rel='stylesheet' id='tie-css-widgets-css' href='https://www.fightful.com/wp-content/themes/jannah/assets/css/widgets.min.css?ver=7.3.0' media='all' />
@@ -282,11 +282,11 @@ jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","curr
 //# sourceURL=jquery-ui-datepicker-js-after
 </script>
 <script id="wpdp-scripts2-js-extra">
-var wpdp_obj = {"nonce":"0299358889","wpml_current_language":null};
+var wpdp_obj = {"nonce":"b62b2f42cb","wpml_current_language":null};
 //# sourceURL=wpdp-scripts2-js-extra
 </script>
-<script id="wpdp-scripts2-js" src="https://www.fightful.com/wp-content/plugins/wp-datepicker/js/scripts-front.js?ver=5a2683d37941496e5a96a94c35f14cd5"></script>
-<script id="wpdp-13315773-i18n-js" src="https://www.fightful.com/wp-content/plugins/wp-datepicker/js/i18n/datepicker-en-GB.js?ver=5a2683d37941496e5a96a94c35f14cd5"></script>
+<script id="wpdp-scripts2-js" src="https://www.fightful.com/wp-content/plugins/wp-datepicker/js/scripts-front.js?ver=db15b84483b6ef43308e5864b622c4dc"></script>
+<script id="wpdp-13315773-i18n-js" src="https://www.fightful.com/wp-content/plugins/wp-datepicker/js/i18n/datepicker-en-GB.js?ver=db15b84483b6ef43308e5864b622c4dc"></script>
 
 <!-- Google tag (gtag.js) snippet added by Site Kit -->
 <!-- Google Analytics snippet added by Site Kit -->
@@ -989,7 +989,7 @@ gtag("config", "GT-MQP9FZ6");
         </div>                
                 <div class="ad-sidebar-portrait"></div>
 
-                <div class="widget-title the-global-title"><div class="the-subtitle"><h3>RESULTS</h3></div></div><div class="results sidebar-list"><ul class="display-posts-listing"><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/cmll-viernes-espectacular-results-11-20-2026-leyenda-azul-eliminator-thunder-rosa-united-empire-more/">CMLL Viernes Espectacular Results (11/20/2026): Leyenda Azul Eliminator, Thunder Rosa, United Empire, More</a> <span class="date">November 21, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-smackdown-results-11-20-2026-charlotte-flair-vs-jade-cargill-trick-williams-bakusai-more/">WWE SmackDown Results (11/20/2026): Charlotte Flair vs. Jade Cargill, Trick Williams, Bakusai, More</a> <span class="date">November 20, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-road-to-survivor-series-live-results-11-19/">WWE Road To Survivor Series Live Results (11/19)</a> <span class="date">November 20, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/roh-tv-results-11-19-hyan-teams-with-maya-world/">ROH TV Results (11/19): Hyan Teams With Maya World</a> <span class="date">November 20, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/njpw-bound-for-unbound-results-11-20/">NJPW Bound For Unbound Results (11/20)</a> <span class="date">November 20, 2026 </span></li></ul></div>            </div><!-- /sidebar-container -->
+                <div class="widget-title the-global-title"><div class="the-subtitle"><h3>RESULTS</h3></div></div><div class="results sidebar-list"><ul class="display-posts-listing"><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-nxt-live-results-11-20/">WWE NXT Live Results (11/20)</a> <span class="date">November 21, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/roh-fortnite-to-final-battle-results-11-20/">ROH Fortnite To Final Battle Results (11/20)</a> <span class="date">November 21, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/cmll-viernes-espectacular-results-11-20-2026-leyenda-azul-eliminator-thunder-rosa-united-empire-more/">CMLL Viernes Espectacular Results (11/20/2026): Leyenda Azul Eliminator, Thunder Rosa, United Empire, More</a> <span class="date">November 21, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-smackdown-results-11-20-2026-charlotte-flair-vs-jade-cargill-trick-williams-bakusai-more/">WWE SmackDown Results (11/20/2026): Charlotte Flair vs. Jade Cargill, Trick Williams, Bakusai, More</a> <span class="date">November 20, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-road-to-survivor-series-live-results-11-19/">WWE Road To Survivor Series Live Results (11/19)</a> <span class="date">November 20, 2026 </span></li></ul></div>            </div><!-- /sidebar-container -->
 
                         <div class="latest-posts-container">
                 <div class="latest-posts-list-container">
@@ -998,6 +998,48 @@ gtag("config", "GT-MQP9FZ6");
                     </div>
 
                     <div class="latest-posts-list">
+
+                        
+                            <div class="latest-post-item">
+                                                                    <a class="featured-image" href="https://www.fightful.com/wrestling/wwe-nxt-live-results-11-20/">
+                                        <div class="image-container">
+                                            <img class="lazy" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20360'%3E%3C/svg%3E" data-src="https://www.fightful.com/wp-content/uploads/2025/09/nxt-2024.jpg"
+                                                alt="WWE NXT Live Results (11/20)">
+                                        </div>
+                                    </a>
+                                
+                                <div class="featured-text">
+                                    <div class="title"><a
+                                            href="https://www.fightful.com/wrestling/wwe-nxt-live-results-11-20/">WWE NXT Live Results (11/20)</a>
+                                    </div>
+                                    <div class="post-excerpt">WWE held a NXT live event on November 20 from Bradenton Convention...</div>
+                                    <div class="post-meta">
+                                        <span class="post-date">November 21, 2026 12:24 pm</span>
+                                                                                    | <span class="post-author">By Jeremy Lambert</span>
+                                                                            </div>
+                                </div>
+                            </div><!-- /latest-post-item -->
+
+                        
+                            <div class="latest-post-item">
+                                                                    <a class="featured-image" href="https://www.fightful.com/wrestling/roh-fortnite-to-final-battle-results-11-20/">
+                                        <div class="image-container">
+                                            <img class="lazy" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/21114209/HXm-c-kWoAEwlWD-768x432.jpeg"
+                                                alt="ROH Fortnite To Final Battle Results (11/20)">
+                                        </div>
+                                    </a>
+                                
+                                <div class="featured-text">
+                                    <div class="title"><a
+                                            href="https://www.fightful.com/wrestling/roh-fortnite-to-final-battle-results-11-20/">ROH Fortnite To Final Battle Results (11/20)</a>
+                                    </div>
+                                    <div class="post-excerpt">Ring of Honor held its ROH Fortnite to Final Battle event on...</div>
+                                    <div class="post-meta">
+                                        <span class="post-date">November 21, 2026 11:42 am</span>
+                                                                                    | <span class="post-author">By Jeremy Lambert</span>
+                                                                            </div>
+                                </div>
+                            </div><!-- /latest-post-item -->
 
                         
                             <div class="latest-post-item">
@@ -1273,57 +1315,15 @@ gtag("config", "GT-MQP9FZ6");
                             </div><!-- /latest-post-item -->
 
                         
-                            <div class="latest-post-item">
-                                                                    <a class="featured-image" href="https://www.fightful.com/wrestling/sup-fear-and-trembling-results-11-1/">
-                                        <div class="image-container">
-                                            <img class="lazy" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/17212445/Screenshot-2026-11-17-at-9.24.33-PM-768x278.png"
-                                                alt="SUP Fear And Trembling Results (11/1)">
-                                        </div>
-                                    </a>
-                                
-                                <div class="featured-text">
-                                    <div class="title"><a
-                                            href="https://www.fightful.com/wrestling/sup-fear-and-trembling-results-11-1/">SUP Fear And Trembling Results (11/1)</a>
-                                    </div>
-                                    <div class="post-excerpt">Southern Underground Pro Wrestling held its SUP Fear And Trembling event on...</div>
-                                    <div class="post-meta">
-                                        <span class="post-date">November 17, 2026 9:25 pm</span>
-                                                                                    | <span class="post-author">By Jeremy Lambert</span>
-                                                                            </div>
-                                </div>
-                            </div><!-- /latest-post-item -->
-
-                        
-                            <div class="latest-post-item">
-                                                                    <a class="featured-image" href="https://www.fightful.com/wrestling/wwe-nxt-results-11-17-2026-kelani-jordan-vs-kelani-jordan-zilla-fatu-tony-dangelo-more/">
-                                        <div class="image-container">
-                                            <img class="lazy" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/17174053/image-457.png"
-                                                alt="WWE NXT Results (11/17/2026): Kelani Jordan vs. Kelani Jordan, Zilla Fatu, Tony D&#8217;Angelo, More">
-                                        </div>
-                                    </a>
-                                
-                                <div class="featured-text">
-                                    <div class="title"><a
-                                            href="https://www.fightful.com/wrestling/wwe-nxt-results-11-17-2026-kelani-jordan-vs-kelani-jordan-zilla-fatu-tony-dangelo-more/">WWE NXT Results (11/17/2026): Kelani Jordan vs. Kelani Jordan, Zilla Fatu, Tony D&#8217;Angelo, More</a>
-                                    </div>
-                                    <div class="post-excerpt">Full results for WWE NXT on The CW &amp; Netflix on November...</div>
-                                    <div class="post-meta">
-                                        <span class="post-date">November 17, 2026 7:15 pm</span>
-                                                                                    | <span class="post-author">By Luis Pulido</span>
-                                                                            </div>
-                                </div>
-                            </div><!-- /latest-post-item -->
-
-                        
                     </div><!-- /latest-posts-list -->
 
                     <div class="pagination">
                         <span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=2&#038;nocache=202611211250&#038;zwts=20261121115128">2</a>
-<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=3&#038;nocache=202611211250&#038;zwts=20261121115128">3</a>
+<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=2&#038;nocache=202611211850&#038;zwts=20261121175132">2</a>
+<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=3&#038;nocache=202611211850&#038;zwts=20261121175132">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=937&#038;nocache=202611211250&#038;zwts=20261121115128">937</a>
-<a class="next page-numbers" href="https://www.fightful.com/wrestling/results/?paged=2&#038;nocache=202611211250&#038;zwts=20261121115128">>></a>                    </div>
+<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=937&#038;nocache=202611211850&#038;zwts=20261121175132">937</a>
+<a class="next page-numbers" href="https://www.fightful.com/wrestling/results/?paged=2&#038;nocache=202611211850&#038;zwts=20261121175132">>></a>                    </div>
 
                 </div><!-- /list-container -->
             </div><!-- /posts-container -->
@@ -1351,7 +1351,7 @@ gtag("config", "GT-MQP9FZ6");
 	<div class="the-subtitle"><h3>LATEST WRESTLING PODCAST</h3></div>
 </div>
 <div class="sidebar-single">
-	<div class="latest-wrestling-podcasts sidebar-listing"><div class="podcast-item"><a href="https://www.fightful.com/podcasts/who-will-win-the-womens-wargames-advantage-wwe-smackdown-11-20-2026-full-show-review-results/" class="sidebar-video"><img class="lazy" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://img.youtube.com/vi/yYUS_rNIb_Q/maxresdefault.jpg" alt="YouTube Video Thumbnail"></a></div></div>
+	<div class="latest-wrestling-podcasts sidebar-listing"><div class="podcast-item"><a href="https://www.fightful.com/podcasts/aew-continental-classic-night-1-the-rock-is-confirmed-for-survivor-series-grapsody-11-21-26/" class="sidebar-video"><img class="lazy" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://img.youtube.com/vi/d3d8sChUEYQ/maxresdefault.jpg" alt="YouTube Video Thumbnail"></a></div></div>
 </div><div class="clearfix"></div></div><!-- .widget /--><div id="block-115" class="container-wrapper widget widget_block"><div class="widget-title the-global-title">
 	<div class="the-subtitle"><h3>LATEST THE HUMP</h3></div>
 </div>
@@ -1361,12 +1361,12 @@ gtag("config", "GT-MQP9FZ6");
 	<div class="the-subtitle"><h3>LATEST FIGHTFUL OVERBOOKED</h3></div>
 </div>
 <div class="sidebar-single">
-	<div class="fightful-overbooked-podcasts sidebar-listing"><div class="podcast-item"><a href="https://www.fightful.com/podcasts/therock-returning-to-wwe-coexisting/" class="sidebar-video"><img class="lazy" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://img.youtube.com/vi/aNZ8XysxqYI/maxresdefault.jpg" alt="YouTube Video Thumbnail"></a></div></div>
+	<div class="fightful-overbooked-podcasts sidebar-listing"><div class="podcast-item"><a href="https://www.fightful.com/podcasts/ryzin-discusses-his-upcoming-retirement-scrapped-aew-plans-terra-ryzing-much-more/" class="sidebar-video"><img class="lazy" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://img.youtube.com/vi/QKjWXtTSL6c/maxresdefault.jpg" alt="YouTube Video Thumbnail"></a></div></div>
 </div><div class="clearfix"></div></div><!-- .widget /--><div id="block-117" class="container-wrapper widget widget_block"><div class="widget-title the-global-title">
 <div class="the-subtitle"><h3>RESULTS</h3></div>
 </div>
 <div class="sidebar-list">
-<ul class="display-posts-listing"><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/cmll-viernes-espectacular-results-11-20-2026-leyenda-azul-eliminator-thunder-rosa-united-empire-more/">CMLL Viernes Espectacular Results (11/20/2026): Leyenda Azul Eliminator, Thunder Rosa, United Empire, More</a> <span class="date">November 21, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-smackdown-results-11-20-2026-charlotte-flair-vs-jade-cargill-trick-williams-bakusai-more/">WWE SmackDown Results (11/20/2026): Charlotte Flair vs. Jade Cargill, Trick Williams, Bakusai, More</a> <span class="date">November 20, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-road-to-survivor-series-live-results-11-19/">WWE Road To Survivor Series Live Results (11/19)</a> <span class="date">November 20, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/roh-tv-results-11-19-hyan-teams-with-maya-world/">ROH TV Results (11/19): Hyan Teams With Maya World</a> <span class="date">November 20, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/njpw-bound-for-unbound-results-11-20/">NJPW Bound For Unbound Results (11/20)</a> <span class="date">November 20, 2026 </span></li></ul>
+<ul class="display-posts-listing"><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-nxt-live-results-11-20/">WWE NXT Live Results (11/20)</a> <span class="date">November 21, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/roh-fortnite-to-final-battle-results-11-20/">ROH Fortnite To Final Battle Results (11/20)</a> <span class="date">November 21, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/cmll-viernes-espectacular-results-11-20-2026-leyenda-azul-eliminator-thunder-rosa-united-empire-more/">CMLL Viernes Espectacular Results (11/20/2026): Leyenda Azul Eliminator, Thunder Rosa, United Empire, More</a> <span class="date">November 21, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-smackdown-results-11-20-2026-charlotte-flair-vs-jade-cargill-trick-williams-bakusai-more/">WWE SmackDown Results (11/20/2026): Charlotte Flair vs. Jade Cargill, Trick Williams, Bakusai, More</a> <span class="date">November 20, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-road-to-survivor-series-live-results-11-19/">WWE Road To Survivor Series Live Results (11/19)</a> <span class="date">November 20, 2026 </span></li></ul>
 </div>
 <div class="clearfix"></div></div><!-- .widget /-->						</div><!-- .theiaStickySidebar /-->
 					</aside><!-- .sidebar /-->
@@ -1493,7 +1493,7 @@ gtag("config", "GT-MQP9FZ6");
 				<a class="forget-text" href="https://www.fightful.com/hello/?action=lostpassword&redirect_to=https%3A%2F%2Fwww.fightful.com">Forget?</a>
 			</div>
 
-			<input type="hidden" name="redirect_to" value="/wrestling/results/?nocache=202611211250&amp;zwts=20261121115128"/>
+			<input type="hidden" name="redirect_to" value="/wrestling/results/?nocache=202611211850&amp;zwts=20261121175132"/>
 			<label for="rememberme" class="rememberme">
 				<input id="rememberme" name="rememberme" type="checkbox" checked="checked" value="forever" /> Remember me			</label>
 
@@ -1516,8 +1516,8 @@ gtag("config", "GT-MQP9FZ6");
 			</div><!-- .container-wrapper  /-->
 		</div><!-- .tie-popup-container /-->
 	</div><!-- .tie-popup /-->
-	<style type="text/css" data-ctf-style="3">.ctf-feed-3 .ctf-tweet-actions a{font-size:12px!important;}.ctf-feed-3 .ctf-quoted-tweet{font-size:20px!important;}.ctf-feed-3 .ctf-twitterlink{font-size:9px!important;}.ctf-feed-3.ctf-regular-style .ctf-item, .ctf-feed-3 .ctf-header{border-bottom:1px solid #DDD!important;}</style><script id="patreon-wordpress-js-js" src="https://www.fightful.com/wp-content/plugins/patreon-connect/assets/js/app.js?ver=5a2683d37941496e5a96a94c35f14cd5"></script>
-<script id="datepicker-script-auto-js" src="https://www.fightful.com/wp-content/plugins/wp-datepicker/js/wpdp_auto_script.js?ver=202611211151"></script>
+	<style type="text/css" data-ctf-style="3">.ctf-feed-3 .ctf-tweet-actions a{font-size:12px!important;}.ctf-feed-3 .ctf-quoted-tweet{font-size:20px!important;}.ctf-feed-3 .ctf-twitterlink{font-size:9px!important;}.ctf-feed-3.ctf-regular-style .ctf-item, .ctf-feed-3 .ctf-header{border-bottom:1px solid #DDD!important;}</style><script id="patreon-wordpress-js-js" src="https://www.fightful.com/wp-content/plugins/patreon-connect/assets/js/app.js?ver=db15b84483b6ef43308e5864b622c4dc"></script>
+<script id="datepicker-script-auto-js" src="https://www.fightful.com/wp-content/plugins/wp-datepicker/js/wpdp_auto_script.js?ver=202611210551"></script>
 <script id="tie-scripts-js-extra">
 var tie = {"is_rtl":"","ajaxurl":"https://www.fightful.com/wp-admin/admin-ajax.php","is_side_aside_light":"","is_taqyeem_active":"","is_sticky_video":"","mobile_menu_top":"","mobile_menu_active":"area_1","mobile_menu_parent":"","lightbox_all":"true","lightbox_gallery":"true","lightbox_skin":"dark","lightbox_thumb":"horizontal","lightbox_arrows":"true","is_singular":"1","autoload_posts":"","reading_indicator":"true","lazyload":"","select_share":"true","select_share_twitter":"true","select_share_facebook":"true","select_share_linkedin":"","select_share_email":"","facebook_app_id":"5303202981","twitter_username":"","responsive_tables":"true","ad_blocker_detector":"","sticky_behavior":"default","sticky_desktop":"true","sticky_mobile":"true","sticky_mobile_behavior":"default","ajax_loader":"\u003Cdiv class=\"loader-overlay\"\u003E\n\t\t\t\t\u003Cdiv class=\"spinner\"\u003E\n\t\t\t\t\t\u003Cdiv class=\"bounce1\"\u003E\u003C/div\u003E\n\t\t\t\t\t\u003Cdiv class=\"bounce2\"\u003E\u003C/div\u003E\n\t\t\t\t\t\u003Cdiv class=\"bounce3\"\u003E \u003C/div\u003E\n\t\t\t\t\u003C/div\u003E\n\t\t\t\u003C/div\u003E","type_to_search":"","lang_no_results":"Nothing Found","sticky_share_mobile":"true","sticky_share_post":"","sticky_share_post_menu":""};
 //# sourceURL=tie-scripts-js-extra
@@ -1529,12 +1529,12 @@ var tie = {"is_rtl":"","ajaxurl":"https://www.fightful.com/wp-admin/admin-ajax.p
 <script id="tie-js-desktop-js" src="https://www.fightful.com/wp-content/themes/jannah/assets/js/desktop.min.js?ver=7.3.0"></script>
 <script id="twitter-widgets-single-js" src="https://platform.twitter.com/widgets.js"></script>
 <script id="ctf_scripts-js-extra">
-var ctfOptions = {"ajax_url":"https://www.fightful.com/wp-admin/admin-ajax.php","nonce":"b5f5a9fdc3","font_method":"svg","placeholder":"https://www.fightful.com/wp-content/plugins/custom-twitter-feeds-pro/img/placeholder.png","resized_url":"https://www.fightful.com/wp-content/uploads/sb-twitter-feed-images/"};
+var ctfOptions = {"ajax_url":"https://www.fightful.com/wp-admin/admin-ajax.php","nonce":"39b4f5f8fd","font_method":"svg","placeholder":"https://www.fightful.com/wp-content/plugins/custom-twitter-feeds-pro/img/placeholder.png","resized_url":"https://www.fightful.com/wp-content/uploads/sb-twitter-feed-images/"};
 //# sourceURL=ctf_scripts-js-extra
 </script>
 <script id="ctf_scripts-js" src="https://www.fightful.com/wp-content/plugins/custom-twitter-feeds-pro/js/ctf-scripts.min.js?ver=2.5.0"></script>
 <script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.fightful.com/wp-includes/js/wp-emoji-release.min.js?ver=5a2683d37941496e5a96a94c35f14cd5"}}
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.fightful.com/wp-includes/js/wp-emoji-release.min.js?ver=db15b84483b6ef43308e5864b622c4dc"}}
 </script>
 <script type="module">
 /*! This file is auto-generated */
@@ -1568,5 +1568,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Page Caching using Disk: Enhanced (Requested URI contains query) 
 Lazy Loading
 
-Served from: www.fightful.com @ 2026-11-21 06:51:34 by W3 Total Cache
+Served from: www.fightful.com @ 2026-11-21 12:51:40 by W3 Total Cache
 -->
