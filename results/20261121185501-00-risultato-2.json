@@ -1,0 +1,33 @@
+{
+  "file": "20261121185501-00-risultato-2.json",
+  "action": "create_post_image",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-21T18:55:29+00:00",
+  "response": {
+    "image": {
+      "ok": true,
+      "media_id": 385939,
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2026/11/21/risultati-wwe-nxt-live-event-20-11-2026.jpg"
+    },
+    "post": {
+      "id": 385940,
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-live-event-20-11-2026/",
+      "slug": "risultati-wwe-nxt-live-event-20-11-2026",
+      "date": "2026-11-21T19:55:14",
+      "featured_media": 385939,
+      "categories": [
+        2,
+        53
+      ],
+      "tags": [
+        18286,
+        15595,
+        16787,
+        15448
+      ],
+      "title": "RISULTATI: WWE NXT Live Event 20.11.2026"
+    }
+  }
+}
