@@ -1,0 +1,44 @@
+{
+  "file": "20261121055307-01-r2.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-21T05:53:22+00:00",
+  "response": [
+    {
+      "date": "2026-11-17T13:57:13",
+      "link": "https://zonawrestling.net/raw-16-11-2026-advantage-match/",
+      "title": {
+        "rendered": "Raw 16.11.2026 Advantage Match"
+      }
+    },
+    {
+      "date": "2026-11-17T08:00:00",
+      "link": "https://zonawrestling.net/cmll-aaa-when-worlds-collide/",
+      "title": {
+        "rendered": "CMLL &amp; AAA: When Worlds Collide"
+      }
+    },
+    {
+      "date": "2026-11-17T06:55:18",
+      "link": "https://zonawrestling.net/risultati-wwe-raw-16-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE Raw 16.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-14T16:47:39",
+      "link": "https://zonawrestling.net/smackdown-13-11-2026-e-tempo-di-wargames/",
+      "title": {
+        "rendered": "SmackDown 13.11.2026: è tempo di Wargames"
+      }
+    },
+    {
+      "date": "2026-11-14T12:54:10",
+      "link": "https://zonawrestling.net/risultati-cmll-viernes-espectacular-13-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL Viernes Espectacular 13.11.2026"
+      }
+    }
+  ]
+}
