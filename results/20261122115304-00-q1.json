@@ -1,0 +1,19 @@
+{
+  "file": "20261122115304-00-q1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T11:53:17+00:00",
+  "response": [
+    {
+      "id": 3727,
+      "count": 1,
+      "name": "JAGUAR YOKOTA &amp; SAREEE"
+    },
+    {
+      "id": 12877,
+      "count": 7,
+      "name": "Sareee"
+    }
+  ]
+}

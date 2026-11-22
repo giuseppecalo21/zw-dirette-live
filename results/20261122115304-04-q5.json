@@ -1,0 +1,14 @@
+{
+  "file": "20261122115304-04-q5.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T11:53:19+00:00",
+  "response": [
+    {
+      "id": 17332,
+      "count": 20,
+      "name": "Maya World"
+    }
+  ]
+}
