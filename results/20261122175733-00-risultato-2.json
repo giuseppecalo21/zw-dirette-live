@@ -1,0 +1,35 @@
+{
+  "file": "20261122175733-00-risultato-2.json",
+  "action": "create_post_image",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-22T17:58:27+00:00",
+  "response": {
+    "image": {
+      "ok": true,
+      "media_id": 385980,
+      "source_url": "https://zonawrestling.net/wp-content/uploads/2026/11/22/risultati-njpw-road-to-world-tag-league-21-11-2026.png"
+    },
+    "post": {
+      "id": 385981,
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-njpw-road-to-world-tag-league-21-11-2026/",
+      "slug": "risultati-njpw-road-to-world-tag-league-21-11-2026",
+      "date": "2026-11-22T18:58:14",
+      "featured_media": 385980,
+      "categories": [
+        10273,
+        2
+      ],
+      "tags": [
+        13939,
+        123,
+        13073,
+        1716,
+        8738,
+        719
+      ],
+      "title": "RISULTATI: NJPW Road to World Tag League 21.11.2026"
+    }
+  }
+}
