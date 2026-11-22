@@ -1,0 +1,44 @@
+{
+  "file": "20261122235357-01-h2.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T23:54:09+00:00",
+  "response": [
+    {
+      "date": "2026-11-08T00:55:37",
+      "link": "https://zonawrestling.net/risultati-gcw-dead-on-arrival-2026/",
+      "title": {
+        "rendered": "RISULTATI: GCW Dead On Arrival 2026"
+      }
+    },
+    {
+      "date": "2026-10-26T18:30:19",
+      "link": "https://zonawrestling.net/risultati-gcw-shotzi-blackhearts-drive-in-from-hell-2026/",
+      "title": {
+        "rendered": "RISULTATI: GCW Shotzi Blackheart&#8217;s Drive-In From Hell 2026"
+      }
+    },
+    {
+      "date": "2026-10-17T12:00:00",
+      "link": "https://zonawrestling.net/risultati-exodus-pro-heat-of-the-moment-2026/",
+      "title": {
+        "rendered": "RISULTATI: Exodus Pro Heat of the Moment 2026"
+      }
+    },
+    {
+      "date": "2026-10-13T00:17:53",
+      "link": "https://zonawrestling.net/risultati-gcw-fight-club-2026-night-two/",
+      "title": {
+        "rendered": "RISULTATI: GCW Fight Club 2026 – Night Two"
+      }
+    },
+    {
+      "date": "2026-10-12T03:14:40",
+      "link": "https://zonawrestling.net/risultati-gcw-fight-club-2026-night-one/",
+      "title": {
+        "rendered": "RISULTATI: GCW Fight Club 2026 &#8211; Night One"
+      }
+    }
+  ]
+}

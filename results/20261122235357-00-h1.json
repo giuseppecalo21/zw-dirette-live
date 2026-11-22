@@ -1,0 +1,44 @@
+{
+  "file": "20261122235357-00-h1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T23:54:06+00:00",
+  "response": [
+    {
+      "date": "2026-10-25T20:00:00",
+      "link": "https://zonawrestling.net/risultati-focus-pro-wrestling-the-world-in-my-hands-2026/",
+      "title": {
+        "rendered": "RISULTATI: Focus Pro Wrestling The World In My Hands 2026"
+      }
+    },
+    {
+      "date": "2024-06-29T07:22:23",
+      "link": "https://zonawrestling.net/wwe-paul-heyman-portato-via-dal-msg-in-ambulanza-dopo-lattacco-subito-dalla-bloodline/",
+      "title": {
+        "rendered": "WWE: Paul Heyman portato via dal MSG in ambulanza dopo l&#8217;attacco subito dalla Bloodline"
+      }
+    },
+    {
+      "date": "2017-05-26T20:29:27",
+      "link": "https://zonawrestling.net/wwe-la-federazione-chiede-sia-fatta-giustizia-dopo-lomicidio-di-una-bambina/",
+      "title": {
+        "rendered": "Bambina di 2 anni uccisa da una Batista Bomb dal compagno della madre, la WWE chiede giustizia"
+      }
+    },
+    {
+      "date": "2015-11-06T15:50:50",
+      "link": "https://zonawrestling.net/video-continuano-gli-allenamenti-per-hhh-e-stephanie/",
+      "title": {
+        "rendered": "VIDEO: Continuano gli allenamenti per HHH e Stephanie"
+      }
+    },
+    {
+      "date": "2015-11-02T11:04:25",
+      "link": "https://zonawrestling.net/wwe-john-cena-e-nikki-bella-assistono-ad-un-concerto-e-lo-elogiano-su-twitter/",
+      "title": {
+        "rendered": "WWE: John Cena e Nikki Bella assistono ad un concerto e lo elogiano su Twitter"
+      }
+    }
+  ]
+}
