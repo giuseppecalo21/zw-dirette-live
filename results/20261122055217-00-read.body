@@ -256,7 +256,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </style>
 <link rel='stylesheet' id='ctf_styles-css' href='https://www.fightful.com/wp-content/plugins/custom-twitter-feeds-pro/css/ctf-styles.min.css?ver=2.5.0' media='all' />
 <link rel='stylesheet' id='patreon-wordpress-css-css' href='https://www.fightful.com/wp-content/plugins/patreon-connect/assets/css/app.css?ver=1.13.1' media='all' />
-<link rel='stylesheet' id='wpdp-style2-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/front-styles.css?t=1795326728&#038;ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
+<link rel='stylesheet' id='wpdp-style2-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/front-styles.css?t=1795326745&#038;ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
 <link rel='stylesheet' id='wpdp-style3-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/jquery-ui.css?ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
 <link rel='stylesheet' id='tie-css-base-css' href='https://www.fightful.com/wp-content/themes/jannah/assets/css/base.min.css?ver=7.3.0' media='all' />
 <link rel='stylesheet' id='tie-css-styles-css' href='https://www.fightful.com/wp-content/themes/jannah/assets/css/style.min.css?ver=7.3.0' media='all' />
@@ -1319,11 +1319,11 @@ gtag("config", "GT-MQP9FZ6");
 
                     <div class="pagination">
                         <span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=2&#038;nocache=202611220651&#038;zwts=20261122055208">2</a>
-<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=3&#038;nocache=202611220651&#038;zwts=20261122055208">3</a>
+<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=2&#038;nocache=202611220655&#038;zwts=20261122055225">2</a>
+<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=3&#038;nocache=202611220655&#038;zwts=20261122055225">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=937&#038;nocache=202611220651&#038;zwts=20261122055208">937</a>
-<a class="next page-numbers" href="https://www.fightful.com/wrestling/results/?paged=2&#038;nocache=202611220651&#038;zwts=20261122055208">>></a>                    </div>
+<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=937&#038;nocache=202611220655&#038;zwts=20261122055225">937</a>
+<a class="next page-numbers" href="https://www.fightful.com/wrestling/results/?paged=2&#038;nocache=202611220655&#038;zwts=20261122055225">>></a>                    </div>
 
                 </div><!-- /list-container -->
             </div><!-- /posts-container -->
@@ -1493,7 +1493,7 @@ gtag("config", "GT-MQP9FZ6");
 				<a class="forget-text" href="https://www.fightful.com/hello/?action=lostpassword&redirect_to=https%3A%2F%2Fwww.fightful.com">Forget?</a>
 			</div>
 
-			<input type="hidden" name="redirect_to" value="/wrestling/results/?nocache=202611220651&amp;zwts=20261122055208"/>
+			<input type="hidden" name="redirect_to" value="/wrestling/results/?nocache=202611220655&amp;zwts=20261122055225"/>
 			<label for="rememberme" class="rememberme">
 				<input id="rememberme" name="rememberme" type="checkbox" checked="checked" value="forever" /> Remember me			</label>
 
@@ -1568,5 +1568,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Page Caching using Disk: Enhanced (Requested URI contains query) 
 Lazy Loading
 
-Served from: www.fightful.com @ 2026-11-22 00:52:09 by W3 Total Cache
+Served from: www.fightful.com @ 2026-11-22 00:52:26 by W3 Total Cache
 -->
