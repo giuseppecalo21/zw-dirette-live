@@ -1,0 +1,12 @@
+{
+  "file": "20261122030134-00-edit-update.json",
+  "action": "edit_update",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T03:01:48+00:00",
+  "response": {
+    "updated": true,
+    "id": 173,
+    "url": "https://zonawrestling.net/diretta-live-aew-collision-del-21-11-2026/#update-173"
+  }
+}
