@@ -1,0 +1,22 @@
+{
+  "file": "20261122235916-01-c3.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T23:59:28+00:00",
+  "response": {
+    "id": 385996,
+    "date": "2026-11-21T23:00:00",
+    "status": "publish",
+    "link": "https://zonawrestling.net/risultati-nhb-because-the-night-2026/",
+    "title": {
+      "raw": "RISULTATI: NHB Because The Night: A Tribute To Jeff Cannonball 2026"
+    },
+    "author": 1,
+    "featured_media": 385997,
+    "categories": [
+      52,
+      2
+    ]
+  }
+}
