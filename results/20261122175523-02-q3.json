@@ -1,0 +1,51 @@
+{
+  "file": "20261122175523-02-q3.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T17:55:40+00:00",
+  "response": [
+    {
+      "date": "2026-11-18T15:23:09",
+      "link": "https://zonawrestling.net/nxt-17-11-2026-le-donne-salvano-la-baracca/",
+      "title": {
+        "rendered": "NXT 17.11.2026 Le donne salvano la baracca"
+      }
+    },
+    {
+      "date": "2026-11-18T06:56:13",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-17-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT 17.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-16T19:02:16",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-holiday-live-tour-chicago-15-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT Holiday Live Tour Chicago 15.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-15T18:54:56",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-holiday-live-tour-detroit-14-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT Holiday Live Tour Detroit 14.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-01T01:26:56",
+      "link": "https://zonawrestling.net/smackdown-30-10-2026-very-nice-very-evil-demon/",
+      "title": {
+        "rendered": "SmackDown 30.10.2026 Very nice, very evil Demon"
+      }
+    },
+    {
+      "date": "2026-10-30T08:00:00",
+      "link": "https://zonawrestling.net/nxt-halloween-havoc-preview/",
+      "title": {
+        "rendered": "NXT Halloween Havoc &#8211; Preview"
+      }
+    }
+  ]
+}

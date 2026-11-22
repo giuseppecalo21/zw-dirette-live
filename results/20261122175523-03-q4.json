@@ -1,0 +1,44 @@
+{
+  "file": "20261122175523-03-q4.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T17:55:43+00:00",
+  "response": [
+    {
+      "date": "2026-11-21T08:04:55",
+      "link": "https://zonawrestling.net/risultati-cmll-viernes-espectacular-20-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL Viernes Espectacular 20.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-20T15:36:12",
+      "link": "https://zonawrestling.net/risultati-njpw-bound-for-unbound-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW Bound For Unbound 2026"
+      }
+    },
+    {
+      "date": "2026-11-20T13:00:00",
+      "link": "https://zonawrestling.net/jeff-cobb-rifiuto-la-wwe-a-causa-del-colloquio-con-uno-dei-dirigenti-della-compagnia/",
+      "title": {
+        "rendered": "Jeff Cobb rifiutò la WWE a causa del colloquio con uno dei dirigenti della compagnia"
+      }
+    },
+    {
+      "date": "2026-11-17T12:57:02",
+      "link": "https://zonawrestling.net/risultati-cmll-x-njpw-lucha-kingdom-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL x NJPW Lucha Kingdom 2026"
+      }
+    },
+    {
+      "date": "2026-11-04T17:43:29",
+      "link": "https://zonawrestling.net/njpw-jon-moxley-contro-shingo-takagi-sara-un-unbound-deathmatch-ufficializzati-sette-incontri-per-wrestle-kingdom-21/",
+      "title": {
+        "rendered": "NJPW: Jon Moxley contro Shingo Takagi sarà un Unbound Deathmatch, ufficializzati sette incontri per Wrestle Kingdom 21"
+      }
+    }
+  ]
+}
