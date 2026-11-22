@@ -1,0 +1,44 @@
+{
+  "file": "20261122235311-02-g3.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T23:53:26+00:00",
+  "response": [
+    {
+      "date": "2026-11-14T16:47:39",
+      "link": "https://zonawrestling.net/smackdown-13-11-2026-e-tempo-di-wargames/",
+      "title": {
+        "rendered": "SmackDown 13.11.2026: è tempo di Wargames"
+      }
+    },
+    {
+      "date": "2026-11-13T10:10:23",
+      "link": "https://zonawrestling.net/ethan-page-attacca-lo-spogliatoio-wwe-non-lo-fanno-per-amore-del-wrestling-ma-per-soldi/",
+      "title": {
+        "rendered": "Ethan Page attacca lo spogliatoio WWE: &#8220;Non lo fanno per amore del wrestling, ma per soldi&#8221;"
+      }
+    },
+    {
+      "date": "2026-11-07T10:08:00",
+      "link": "https://zonawrestling.net/smackdown-06-11-2026-ko-abbatte-punk/",
+      "title": {
+        "rendered": "SmackDown 06.11.2026 KO abbatte Punk"
+      }
+    },
+    {
+      "date": "2026-11-07T08:56:54",
+      "link": "https://zonawrestling.net/wwe-ecco-come-e-finito-il-no-holds-barred-match-tra-kevin-owens-e-cm-punk/",
+      "title": {
+        "rendered": "WWE: Ecco come è finito il No Holds Barred Match tra Kevin Owens e CM Punk"
+      }
+    },
+    {
+      "date": "2026-11-07T07:09:55",
+      "link": "https://zonawrestling.net/risultati-wwe-smackdown-06-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE SmackDown 06.11.2026"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "file": "20261122235311-08-g9.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T23:53:32+00:00",
+  "response": [
+    {
+      "id": 12596,
+      "count": 18,
+      "name": "IWTV"
+    }
+  ]
+}
