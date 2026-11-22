@@ -1,0 +1,44 @@
+{
+  "file": "20261122175329-22-q23.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T17:54:25+00:00",
+  "response": [
+    {
+      "date": "2026-11-18T15:23:09",
+      "link": "https://zonawrestling.net/nxt-17-11-2026-le-donne-salvano-la-baracca/",
+      "title": {
+        "rendered": "NXT 17.11.2026 Le donne salvano la baracca"
+      }
+    },
+    {
+      "date": "2026-11-18T09:28:52",
+      "link": "https://zonawrestling.net/wwe-john-cena-sorprende-izzi-dame-con-un-invito-al-john-cena-classic/",
+      "title": {
+        "rendered": "WWE: John Cena sorprende Izzi Dame con un invito al John Cena Classic"
+      }
+    },
+    {
+      "date": "2026-11-18T06:56:13",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-17-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT 17.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-16T19:02:16",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-holiday-live-tour-chicago-15-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT Holiday Live Tour Chicago 15.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-15T21:18:32",
+      "link": "https://zonawrestling.net/charlotte-flair-mi-piacerebbe-vedere-il-ritorno-di-rhea-ripley-alla-royal-rumble/",
+      "title": {
+        "rendered": "Charlotte Flair: “Mi piacerebbe vedere il ritorno di Rhea Ripley alla Royal Rumble”"
+      }
+    }
+  ]
+}

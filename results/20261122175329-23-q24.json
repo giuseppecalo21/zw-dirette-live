@@ -1,0 +1,44 @@
+{
+  "file": "20261122175329-23-q24.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T17:54:29+00:00",
+  "response": [
+    {
+      "date": "2026-11-21T19:55:14",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-live-event-20-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT Live Event 20.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-16T11:41:39",
+      "link": "https://zonawrestling.net/noam-dar-confessa-ho-pensato-seriamente-al-ritiro-dopo-due-infortuni-consecutivi/",
+      "title": {
+        "rendered": "Noam Dar confessa: &#8220;Ho pensato seriamente al ritiro dopo due infortuni consecutivi&#8221;"
+      }
+    },
+    {
+      "date": "2026-11-15T18:54:56",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-holiday-live-tour-detroit-14-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT Holiday Live Tour Detroit 14.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-15T11:47:12",
+      "link": "https://zonawrestling.net/wwe-cm-punk-spegne-le-indiscrezioni-sul-ritiro-e-lancia-un-messaggio-ai-fan/",
+      "title": {
+        "rendered": "WWE: CM Punk spegne le indiscrezioni sul ritiro e lancia un messaggio ai fan"
+      }
+    },
+    {
+      "date": "2026-11-13T07:55:31",
+      "link": "https://zonawrestling.net/wwe-nuova-direzione-creativa-in-vista-per-joe-hendry-spunta-lipotesi-di-un-tag-team/",
+      "title": {
+        "rendered": "WWE: Nuova direzione creativa in vista per Joe Hendry, spunta l&#8217;ipotesi di un tag team"
+      }
+    }
+  ]
+}

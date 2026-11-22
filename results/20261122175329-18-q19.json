@@ -1,0 +1,44 @@
+{
+  "file": "20261122175329-18-q19.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T17:54:07+00:00",
+  "response": [
+    {
+      "date": "2026-11-21T08:04:55",
+      "link": "https://zonawrestling.net/risultati-cmll-viernes-espectacular-20-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL Viernes Espectacular 20.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-17T12:57:02",
+      "link": "https://zonawrestling.net/risultati-cmll-x-njpw-lucha-kingdom-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL x NJPW Lucha Kingdom 2026"
+      }
+    },
+    {
+      "date": "2026-11-16T18:59:43",
+      "link": "https://zonawrestling.net/risultati-cmll-domingo-familiar-15-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL Domingo Familiar 15.11.2026"
+      }
+    },
+    {
+      "date": "2026-10-31T11:00:00",
+      "link": "https://zonawrestling.net/wrestling-tv-streaming-weekend-30-ottobre-1-novembre-2026/",
+      "title": {
+        "rendered": "Wrestling nel weekend in TV e streaming: NXT Halloween Havoc, Rey del Inframundo, Goddesses of STARDOM e tanto altro"
+      }
+    },
+    {
+      "date": "2026-10-23T22:48:11",
+      "link": "https://zonawrestling.net/wrestling-tv-streaming-weekend-23-25-ottobre-2026/",
+      "title": {
+        "rendered": "Wrestling nel weekend in TV e streaming: Héroes Inmortales, Super Jr. Tag League, Women&#8217;s Grand Prix e tanto altro"
+      }
+    }
+  ]
+}
