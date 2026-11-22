@@ -1,0 +1,19 @@
+{
+  "file": "20261122055357-00-t1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T05:54:06+00:00",
+  "response": [
+    {
+      "id": 15173,
+      "count": 335,
+      "name": "AEW Collision"
+    },
+    {
+      "id": 18506,
+      "count": 4,
+      "name": "AEW Collision: Summer Blockbuster"
+    }
+  ]
+}

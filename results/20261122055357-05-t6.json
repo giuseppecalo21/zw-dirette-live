@@ -1,0 +1,14 @@
+{
+  "file": "20261122055357-05-t6.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T05:54:10+00:00",
+  "response": [
+    {
+      "id": 18638,
+      "count": 3,
+      "name": "Divine Dominion"
+    }
+  ]
+}

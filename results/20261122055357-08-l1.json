@@ -1,0 +1,44 @@
+{
+  "file": "20261122055357-08-l1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T05:54:13+00:00",
+  "response": [
+    {
+      "date": "2026-11-19T01:15:00",
+      "link": "https://zonawrestling.net/risultati-aew-dynamite-18-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Dynamite 18.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-08T07:18:16",
+      "link": "https://zonawrestling.net/risultati-aew-collision-07-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Collision Rock &#038; Wrestling Rager 07.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-05T07:00:23",
+      "link": "https://zonawrestling.net/risultati-aew-dynamite-blood-guts-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Dynamite Blood &#038; Guts 2026"
+      }
+    },
+    {
+      "date": "2026-11-01T06:30:32",
+      "link": "https://zonawrestling.net/risultati-aew-collision-31-10-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Collision 31.10.2026"
+      }
+    },
+    {
+      "date": "2026-10-29T06:27:36",
+      "link": "https://zonawrestling.net/risultati-aew-dynamite-fright-night-28-10-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Dynamite Fright Night 28.10.2026"
+      }
+    }
+  ]
+}

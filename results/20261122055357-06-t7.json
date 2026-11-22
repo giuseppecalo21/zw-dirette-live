@@ -1,0 +1,14 @@
+{
+  "file": "20261122055357-06-t7.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T05:54:11+00:00",
+  "response": [
+    {
+      "id": 16907,
+      "count": 103,
+      "name": "Death Riders"
+    }
+  ]
+}
