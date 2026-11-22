@@ -1,0 +1,22 @@
+{
+  "file": "20261122175950-01-v385981.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T17:59:58+00:00",
+  "response": {
+    "id": 385981,
+    "date": "2026-11-22T18:58:14",
+    "status": "publish",
+    "link": "https://zonawrestling.net/risultati-njpw-road-to-world-tag-league-21-11-2026/",
+    "title": {
+      "raw": "RISULTATI: NJPW Road to World Tag League 21.11.2026"
+    },
+    "author": 1,
+    "featured_media": 385980,
+    "categories": [
+      10273,
+      2
+    ]
+  }
+}
