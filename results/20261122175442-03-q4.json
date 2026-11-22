@@ -1,0 +1,44 @@
+{
+  "file": "20261122175442-03-q4.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T17:54:54+00:00",
+  "response": [
+    {
+      "date": "2026-11-20T15:36:12",
+      "link": "https://zonawrestling.net/risultati-njpw-bound-for-unbound-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW Bound For Unbound 2026"
+      }
+    },
+    {
+      "date": "2026-11-19T15:54:53",
+      "link": "https://zonawrestling.net/risultati-njpw-tanahashi-jam-2-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW TANAHASHI Jam 2 2026"
+      }
+    },
+    {
+      "date": "2026-11-17T12:57:02",
+      "link": "https://zonawrestling.net/risultati-cmll-x-njpw-lucha-kingdom-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL x NJPW Lucha Kingdom 2026"
+      }
+    },
+    {
+      "date": "2026-11-10T18:53:40",
+      "link": "https://zonawrestling.net/risultati-njpw-el-desperado-gaspe-invitational-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW El Desperado GasPE Invitational 2026"
+      }
+    },
+    {
+      "date": "2026-11-08T06:55:33",
+      "link": "https://zonawrestling.net/risultati-mlw-saturday-night-superfight-2026/",
+      "title": {
+        "rendered": "RISULTATI: MLW Saturday Night SuperFight 2026"
+      }
+    }
+  ]
+}

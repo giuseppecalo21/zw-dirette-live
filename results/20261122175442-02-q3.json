@@ -1,0 +1,39 @@
+{
+  "file": "20261122175442-02-q3.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T17:54:53+00:00",
+  "response": [
+    {
+      "id": 1856,
+      "count": 70,
+      "name": "New Japan Pro Wrestling",
+      "slug": "new-japan-pro-wrestling"
+    },
+    {
+      "id": 123,
+      "count": 2192,
+      "name": "NJPW",
+      "slug": "njpw"
+    },
+    {
+      "id": 81,
+      "count": 6190,
+      "name": "NXT",
+      "slug": "nxt"
+    },
+    {
+      "id": 69,
+      "count": 47206,
+      "name": "WWE",
+      "slug": "wwe"
+    },
+    {
+      "id": 85,
+      "count": 109,
+      "name": "WWE; NXT",
+      "slug": "wwe-nxt"
+    }
+  ]
+}
