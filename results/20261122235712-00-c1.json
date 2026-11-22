@@ -1,0 +1,16 @@
+{
+  "file": "20261122235712-00-c1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-22T23:57:24+00:00",
+  "response": [
+    {
+      "id": 385996,
+      "date": "2026-11-21T23:00:00",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-nhb-because-the-night-2026/",
+      "featured_media": 385997
+    }
+  ]
+}
