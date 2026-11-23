@@ -7,23 +7,23 @@
 <script data-cfasync="false">window.ramp = window.ramp || {};window.ramp.que = window.ramp.que || [];</script>
 
 	<!-- This site is optimized with the Yoast SEO plugin v28.9 - https://yoast.com/product/yoast-seo-wordpress/ -->
-	<title>PrideStyle x Marvelous x West Coast Tidalshift Results (11/14) - Fightful | WWE News, AEW News, Pro Wrestling Backstage News</title>
-	<meta name="description" content="PrideStyle Wrestling, Marvelous, and West Coast Pro Wrestling held its PrideStyle x Marvelous x West Coast Tidalshift event" />
-	<link rel="canonical" href="https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" />
+	<title>AAA on FOX Results (11/21) - Fightful | WWE News, AEW News, Pro Wrestling Backstage News</title>
+	<meta name="description" content="Lucha Libre AAA aired the latest episode of AAA on Fox on November 21. The event took place from Gimnasio Olímpico in Mexico City, Mexico." />
+	<link rel="canonical" href="https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="PrideStyle x Marvelous x West Coast Tidalshift Results (11/14) - Fightful | WWE News, AEW News, Pro Wrestling Backstage News" />
-	<meta property="og:description" content="PrideStyle Wrestling, Marvelous, and West Coast Pro Wrestling held its PrideStyle x Marvelous x West Coast Tidalshift event" />
-	<meta property="og:url" content="https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14?xv=20261123025228" />
+	<meta property="og:title" content="AAA on FOX Results (11/21) - Fightful | WWE News, AEW News, Pro Wrestling Backstage News" />
+	<meta property="og:description" content="Lucha Libre AAA aired the latest episode of AAA on Fox on November 21. The event took place from Gimnasio Olímpico in Mexico City, Mexico." />
+	<meta property="og:url" content="https://www.fightful.com/wrestling/aaa-on-fox-results-11-21?xv=20261122030156" />
 	<meta property="og:site_name" content="Fightful | WWE News, AEW News, Pro Wrestling Backstage News" />
-	<meta property="article:published_time" content="2026-11-23T02:52:28+00:00" />
-	<meta property="og:image" content="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/22215127/Screenshot-2026-11-22-at-9.50.42-PM.png?v=20261123025228" /><meta property="og:image" content="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/22215127/Screenshot-2026-11-22-at-9.50.42-PM.png?v=20261123025228" />
-	<meta property="og:image:width" content="1374" />
-	<meta property="og:image:height" content="744" />
-	<meta property="og:image:type" content="image/png" />
+	<meta property="article:published_time" content="2026-11-22T03:01:56+00:00" />
+	<meta property="og:image" content="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/20210808/HXmUMW-boAAPR6h.jpeg?v=20261122030156" /><meta property="og:image" content="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/20210808/HXmUMW-boAAPR6h.jpeg?v=20261122030156" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1080" />
+	<meta property="og:image:type" content="image/jpeg" />
 	<meta name="author" content="Jeremy Lambert" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:image" content="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/22215127/Screenshot-2026-11-22-at-9.50.42-PM.png?v=20261123025228" />
+	<meta name="twitter:image" content="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/20210808/HXmUMW-boAAPR6h.jpeg?v=20261122030156" />
 	<meta name="twitter:creator" content="@Fightful" />
 	<meta name="twitter:site" content="@Fightful" />
 	<meta name="twitter:label1" content="Written by" />
@@ -35,31 +35,30 @@
 	    "@graph": [
 	        {
 	            "@type": "NewsArticle",
-	            "@id": "https:\/\/www.fightful.com\/wrestling\/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14\/#article",
+	            "@id": "https:\/\/www.fightful.com\/wrestling\/aaa-on-fox-results-11-21\/#article",
 	            "isPartOf": {
-	                "@id": "https:\/\/www.fightful.com\/wrestling\/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14\/"
+	                "@id": "https:\/\/www.fightful.com\/wrestling\/aaa-on-fox-results-11-21\/"
 	            },
 	            "author": {
 	                "name": "Jeremy Lambert",
 	                "@id": "https:\/\/www.fightful.com\/#\/schema\/person\/3bccc860a190a35948665f9f5abe4a90"
 	            },
-	            "headline": "PrideStyle x Marvelous x West Coast Tidalshift Results (11\/14)",
-	            "datePublished": "2026-11-23T02:52:28+00:00",
+	            "headline": "AAA on FOX Results (11\/21)",
+	            "datePublished": "2026-11-22T03:01:56+00:00",
 	            "mainEntityOfPage": {
-	                "@id": "https:\/\/www.fightful.com\/wrestling\/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14\/"
+	                "@id": "https:\/\/www.fightful.com\/wrestling\/aaa-on-fox-results-11-21\/"
 	            },
-	            "wordCount": 111,
+	            "wordCount": 165,
 	            "publisher": {
 	                "@id": "https:\/\/www.fightful.com\/#organization"
 	            },
 	            "image": {
-	                "@id": "https:\/\/www.fightful.com\/wrestling\/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14\/#primaryimage"
+	                "@id": "https:\/\/www.fightful.com\/wrestling\/aaa-on-fox-results-11-21\/#primaryimage"
 	            },
-	            "thumbnailUrl": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/22215127\/Screenshot-2026-11-22-at-9.50.42-PM.png",
+	            "thumbnailUrl": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/20210808\/HXmUMW-boAAPR6h.jpeg",
 	            "keywords": [
-	                "Marvelous",
-	                "PrideStyle Wrestling",
-	                "west coast pro wrestling"
+	                "AAA on Fox Results",
+	                "AAA Results"
 	            ],
 	            "articleSection": [
 	                "Wrestling"
@@ -68,30 +67,30 @@
 	        },
 	        {
 	            "@type": "WebPage",
-	            "@id": "https:\/\/www.fightful.com\/wrestling\/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14\/",
-	            "url": "https:\/\/www.fightful.com\/wrestling\/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14\/",
-	            "name": "PrideStyle x Marvelous x West Coast Tidalshift Results (11\/14) - Fightful | WWE News, AEW News, Pro Wrestling Backstage News",
+	            "@id": "https:\/\/www.fightful.com\/wrestling\/aaa-on-fox-results-11-21\/",
+	            "url": "https:\/\/www.fightful.com\/wrestling\/aaa-on-fox-results-11-21\/",
+	            "name": "AAA on FOX Results (11\/21) - Fightful | WWE News, AEW News, Pro Wrestling Backstage News",
 	            "isPartOf": {
 	                "@id": "https:\/\/www.fightful.com\/#website"
 	            },
 	            "primaryImageOfPage": {
-	                "@id": "https:\/\/www.fightful.com\/wrestling\/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14\/#primaryimage"
+	                "@id": "https:\/\/www.fightful.com\/wrestling\/aaa-on-fox-results-11-21\/#primaryimage"
 	            },
 	            "image": {
-	                "@id": "https:\/\/www.fightful.com\/wrestling\/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14\/#primaryimage"
+	                "@id": "https:\/\/www.fightful.com\/wrestling\/aaa-on-fox-results-11-21\/#primaryimage"
 	            },
-	            "thumbnailUrl": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/22215127\/Screenshot-2026-11-22-at-9.50.42-PM.png",
-	            "datePublished": "2026-11-23T02:52:28+00:00",
-	            "description": "PrideStyle Wrestling, Marvelous, and West Coast Pro Wrestling held its PrideStyle x Marvelous x West Coast Tidalshift event",
+	            "thumbnailUrl": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/20210808\/HXmUMW-boAAPR6h.jpeg",
+	            "datePublished": "2026-11-22T03:01:56+00:00",
+	            "description": "Lucha Libre AAA aired the latest episode of AAA on Fox on November 21. The event took place from Gimnasio Olímpico in Mexico City, Mexico.",
 	            "breadcrumb": {
-	                "@id": "https:\/\/www.fightful.com\/wrestling\/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14\/#breadcrumb"
+	                "@id": "https:\/\/www.fightful.com\/wrestling\/aaa-on-fox-results-11-21\/#breadcrumb"
 	            },
 	            "inLanguage": "en-US",
 	            "potentialAction": [
 	                {
 	                    "@type": "ReadAction",
 	                    "target": [
-	                        "https:\/\/www.fightful.com\/wrestling\/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14\/"
+	                        "https:\/\/www.fightful.com\/wrestling\/aaa-on-fox-results-11-21\/"
 	                    ]
 	                }
 	            ]
@@ -99,16 +98,16 @@
 	        {
 	            "@type": "ImageObject",
 	            "inLanguage": "en-US",
-	            "@id": "https:\/\/www.fightful.com\/wrestling\/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14\/#primaryimage",
-	            "url": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/22215127\/Screenshot-2026-11-22-at-9.50.42-PM.png",
-	            "contentUrl": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/22215127\/Screenshot-2026-11-22-at-9.50.42-PM.png",
-	            "width": 1374,
-	            "height": 744,
-	            "caption": "PrideStyle x Marvelous x West Coast Tidalshift"
+	            "@id": "https:\/\/www.fightful.com\/wrestling\/aaa-on-fox-results-11-21\/#primaryimage",
+	            "url": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/20210808\/HXmUMW-boAAPR6h.jpeg",
+	            "contentUrl": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/20210808\/HXmUMW-boAAPR6h.jpeg",
+	            "width": 1920,
+	            "height": 1080,
+	            "caption": "aaa on fox"
 	        },
 	        {
 	            "@type": "BreadcrumbList",
-	            "@id": "https:\/\/www.fightful.com\/wrestling\/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14\/#breadcrumb",
+	            "@id": "https:\/\/www.fightful.com\/wrestling\/aaa-on-fox-results-11-21\/#breadcrumb",
 	            "itemListElement": [
 	                {
 	                    "@type": "ListItem",
@@ -119,7 +118,7 @@
 	                {
 	                    "@type": "ListItem",
 	                    "position": 2,
-	                    "name": "PrideStyle x Marvelous x West Coast Tidalshift Results (11\/14)"
+	                    "name": "AAA on FOX Results (11\/21)"
 	                }
 	            ]
 	        },
@@ -226,8 +225,8 @@
 				--tie-buttons-color: #0070bb;--tie-buttons-text: #ffffff;--tie-buttons-hover-color: #003e89;--tie-buttons-hover-text: #FFFFFF;
 			}
 		</style>
-	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.fightful.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Fpridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14%2F" />
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.fightful.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Fpridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14%2F&#038;format=xml" />
+	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.fightful.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Faaa-on-fox-results-11-21%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.fightful.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Faaa-on-fox-results-11-21%2F&#038;format=xml" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" /><style id="wp-img-auto-sizes-contain-inline-css">
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
@@ -288,7 +287,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </style>
 <link rel='stylesheet' id='ctf_styles-css' href='https://www.fightful.com/wp-content/plugins/custom-twitter-feeds-pro/css/ctf-styles.min.css?ver=2.5.0' media='all' />
 <link rel='stylesheet' id='patreon-wordpress-css-css' href='https://www.fightful.com/wp-content/plugins/patreon-connect/assets/css/app.css?ver=1.13.1' media='all' />
-<link rel='stylesheet' id='wpdp-style2-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/front-styles.css?t=1795413132&#038;ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
+<link rel='stylesheet' id='wpdp-style2-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/front-styles.css?t=1795413143&#038;ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
 <link rel='stylesheet' id='wpdp-style3-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/jquery-ui.css?ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
 <link rel='stylesheet' id='tie-css-base-css' href='https://www.fightful.com/wp-content/themes/jannah/assets/css/base.min.css?ver=7.3.0' media='all' />
 <link rel='stylesheet' id='tie-css-styles-css' href='https://www.fightful.com/wp-content/themes/jannah/assets/css/style.min.css?ver=7.3.0' media='all' />
@@ -333,9 +332,9 @@ gtag("set", "developer_id.dZTNiMT", true);
 gtag("config", "GT-MQP9FZ6");
 //# sourceURL=google_gtagjs-js-after
 </script>
-<link rel="https://api.w.org/" href="https://www.fightful.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.fightful.com/wp-json/wp/v2/posts/340415" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fightful.com/xmlrpc.php?rsd" />
+<link rel="https://api.w.org/" href="https://www.fightful.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.fightful.com/wp-json/wp/v2/posts/340290" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fightful.com/xmlrpc.php?rsd" />
 
-<link rel='shortlink' href='https://www.fightful.com/?p=340415' />
+<link rel='shortlink' href='https://www.fightful.com/?p=340290' />
     <style id="fightful-bluesky-share-icon">
         .share-links .share-btn-icon.tie-icon-bluesky {
             background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjUzMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPHBhdGggZD0ibTEzNS43MiA0NC4wM2M2Ni40OTYgNDkuOTIxIDEzOC4wMiAxNTEuMTQgMTY0LjI4IDIwNS40NiAyNi4yNjItNTQuMzE2IDk3Ljc4Mi0xNTUuNTQgMTY0LjI4LTIwNS40NiA0Ny45OC0zNi4wMjEgMTI1LjcyLTYzLjg5MiAxMjUuNzIgMjQuNzk1IDAgMTcuNzEyLTEwLjE1NSAxNDguNzktMTYuMTExIDE3MC4wNy0yMC43MDMgNzMuOTg0LTk2LjE0NCA5Mi44NTQtMTYzLjI1IDgxLjQzMyAxMTcuMyAxOS45NjQgMTQ3LjE0IDg2LjA5MiA4Mi42OTcgMTUyLjIyLTEyMi4zOSAxMjUuNTktMTc1LjkxLTMxLjUxMS0xODkuNjMtNzEuNzY2LTIuNTE0LTcuMzc5Ny0zLjY5MDQtMTAuODMyLTMuNzA3Ny03Ljg5NjQtMC4wMTc0LTIuOTM1Ny0xLjE5MzcgMC41MTY2OS0zLjcwNzcgNy44OTY0LTEzLjcxNCA0MC4yNTUtNjcuMjMzIDE5Ny4zNi0xODkuNjMgNzEuNzY2LTY0LjQ0NC02Ni4xMjgtMzQuNjA1LTEzMi4yNiA4Mi42OTctMTUyLjIyLTY3LjEwOCAxMS40MjEtMTQyLjU1LTcuNDQ5MS0xNjMuMjUtODEuNDMzLTUuOTU2Mi0yMS4yODItMTYuMTExLTE1Mi4zNi0xNi4xMTEtMTcwLjA3IDAtODguNjg3IDc3Ljc0Mi02MC44MTYgMTI1LjcyLTI0Ljc5NXoiIGZpbGw9IiMxMTg1ZmUiLz4KPC9zdmc+Cg==');
@@ -365,7 +364,7 @@ gtag("config", "GT-MQP9FZ6");
 <meta name="msapplication-TileImage" content="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2024/05/27195652/favicon.png" />
 </head>
 
-<body id="tie-body" class="wp-singular post-template-default single single-post postid-340415 single-format-standard wp-theme-jannah wrapper-has-shadow block-head-1 magazine2 is-thumb-overlay-disabled is-desktop is-header-layout-1 sidebar-right has-sidebar post-layout-1 narrow-title-narrow-media is-standard-format has-mobile-share hide_share_post_top hide_share_post_bottom">
+<body id="tie-body" class="wp-singular post-template-default single single-post postid-340290 single-format-standard wp-theme-jannah wrapper-has-shadow block-head-1 magazine2 is-thumb-overlay-disabled is-desktop is-header-layout-1 sidebar-right has-sidebar post-layout-1 narrow-title-narrow-media is-standard-format has-mobile-share hide_share_post_top hide_share_post_bottom">
 
 <div id="pw-stickytop-mobile"></div>
 
@@ -493,7 +492,7 @@ gtag("config", "GT-MQP9FZ6");
 <li id="menu-item-216386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-216386"><a title="Podcasts" href="/podcasts-shows/">Podcasts</a></li>
 <li id="menu-item-181594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181594"><a title="Gaming" href="/gaming/">Gaming</a></li>
 <li id="menu-item-181537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181537"><a title="SHOP" href="https://shop.fightful.com">SHOP</a></li>
-<li id="menu-item-181616" class="nav-select menu-item menu-item-type-custom menu-item-object-custom menu-item-181616"><a class="ptrn-login" href="https://patreon.com/oauth2/authorize?response_type=code&#038;client_id=6QQWCCXNzoOYa5-KgXzwrmKioUR9ElnxN_xNb-B0_3WeNYnaccgHjrF49eUmNmxD&#038;scope=identity+identity%5Bemail%5D&#038;redirect_uri=https%3A%2F%2Fwww.fightful.com%2Fpatreon-authorization%2F&#038;state=eyJmaW5hbF9yZWRpcmVjdF91cmkiOiJodHRwczpcL1wvd3d3LmZpZ2h0ZnVsLmNvbVwvd3Jlc3RsaW5nXC9wcmlkZXN0eWxlLXgtbWFydmVsb3VzLXgtd2VzdC1jb2FzdC10aWRhbHNoaWZ0LXJlc3VsdHMtMTEtMTRcLyJ9&#038;utm_source=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Fpridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14%2F&#038;utm_medium=patreon_wordpress_plugin&#038;utm_campaign=1581698&#038;utm_term=&#038;utm_content=login_button">Login with Patreon</a></li>
+<li id="menu-item-181616" class="nav-select menu-item menu-item-type-custom menu-item-object-custom menu-item-181616"><a class="ptrn-login" href="https://patreon.com/oauth2/authorize?response_type=code&#038;client_id=6QQWCCXNzoOYa5-KgXzwrmKioUR9ElnxN_xNb-B0_3WeNYnaccgHjrF49eUmNmxD&#038;scope=identity+identity%5Bemail%5D&#038;redirect_uri=https%3A%2F%2Fwww.fightful.com%2Fpatreon-authorization%2F&#038;state=eyJmaW5hbF9yZWRpcmVjdF91cmkiOiJodHRwczpcL1wvd3d3LmZpZ2h0ZnVsLmNvbVwvd3Jlc3RsaW5nXC9hYWEtb24tZm94LXJlc3VsdHMtMTEtMjFcLyJ9&#038;utm_source=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Faaa-on-fox-results-11-21%2F&#038;utm_medium=patreon_wordpress_plugin&#038;utm_campaign=1581698&#038;utm_term=&#038;utm_content=login_button">Login with Patreon</a></li>
 </ul></div>					</div><!-- .main-menu /-->
 
 					<ul class="components"></ul><!-- Components -->
@@ -521,9 +520,9 @@ gtag("config", "GT-MQP9FZ6");
 
 		<span class="post-cat-wrap"><a class="post-cat tie-cat-3" href="https://www.fightful.com/./wrestling/">Wrestling</a></span>
 		<h1 class="post-title entry-title">
-			PrideStyle x Marvelous x West Coast Tidalshift Results (11/14)		</h1>
+			AAA on FOX Results (11/21)		</h1>
 
-		<!-- Debug: post_date value = '', type = NULL --><div class="single-post-meta post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-318"><span class="meta-author"><a href="https://www.fightful.com/authors/jeremylambert/" class="author-name tie-icon" title="Jeremy Lambert">Jeremy Lambert</a></span></span></span>November 22, 2026, 9:52 pm</span></div><!-- .post-meta -->	</div><!-- .entry-header /-->
+		<!-- Debug: post_date value = '', type = NULL --><div class="single-post-meta post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-318"><span class="meta-author"><a href="https://www.fightful.com/authors/jeremylambert/" class="author-name tie-icon" title="Jeremy Lambert">Jeremy Lambert</a></span></span></span>November 21, 2026, 10:01 pm</span></div><!-- .post-meta -->	</div><!-- .entry-header /-->
 
 	
 	
@@ -534,57 +533,56 @@ gtag("config", "GT-MQP9FZ6");
 		<div id="share-buttons-top" class="share-buttons share-buttons-top">
 			<div class="share-links  icons-only">
 				
-				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
 					<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
 				</a>
-				<a href="https://twitter.com/intent/tweet?text=PrideStyle%20x%20Marvelous%20x%20West%20Coast%20Tidalshift%20Results%20%2811%2F14%29&#038;url=https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
+				<a href="https://twitter.com/intent/tweet?text=AAA%20on%20FOX%20Results%20%2811%2F21%29&#038;url=https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
 					<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">X</span>
 				</a>
-				<a href="https://bsky.app/intent/compose?text=PrideStyle%20x%20Marvelous%20x%20West%20Coast%20Tidalshift%20Results%20%2811%2F14%29%20https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
+				<a href="https://bsky.app/intent/compose?text=AAA%20on%20FOX%20Results%20%2811%2F21%29%20https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
 					<span class="share-btn-icon tie-icon-bluesky"></span> <span class="screen-reader-text">Bluesky</span>
 				</a>			</div><!-- .share-links /-->
 		</div><!-- .share-buttons /-->
 
-		<div  class="featured-area"><div class="featured-area-inner"><img width="1374" height="744" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201374%20744%22%3E%3C%2Fsvg%3E" data-src="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/22215127/Screenshot-2026-11-22-at-9.50.42-PM.png" class="attachment- size- wp-post-image lazy" alt="PrideStyle x Marvelous x West Coast Tidalshift" decoding="async" fetchpriority="high" data-srcset="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/22215127/Screenshot-2026-11-22-at-9.50.42-PM.png 1374w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/22215127/Screenshot-2026-11-22-at-9.50.42-PM-300x162.png 300w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/22215127/Screenshot-2026-11-22-at-9.50.42-PM-1024x554.png 1024w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/22215127/Screenshot-2026-11-22-at-9.50.42-PM-768x416.png 768w" data-sizes="(max-width: 1374px) 100vw, 1374px" /></div></div>		
+		<div  class="featured-area"><div class="featured-area-inner"><img width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201920%201080%22%3E%3C%2Fsvg%3E" data-src="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/20210808/HXmUMW-boAAPR6h.jpeg" class="attachment- size- wp-post-image lazy" alt="aaa on fox" decoding="async" fetchpriority="high" data-srcset="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/20210808/HXmUMW-boAAPR6h.jpeg 1920w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/20210808/HXmUMW-boAAPR6h-300x169.jpeg 300w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/20210808/HXmUMW-boAAPR6h-1024x576.jpeg 1024w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/20210808/HXmUMW-boAAPR6h-768x432.jpeg 768w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/20210808/HXmUMW-boAAPR6h-1536x864.jpeg 1536w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/20210808/HXmUMW-boAAPR6h-390x220.jpeg 390w" data-sizes="(max-width: 1920px) 100vw, 1920px" /></div></div>		
 		
 		<div class="entry-content entry clearfix">
 
-									<p>PrideStyle Wrestling, Marvelous, and West Coast Pro Wrestling held its PrideStyle x Marvelous x West Coast Tidalshift event on November 14 from Millionaires HQ in San Diego, California. The event aired on <a href="https://www.youtube.com/@pridestylepro">YouTube</a>.</p>
+									<p>Lucha Libre AAA aired the latest episode of AAA on Fox on November 21. The event took place from Gimnasio Olímpico in Mexico City, Mexico. The event aired on <a href="https://youtube.com/wwe">YouTube</a>.</p>
 <p>Full results are below.</p><div class="stream-item stream-item-in-post stream-item-inline-post aligncenter"><div class="stream-item-size" style=""><div class="article-ad">
 	
 </div></div></div>
-<p>PrideStyle x Marvelous x West Coast Tidalshift Results (11/14)</p>
+<p>AAA on FOX Results (11/21)</p>
 <ul>
-<li>Vivi Vega def. Ari Jade</li>
-<li>Anarkid Ash def. Joseline Navarro</li>
-<li>Spark Rush (Sareee &amp; Takumi Iroha) def. Miko Alana &amp; Sweet Caroline</li>
-<li>Johnnie Robbie def. Sora Ayame</li>
-<li>Senka Akatsuki def. Bryn Thorne</li>
-<li>Mio Momono def. Amira</li>
-<li>Magenta (Maria &amp; RIKO) def. Taniya &amp; Zara Zakher</li>
+<li>Flammer def. Faby Apache</li>
+<li>Hiedra and Faby argue over the finish, but then they attack Flammer. La Catalina makes the save.</li>
+<li>AAA World Tag Team Championships: Los Wagner Brothers (El Hijo de Dr. Wagner Jr. &amp; Galeno) (c) def. El Mesías &amp; Mecha Wolf</li>
+<li>El Texano Jr. and Demonio Inferna attack the Wagner Brothers after the match.</li>
+<li>Mesias, Mecha Wolf &amp; Lince Dorado discuss how things need to change. Savio Vega walks up and says things will change if they listen to him.</li>
+<li>AAA World Trios Championships: Los Perros del Mal (Angel, Berto &amp; Daga w/Karmen Petrovic) (c) vs. El Grande Americano, Rey Fenix &amp; La Parka</li>
 </ul>
 <p>You can find results from around the wrestling world at <a href="https://www.fightful.com/wrestling/results">Fightful&#8217;s results section</a>.</p>
 
 			<div class="stream-item stream-item-below-post-content"><div class="stream-item-size" style=""><div class="article-ad">
 	
-</div></div></div><div class="post-bottom-meta post-bottom-tags post-tags-classic"><div class="post-bottom-meta-title"><span class="tie-icon-tags" aria-hidden="true"></span> Tags</div><span class="tagcloud"><a href="https://www.fightful.com/tag/marvelous/" rel="tag">Marvelous</a> <a href="https://www.fightful.com/tag/pridestyle-wrestling/" rel="tag">PrideStyle Wrestling</a> <a href="https://www.fightful.com/tag/west-coast-pro-wrestling/" rel="tag">west coast pro wrestling</a></span></div>
+</div></div></div><div class="post-bottom-meta post-bottom-tags post-tags-classic"><div class="post-bottom-meta-title"><span class="tie-icon-tags" aria-hidden="true"></span> Tags</div><span class="tagcloud"><a href="https://www.fightful.com/tag/aaa-on-fox-results/" rel="tag">AAA on Fox Results</a> <a href="https://www.fightful.com/tag/aaa-results/" rel="tag">AAA Results</a></span></div>
 		</div><!-- .entry-content /-->
 		<div class="cmb-audio">
 					</div>
 						<div id="post-extra-info">
 			<div class="theiaStickySidebar">
-				<!-- Debug: post_date value = '', type = NULL --><div class="single-post-meta post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-318"><span class="meta-author"><a href="https://www.fightful.com/authors/jeremylambert/" class="author-name tie-icon" title="Jeremy Lambert">Jeremy Lambert</a></span></span></span>November 22, 2026, 9:52 pm</span></div><!-- .post-meta -->
+				<!-- Debug: post_date value = '', type = NULL --><div class="single-post-meta post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-318"><span class="meta-author"><a href="https://www.fightful.com/authors/jeremylambert/" class="author-name tie-icon" title="Jeremy Lambert">Jeremy Lambert</a></span></span></span>November 21, 2026, 10:01 pm</span></div><!-- .post-meta -->
 
 		<div id="share-buttons-top" class="share-buttons share-buttons-top">
 			<div class="share-links  icons-only">
 				
-				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
 					<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
 				</a>
-				<a href="https://twitter.com/intent/tweet?text=PrideStyle%20x%20Marvelous%20x%20West%20Coast%20Tidalshift%20Results%20%2811%2F14%29&#038;url=https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
+				<a href="https://twitter.com/intent/tweet?text=AAA%20on%20FOX%20Results%20%2811%2F21%29&#038;url=https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
 					<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">X</span>
 				</a>
-				<a href="https://bsky.app/intent/compose?text=PrideStyle%20x%20Marvelous%20x%20West%20Coast%20Tidalshift%20Results%20%2811%2F14%29%20https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
+				<a href="https://bsky.app/intent/compose?text=AAA%20on%20FOX%20Results%20%2811%2F21%29%20https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
 					<span class="share-btn-icon tie-icon-bluesky"></span> <span class="screen-reader-text">Bluesky</span>
 				</a>			</div><!-- .share-links /-->
 		</div><!-- .share-buttons /-->
@@ -602,13 +600,13 @@ gtag("config", "GT-MQP9FZ6");
 							<span> Share</span>
 						</div>
 						
-				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
 					<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
 				</a>
-				<a href="https://twitter.com/intent/tweet?text=PrideStyle%20x%20Marvelous%20x%20West%20Coast%20Tidalshift%20Results%20%2811%2F14%29&#038;url=https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
+				<a href="https://twitter.com/intent/tweet?text=AAA%20on%20FOX%20Results%20%2811%2F21%29&#038;url=https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
 					<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">X</span>
 				</a>
-				<a href="https://bsky.app/intent/compose?text=PrideStyle%20x%20Marvelous%20x%20West%20Coast%20Tidalshift%20Results%20%2811%2F14%29%20https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
+				<a href="https://bsky.app/intent/compose?text=AAA%20on%20FOX%20Results%20%2811%2F21%29%20https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
 					<span class="share-btn-icon tie-icon-bluesky"></span> <span class="screen-reader-text">Bluesky</span>
 				</a>			</div><!-- .share-links /-->
 		</div><!-- .share-buttons /-->
@@ -621,33 +619,33 @@ gtag("config", "GT-MQP9FZ6");
 
 		<div class="prev-next-post-nav container-wrapper media-overlay">
 			<div class="tie-col-xs-6 prev-post">
-				<a href="https://www.fightful.com/wrestling/mark-briscoe-sidelined-with-a-knee-injury/" style="" data-bg="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/06/10211315/Screenshot-247-e1781140404623-390x220.png" class="post-thumb lazy" rel="prev">
+				<a href="https://www.fightful.com/wrestling/savio-vega-appears-on-11-21-aaa-on-fox/" style="" data-bg="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/21215023/HXsisSSW8AA1nY9-390x220.jpeg" class="post-thumb lazy" rel="prev">
 					<div class="post-thumb-overlay-wrap">
 						<div class="post-thumb-overlay">
 							<span class="tie-icon tie-media-icon"></span>
-							<span class="screen-reader-text">Mark Briscoe Has Been Sidelined With A Knee Injury</span>
+							<span class="screen-reader-text">Savio Vega Appears On 11/21 AAA On Fox</span>
 						</div>
 					</div>
 				</a>
 
-				<a href="https://www.fightful.com/wrestling/mark-briscoe-sidelined-with-a-knee-injury/" rel="prev">
-					<h3 class="post-title">Mark Briscoe Has Been Sidelined With A Knee Injury</h3>
+				<a href="https://www.fightful.com/wrestling/savio-vega-appears-on-11-21-aaa-on-fox/" rel="prev">
+					<h3 class="post-title">Savio Vega Appears On 11/21 AAA On Fox</h3>
 				</a>
 			</div>
 
 			
 			<div class="tie-col-xs-6 next-post">
-				<a href="https://www.fightful.com/wrestling/austin-creed-recalls-trying-to-double-leg-kurt-angle-the-way-he-sprawled-his-ankles-went-to-mount-olympus-and-my-head-went-to-the-ground/" style="" data-bg="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/22221314/Austin-Creed-on-AEW-Dynamite-390x220.webp" class="post-thumb lazy" rel="next">
+				<a href="https://www.fightful.com/wrestling/kiana-james-coming-soon-to-aaa/" style="" data-bg="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/21221559/HXsiVuhXcAAu0zD-390x220.jpeg" class="post-thumb lazy" rel="next">
 					<div class="post-thumb-overlay-wrap">
 						<div class="post-thumb-overlay">
 							<span class="tie-icon tie-media-icon"></span>
-							<span class="screen-reader-text">Austin Creed Recalls Trying To Double Leg Kurt Angle: &#039;The Way He Sprawled, His Ankles Went To Mount Olympus And My Head Went To The Ground&#039;</span>
+							<span class="screen-reader-text">Kiana James &#039;Coming Soon&#039; To AAA</span>
 						</div>
 					</div>
 				</a>
 
-				<a href="https://www.fightful.com/wrestling/austin-creed-recalls-trying-to-double-leg-kurt-angle-the-way-he-sprawled-his-ankles-went-to-mount-olympus-and-my-head-went-to-the-ground/" rel="next">
-					<h3 class="post-title">Austin Creed Recalls Trying To Double Leg Kurt Angle: &#039;The Way He Sprawled, His Ankles Went To Mount Olympus And My Head Went To The Ground&#039;</h3>
+				<a href="https://www.fightful.com/wrestling/kiana-james-coming-soon-to-aaa/" rel="next">
+					<h3 class="post-title">Kiana James &#039;Coming Soon&#039; To AAA</h3>
 				</a>
 			</div>
 
@@ -801,22 +799,22 @@ gtag("config", "GT-MQP9FZ6");
 		<div id="share-buttons-mobile" class="share-buttons share-buttons-mobile">
 			<div class="share-links  icons-only">
 				
-				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
 					<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
 				</a>
-				<a href="https://twitter.com/intent/tweet?text=PrideStyle%20x%20Marvelous%20x%20West%20Coast%20Tidalshift%20Results%20%2811%2F14%29&#038;url=https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
+				<a href="https://twitter.com/intent/tweet?text=AAA%20on%20FOX%20Results%20%2811%2F21%29&#038;url=https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
 					<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">X</span>
 				</a>
-				<a href="https://api.whatsapp.com/send?text=PrideStyle%20x%20Marvelous%20x%20West%20Coast%20Tidalshift%20Results%20%2811%2F14%29%20https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn " data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
+				<a href="https://api.whatsapp.com/send?text=AAA%20on%20FOX%20Results%20%2811%2F21%29%20https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn " data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
 					<span class="share-btn-icon tie-icon-whatsapp"></span> <span class="screen-reader-text">WhatsApp</span>
 				</a>
-				<a href="https://telegram.me/share/url?url=https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/&text=PrideStyle%20x%20Marvelous%20x%20West%20Coast%20Tidalshift%20Results%20%2811%2F14%29" rel="external noopener nofollow" title="Telegram" target="_blank" class="telegram-share-btn " data-raw="https://telegram.me/share/url?url={post_link}&text={post_title}">
+				<a href="https://telegram.me/share/url?url=https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/&text=AAA%20on%20FOX%20Results%20%2811%2F21%29" rel="external noopener nofollow" title="Telegram" target="_blank" class="telegram-share-btn " data-raw="https://telegram.me/share/url?url={post_link}&text={post_title}">
 					<span class="share-btn-icon tie-icon-paper-plane"></span> <span class="screen-reader-text">Telegram</span>
 				</a>
-				<a href="viber://forward?text=PrideStyle%20x%20Marvelous%20x%20West%20Coast%20Tidalshift%20Results%20%2811%2F14%29%20https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="Viber" target="_blank" class="viber-share-btn " data-raw="viber://forward?text={post_title}%20{post_link}">
+				<a href="viber://forward?text=AAA%20on%20FOX%20Results%20%2811%2F21%29%20https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="Viber" target="_blank" class="viber-share-btn " data-raw="viber://forward?text={post_title}%20{post_link}">
 					<span class="share-btn-icon tie-icon-phone"></span> <span class="screen-reader-text">Viber</span>
 				</a>
-				<a href="https://bsky.app/intent/compose?text=PrideStyle%20x%20Marvelous%20x%20West%20Coast%20Tidalshift%20Results%20%2811%2F14%29%20https://www.fightful.com/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
+				<a href="https://bsky.app/intent/compose?text=AAA%20on%20FOX%20Results%20%2811%2F21%29%20https://www.fightful.com/wrestling/aaa-on-fox-results-11-21/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
 					<span class="share-btn-icon tie-icon-bluesky"></span> <span class="screen-reader-text">Bluesky</span>
 				</a>			</div><!-- .share-links /-->
 		</div><!-- .share-buttons /-->
@@ -914,7 +912,7 @@ gtag("config", "GT-MQP9FZ6");
 				<a class="forget-text" href="https://www.fightful.com/hello/?action=lostpassword&redirect_to=https%3A%2F%2Fwww.fightful.com">Forget?</a>
 			</div>
 
-			<input type="hidden" name="redirect_to" value="/wrestling/pridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14/?zwts=20261123055212"/>
+			<input type="hidden" name="redirect_to" value="/wrestling/aaa-on-fox-results-11-21/?zwts=20261123055222"/>
 			<label for="rememberme" class="rememberme">
 				<input id="rememberme" name="rememberme" type="checkbox" checked="checked" value="forever" /> Remember me			</label>
 
@@ -923,7 +921,7 @@ gtag("config", "GT-MQP9FZ6");
             .ptrn-button{display:block !important;;margin-top:20px !important;margin-bottom:20px !important;}
             .ptrn-button img {width: 272px; height:42px;}
             .patreon-msg {-webkit-border-radius: 6px;-moz-border-radius: 6px;-ms-border-radius: 6px;-o-border-radius: 6px;border-radius: 6px;padding:8px;margin-bottom:20px!important;display:block;border:1px solid #E6461A;background-color:#484848;color:#ffffff;}
-        </style><a href="https://www.fightful.com/patreon-flow/?patreon-login=yes&#038;patreon-final-redirect=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Fpridestyle-x-marvelous-x-west-coast-tidalshift-results-11-14" class="ptrn-button"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20272%2042%22%3E%3C%2Fsvg%3E" data-src="https://www.fightful.com/wp-content/plugins/patreon-connect/assets/img/patreon-login-1x.png" width="272" height="42" alt="Login with Patreon" /></a></div>
+        </style><a href="https://www.fightful.com/patreon-flow/?patreon-login=yes&#038;patreon-final-redirect=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Faaa-on-fox-results-11-21" class="ptrn-button"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20272%2042%22%3E%3C%2Fsvg%3E" data-src="https://www.fightful.com/wp-content/plugins/patreon-connect/assets/img/patreon-login-1x.png" width="272" height="42" alt="Login with Patreon" /></a></div>
 			
 			<button type="submit" class="button fullwidth login-submit">Log In</button>
 
@@ -952,7 +950,7 @@ var tie = {"is_rtl":"","ajaxurl":"https://www.fightful.com/wp-admin/admin-ajax.p
 <script id="twitter-widgets-single-js" src="https://platform.twitter.com/widgets.js"></script>
 <script id="fightful-views-js-after">
 (function(){
-  var pid = 340415; if(!pid) return;
+  var pid = 340290; if(!pid) return;
   var key = 'pv_'+pid;
 
   function hasMark(){
@@ -1008,5 +1006,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Page Caching using Disk: Enhanced (Requested URI contains query) 
 Lazy Loading
 
-Served from: www.fightful.com @ 2026-11-23 00:52:12 by W3 Total Cache
+Served from: www.fightful.com @ 2026-11-23 00:52:23 by W3 Total Cache
 -->
