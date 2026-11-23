@@ -1,0 +1,14 @@
+{
+  "file": "20261123235206-02-t3.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T23:52:19+00:00",
+  "response": [
+    {
+      "id": 12596,
+      "count": 20,
+      "name": "IWTV"
+    }
+  ]
+}
