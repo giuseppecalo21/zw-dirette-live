@@ -1,0 +1,24 @@
+{
+  "file": "20261123235432-00-v1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T23:54:40+00:00",
+  "response": [
+    {
+      "id": 386068,
+      "date": "2026-11-23T01:00:00",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-beyond-wrestling-still-alive-2026/",
+      "title": {
+        "raw": "RISULTATI: Beyond Wrestling Still Alive 2026"
+      },
+      "author": 1,
+      "featured_media": 386069,
+      "categories": [
+        52,
+        2
+      ]
+    }
+  ]
+}
