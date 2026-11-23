@@ -1,0 +1,14 @@
+{
+  "file": "20261123055256-09-g10.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T05:53:17+00:00",
+  "response": [
+    {
+      "id": 17871,
+      "count": 2,
+      "name": "Paradigm"
+    }
+  ]
+}

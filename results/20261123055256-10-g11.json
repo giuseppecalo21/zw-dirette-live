@@ -1,0 +1,59 @@
+{
+  "file": "20261123055256-10-g11.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T05:53:18+00:00",
+  "response": [
+    {
+      "id": 2350,
+      "count": 5,
+      "name": "EUROPEAN INDIES"
+    },
+    {
+      "id": 17304,
+      "count": 0,
+      "name": "if he’s going to spend some time on the indies or whatnot"
+    },
+    {
+      "id": 4727,
+      "count": 3,
+      "name": "Indie"
+    },
+    {
+      "id": 2784,
+      "count": 1,
+      "name": "INDIE GOGO"
+    },
+    {
+      "id": 16142,
+      "count": 1,
+      "name": "INDIE HALL OF FAME"
+    },
+    {
+      "id": 11894,
+      "count": 2,
+      "name": "indie wrestler"
+    },
+    {
+      "id": 14007,
+      "count": 1,
+      "name": "Indie Wrestling Hall of Fame"
+    },
+    {
+      "id": 3207,
+      "count": 4,
+      "name": "INDIEGOGO"
+    },
+    {
+      "id": 1998,
+      "count": 17,
+      "name": "Indies"
+    },
+    {
+      "id": 622,
+      "count": 396,
+      "name": "INDIES USA"
+    }
+  ]
+}
