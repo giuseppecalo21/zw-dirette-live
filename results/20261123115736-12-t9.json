@@ -1,0 +1,14 @@
+{
+  "file": "20261123115736-12-t9.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T11:58:04+00:00",
+  "response": [
+    {
+      "id": 3062,
+      "count": 1,
+      "name": "EUSKADI"
+    }
+  ]
+}

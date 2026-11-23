@@ -1,0 +1,44 @@
+{
+  "file": "20261123115736-03-l4.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T11:57:55+00:00",
+  "response": [
+    {
+      "date": "2026-11-22T18:59:22",
+      "link": "https://zonawrestling.net/risultati-cmll-sabado-de-coliseo-21-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL Sábado de Coliseo 21.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-21T08:04:55",
+      "link": "https://zonawrestling.net/risultati-cmll-viernes-espectacular-20-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL Viernes Espectacular 20.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-17T12:57:02",
+      "link": "https://zonawrestling.net/risultati-cmll-x-njpw-lucha-kingdom-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL x NJPW Lucha Kingdom 2026"
+      }
+    },
+    {
+      "date": "2026-11-16T18:59:43",
+      "link": "https://zonawrestling.net/risultati-cmll-domingo-familiar-15-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL Domingo Familiar 15.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-14T12:54:10",
+      "link": "https://zonawrestling.net/risultati-cmll-viernes-espectacular-13-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL Viernes Espectacular 13.11.2026"
+      }
+    }
+  ]
+}

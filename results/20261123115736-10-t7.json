@@ -1,0 +1,14 @@
+{
+  "file": "20261123115736-10-t7.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T11:58:01+00:00",
+  "response": [
+    {
+      "id": 953,
+      "count": 63,
+      "name": "MASCARA DORADA"
+    }
+  ]
+}

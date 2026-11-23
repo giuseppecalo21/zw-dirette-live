@@ -1,0 +1,44 @@
+{
+  "file": "20261123115736-02-l3.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T11:57:52+00:00",
+  "response": [
+    {
+      "date": "2026-11-16T18:59:43",
+      "link": "https://zonawrestling.net/risultati-cmll-domingo-familiar-15-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL Domingo Familiar 15.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-15T17:00:00",
+      "link": "https://zonawrestling.net/mlw-basta-passi-falsi/",
+      "title": {
+        "rendered": "MLW: Basta passi falsi"
+      }
+    },
+    {
+      "date": "2026-11-15T12:00:00",
+      "link": "https://zonawrestling.net/risultati-cmll-sabado-de-coliseo-14-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL Sábado de Coliseo 14.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-12T01:01:23",
+      "link": "https://zonawrestling.net/risultati-cmll-martes-de-arena-mexico-10-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL Martes de Arena México 10.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-10T07:30:00",
+      "link": "https://zonawrestling.net/risultati-cmll-lunes-clasico-09-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: CMLL Lunes Clásico 09.11.2026"
+      }
+    }
+  ]
+}

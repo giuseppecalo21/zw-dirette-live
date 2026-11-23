@@ -1,0 +1,24 @@
+{
+  "file": "20261123115736-08-t5.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T11:58:00+00:00",
+  "response": [
+    {
+      "id": 2742,
+      "count": 8,
+      "name": "BARBARO CAVERNARIO"
+    },
+    {
+      "id": 5584,
+      "count": 1,
+      "name": "EL BARBARIO CAVERNARIO"
+    },
+    {
+      "id": 3593,
+      "count": 31,
+      "name": "EL BARBARO CAVERNARIO"
+    }
+  ]
+}

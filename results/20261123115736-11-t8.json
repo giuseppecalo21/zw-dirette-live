@@ -1,0 +1,19 @@
+{
+  "file": "20261123115736-11-t8.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T11:58:02+00:00",
+  "response": [
+    {
+      "id": 1875,
+      "count": 14,
+      "name": "ARENA MEXICO"
+    },
+    {
+      "id": 18526,
+      "count": 4,
+      "name": "Arena México"
+    }
+  ]
+}
