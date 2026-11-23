@@ -1,0 +1,129 @@
+{
+  "file": "20261123055045-00-get.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T05:50:53+00:00",
+  "response": [
+    {
+      "id": 385983,
+      "date": "2026-11-22T18:59:22",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Sábado de Coliseo 21.11.2026"
+      }
+    },
+    {
+      "id": 385981,
+      "date": "2026-11-22T18:58:14",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW Road to World Tag League 21.11.2026"
+      }
+    },
+    {
+      "id": 385979,
+      "date": "2026-11-22T18:57:08",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE NXT Live Event 21.11.2026"
+      }
+    },
+    {
+      "id": 385967,
+      "date": "2026-11-22T12:54:33",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: West Coast Pro e New Texas Pro presentano Marvelous Pro Wrestling 2026"
+      }
+    },
+    {
+      "id": 385953,
+      "date": "2026-11-22T06:55:43",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: AEW Collision 21.11.2026"
+      }
+    },
+    {
+      "id": 385999,
+      "date": "2026-11-21T23:30:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CSW Second City Showdown VI 2026"
+      }
+    },
+    {
+      "id": 385996,
+      "date": "2026-11-21T23:00:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NHB Because The Night: A Tribute To Jeff Cannonball 2026"
+      }
+    },
+    {
+      "id": 385940,
+      "date": "2026-11-21T19:55:14",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE NXT Live Event 20.11.2026"
+      }
+    },
+    {
+      "id": 385938,
+      "date": "2026-11-21T19:14:21",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: ROH Fortnight to Final Battle 20.11.2026"
+      }
+    },
+    {
+      "id": 385907,
+      "date": "2026-11-21T08:04:55",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Viernes Espectacular 20.11.2026"
+      }
+    },
+    {
+      "id": 385905,
+      "date": "2026-11-21T07:36:48",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE SmackDown 20.11.2026"
+      }
+    },
+    {
+      "id": 385900,
+      "date": "2026-11-21T00:54:10",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE Road to Survivor Series 19.11.2026"
+      }
+    },
+    {
+      "id": 385888,
+      "date": "2026-11-20T19:02:01",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: ROH TV 19.11.2026"
+      }
+    },
+    {
+      "id": 385875,
+      "date": "2026-11-20T15:36:12",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW Bound For Unbound 2026"
+      }
+    },
+    {
+      "id": 385869,
+      "date": "2026-11-20T15:34:18",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: TNA iMPACT 19.11.2026"
+      }
+    }
+  ]
+}
