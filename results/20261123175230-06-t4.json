@@ -1,0 +1,39 @@
+{
+  "file": "20261123175230-06-t4.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T17:52:44+00:00",
+  "response": [
+    {
+      "id": 6259,
+      "count": 5,
+      "name": "Zack Sabre"
+    },
+    {
+      "id": 15772,
+      "count": 17,
+      "name": "Zack Sabre Jr"
+    },
+    {
+      "id": 719,
+      "count": 173,
+      "name": "ZACK SABRE JR."
+    },
+    {
+      "id": 851,
+      "count": 1,
+      "name": "ZACK SABRE JR. ABSOLUTE ANDY"
+    },
+    {
+      "id": 534,
+      "count": 1,
+      "name": "ZACK SABRE JR. TOMMY END"
+    },
+    {
+      "id": 3056,
+      "count": 5,
+      "name": "ZACK SABREJr."
+    }
+  ]
+}
