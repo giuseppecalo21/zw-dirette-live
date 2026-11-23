@@ -1,0 +1,33 @@
+{
+  "file": "20261123120029-00-get.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T12:00:37+00:00",
+  "response": [
+    {
+      "id": 386040,
+      "date": "2026-11-23T12:59:52",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-cmll-domingo-familiar-22-11-2026/",
+      "title": {
+        "raw": "RISULTATI: CMLL Domingo Familiar 22.11.2026"
+      },
+      "author": 1,
+      "featured_media": 386041,
+      "categories": [
+        16187,
+        2
+      ],
+      "tags": [
+        1875,
+        11538,
+        112,
+        3593,
+        13524,
+        953,
+        3204
+      ]
+    }
+  ]
+}
