@@ -1,0 +1,12 @@
+{
+  "file": "20261123115614-00-r1.json",
+  "action": "fetch",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-23T11:56:34+00:00",
+  "response": {
+    "bytes": 127025,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "body_file": "20261123115614-00-r1.body"
+}
