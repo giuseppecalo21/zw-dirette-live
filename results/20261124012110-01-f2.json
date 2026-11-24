@@ -1,0 +1,12 @@
+{
+  "file": "20261124012110-01-f2.json",
+  "action": "add_update",
+  "http_status": 201,
+  "ok": true,
+  "processed_at": "2026-11-24T01:21:24+00:00",
+  "response": {
+    "created": true,
+    "id": 188,
+    "url": "https://zonawrestling.net/diretta-live-wwe-raw-del-23-11-2026/#update-188"
+  }
+}
