@@ -1,0 +1,59 @@
+{
+  "file": "20261124055240-08-q9.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T05:52:57+00:00",
+  "response": [
+    {
+      "id": 10178,
+      "count": 578,
+      "name": "mlw"
+    },
+    {
+      "id": 16599,
+      "count": 1,
+      "name": "Mlw Anniversary"
+    },
+    {
+      "id": 12052,
+      "count": 8,
+      "name": "MLW Anthology"
+    },
+    {
+      "id": 13952,
+      "count": 10,
+      "name": "MLW Azteca"
+    },
+    {
+      "id": 16566,
+      "count": 1,
+      "name": "MLW Azteca Lucha"
+    },
+    {
+      "id": 14616,
+      "count": 8,
+      "name": "MLW Battle Riot"
+    },
+    {
+      "id": 12024,
+      "count": 1,
+      "name": "MLW Battle Riot II"
+    },
+    {
+      "id": 13458,
+      "count": 2,
+      "name": "MLW Battle Riot III"
+    },
+    {
+      "id": 16977,
+      "count": 1,
+      "name": "MLW Blood &amp; Thunder"
+    },
+    {
+      "id": 16789,
+      "count": 3,
+      "name": "MLW Fightland"
+    }
+  ]
+}

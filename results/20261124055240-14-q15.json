@@ -1,0 +1,44 @@
+{
+  "file": "20261124055240-14-q15.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T05:53:09+00:00",
+  "response": [
+    {
+      "date": "2026-11-24T02:28:53",
+      "link": "https://zonawrestling.net/raw-23-11-2026-last-show-before-survivor-series/",
+      "title": {
+        "rendered": "Raw 23.11.2026 Last show before Survivor Series"
+      }
+    },
+    {
+      "date": "2026-11-23T11:24:09",
+      "link": "https://zonawrestling.net/wwe-jacy-jayne-raggiunge-i-100-giorni-da-campionessa-ma-ce-un-problema/",
+      "title": {
+        "rendered": "WWE: Jacy Jayne raggiunge i 100 giorni da campionessa, ma c&#8217;è un problema"
+      }
+    },
+    {
+      "date": "2026-11-21T09:37:24",
+      "link": "https://zonawrestling.net/wwe-kevin-owens-batte-gunther-ma-sami-zayn-rovina-la-festa/",
+      "title": {
+        "rendered": "WWE: Kevin Owens batte GUNTHER, ma Sami Zayn rovina la festa"
+      }
+    },
+    {
+      "date": "2026-11-21T09:26:39",
+      "link": "https://zonawrestling.net/wwe-jade-cargill-batte-charlotte-flair-con-linganno-quanto-vale-davvero-il-vantaggio-nel-wargames/",
+      "title": {
+        "rendered": "WWE: Jade Cargill batte Charlotte Flair con l&#8217;inganno, quanto vale davvero il vantaggio nel WarGames"
+      }
+    },
+    {
+      "date": "2026-11-21T07:36:48",
+      "link": "https://zonawrestling.net/risultati-wwe-smackdown-20-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE SmackDown 20.11.2026"
+      }
+    }
+  ]
+}

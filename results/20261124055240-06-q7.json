@@ -1,0 +1,29 @@
+{
+  "file": "20261124055240-06-q7.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T05:52:56+00:00",
+  "response": [
+    {
+      "id": 17297,
+      "count": 96,
+      "name": "EL GRANDE AMERICANO"
+    },
+    {
+      "id": 18405,
+      "count": 1,
+      "name": "El Grande Americanos"
+    },
+    {
+      "id": 18404,
+      "count": 3,
+      "name": "Original El Grande Americano"
+    },
+    {
+      "id": 18449,
+      "count": 1,
+      "name": "Serenata Para: El Grande Americano"
+    }
+  ]
+}

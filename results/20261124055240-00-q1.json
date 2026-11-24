@@ -1,0 +1,59 @@
+{
+  "file": "20261124055240-00-q1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T05:52:52+00:00",
+  "response": [
+    {
+      "id": 3804,
+      "count": 2,
+      "name": "#RAWLTERNATIVE"
+    },
+    {
+      "id": 9735,
+      "count": 1,
+      "name": "#rawwomenschampion"
+    },
+    {
+      "id": 16077,
+      "count": 37,
+      "name": "#WWERAW"
+    },
+    {
+      "id": 9773,
+      "count": 0,
+      "name": "25 anniversario RAW"
+    },
+    {
+      "id": 11080,
+      "count": 2,
+      "name": "@raw"
+    },
+    {
+      "id": 18607,
+      "count": 1,
+      "name": "@wweraw"
+    },
+    {
+      "id": 6530,
+      "count": 137,
+      "name": "Ascolti Raw"
+    },
+    {
+      "id": 2429,
+      "count": 1,
+      "name": "Ascolti Raw 16.06"
+    },
+    {
+      "id": 6671,
+      "count": 2,
+      "name": "Best Of Raw&amp;SD"
+    },
+    {
+      "id": 14844,
+      "count": 0,
+      "name": "braw"
+    }
+  ]
+}

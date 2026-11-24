@@ -1,0 +1,59 @@
+{
+  "file": "20261124055240-02-q3.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T05:52:53+00:00",
+  "response": [
+    {
+      "id": 18969,
+      "count": 1,
+      "name": "Air Jordan 12 “Bloodline”"
+    },
+    {
+      "id": 18968,
+      "count": 1,
+      "name": "Air Jordan 4 “Bloodline”"
+    },
+    {
+      "id": 14526,
+      "count": 378,
+      "name": "Bloodline"
+    },
+    {
+      "id": 16469,
+      "count": 4,
+      "name": "Bloodline 2.0"
+    },
+    {
+      "id": 16602,
+      "count": 1,
+      "name": "Bloodline Acknowledgement Ceremony"
+    },
+    {
+      "id": 15497,
+      "count": 5,
+      "name": "Bloodline Civil War"
+    },
+    {
+      "id": 17000,
+      "count": 0,
+      "name": "Bloodlines"
+    },
+    {
+      "id": 16996,
+      "count": 11,
+      "name": "OG Bloodline"
+    },
+    {
+      "id": 16597,
+      "count": 1,
+      "name": "solo sikoa bloodline"
+    },
+    {
+      "id": 13687,
+      "count": 179,
+      "name": "The Bloodline"
+    }
+  ]
+}
