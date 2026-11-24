@@ -1,0 +1,33 @@
+{
+  "file": "20261124235613-00-v1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T23:56:22+00:00",
+  "response": [
+    {
+      "id": 386136,
+      "date": "2026-11-23T01:30:00",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-beyond-wrestling-rent-free-2026/",
+      "title": {
+        "raw": "RISULTATI: Beyond Wrestling Rent Free 2026"
+      },
+      "author": 1,
+      "featured_media": 386137,
+      "categories": [
+        52,
+        2
+      ],
+      "tags": [
+        13409,
+        3802,
+        12596,
+        11579,
+        6278,
+        11495,
+        12855
+      ]
+    }
+  ]
+}
