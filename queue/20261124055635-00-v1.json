@@ -1,1 +1,0 @@
-{"action": "get", "path": "wp/v2/posts?search=raw+23.11.2026&status=publish,draft&context=edit&per_page=5&_fields=id,status,author,link,featured_media,categories,tags,date,title.raw"}

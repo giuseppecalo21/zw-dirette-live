@@ -1,0 +1,69 @@
+{
+  "file": "20261124055635-00-v1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T05:56:45+00:00",
+  "response": [
+    {
+      "id": 386082,
+      "date": "2026-11-24T06:55:30",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-wwe-raw-23-11-2026/",
+      "title": {
+        "raw": "RISULTATI: WWE Raw 23.11.2026"
+      },
+      "author": 1,
+      "featured_media": 386083,
+      "categories": [
+        2,
+        53
+      ],
+      "tags": [
+        14526,
+        128,
+        17297,
+        564,
+        18192,
+        750,
+        3267,
+        11152
+      ]
+    },
+    {
+      "id": 385489,
+      "date": "2026-11-24T02:28:53",
+      "status": "publish",
+      "link": "https://zonawrestling.net/raw-23-11-2026-last-show-before-survivor-series/",
+      "title": {
+        "raw": "Raw 23.11.2026 Last show before Survivor Series"
+      },
+      "author": 526,
+      "featured_media": 368661,
+      "categories": [
+        6507,
+        15
+      ],
+      "tags": [
+        5096,
+        69
+      ]
+    },
+    {
+      "id": 386076,
+      "date": "2026-11-24T01:46:30",
+      "status": "publish",
+      "link": "https://zonawrestling.net/diretta-live-wwe-raw-del-23-11-2026/",
+      "title": {
+        "raw": "DIRETTA LIVE: WWE Raw del 23.11.2026"
+      },
+      "author": 1,
+      "featured_media": 368661,
+      "categories": [
+        45,
+        53
+      ],
+      "tags": []
+    }
+  ]
+}
