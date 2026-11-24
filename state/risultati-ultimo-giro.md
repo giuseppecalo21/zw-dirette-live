@@ -1,12 +1,13 @@
 # Risultati automatici – ultimo giro
 
-Ora: 24/11/2026 00:55 (ora italiana). Canale: Make (scenario 9888949). La chiamata ha risposto "Bad Gateway" ma l'articolo risulta creato correttamente (controllato sul sito, nessun rilancio).
+Ora: 24/11/2026 06:58 (ora italiana). Canale: Make (scenario 9888949). Entrambe le chiamate hanno risposto "Bad Gateway" ma gli articoli risultano creati correttamente (controllati sul sito, nessun rilancio).
 
 ## Candidati (Fightful, ultime 48 ore)
-- Beyond Wrestling Still Alive 21.11 (Fightful 23/11 22:23 it.) → PUBBLICATO: https://zonawrestling.net/risultati-beyond-wrestling-still-alive-2026/ (ID 386068, immagine ok 386069, autore 1, categorie 2 + 52, retrodatato al 23/11 01:00).
-- WWE Raw 23.11 → show non ancora iniziato/in corso: da fare al prossimo giro.
-- AAA on FOX 21.11 → NON pubblicato: su Fightful manca ancora l'esito del main event (AAA World Trios Championships, Los Perros del Mal (c) vs. El Grande Americano, Rey Fenix e La Parka); nessun esito trovato altrove con una ricerca rapida.
-- NJPW World Tag League Night One 23.11, CMLL Domingo Familiar 22.11, CMLL Sábado de Coliseo 21.11, NJPW Road to World Tag League 21.11, NXT Live 21.11, AEW Collision 21.11, Marvelous Pro, PARADIGM 150, CSW, NHB → già pubblicati. PrideStyle x Marvelous (11/14) → fuori finestra.
+- WWE Raw 23.11 → PUBBLICATO: https://zonawrestling.net/risultati-wwe-raw-23-11-2026/ (ID 386082, immagine 386083, autore 1, categorie 2 + 53). Nota: l'articolo Fightful era stato modificato alle 06:25 it. (meno di 90 minuti prima), ma lo show era chiuso (tutti i match con esito, rissa finale "to end the broadcast") e Raw deve essere online entro le 7: pubblicato in deroga, con i dettagli integrati dal report Wrestleview.
+- MLW Fusion 19.11 (Fightful 24/11 03:27 it.) → PUBBLICATO: https://zonawrestling.net/risultati-mlw-fusion-19-11-2026/ (ID 386085, immagine 386086, autore 1, categorie 2 + 11982, retrodatato al 20/11 19:00).
+- CMLL Lunes Clásico 23.11 → NON ancora: pubblicato da Fightful alle 06:35 it., meno di 90 minuti fa. Da fare al prossimo giro.
+- AAA on FOX 21.11 → non più nell'elenco Fightful; main event senza esito al giro precedente.
+- Beyond Still Alive, NJPW World Tag League Night One, CMLL Domingo Familiar, CMLL Sábado de Coliseo, NJPW Road to WTL, NXT Live 21.11, PARADIGM 150, CSW, NHB, Marvelous Pro → già pubblicati. PrideStyle x Marvelous (11/14) → fuori finestra.
 
 ## Da controllare
 - DOPPIONE TNA iMPACT 19.11 ancora online? 385866 e 385869 (eliminarne uno a mano).
