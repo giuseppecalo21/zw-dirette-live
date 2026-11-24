@@ -1,0 +1,24 @@
+{
+  "file": "20261124115956-00-get.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T12:00:06+00:00",
+  "response": [
+    {
+      "id": 386110,
+      "date": "2026-11-24T12:59:18",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-cmll-lunes-clasico-23-11-2026/",
+      "title": {
+        "raw": "RISULTATI: CMLL Lunes Clásico 23.11.2026"
+      },
+      "author": 1,
+      "featured_media": 386111,
+      "categories": [
+        16187,
+        2
+      ]
+    }
+  ]
+}
