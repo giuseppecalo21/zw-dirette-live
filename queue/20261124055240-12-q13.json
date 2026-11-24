@@ -1,0 +1,1 @@
+{"action": "get", "path": "wp/v2/posts?search=mlw+fusion&per_page=5&status=publish,draft&context=edit&_fields=id,title.raw,link,date,status"}
