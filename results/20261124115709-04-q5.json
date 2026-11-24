@@ -1,0 +1,44 @@
+{
+  "file": "20261124115709-04-q5.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T11:57:25+00:00",
+  "response": [
+    {
+      "id": 2237,
+      "count": 140,
+      "name": "AKIRA"
+    },
+    {
+      "id": 8148,
+      "count": 1,
+      "name": "Akira Hokuto"
+    },
+    {
+      "id": 16674,
+      "count": 1,
+      "name": "Akira Tozaea"
+    },
+    {
+      "id": 4198,
+      "count": 58,
+      "name": "AKIRA TOZAWA"
+    },
+    {
+      "id": 4834,
+      "count": 1,
+      "name": "AKIRA TOZAWA. MAD BLANKEY"
+    },
+    {
+      "id": 13524,
+      "count": 85,
+      "name": "Francesco Akira"
+    },
+    {
+      "id": 15750,
+      "count": 0,
+      "name": "Noam Dar insieme al resto dei Meta Four ha esplorato una casa infestata alla ricerca della Heritage Cup di Dar che era stata presa da Akira Tozawa. Dopo una notte di scherzi spaventosi"
+    }
+  ]
+}

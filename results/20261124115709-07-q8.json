@@ -1,0 +1,19 @@
+{
+  "file": "20261124115709-07-q8.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T11:57:27+00:00",
+  "response": [
+    {
+      "id": 224,
+      "count": 33,
+      "name": "AVERNO"
+    },
+    {
+      "id": 1879,
+      "count": 1,
+      "name": "HIJOS DE L'AVERNO"
+    }
+  ]
+}
