@@ -1,0 +1,24 @@
+{
+  "file": "20261124055836-00-v2.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T05:58:46+00:00",
+  "response": [
+    {
+      "id": 386085,
+      "date": "2026-11-20T19:00:00",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-mlw-fusion-19-11-2026/",
+      "title": {
+        "raw": "RISULTATI: MLW Fusion 19.11.2026"
+      },
+      "author": 1,
+      "featured_media": 386086,
+      "categories": [
+        11982,
+        2
+      ]
+    }
+  ]
+}
