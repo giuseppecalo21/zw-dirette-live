@@ -1,0 +1,14 @@
+{
+  "file": "20261124055323-04-t5.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T05:53:34+00:00",
+  "response": [
+    {
+      "id": 19144,
+      "count": 4,
+      "name": "Team USA vs Team Mexico"
+    }
+  ]
+}

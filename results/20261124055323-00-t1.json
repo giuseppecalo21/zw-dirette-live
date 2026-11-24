@@ -1,0 +1,54 @@
+{
+  "file": "20261124055323-00-t1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T05:53:31+00:00",
+  "response": [
+    {
+      "id": 5710,
+      "count": 2,
+      "name": "Brock Lesnar WWE Raw Chicago"
+    },
+    {
+      "id": 11152,
+      "count": 228,
+      "name": "wwe raw"
+    },
+    {
+      "id": 5713,
+      "count": 1,
+      "name": "WWE Raw Brock Lesnar"
+    },
+    {
+      "id": 15984,
+      "count": 1,
+      "name": "WWE Raw Day One"
+    },
+    {
+      "id": 3127,
+      "count": 1,
+      "name": "WWE Raw Fallout"
+    },
+    {
+      "id": 16058,
+      "count": 1,
+      "name": "wwe raw netflix"
+    },
+    {
+      "id": 12688,
+      "count": 4,
+      "name": "wwe raw tag team championship"
+    },
+    {
+      "id": 12153,
+      "count": 1,
+      "name": "WWE Raw Talk"
+    },
+    {
+      "id": 9608,
+      "count": 7,
+      "name": "WWE Raw Women's Championship"
+    }
+  ]
+}

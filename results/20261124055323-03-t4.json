@@ -1,0 +1,19 @@
+{
+  "file": "20261124055323-03-t4.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T05:53:34+00:00",
+  "response": [
+    {
+      "id": 12025,
+      "count": 1,
+      "name": "MLW Opera Cup 2019"
+    },
+    {
+      "id": 12747,
+      "count": 13,
+      "name": "Opera Cup"
+    }
+  ]
+}
