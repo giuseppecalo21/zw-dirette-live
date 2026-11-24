@@ -1,0 +1,14 @@
+{
+  "file": "20261124175204-10-t8.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-24T17:52:19+00:00",
+  "response": [
+    {
+      "id": 4258,
+      "count": 15,
+      "name": "TOGI MAKABE"
+    }
+  ]
+}
