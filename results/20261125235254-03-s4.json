@@ -1,0 +1,14 @@
+{
+  "file": "20261125235254-03-s4.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T23:53:04+00:00",
+  "response": [
+    {
+      "id": 1132,
+      "count": 33,
+      "name": "JTG"
+    }
+  ]
+}

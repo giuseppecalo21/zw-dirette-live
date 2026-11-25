@@ -1,0 +1,44 @@
+{
+  "file": "20261125235254-05-s6.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T23:53:09+00:00",
+  "response": [
+    {
+      "date": "2026-10-03T17:00:00",
+      "link": "https://zonawrestling.net/game-of-thrones-grazie-per-tutto-pac-neville/",
+      "title": {
+        "rendered": "Game of Thrones: Grazie per tutto PAC/NEVILLE"
+      }
+    },
+    {
+      "date": "2026-09-27T10:45:04",
+      "link": "https://zonawrestling.net/aew-tony-khan-fa-chiarezza-su-upupdowndown-e-aggiorna-sulle-condizioni-di-steven-borden/",
+      "title": {
+        "rendered": "AEW: Tony Khan fa chiarezza su UpUpDownDown e aggiorna sulle condizioni di Steven Borden"
+      }
+    },
+    {
+      "date": "2026-01-18T23:35:11",
+      "link": "https://zonawrestling.net/tna-lex-star-della-wwe-johnny-dango-curtis-si-ritira-a-genesis/",
+      "title": {
+        "rendered": "TNA: L&#8217;ex star della WWE Johnny &#8220;Dango&#8221; Curtis si ritira a Genesis"
+      }
+    },
+    {
+      "date": "2026-01-16T21:11:05",
+      "link": "https://zonawrestling.net/impact-15-01-2026-il-debutto-su-amc-networks-2/",
+      "title": {
+        "rendered": "Impact 15.01.2026 Il debutto su AMC Networks!"
+      }
+    },
+    {
+      "date": "2025-12-11T10:05:12",
+      "link": "https://zonawrestling.net/tyler-breeze-si-dice-pronto-al-ritorno-full-time-e-molto-molto-possibile/",
+      "title": {
+        "rendered": "Tyler Breeze si dice pronto al ritorno full-time: “È molto, molto possibile”"
+      }
+    }
+  ]
+}

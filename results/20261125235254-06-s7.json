@@ -1,0 +1,44 @@
+{
+  "file": "20261125235254-06-s7.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T23:53:13+00:00",
+  "response": [
+    {
+      "date": "2026-11-12T16:39:33",
+      "link": "https://zonawrestling.net/wwe-stephanie-vaquer-vince-la-pwi-womens-250-2026-il-pallone-doro-del-wrestling-femminile/",
+      "title": {
+        "rendered": "WWE: Stephanie Vaquer vince la PWI Women&#8217;s 250 2026, il &#8220;pallone d&#8217;oro&#8221; del wrestling femminile"
+      }
+    },
+    {
+      "date": "2026-10-30T06:34:33",
+      "link": "https://zonawrestling.net/risultati-roh-tv-29-10-2026/",
+      "title": {
+        "rendered": "RISULTATI: ROH TV 29.10.2026"
+      }
+    },
+    {
+      "date": "2026-10-25T20:00:00",
+      "link": "https://zonawrestling.net/risultati-focus-pro-wrestling-the-world-in-my-hands-2026/",
+      "title": {
+        "rendered": "RISULTATI: Focus Pro Wrestling The World In My Hands 2026"
+      }
+    },
+    {
+      "date": "2026-10-18T12:00:00",
+      "link": "https://zonawrestling.net/risultati-acw-mischief-night-2-2026/",
+      "title": {
+        "rendered": "RISULTATI: ACW Mischief Night 2 2026"
+      }
+    },
+    {
+      "date": "2026-10-06T08:00:00",
+      "link": "https://zonawrestling.net/il-diamante-grezzo-della-divisione-femminile/",
+      "title": {
+        "rendered": "Il diamante grezzo della divisione femminile"
+      }
+    }
+  ]
+}
