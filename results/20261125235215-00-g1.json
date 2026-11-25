@@ -1,0 +1,129 @@
+{
+  "file": "20261125235215-00-g1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T23:52:23+00:00",
+  "response": [
+    {
+      "id": 386197,
+      "date": "2026-11-25T19:00:47",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 25.11.2026"
+      }
+    },
+    {
+      "id": 386152,
+      "date": "2026-11-25T08:08:16",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Martes de Arena México 24.11.2026"
+      }
+    },
+    {
+      "id": 386142,
+      "date": "2026-11-25T07:15:45",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE NXT 24.11.2026"
+      }
+    },
+    {
+      "id": 386123,
+      "date": "2026-11-24T18:53:49",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 24.11.2026"
+      }
+    },
+    {
+      "id": 386110,
+      "date": "2026-11-24T12:59:18",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Lunes Clásico 23.11.2026"
+      }
+    },
+    {
+      "id": 386082,
+      "date": "2026-11-24T06:55:30",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE Raw 23.11.2026"
+      }
+    },
+    {
+      "id": 386049,
+      "date": "2026-11-23T18:54:18",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 23.11.2026"
+      }
+    },
+    {
+      "id": 386040,
+      "date": "2026-11-23T12:59:52",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Domingo Familiar 22.11.2026"
+      }
+    },
+    {
+      "id": 386136,
+      "date": "2026-11-23T01:30:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: Beyond Wrestling Rent Free 2026"
+      }
+    },
+    {
+      "id": 386068,
+      "date": "2026-11-23T01:00:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: Beyond Wrestling Still Alive 2026"
+      }
+    },
+    {
+      "id": 385983,
+      "date": "2026-11-22T18:59:22",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Sábado de Coliseo 21.11.2026"
+      }
+    },
+    {
+      "id": 385981,
+      "date": "2026-11-22T18:58:14",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW Road to World Tag League 21.11.2026"
+      }
+    },
+    {
+      "id": 385979,
+      "date": "2026-11-22T18:57:08",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE NXT Live Event 21.11.2026"
+      }
+    },
+    {
+      "id": 385967,
+      "date": "2026-11-22T12:54:33",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: West Coast Pro e New Texas Pro presentano Marvelous Pro Wrestling 2026"
+      }
+    },
+    {
+      "id": 385953,
+      "date": "2026-11-22T06:55:43",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: AEW Collision 21.11.2026"
+      }
+    }
+  ]
+}
