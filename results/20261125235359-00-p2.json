@@ -1,0 +1,65 @@
+{
+  "file": "20261125235359-00-p2.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T23:54:18+00:00",
+  "response": [
+    {
+      "date": "2026-11-25T16:16:22",
+      "link": "https://zonawrestling.net/aew-dynamite-al-via-il-continental-classic-con-tre-incontri-annunciato-anche-mjf/",
+      "title": {
+        "rendered": "AEW: Dynamite, al via il Continental Classic con tre incontri, annunciato anche MJF"
+      }
+    },
+    {
+      "date": "2026-11-22T06:55:43",
+      "link": "https://zonawrestling.net/risultati-aew-collision-21-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Collision 21.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-19T23:56:00",
+      "link": "https://zonawrestling.net/dynamite-18-11-2026-sorprese-continentali/",
+      "title": {
+        "rendered": "Dynamite 18.11.2026 Sorprese Continentali"
+      }
+    },
+    {
+      "date": "2026-11-16T08:00:00",
+      "link": "https://zonawrestling.net/le-storie-vere-la-top-5-di-aew-full-gear-2026/",
+      "title": {
+        "rendered": "Le storie vere: la top 5 di AEW Full Gear 2026"
+      }
+    },
+    {
+      "date": "2026-11-15T08:21:13",
+      "link": "https://zonawrestling.net/risultati-aew-full-gear-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Full Gear 2026"
+      }
+    },
+    {
+      "date": "2026-11-13T16:34:00",
+      "link": "https://zonawrestling.net/wrestling-tv-streaming-weekend-13-15-novembre-2026/",
+      "title": {
+        "rendered": "Wrestling nel weekend in TV e streaming: AEW Full Gear, TNA Destination X, CMLL e tanto altro"
+      }
+    },
+    {
+      "date": "2026-11-13T08:00:00",
+      "link": "https://zonawrestling.net/aew-full-gear-2026-preview/",
+      "title": {
+        "rendered": "AEW Full Gear 2026 &#8211; Preview"
+      }
+    },
+    {
+      "date": "2026-11-12T16:39:33",
+      "link": "https://zonawrestling.net/wwe-stephanie-vaquer-vince-la-pwi-womens-250-2026-il-pallone-doro-del-wrestling-femminile/",
+      "title": {
+        "rendered": "WWE: Stephanie Vaquer vince la PWI Women&#8217;s 250 2026, il &#8220;pallone d&#8217;oro&#8221; del wrestling femminile"
+      }
+    }
+  ]
+}
