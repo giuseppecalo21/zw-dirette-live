@@ -1,0 +1,44 @@
+{
+  "file": "20261125175837-03-s1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T17:58:48+00:00",
+  "response": [
+    {
+      "date": "2026-11-24T18:53:49",
+      "link": "https://zonawrestling.net/risultati-njpw-world-tag-league-24-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW World Tag League 24.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-23T18:54:18",
+      "link": "https://zonawrestling.net/risultati-njpw-world-tag-league-23-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW World Tag League 23.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-22T18:58:14",
+      "link": "https://zonawrestling.net/risultati-njpw-road-to-world-tag-league-21-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW Road to World Tag League 21.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-19T01:15:00",
+      "link": "https://zonawrestling.net/risultati-aew-dynamite-18-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Dynamite 18.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-03T12:29:16",
+      "link": "https://zonawrestling.net/risultati-njpw-power-struggle-2026/",
+      "title": {
+        "rendered": "RISULTATI: NJPW Power Struggle 2026"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "file": "20261125175837-02-t2.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T17:58:47+00:00",
+  "response": [
+    {
+      "id": 17754,
+      "count": 1,
+      "name": "AEW NJPW"
+    },
+    {
+      "id": 18505,
+      "count": 2,
+      "name": "AEW x NJPW Forbidden Door 2026"
+    },
+    {
+      "id": 16622,
+      "count": 5,
+      "name": "AEW x NJPW Forbidden Door 3"
+    },
+    {
+      "id": 18479,
+      "count": 2,
+      "name": "AEW x NJPW Forbidden Door Forbidden Door"
+    },
+    {
+      "id": 14458,
+      "count": 44,
+      "name": "AEW x NJPW: Forbidden Door"
+    },
+    {
+      "id": 15249,
+      "count": 10,
+      "name": "AEW x NJPW: Forbidden Door 2"
+    },
+    {
+      "id": 5753,
+      "count": 2,
+      "name": "Jushin Thunder Liger NJPW NXT"
+    },
+    {
+      "id": 123,
+      "count": 2195,
+      "name": "NJPW"
+    },
+    {
+      "id": 9059,
+      "count": 2,
+      "name": "NJPW 45Tth Anniversary show"
+    },
+    {
+      "id": 13963,
+      "count": 9,
+      "name": "NJPW Battle in the Valley"
+    }
+  ]
+}
