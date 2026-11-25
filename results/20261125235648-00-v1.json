@@ -1,0 +1,30 @@
+{
+  "file": "20261125235648-00-v1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T23:57:02+00:00",
+  "response": [
+    {
+      "id": 386211,
+      "date": "2026-11-22T20:00:00",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-focus-pro-wrestling-mo-money-mo-problems-4-2026/",
+      "title": {
+        "raw": "RISULTATI: Focus Pro Wrestling Mo Money Mo Problems 4 2026"
+      },
+      "author": 1,
+      "featured_media": 386212,
+      "categories": [
+        52,
+        2
+      ],
+      "tags": [
+        12596,
+        1132,
+        16296,
+        1948
+      ]
+    }
+  ]
+}
