@@ -1,0 +1,19 @@
+{
+  "file": "20261125055511-02-b3.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T05:55:19+00:00",
+  "response": [
+    {
+      "id": 13073,
+      "count": 62,
+      "name": "THE UNITED EMPIRE"
+    },
+    {
+      "id": 14612,
+      "count": 18,
+      "name": "united empire"
+    }
+  ]
+}
