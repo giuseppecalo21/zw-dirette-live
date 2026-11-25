@@ -1,0 +1,39 @@
+{
+  "file": "20261125175909-00-t3.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T17:59:24+00:00",
+  "response": [
+    {
+      "id": 13939,
+      "count": 42,
+      "name": "HOUSE OF TORTURE"
+    },
+    {
+      "id": 126,
+      "count": 33,
+      "name": "SATOSHI KOJIMA"
+    },
+    {
+      "id": 2685,
+      "count": 78,
+      "name": "SHINGO TAKAGI"
+    },
+    {
+      "id": 14661,
+      "count": 12,
+      "name": "Shota Umino"
+    },
+    {
+      "id": 4258,
+      "count": 16,
+      "name": "TOGI MAKABE"
+    },
+    {
+      "id": 719,
+      "count": 175,
+      "name": "ZACK SABRE JR."
+    }
+  ]
+}

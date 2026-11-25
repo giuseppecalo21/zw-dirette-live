@@ -1,0 +1,14 @@
+{
+  "file": "20261125175909-02-t5.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T17:59:25+00:00",
+  "response": [
+    {
+      "id": 1478,
+      "count": 29,
+      "name": "YUJI NAGATA"
+    }
+  ]
+}

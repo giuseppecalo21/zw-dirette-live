@@ -1,0 +1,14 @@
+{
+  "file": "20261125175909-07-t10.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T17:59:30+00:00",
+  "response": [
+    {
+      "id": 14238,
+      "count": 37,
+      "name": "YOTA TSUJI"
+    }
+  ]
+}
