@@ -1,0 +1,44 @@
+{
+  "file": "20261125055301-17-t18.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T05:53:45+00:00",
+  "response": [
+    {
+      "id": 16939,
+      "count": 0,
+      "name": "AEW CMLL"
+    },
+    {
+      "id": 112,
+      "count": 634,
+      "name": "CMLL"
+    },
+    {
+      "id": 14144,
+      "count": 0,
+      "name": "CMLL AULL"
+    },
+    {
+      "id": 18524,
+      "count": 2,
+      "name": "CMLL Grand Prix 2026"
+    },
+    {
+      "id": 18998,
+      "count": 1,
+      "name": "CMLL Informa"
+    },
+    {
+      "id": 17853,
+      "count": 7,
+      "name": "CMLL Viernes Espectacular"
+    },
+    {
+      "id": 3622,
+      "count": 2,
+      "name": "CMLL WORLD WOMEN'S TITLE"
+    }
+  ]
+}

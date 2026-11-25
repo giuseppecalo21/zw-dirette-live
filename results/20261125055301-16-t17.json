@@ -1,0 +1,14 @@
+{
+  "file": "20261125055301-16-t17.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T05:53:44+00:00",
+  "response": [
+    {
+      "id": 17870,
+      "count": 25,
+      "name": "Shiloh Hill"
+    }
+  ]
+}

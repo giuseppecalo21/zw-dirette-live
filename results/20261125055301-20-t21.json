@@ -1,0 +1,14 @@
+{
+  "file": "20261125055301-20-t21.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T05:53:48+00:00",
+  "response": [
+    {
+      "id": 13528,
+      "count": 11,
+      "name": "TEMPLARIO"
+    }
+  ]
+}

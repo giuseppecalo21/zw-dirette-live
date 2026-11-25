@@ -1,0 +1,14 @@
+{
+  "file": "20261125055301-18-t19.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T05:53:46+00:00",
+  "response": [
+    {
+      "id": 3273,
+      "count": 19,
+      "name": "ANGEL DE ORO"
+    }
+  ]
+}

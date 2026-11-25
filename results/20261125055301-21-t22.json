@@ -1,0 +1,14 @@
+{
+  "file": "20261125055301-21-t22.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T05:53:48+00:00",
+  "response": [
+    {
+      "id": 13524,
+      "count": 86,
+      "name": "Francesco Akira"
+    }
+  ]
+}

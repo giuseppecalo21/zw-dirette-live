@@ -1,0 +1,44 @@
+{
+  "file": "20261125055301-05-p6.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T05:53:30+00:00",
+  "response": [
+    {
+      "date": "2026-11-21T19:55:14",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-live-event-20-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT Live Event 20.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-18T15:23:09",
+      "link": "https://zonawrestling.net/nxt-17-11-2026-le-donne-salvano-la-baracca/",
+      "title": {
+        "rendered": "NXT 17.11.2026 Le donne salvano la baracca"
+      }
+    },
+    {
+      "date": "2026-11-18T09:46:08",
+      "link": "https://zonawrestling.net/wwe-kelani-jordan-resta-campionessa-dopo-un-finale-controverso-contro-kendal-grey/",
+      "title": {
+        "rendered": "WWE: Kelani Jordan resta campionessa dopo un finale controverso contro Kendal Grey"
+      }
+    },
+    {
+      "date": "2026-11-18T09:28:52",
+      "link": "https://zonawrestling.net/wwe-john-cena-sorprende-izzi-dame-con-un-invito-al-john-cena-classic/",
+      "title": {
+        "rendered": "WWE: John Cena sorprende Izzi Dame con un invito al John Cena Classic"
+      }
+    },
+    {
+      "date": "2026-11-18T09:18:48",
+      "link": "https://zonawrestling.net/wwe-john-cena-sceglie-shiloh-hill-arriva-linvito-per-il-john-cena-classic/",
+      "title": {
+        "rendered": "WWE: John Cena sceglie Shiloh Hill, arriva l&#8217;invito per il John Cena Classic"
+      }
+    }
+  ]
+}

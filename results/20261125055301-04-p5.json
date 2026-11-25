@@ -1,0 +1,44 @@
+{
+  "file": "20261125055301-04-p5.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T05:53:28+00:00",
+  "response": [
+    {
+      "date": "2026-11-21T19:55:14",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-live-event-20-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT Live Event 20.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-18T15:23:09",
+      "link": "https://zonawrestling.net/nxt-17-11-2026-le-donne-salvano-la-baracca/",
+      "title": {
+        "rendered": "NXT 17.11.2026 Le donne salvano la baracca"
+      }
+    },
+    {
+      "date": "2026-11-18T06:56:13",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-17-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT 17.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-11T20:09:30",
+      "link": "https://zonawrestling.net/nxt-10-11-2026-il-ritorno-di-mason-rook/",
+      "title": {
+        "rendered": "NXT 10.11.2026 Il ritorno di Mason Rook"
+      }
+    },
+    {
+      "date": "2026-11-05T12:54:20",
+      "link": "https://zonawrestling.net/risultati-wwe-evolve-04-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE Evolve 04.11.2026"
+      }
+    }
+  ]
+}

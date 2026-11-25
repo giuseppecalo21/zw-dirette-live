@@ -1,0 +1,44 @@
+{
+  "file": "20261125055301-00-p1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T05:53:17+00:00",
+  "response": [
+    {
+      "date": "2026-11-22T18:57:08",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-live-event-21-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT Live Event 21.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-21T19:55:14",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-live-event-20-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT Live Event 20.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-18T06:56:13",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-17-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT 17.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-17T15:57:09",
+      "link": "https://zonawrestling.net/wwe-liv-morgan-ufficialmente-una-nuova-partecipante-del-john-cena-classic/",
+      "title": {
+        "rendered": "WWE: Liv Morgan ufficialmente una nuova partecipante del John Cena Classic"
+      }
+    },
+    {
+      "date": "2026-11-16T19:02:16",
+      "link": "https://zonawrestling.net/risultati-wwe-nxt-holiday-live-tour-chicago-15-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE NXT Holiday Live Tour Chicago 15.11.2026"
+      }
+    }
+  ]
+}
