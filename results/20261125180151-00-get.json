@@ -1,0 +1,24 @@
+{
+  "file": "20261125180151-00-get.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-25T18:01:59+00:00",
+  "response": [
+    {
+      "id": 386197,
+      "date": "2026-11-25T19:00:47",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-njpw-world-tag-league-25-11-2026/",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 25.11.2026"
+      },
+      "author": 1,
+      "featured_media": 386198,
+      "categories": [
+        10273,
+        2
+      ]
+    }
+  ]
+}
