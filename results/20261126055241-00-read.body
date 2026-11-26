@@ -7,57 +7,55 @@
 <script data-cfasync="false">window.ramp = window.ramp || {};window.ramp.que = window.ramp.que || [];</script>
 
 	<!-- This site is optimized with the Yoast SEO plugin v28.9 - https://yoast.com/product/yoast-seo-wordpress/ -->
-	<title>AEW Dynamite Results (11/25/2026) - Fightful | WWE News, AEW News, Pro Wrestling Backstage News</title>
-	<meta name="description" content="Full results for the November 25, 2026, edition of AEW Dynamite on TBS live from the LFCU Arena in Ralston, Nebraska." />
-	<link rel="canonical" href="https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" />
+	<title>WWE Main Event Results (11/25) - Fightful | WWE News, AEW News, Pro Wrestling Backstage News</title>
+	<meta name="description" content="WWE aired the latest episode of WWE Main Event on November 25. The event aired on Rumble." />
+	<link rel="canonical" href="https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="AEW Dynamite Results (11/25/2026) - Fightful | WWE News, AEW News, Pro Wrestling Backstage News" />
-	<meta property="og:description" content="Full results for the November 25, 2026, edition of AEW Dynamite on TBS live from the LFCU Arena in Ralston, Nebraska." />
-	<meta property="og:url" content="https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more?xv=20261126043634" />
+	<meta property="og:title" content="WWE Main Event Results (11/25) - Fightful | WWE News, AEW News, Pro Wrestling Backstage News" />
+	<meta property="og:description" content="WWE aired the latest episode of WWE Main Event on November 25. The event aired on Rumble." />
+	<meta property="og:url" content="https://www.fightful.com/wrestling/wwe-main-event-results-11-25?xv=20261126020122" />
 	<meta property="og:site_name" content="Fightful | WWE News, AEW News, Pro Wrestling Backstage News" />
-	<meta property="article:published_time" content="2026-11-26T00:15:00+00:00" />
-	<meta property="article:modified_time" content="2026-11-26T04:36:34+00:00" />
-	<meta property="og:image" content="https://www.fightful.com/social-thumb/youtube/ntWgdG9sVew.jpg" /><meta property="og:image" content="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/24170241/HX5qWhKXEAApPTM.jpeg" />
-	<meta property="og:image:width" content="1920" />
-	<meta property="og:image:height" content="1080" />
+	<meta property="article:published_time" content="2026-11-26T02:01:22+00:00" />
+	<meta property="og:image" content="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25204450/20261123_MainEvent_TatumMichin_16x9_tonight.jpg?v=20261126020122" /><meta property="og:image" content="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25204450/20261123_MainEvent_TatumMichin_16x9_tonight.jpg?v=20261126020122" />
+	<meta property="og:image:width" content="1470" />
+	<meta property="og:image:height" content="827" />
 	<meta property="og:image:type" content="image/jpeg" />
-	<meta name="author" content="Luis Pulido" />
+	<meta name="author" content="Jeremy Lambert" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:image" content="https://www.fightful.com/social-thumb/youtube/ntWgdG9sVew.jpg" />
+	<meta name="twitter:image" content="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25204450/20261123_MainEvent_TatumMichin_16x9_tonight.jpg?v=20261126020122" />
 	<meta name="twitter:creator" content="@Fightful" />
 	<meta name="twitter:site" content="@Fightful" />
 	<meta name="twitter:label1" content="Written by" />
-	<meta name="twitter:data1" content="Luis Pulido" />
+	<meta name="twitter:data1" content="Jeremy Lambert" />
 	<meta name="twitter:label2" content="Est. reading time" />
-	<meta name="twitter:data2" content="3 minutes" />
+	<meta name="twitter:data2" content="1 minute" />
 	<script type="application/ld+json" class="yoast-schema-graph">{
 	    "@context": "https:\/\/schema.org",
 	    "@graph": [
 	        {
 	            "@type": "NewsArticle",
-	            "@id": "https:\/\/www.fightful.com\/wrestling\/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more\/#article",
+	            "@id": "https:\/\/www.fightful.com\/wrestling\/wwe-main-event-results-11-25\/#article",
 	            "isPartOf": {
-	                "@id": "https:\/\/www.fightful.com\/wrestling\/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more\/"
+	                "@id": "https:\/\/www.fightful.com\/wrestling\/wwe-main-event-results-11-25\/"
 	            },
 	            "author": {
-	                "name": "Luis Pulido",
-	                "@id": "https:\/\/www.fightful.com\/#\/schema\/person\/b8c3d25189e2b973e55d8335df83801d"
+	                "name": "Jeremy Lambert",
+	                "@id": "https:\/\/www.fightful.com\/#\/schema\/person\/3bccc860a190a35948665f9f5abe4a90"
 	            },
-	            "headline": "AEW Dynamite Results (11\/25\/2026): Hangman Page vs. Jay White, Andrade vs. Kyle Fletcher, Tag Title Match, Jon Moxley, More",
-	            "datePublished": "2026-11-26T00:15:00+00:00",
-	            "dateModified": "2026-11-26T04:36:34+00:00",
+	            "headline": "WWE Main Event Results (11\/25)",
+	            "datePublished": "2026-11-26T02:01:22+00:00",
 	            "mainEntityOfPage": {
-	                "@id": "https:\/\/www.fightful.com\/wrestling\/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more\/"
+	                "@id": "https:\/\/www.fightful.com\/wrestling\/wwe-main-event-results-11-25\/"
 	            },
-	            "wordCount": 590,
+	            "wordCount": 83,
 	            "publisher": {
 	                "@id": "https:\/\/www.fightful.com\/#organization"
 	            },
 	            "image": {
-	                "@id": "https:\/\/www.fightful.com\/wrestling\/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more\/#primaryimage"
+	                "@id": "https:\/\/www.fightful.com\/wrestling\/wwe-main-event-results-11-25\/#primaryimage"
 	            },
-	            "thumbnailUrl": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/24170241\/HX5qWhKXEAApPTM.jpeg",
+	            "thumbnailUrl": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/25204450\/20261123_MainEvent_TatumMichin_16x9_tonight.jpg",
 	            "articleSection": [
 	                "Wrestling"
 	            ],
@@ -65,31 +63,30 @@
 	        },
 	        {
 	            "@type": "WebPage",
-	            "@id": "https:\/\/www.fightful.com\/wrestling\/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more\/",
-	            "url": "https:\/\/www.fightful.com\/wrestling\/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more\/",
-	            "name": "AEW Dynamite Results (11\/25\/2026) - Fightful | WWE News, AEW News, Pro Wrestling Backstage News",
+	            "@id": "https:\/\/www.fightful.com\/wrestling\/wwe-main-event-results-11-25\/",
+	            "url": "https:\/\/www.fightful.com\/wrestling\/wwe-main-event-results-11-25\/",
+	            "name": "WWE Main Event Results (11\/25) - Fightful | WWE News, AEW News, Pro Wrestling Backstage News",
 	            "isPartOf": {
 	                "@id": "https:\/\/www.fightful.com\/#website"
 	            },
 	            "primaryImageOfPage": {
-	                "@id": "https:\/\/www.fightful.com\/wrestling\/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more\/#primaryimage"
+	                "@id": "https:\/\/www.fightful.com\/wrestling\/wwe-main-event-results-11-25\/#primaryimage"
 	            },
 	            "image": {
-	                "@id": "https:\/\/www.fightful.com\/wrestling\/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more\/#primaryimage"
+	                "@id": "https:\/\/www.fightful.com\/wrestling\/wwe-main-event-results-11-25\/#primaryimage"
 	            },
-	            "thumbnailUrl": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/24170241\/HX5qWhKXEAApPTM.jpeg",
-	            "datePublished": "2026-11-26T00:15:00+00:00",
-	            "dateModified": "2026-11-26T04:36:34+00:00",
-	            "description": "Full results for the November 25, 2026, edition of AEW Dynamite on TBS live from the LFCU Arena in Ralston, Nebraska.",
+	            "thumbnailUrl": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/25204450\/20261123_MainEvent_TatumMichin_16x9_tonight.jpg",
+	            "datePublished": "2026-11-26T02:01:22+00:00",
+	            "description": "WWE aired the latest episode of WWE Main Event on November 25. The event aired on Rumble.",
 	            "breadcrumb": {
-	                "@id": "https:\/\/www.fightful.com\/wrestling\/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more\/#breadcrumb"
+	                "@id": "https:\/\/www.fightful.com\/wrestling\/wwe-main-event-results-11-25\/#breadcrumb"
 	            },
 	            "inLanguage": "en-US",
 	            "potentialAction": [
 	                {
 	                    "@type": "ReadAction",
 	                    "target": [
-	                        "https:\/\/www.fightful.com\/wrestling\/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more\/"
+	                        "https:\/\/www.fightful.com\/wrestling\/wwe-main-event-results-11-25\/"
 	                    ]
 	                }
 	            ]
@@ -97,16 +94,16 @@
 	        {
 	            "@type": "ImageObject",
 	            "inLanguage": "en-US",
-	            "@id": "https:\/\/www.fightful.com\/wrestling\/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more\/#primaryimage",
-	            "url": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/24170241\/HX5qWhKXEAApPTM.jpeg",
-	            "contentUrl": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/24170241\/HX5qWhKXEAApPTM.jpeg",
-	            "width": 1920,
-	            "height": 1080,
-	            "caption": "aew dynamite 11\/25"
+	            "@id": "https:\/\/www.fightful.com\/wrestling\/wwe-main-event-results-11-25\/#primaryimage",
+	            "url": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/25204450\/20261123_MainEvent_TatumMichin_16x9_tonight.jpg",
+	            "contentUrl": "https:\/\/d1fcaprh3kb5t7.cloudfront.net\/wp-content\/uploads\/2026\/11\/25204450\/20261123_MainEvent_TatumMichin_16x9_tonight.jpg",
+	            "width": 1470,
+	            "height": 827,
+	            "caption": "wwe main event"
 	        },
 	        {
 	            "@type": "BreadcrumbList",
-	            "@id": "https:\/\/www.fightful.com\/wrestling\/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more\/#breadcrumb",
+	            "@id": "https:\/\/www.fightful.com\/wrestling\/wwe-main-event-results-11-25\/#breadcrumb",
 	            "itemListElement": [
 	                {
 	                    "@type": "ListItem",
@@ -117,7 +114,7 @@
 	                {
 	                    "@type": "ListItem",
 	                    "position": 2,
-	                    "name": "AEW Dynamite Results (11\/25\/2026): Hangman Page vs. Jay White, Andrade vs. Kyle Fletcher, Tag Title Match, Jon Moxley, More"
+	                    "name": "WWE Main Event Results (11\/25)"
 	                }
 	            ]
 	        },
@@ -170,17 +167,17 @@
 	        },
 	        {
 	            "@type": "Person",
-	            "@id": "https:\/\/www.fightful.com\/#\/schema\/person\/b8c3d25189e2b973e55d8335df83801d",
-	            "name": "Luis Pulido",
+	            "@id": "https:\/\/www.fightful.com\/#\/schema\/person\/3bccc860a190a35948665f9f5abe4a90",
+	            "name": "Jeremy Lambert",
 	            "image": {
 	                "@type": "ImageObject",
 	                "inLanguage": "en-US",
-	                "@id": "https:\/\/secure.gravatar.com\/avatar\/4e303fe3955c0b0f7280a69075eb3627ffc8e483603774524c7b06008acce500?s=96&d=mm&r=g",
-	                "url": "https:\/\/secure.gravatar.com\/avatar\/4e303fe3955c0b0f7280a69075eb3627ffc8e483603774524c7b06008acce500?s=96&d=mm&r=g",
-	                "contentUrl": "https:\/\/secure.gravatar.com\/avatar\/4e303fe3955c0b0f7280a69075eb3627ffc8e483603774524c7b06008acce500?s=96&d=mm&r=g",
-	                "caption": "Luis Pulido"
+	                "@id": "https:\/\/secure.gravatar.com\/avatar\/6373b6078a913983f1df59b5dde573534dfd7dc5107f3321104f48a27891c95a?s=96&d=mm&r=g",
+	                "url": "https:\/\/secure.gravatar.com\/avatar\/6373b6078a913983f1df59b5dde573534dfd7dc5107f3321104f48a27891c95a?s=96&d=mm&r=g",
+	                "contentUrl": "https:\/\/secure.gravatar.com\/avatar\/6373b6078a913983f1df59b5dde573534dfd7dc5107f3321104f48a27891c95a?s=96&d=mm&r=g",
+	                "caption": "Jeremy Lambert"
 	            },
-	            "url": "https:\/\/www.fightful.com\/author\/luispulido\/"
+	            "url": "https:\/\/www.fightful.com\/author\/jeremyl\/"
 	        }
 	    ]
 	}</script>
@@ -224,8 +221,8 @@
 				--tie-buttons-color: #0070bb;--tie-buttons-text: #ffffff;--tie-buttons-hover-color: #003e89;--tie-buttons-hover-text: #FFFFFF;
 			}
 		</style>
-	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.fightful.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Faew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more%2F" />
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.fightful.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Faew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more%2F&#038;format=xml" />
+	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.fightful.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Fwwe-main-event-results-11-25%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.fightful.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Fwwe-main-event-results-11-25%2F&#038;format=xml" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" /><style id="wp-img-auto-sizes-contain-inline-css">
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
@@ -286,7 +283,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </style>
 <link rel='stylesheet' id='ctf_styles-css' href='https://www.fightful.com/wp-content/plugins/custom-twitter-feeds-pro/css/ctf-styles.min.css?ver=2.5.0' media='all' />
 <link rel='stylesheet' id='patreon-wordpress-css-css' href='https://www.fightful.com/wp-content/plugins/patreon-connect/assets/css/app.css?ver=1.13.1' media='all' />
-<link rel='stylesheet' id='wpdp-style2-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/front-styles.css?t=1795672357&#038;ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
+<link rel='stylesheet' id='wpdp-style2-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/front-styles.css?t=1795672370&#038;ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
 <link rel='stylesheet' id='wpdp-style3-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/jquery-ui.css?ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
 <link rel='stylesheet' id='tie-css-base-css' href='https://www.fightful.com/wp-content/themes/jannah/assets/css/base.min.css?ver=7.3.0' media='all' />
 <link rel='stylesheet' id='tie-css-styles-css' href='https://www.fightful.com/wp-content/themes/jannah/assets/css/style.min.css?ver=7.3.0' media='all' />
@@ -331,9 +328,9 @@ gtag("set", "developer_id.dZTNiMT", true);
 gtag("config", "GT-MQP9FZ6");
 //# sourceURL=google_gtagjs-js-after
 </script>
-<link rel="https://api.w.org/" href="https://www.fightful.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.fightful.com/wp-json/wp/v2/posts/340842" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fightful.com/xmlrpc.php?rsd" />
+<link rel="https://api.w.org/" href="https://www.fightful.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.fightful.com/wp-json/wp/v2/posts/340886" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fightful.com/xmlrpc.php?rsd" />
 
-<link rel='shortlink' href='https://www.fightful.com/?p=340842' />
+<link rel='shortlink' href='https://www.fightful.com/?p=340886' />
     <style id="fightful-bluesky-share-icon">
         .share-links .share-btn-icon.tie-icon-bluesky {
             background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjUzMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPHBhdGggZD0ibTEzNS43MiA0NC4wM2M2Ni40OTYgNDkuOTIxIDEzOC4wMiAxNTEuMTQgMTY0LjI4IDIwNS40NiAyNi4yNjItNTQuMzE2IDk3Ljc4Mi0xNTUuNTQgMTY0LjI4LTIwNS40NiA0Ny45OC0zNi4wMjEgMTI1LjcyLTYzLjg5MiAxMjUuNzIgMjQuNzk1IDAgMTcuNzEyLTEwLjE1NSAxNDguNzktMTYuMTExIDE3MC4wNy0yMC43MDMgNzMuOTg0LTk2LjE0NCA5Mi44NTQtMTYzLjI1IDgxLjQzMyAxMTcuMyAxOS45NjQgMTQ3LjE0IDg2LjA5MiA4Mi42OTcgMTUyLjIyLTEyMi4zOSAxMjUuNTktMTc1LjkxLTMxLjUxMS0xODkuNjMtNzEuNzY2LTIuNTE0LTcuMzc5Ny0zLjY5MDQtMTAuODMyLTMuNzA3Ny03Ljg5NjQtMC4wMTc0LTIuOTM1Ny0xLjE5MzcgMC41MTY2OS0zLjcwNzcgNy44OTY0LTEzLjcxNCA0MC4yNTUtNjcuMjMzIDE5Ny4zNi0xODkuNjMgNzEuNzY2LTY0LjQ0NC02Ni4xMjgtMzQuNjA1LTEzMi4yNiA4Mi42OTctMTUyLjIyLTY3LjEwOCAxMS40MjEtMTQyLjU1LTcuNDQ5MS0xNjMuMjUtODEuNDMzLTUuOTU2Mi0yMS4yODItMTYuMTExLTE1Mi4zNi0xNi4xMTEtMTcwLjA3IDAtODguNjg3IDc3Ljc0Mi02MC44MTYgMTI1LjcyLTI0Ljc5NXoiIGZpbGw9IiMxMTg1ZmUiLz4KPC9zdmc+Cg==');
@@ -347,15 +344,7 @@ gtag("config", "GT-MQP9FZ6");
             content: '';
         }
     </style>
-    <style>
-        /* Hide all thumbnail/featured image elements when YouTube is present */
-        .single-featured-image,
-        .post-featured-image,
-        .entry-featured-image,
-        .acf-thumbnail {
-            display: none !important;
-        }
-        </style><!--advanced-views:styles--><meta name="cdp-version" content="1.5.8" /><meta name="generator" content="Site Kit by Google 1.192.0" /><style>@font-face {
+    <!--advanced-views:styles--><meta name="cdp-version" content="1.5.8" /><meta name="generator" content="Site Kit by Google 1.192.0" /><style>@font-face {
             font-family: 'Libre Franklin Extra Bold';
             src: url('https://www.fightful.com/wp-content/plugins/patreon-connect/assets/fonts/librefranklin-extrabold-webfont.woff2') format('woff2'),
                  url('https://www.fightful.com/wp-content/plugins/patreon-connect/assets/fonts/librefranklin-extrabold-webfont.woff') format('woff');
@@ -371,7 +360,7 @@ gtag("config", "GT-MQP9FZ6");
 <meta name="msapplication-TileImage" content="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2024/05/27195652/favicon.png" />
 </head>
 
-<body id="tie-body" class="wp-singular post-template-default single single-post postid-340842 single-format-standard wp-theme-jannah wrapper-has-shadow block-head-1 magazine2 is-thumb-overlay-disabled is-desktop is-header-layout-1 sidebar-right has-sidebar post-layout-1 narrow-title-narrow-media is-standard-format has-mobile-share hide_share_post_top hide_share_post_bottom">
+<body id="tie-body" class="wp-singular post-template-default single single-post postid-340886 single-format-standard wp-theme-jannah wrapper-has-shadow block-head-1 magazine2 is-thumb-overlay-disabled is-desktop is-header-layout-1 sidebar-right has-sidebar post-layout-1 narrow-title-narrow-media is-standard-format has-mobile-share hide_share_post_top hide_share_post_bottom">
 
 <div id="pw-stickytop-mobile"></div>
 
@@ -499,7 +488,7 @@ gtag("config", "GT-MQP9FZ6");
 <li id="menu-item-216386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-216386"><a title="Podcasts" href="/podcasts-shows/">Podcasts</a></li>
 <li id="menu-item-181594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181594"><a title="Gaming" href="/gaming/">Gaming</a></li>
 <li id="menu-item-181537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181537"><a title="SHOP" href="https://shop.fightful.com">SHOP</a></li>
-<li id="menu-item-181616" class="nav-select menu-item menu-item-type-custom menu-item-object-custom menu-item-181616"><a class="ptrn-login" href="https://patreon.com/oauth2/authorize?response_type=code&#038;client_id=6QQWCCXNzoOYa5-KgXzwrmKioUR9ElnxN_xNb-B0_3WeNYnaccgHjrF49eUmNmxD&#038;scope=identity+identity%5Bemail%5D&#038;redirect_uri=https%3A%2F%2Fwww.fightful.com%2Fpatreon-authorization%2F&#038;state=eyJmaW5hbF9yZWRpcmVjdF91cmkiOiJodHRwczpcL1wvd3d3LmZpZ2h0ZnVsLmNvbVwvd3Jlc3RsaW5nXC9hZXctZHluYW1pdGUtcmVzdWx0cy0xMS0yNS0yMDI2LWhhbmdtYW4tcGFnZS12cy1qYXktd2hpdGUtYW5kcmFkZS12cy1reWxlLWZsZXRjaGVyLXRhZy10aXRsZS1tYXRjaC1qb24tbW94bGV5LW1vcmVcLyJ9&#038;utm_source=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Faew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more%2F&#038;utm_medium=patreon_wordpress_plugin&#038;utm_campaign=1581698&#038;utm_term=&#038;utm_content=login_button">Login with Patreon</a></li>
+<li id="menu-item-181616" class="nav-select menu-item menu-item-type-custom menu-item-object-custom menu-item-181616"><a class="ptrn-login" href="https://patreon.com/oauth2/authorize?response_type=code&#038;client_id=6QQWCCXNzoOYa5-KgXzwrmKioUR9ElnxN_xNb-B0_3WeNYnaccgHjrF49eUmNmxD&#038;scope=identity+identity%5Bemail%5D&#038;redirect_uri=https%3A%2F%2Fwww.fightful.com%2Fpatreon-authorization%2F&#038;state=eyJmaW5hbF9yZWRpcmVjdF91cmkiOiJodHRwczpcL1wvd3d3LmZpZ2h0ZnVsLmNvbVwvd3Jlc3RsaW5nXC93d2UtbWFpbi1ldmVudC1yZXN1bHRzLTExLTI1XC8ifQ%3D%3D&#038;utm_source=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Fwwe-main-event-results-11-25%2F&#038;utm_medium=patreon_wordpress_plugin&#038;utm_campaign=1581698&#038;utm_term=&#038;utm_content=login_button">Login with Patreon</a></li>
 </ul></div>					</div><!-- .main-menu /-->
 
 					<ul class="components"></ul><!-- Components -->
@@ -527,10 +516,9 @@ gtag("config", "GT-MQP9FZ6");
 
 		<span class="post-cat-wrap"><a class="post-cat tie-cat-3" href="https://www.fightful.com/./wrestling/">Wrestling</a></span>
 		<h1 class="post-title entry-title">
-			AEW Dynamite Results (11/25/2026): Hangman Page vs. Jay White, Andrade vs. Kyle Fletcher, Tag Title Match, Jon Moxley, More		</h1>
+			WWE Main Event Results (11/25)		</h1>
 
-					<h2 class="entry-sub-title">AEW Dynamite Results (11/25/2026): Hangman Page vs. Jay White, Andrade vs. Kyle Fletcher, Tag Title Match, Jon Moxley, More</h2>
-			<!-- Debug: post_date value = '', type = NULL --><div class="single-post-meta post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-364"><span class="meta-author"><a href="https://www.fightful.com/authors/luispulido/" class="author-name tie-icon" title="Luis Pulido">Luis Pulido</a></span></span></span>November 25, 2026, 7:15 pm</span></div><!-- .post-meta -->	</div><!-- .entry-header /-->
+		<!-- Debug: post_date value = '', type = NULL --><div class="single-post-meta post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-318"><span class="meta-author"><a href="https://www.fightful.com/authors/jeremylambert/" class="author-name tie-icon" title="Jeremy Lambert">Jeremy Lambert</a></span></span></span>November 25, 2026, 9:01 pm</span></div><!-- .post-meta -->	</div><!-- .entry-header /-->
 
 	
 	
@@ -541,68 +529,35 @@ gtag("config", "GT-MQP9FZ6");
 		<div id="share-buttons-top" class="share-buttons share-buttons-top">
 			<div class="share-links  icons-only">
 				
-				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
 					<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
 				</a>
-				<a href="https://twitter.com/intent/tweet?text=AEW%20Dynamite%20Results%20%2811%2F25%2F2026%29%3A%20Hangman%20Page%20vs.%20Jay%20White%2C%20Andrade%20vs.%20Kyle%20Fletcher%2C%20Tag%20Title%20Match%2C%20Jon%20Moxley%2C%20More&#038;url=https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
+				<a href="https://twitter.com/intent/tweet?text=WWE%20Main%20Event%20Results%20%2811%2F25%29&#038;url=https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
 					<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">X</span>
 				</a>
-				<a href="https://bsky.app/intent/compose?text=AEW%20Dynamite%20Results%20%2811%2F25%2F2026%29%3A%20Hangman%20Page%20vs.%20Jay%20White%2C%20Andrade%20vs.%20Kyle%20Fletcher%2C%20Tag%20Title%20Match%2C%20Jon%20Moxley%2C%20More%20https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
+				<a href="https://bsky.app/intent/compose?text=WWE%20Main%20Event%20Results%20%2811%2F25%29%20https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
 					<span class="share-btn-icon tie-icon-bluesky"></span> <span class="screen-reader-text">Bluesky</span>
 				</a>			</div><!-- .share-links /-->
 		</div><!-- .share-buttons /-->
 
-		<div  class="featured-area"><div class="featured-area-inner"><div class="post-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/ntWgdG9sVew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div>		
+		<div  class="featured-area"><div class="featured-area-inner"><img width="1470" height="827" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201470%20827%22%3E%3C%2Fsvg%3E" data-src="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25204450/20261123_MainEvent_TatumMichin_16x9_tonight.jpg" class="attachment- size- wp-post-image lazy" alt="wwe main event" decoding="async" fetchpriority="high" data-srcset="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25204450/20261123_MainEvent_TatumMichin_16x9_tonight.jpg 1470w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25204450/20261123_MainEvent_TatumMichin_16x9_tonight-300x169.jpg 300w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25204450/20261123_MainEvent_TatumMichin_16x9_tonight-1024x576.jpg 1024w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25204450/20261123_MainEvent_TatumMichin_16x9_tonight-768x432.jpg 768w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25204450/20261123_MainEvent_TatumMichin_16x9_tonight-390x220.jpg 390w" data-sizes="(max-width: 1470px) 100vw, 1470px" /></div></div>		
 		
 		<div class="entry-content entry clearfix">
 
-									<p><span style="font-weight: 400">Full results for the November 25, 2026, edition of AEW Dynamite on TBS live from the LFCU Arena in Ralston, Nebraska.</span><span id="more-340842"></span></p>
-<p><span style="font-weight: 400">On November 25, 2026, All Elite Wrestling hosted a new episode of Dynamite on the LFCU Arena in Ralston, Nebraska.</span></p><div class="stream-item stream-item-in-post stream-item-inline-post aligncenter"><div class="stream-item-size" style=""><div class="article-ad">
+									<p>WWE aired the latest episode of WWE Main Event on November 25. The event aired on <a href="http://rumble.tv">Rumble</a>.</p>
+<p>Full results are below.</p><div class="stream-item stream-item-in-post stream-item-inline-post aligncenter"><div class="stream-item-size" style=""><div class="article-ad">
 	
 </div></div></div>
-<p><span style="font-weight: 400">Bandido vs. Hangman Page </span><span style="font-weight: 400">headlined the show. The full results of the show are listed below.</span></p>
-<p><em><strong>AEW Dynamite (11/25/2026).</strong></em></p>
+<p>WWE Main Event Results (11/25)</p>
 <ul>
-<li style="font-weight: 400"><span style="font-weight: 400">Andrade El Idolo vs. Kyle Fletcher</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">AEW Women’s World Tag Team Championship: Kris Statlander &amp; Harley Cameron (c) vs. Divine Dominion (Megan Bayne &amp; Lena Kross)</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">MJF to appear</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">Dangerous New Level (Kofi, Austin Creed, &amp; Swerve Strickland) to speak</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">Continental Classic Blue League Match: Jay White vs. Hangman Adam Page</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">Continental Classic Gold League Match: Jon Moxley vs. Kevin Knight</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">Continental Classic Gold League Match: Orange Cassidy vs. ‘Speedball’ Mike Bailey</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">Dangerous New Level Appear</span></li>
+<li>Giulia def. Nikkita Lyons</li>
+<li>Johnny Gargano def. Axiom</li>
+<li>AAA Cruiserweight Championship: Rey Fenix (c) def. Elio LeFleur to retain the title.</li>
+<li>Rey Mysterio and El Grande Americano speak about Survivor Series.</li>
+<li>Blake Monroe speaks on Chelsea Green</li>
+<li>Tatum Paxley def. Michin</li>
 </ul>
-<p><!--more--></p>
-<h3 style="text-align: center"><em><strong>First Hour.</strong></em></h3>
-<ul>
-<li><strong>Continental Classic Gold League Match: ‘Speedball’ Mike Bailey def. Orange Cassidy.</strong></li>
-<li>Kazuchika Okada &amp; Don Callis said they will hold a retirement celebration for Adam Copeland next week.</li>
-<li>Brawling Birds had an interview backstage, where Windsor called MJF a lowlife and where both stated they were coming to regain the AEW Women&#8217;s Tag Titles.</li>
-<li><strong>Continental Classic Gold League Match: Jon Moxley def. Kevin Knight</strong></li>
-<li><strong>Don Callis Family (Wardlow, Trent Beretta, Rocky Romero, Kazuchika Okada, Mark Davis, Jake Doyle, Josh Alexander, Hechicero &amp; Brian Cage) def. Nick Comorotto, Aaron Solo, Griff Garrison &amp; six more.</strong>
-<ul>
-<li>Dangerous New Level appeared after the match. They offered the Don Callis Family a shot at the AEW Trios Titles.</li>
-</ul>
-</li>
-</ul>
-<p><!--more--></p>
-<h3 style="text-align: center"><em><strong>Second Hour.</strong></em></h3>
-<ul>
-<li>Big Stoke &amp; Kasper Brothers (Drew Kasper &amp; Jacob Kasper) spoke backstage. Kaspers told Big Stoke they wanted their 8-man tag for Winter is Coming to take place next week.</li>
-<li>The Cut (Mercedes Mone, Jay White, David Finlay, Austin Gunn, Colten Gunn &amp; Ace Austin) appeared for a promo. Mone said she would face AZM at any point. Jay White then congratulated Moxley, but told him he was now playing catch-up. White said Garcia was too much of a coward to continue in the Continental Classic &amp; vowed to beat Hangman Page tonight.</li>
-<li><strong>Continental Classic Blue League Match: Jay White def. Hangman Adam Page.</strong></li>
-<li>Queen Aminata &amp; Mina Shirakawa were confronted by Athena &amp; Billie Starkz. A tag match was made official for AEW Collision.</li>
-<li><strong>AEW Women’s World Tag Team Championship: Kris Statlander &amp; Harley Cameron (c) def. Divine Dominion (Megan Bayne &amp; Lena Kross) to retain the titles.</strong>
-<ul>
-<li>Divine Dominion attacked Wrathlander after the match, but the Brawling Birds made the save.</li>
-</ul>
-</li>
-<li>Don Callis said he would double his offer for Ilja Dragunov to join the family.</li>
-<li>MJF appeared for a promo to make fun of Will Ospreay, but he was interrupted by a video from Will Ospreay. Ospreay challenged MJF to a Ladder Match. MJF dismissed the idea, but AEW confirmed it. Ospreay vs MJF in a Ladder Match is official for Worlds End. MJF refused to move from the ring unless the graphic was modified&#8230; it was modified, but to the titantron of Andrade El Idolo.</li>
-<li><strong>Kyle Fletcher (w/ Don Callis) def. Andrade El Idolo.</strong></li>
-<li>Renee Paquette interviewed MJF backstage. MJF tossed a camera and a chair before telling Ospreay that Worlds End would be his Holiday after he wins the AEW World Title and takes Ospreay&#8217;s soul.</li>
-</ul>
-<p><span style="font-weight: 400">&#8211; Check out the <a href="https://www.youtube.com/watch?v=ntWgdG9sVew">post-show podcast</a> for a full review of the show on Fightful&#8217;s <a href="https://www.youtube.com/@Fightful/streams">YouTube</a> &amp; <a href="https://twitch.tv/fightfulgaming">Twitch</a> channels. You can check Fightful&#8217;s Results Section <a href="https://fightful.com/wrestling/results">here</a>.</span></p>
+<p>You can find results from around the wrestling world at <a href="https://www.fightful.com/wrestling/results">Fightful&#8217;s results section</a>.</p>
 
 			<div class="stream-item stream-item-below-post-content"><div class="stream-item-size" style=""><div class="article-ad">
 	
@@ -612,18 +567,18 @@ gtag("config", "GT-MQP9FZ6");
 					</div>
 						<div id="post-extra-info">
 			<div class="theiaStickySidebar">
-				<!-- Debug: post_date value = '', type = NULL --><div class="single-post-meta post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-364"><span class="meta-author"><a href="https://www.fightful.com/authors/luispulido/" class="author-name tie-icon" title="Luis Pulido">Luis Pulido</a></span></span></span>November 25, 2026, 7:15 pm</span></div><!-- .post-meta -->
+				<!-- Debug: post_date value = '', type = NULL --><div class="single-post-meta post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-318"><span class="meta-author"><a href="https://www.fightful.com/authors/jeremylambert/" class="author-name tie-icon" title="Jeremy Lambert">Jeremy Lambert</a></span></span></span>November 25, 2026, 9:01 pm</span></div><!-- .post-meta -->
 
 		<div id="share-buttons-top" class="share-buttons share-buttons-top">
 			<div class="share-links  icons-only">
 				
-				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
 					<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
 				</a>
-				<a href="https://twitter.com/intent/tweet?text=AEW%20Dynamite%20Results%20%2811%2F25%2F2026%29%3A%20Hangman%20Page%20vs.%20Jay%20White%2C%20Andrade%20vs.%20Kyle%20Fletcher%2C%20Tag%20Title%20Match%2C%20Jon%20Moxley%2C%20More&#038;url=https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
+				<a href="https://twitter.com/intent/tweet?text=WWE%20Main%20Event%20Results%20%2811%2F25%29&#038;url=https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
 					<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">X</span>
 				</a>
-				<a href="https://bsky.app/intent/compose?text=AEW%20Dynamite%20Results%20%2811%2F25%2F2026%29%3A%20Hangman%20Page%20vs.%20Jay%20White%2C%20Andrade%20vs.%20Kyle%20Fletcher%2C%20Tag%20Title%20Match%2C%20Jon%20Moxley%2C%20More%20https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
+				<a href="https://bsky.app/intent/compose?text=WWE%20Main%20Event%20Results%20%2811%2F25%29%20https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
 					<span class="share-btn-icon tie-icon-bluesky"></span> <span class="screen-reader-text">Bluesky</span>
 				</a>			</div><!-- .share-links /-->
 		</div><!-- .share-buttons /-->
@@ -641,13 +596,13 @@ gtag("config", "GT-MQP9FZ6");
 							<span> Share</span>
 						</div>
 						
-				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
 					<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
 				</a>
-				<a href="https://twitter.com/intent/tweet?text=AEW%20Dynamite%20Results%20%2811%2F25%2F2026%29%3A%20Hangman%20Page%20vs.%20Jay%20White%2C%20Andrade%20vs.%20Kyle%20Fletcher%2C%20Tag%20Title%20Match%2C%20Jon%20Moxley%2C%20More&#038;url=https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
+				<a href="https://twitter.com/intent/tweet?text=WWE%20Main%20Event%20Results%20%2811%2F25%29&#038;url=https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
 					<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">X</span>
 				</a>
-				<a href="https://bsky.app/intent/compose?text=AEW%20Dynamite%20Results%20%2811%2F25%2F2026%29%3A%20Hangman%20Page%20vs.%20Jay%20White%2C%20Andrade%20vs.%20Kyle%20Fletcher%2C%20Tag%20Title%20Match%2C%20Jon%20Moxley%2C%20More%20https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
+				<a href="https://bsky.app/intent/compose?text=WWE%20Main%20Event%20Results%20%2811%2F25%29%20https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
 					<span class="share-btn-icon tie-icon-bluesky"></span> <span class="screen-reader-text">Bluesky</span>
 				</a>			</div><!-- .share-links /-->
 		</div><!-- .share-buttons /-->
@@ -660,33 +615,33 @@ gtag("config", "GT-MQP9FZ6");
 
 		<div class="prev-next-post-nav container-wrapper media-overlay">
 			<div class="tie-col-xs-6 prev-post">
-				<a href="https://www.fightful.com/uncategorized/rd-evans-assisting-nick-wayne-with-new-character/" style="" data-bg="https://img.youtube.com/vi/jTymtTXjYmU/maxresdefault.jpg" class="post-thumb lazy" rel="prev">
+				<a href="https://www.fightful.com/wrestling/wwe-womens-tag-team-title-bout-more-added-to-11-27-wwe-smackdown/" style="" data-bg="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25205303/HYA-jQPWwAEb1bq-390x220.jpeg" class="post-thumb lazy" rel="prev">
 					<div class="post-thumb-overlay-wrap">
 						<div class="post-thumb-overlay">
 							<span class="tie-icon tie-media-icon"></span>
-							<span class="screen-reader-text">RD Evans Assisting Nick Wayne With New Character</span>
+							<span class="screen-reader-text">WWE Women&#039;s Tag Team Title Bout, More Added To 11/27 WWE SmackDown</span>
 						</div>
 					</div>
 				</a>
 
-				<a href="https://www.fightful.com/uncategorized/rd-evans-assisting-nick-wayne-with-new-character/" rel="prev">
-					<h3 class="post-title">RD Evans Assisting Nick Wayne With New Character</h3>
+				<a href="https://www.fightful.com/wrestling/wwe-womens-tag-team-title-bout-more-added-to-11-27-wwe-smackdown/" rel="prev">
+					<h3 class="post-title">WWE Women&#039;s Tag Team Title Bout, More Added To 11/27 WWE SmackDown</h3>
 				</a>
 			</div>
 
 			
 			<div class="tie-col-xs-6 next-post">
-				<a href="https://www.fightful.com/wrestling/kazuchika-okada-and-don-callis-poke-fun-at-adam-copeland-for-bear-incident-on-aew-dynamite-thanksgiving-eve/" style="" data-bg="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25202854/HYA6cjnXYAAAW2v-scaled-e1795656546376-390x220.jpg" class="post-thumb lazy" rel="next">
+				<a href="https://www.fightful.com/wrestling/340881-aew-continental-classic/" style="" data-bg="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25213414/HYBFHD5XkAA40CX-390x220.jpg" class="post-thumb lazy" rel="next">
 					<div class="post-thumb-overlay-wrap">
 						<div class="post-thumb-overlay">
 							<span class="tie-icon tie-media-icon"></span>
-							<span class="screen-reader-text">Kazuchika Okada And Don Callis Poke Fun At Adam Copeland For Bear Incident On AEW Dynamite Thanksgiving Eve</span>
+							<span class="screen-reader-text">AEW Continental Classic 2026 Night Three Recap</span>
 						</div>
 					</div>
 				</a>
 
-				<a href="https://www.fightful.com/wrestling/kazuchika-okada-and-don-callis-poke-fun-at-adam-copeland-for-bear-incident-on-aew-dynamite-thanksgiving-eve/" rel="next">
-					<h3 class="post-title">Kazuchika Okada And Don Callis Poke Fun At Adam Copeland For Bear Incident On AEW Dynamite Thanksgiving Eve</h3>
+				<a href="https://www.fightful.com/wrestling/340881-aew-continental-classic/" rel="next">
+					<h3 class="post-title">AEW Continental Classic 2026 Night Three Recap</h3>
 				</a>
 			</div>
 
@@ -705,7 +660,7 @@ gtag("config", "GT-MQP9FZ6");
 						<div class="related-item tie-standard">
 
 							
-			<a aria-label="Don Callis To Sponsor Retirement Celebration For Adam Copeland On 12/2 AEW Dynamite" href="https://www.fightful.com/wrestling/340897-aew-dynamite-don-callis/" class="post-thumb"><img width="390" height="220" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20390%20220%22%3E%3C%2Fsvg%3E" data-src="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25222455/HYBODKDWIAA7H0q-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image lazy" alt="Don Callis" decoding="async" fetchpriority="high" data-srcset="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25222455/HYBODKDWIAA7H0q-390x220.jpg 390w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25222455/HYBODKDWIAA7H0q-300x168.jpg 300w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25222455/HYBODKDWIAA7H0q-768x431.jpg 768w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25222455/HYBODKDWIAA7H0q.jpg 965w" data-sizes="(max-width: 390px) 100vw, 390px" /></a>
+			<a aria-label="Don Callis To Sponsor Retirement Celebration For Adam Copeland On 12/2 AEW Dynamite" href="https://www.fightful.com/wrestling/340897-aew-dynamite-don-callis/" class="post-thumb"><img width="390" height="220" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20390%20220%22%3E%3C%2Fsvg%3E" data-src="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25222455/HYBODKDWIAA7H0q-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image lazy" alt="Don Callis" decoding="async" data-srcset="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25222455/HYBODKDWIAA7H0q-390x220.jpg 390w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25222455/HYBODKDWIAA7H0q-300x168.jpg 300w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25222455/HYBODKDWIAA7H0q-768x431.jpg 768w, https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/25222455/HYBODKDWIAA7H0q.jpg 965w" data-sizes="(max-width: 390px) 100vw, 390px" /></a>
 							<h3 class="post-title"><a href="https://www.fightful.com/wrestling/340897-aew-dynamite-don-callis/">Don Callis To Sponsor Retirement Celebration For Adam Copeland On 12/2 AEW Dynamite</a></h3>
 
 							<!-- Debug: post_date value = '', type = NULL --><div class="post-meta clearfix">November 25, 2026, 10:32 pm</span></div><!-- .post-meta -->
@@ -840,22 +795,22 @@ gtag("config", "GT-MQP9FZ6");
 		<div id="share-buttons-mobile" class="share-buttons share-buttons-mobile">
 			<div class="share-links  icons-only">
 				
-				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+				<a href="https://www.facebook.com/sharer.php?u=https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn " data-raw="https://www.facebook.com/sharer.php?u={post_link}">
 					<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
 				</a>
-				<a href="https://twitter.com/intent/tweet?text=AEW%20Dynamite%20Results%20%2811%2F25%2F2026%29%3A%20Hangman%20Page%20vs.%20Jay%20White%2C%20Andrade%20vs.%20Kyle%20Fletcher%2C%20Tag%20Title%20Match%2C%20Jon%20Moxley%2C%20More&#038;url=https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
+				<a href="https://twitter.com/intent/tweet?text=WWE%20Main%20Event%20Results%20%2811%2F25%29&#038;url=https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn " data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}">
 					<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">X</span>
 				</a>
-				<a href="https://api.whatsapp.com/send?text=AEW%20Dynamite%20Results%20%2811%2F25%2F2026%29%3A%20Hangman%20Page%20vs.%20Jay%20White%2C%20Andrade%20vs.%20Kyle%20Fletcher%2C%20Tag%20Title%20Match%2C%20Jon%20Moxley%2C%20More%20https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn " data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
+				<a href="https://api.whatsapp.com/send?text=WWE%20Main%20Event%20Results%20%2811%2F25%29%20https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn " data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
 					<span class="share-btn-icon tie-icon-whatsapp"></span> <span class="screen-reader-text">WhatsApp</span>
 				</a>
-				<a href="https://telegram.me/share/url?url=https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/&text=AEW%20Dynamite%20Results%20%2811%2F25%2F2026%29%3A%20Hangman%20Page%20vs.%20Jay%20White%2C%20Andrade%20vs.%20Kyle%20Fletcher%2C%20Tag%20Title%20Match%2C%20Jon%20Moxley%2C%20More" rel="external noopener nofollow" title="Telegram" target="_blank" class="telegram-share-btn " data-raw="https://telegram.me/share/url?url={post_link}&text={post_title}">
+				<a href="https://telegram.me/share/url?url=https://www.fightful.com/wrestling/wwe-main-event-results-11-25/&text=WWE%20Main%20Event%20Results%20%2811%2F25%29" rel="external noopener nofollow" title="Telegram" target="_blank" class="telegram-share-btn " data-raw="https://telegram.me/share/url?url={post_link}&text={post_title}">
 					<span class="share-btn-icon tie-icon-paper-plane"></span> <span class="screen-reader-text">Telegram</span>
 				</a>
-				<a href="viber://forward?text=AEW%20Dynamite%20Results%20%2811%2F25%2F2026%29%3A%20Hangman%20Page%20vs.%20Jay%20White%2C%20Andrade%20vs.%20Kyle%20Fletcher%2C%20Tag%20Title%20Match%2C%20Jon%20Moxley%2C%20More%20https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="Viber" target="_blank" class="viber-share-btn " data-raw="viber://forward?text={post_title}%20{post_link}">
+				<a href="viber://forward?text=WWE%20Main%20Event%20Results%20%2811%2F25%29%20https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="Viber" target="_blank" class="viber-share-btn " data-raw="viber://forward?text={post_title}%20{post_link}">
 					<span class="share-btn-icon tie-icon-phone"></span> <span class="screen-reader-text">Viber</span>
 				</a>
-				<a href="https://bsky.app/intent/compose?text=AEW%20Dynamite%20Results%20%2811%2F25%2F2026%29%3A%20Hangman%20Page%20vs.%20Jay%20White%2C%20Andrade%20vs.%20Kyle%20Fletcher%2C%20Tag%20Title%20Match%2C%20Jon%20Moxley%2C%20More%20https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
+				<a href="https://bsky.app/intent/compose?text=WWE%20Main%20Event%20Results%20%2811%2F25%29%20https://www.fightful.com/wrestling/wwe-main-event-results-11-25/" rel="external noopener nofollow" title="Bluesky" target="_blank" class="bluesky-share-btn bluesky-share-btn " data-raw="https://bsky.app/intent/compose?text={post_title}%20{post_link}">
 					<span class="share-btn-icon tie-icon-bluesky"></span> <span class="screen-reader-text">Bluesky</span>
 				</a>			</div><!-- .share-links /-->
 		</div><!-- .share-buttons /-->
@@ -953,7 +908,7 @@ gtag("config", "GT-MQP9FZ6");
 				<a class="forget-text" href="https://www.fightful.com/hello/?action=lostpassword&redirect_to=https%3A%2F%2Fwww.fightful.com">Forget?</a>
 			</div>
 
-			<input type="hidden" name="redirect_to" value="/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/?zwts=20261126055236"/>
+			<input type="hidden" name="redirect_to" value="/wrestling/wwe-main-event-results-11-25/?zwts=20261126055250"/>
 			<label for="rememberme" class="rememberme">
 				<input id="rememberme" name="rememberme" type="checkbox" checked="checked" value="forever" /> Remember me			</label>
 
@@ -962,7 +917,7 @@ gtag("config", "GT-MQP9FZ6");
             .ptrn-button{display:block !important;;margin-top:20px !important;margin-bottom:20px !important;}
             .ptrn-button img {width: 272px; height:42px;}
             .patreon-msg {-webkit-border-radius: 6px;-moz-border-radius: 6px;-ms-border-radius: 6px;-o-border-radius: 6px;border-radius: 6px;padding:8px;margin-bottom:20px!important;display:block;border:1px solid #E6461A;background-color:#484848;color:#ffffff;}
-        </style><a href="https://www.fightful.com/patreon-flow/?patreon-login=yes&#038;patreon-final-redirect=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Faew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more" class="ptrn-button"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20272%2042%22%3E%3C%2Fsvg%3E" data-src="https://www.fightful.com/wp-content/plugins/patreon-connect/assets/img/patreon-login-1x.png" width="272" height="42" alt="Login with Patreon" /></a></div>
+        </style><a href="https://www.fightful.com/patreon-flow/?patreon-login=yes&#038;patreon-final-redirect=https%3A%2F%2Fwww.fightful.com%2Fwrestling%2Fwwe-main-event-results-11-25" class="ptrn-button"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20272%2042%22%3E%3C%2Fsvg%3E" data-src="https://www.fightful.com/wp-content/plugins/patreon-connect/assets/img/patreon-login-1x.png" width="272" height="42" alt="Login with Patreon" /></a></div>
 			
 			<button type="submit" class="button fullwidth login-submit">Log In</button>
 
@@ -991,7 +946,7 @@ var tie = {"is_rtl":"","ajaxurl":"https://www.fightful.com/wp-admin/admin-ajax.p
 <script id="twitter-widgets-single-js" src="https://platform.twitter.com/widgets.js"></script>
 <script id="fightful-views-js-after">
 (function(){
-  var pid = 340842; if(!pid) return;
+  var pid = 340886; if(!pid) return;
   var key = 'pv_'+pid;
 
   function hasMark(){
@@ -1047,5 +1002,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Page Caching using Disk: Enhanced (Requested URI contains query) 
 Lazy Loading
 
-Served from: www.fightful.com @ 2026-11-26 00:52:37 by W3 Total Cache
+Served from: www.fightful.com @ 2026-11-26 00:52:50 by W3 Total Cache
 -->
