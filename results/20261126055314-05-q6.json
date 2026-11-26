@@ -1,0 +1,44 @@
+{
+  "file": "20261126055314-05-q6.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-26T05:53:33+00:00",
+  "response": [
+    {
+      "date": "2026-11-18T21:52:49",
+      "link": "https://zonawrestling.net/aew-all-in-2027-in-canada-adam-copeland-puo-chiudere-li-la-carriera/",
+      "title": {
+        "rendered": "AEW: All In 2027 in Canada? Adam Copeland può chiudere lì la carriera"
+      }
+    },
+    {
+      "date": "2026-11-12T15:52:42",
+      "link": "https://zonawrestling.net/dynamite-collision-11-11-2026-i-believe-in-violence/",
+      "title": {
+        "rendered": "Dynamite/Collision 11.11.2026 I believe in violence"
+      }
+    },
+    {
+      "date": "2026-10-31T22:10:47",
+      "link": "https://zonawrestling.net/adam-copeland-lottare-al-maple-leaf-gardens-e-stato-piu-importante-di-wembley/",
+      "title": {
+        "rendered": "Adam Copeland: “Lottare al Maple Leaf Gardens è stato più importante di Wembley”"
+      }
+    },
+    {
+      "date": "2026-10-23T18:02:54",
+      "link": "https://zonawrestling.net/nic-nemeth-riflette-sul-suo-ritiro-e-su-quello-dei-colleghimi-piacerebbe-fare-qualcosa-di-speciale/",
+      "title": {
+        "rendered": "Nic Nemeth riflette sul suo ritiro e su quello dei colleghi:&#8221;mi piacerebbe fare qualcosa di speciale&#8221;"
+      }
+    },
+    {
+      "date": "2026-10-19T18:44:02",
+      "link": "https://zonawrestling.net/will-ospreay-manda-un-chiaro-messaggio-ad-adam-copeland-hai-detto-nel-2027-beh-prenota-pure-una-data-per-me/",
+      "title": {
+        "rendered": "Will Ospreay manda un chiaro messaggio ad Adam Copeland: &#8220;Hai detto nel 2027? Beh, prenota pure una data per me&#8221;"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "file": "20261126055314-07-q8.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-26T05:53:38+00:00",
+  "response": [
+    {
+      "date": "2026-11-23T11:49:53",
+      "link": "https://zonawrestling.net/charlotte-flair-rivela-alexa-bliss-mi-ha-aiutata-a-superare-un-momento-buio-della-mia-vita/",
+      "title": {
+        "rendered": "Charlotte Flair rivela: &#8220;Alexa Bliss mi ha aiutata a superare un momento buio della mia vita&#8221;"
+      }
+    },
+    {
+      "date": "2026-11-21T09:26:39",
+      "link": "https://zonawrestling.net/wwe-jade-cargill-batte-charlotte-flair-con-linganno-quanto-vale-davvero-il-vantaggio-nel-wargames/",
+      "title": {
+        "rendered": "WWE: Jade Cargill batte Charlotte Flair con l&#8217;inganno, quanto vale davvero il vantaggio nel WarGames"
+      }
+    },
+    {
+      "date": "2026-11-21T00:54:10",
+      "link": "https://zonawrestling.net/risultati-wwe-road-to-survivor-series-19-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE Road to Survivor Series 19.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-14T10:40:00",
+      "link": "https://zonawrestling.net/smackdown-13-11-2026-dove-finito-il-demone/",
+      "title": {
+        "rendered": "SmackDown 13.11.2026 Dov&#8217;è finito il demone?"
+      }
+    },
+    {
+      "date": "2026-11-14T09:43:40",
+      "link": "https://zonawrestling.net/wwe-stephanie-vaquer-fa-il-suo-ritorno-a-smackdown-e-si-schiera-al-fianco-di-charlotte-flair-per-wargames/",
+      "title": {
+        "rendered": "WWE: Stephanie Vaquer fa il suo ritorno a SmackDown e si schiera al fianco di Charlotte Flair per WarGames"
+      }
+    }
+  ]
+}

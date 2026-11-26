@@ -1,0 +1,44 @@
+{
+  "file": "20261126055314-06-q7.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-26T05:53:36+00:00",
+  "response": [
+    {
+      "date": "2026-11-24T10:32:53",
+      "link": "https://zonawrestling.net/wwe-rey-mysterio-svela-il-quinto-membro-del-team-messico-ecco-chi-e/",
+      "title": {
+        "rendered": "WWE: Rey Mysterio svela il quinto membro del Team Messico, ecco chi è"
+      }
+    },
+    {
+      "date": "2026-11-24T10:04:37",
+      "link": "https://zonawrestling.net/wwe-seth-rollins-e-lultimo-membro-del-team-usa-e-cm-punk-non-la-prende-affatto-bene/",
+      "title": {
+        "rendered": "WWE: Seth Rollins è l&#8217;ultimo membro del Team USA e CM Punk non la prende affatto bene"
+      }
+    },
+    {
+      "date": "2026-11-24T06:55:30",
+      "link": "https://zonawrestling.net/risultati-wwe-raw-23-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE Raw 23.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-24T02:28:53",
+      "link": "https://zonawrestling.net/raw-23-11-2026-last-show-before-survivor-series/",
+      "title": {
+        "rendered": "Raw 23.11.2026 Last show before Survivor Series"
+      }
+    },
+    {
+      "date": "2026-11-23T15:58:49",
+      "link": "https://zonawrestling.net/wwe-roman-reigns-torna-a-raw-annunciati-i-match-della-puntata-del-23-novembre/",
+      "title": {
+        "rendered": "WWE: Roman Reigns torna a Raw, annunciati i match della puntata del 23 novembre"
+      }
+    }
+  ]
+}

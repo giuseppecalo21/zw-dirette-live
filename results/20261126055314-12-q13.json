@@ -1,0 +1,14 @@
+{
+  "file": "20261126055314-12-q13.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-26T05:53:42+00:00",
+  "response": [
+    {
+      "id": 3332,
+      "count": 485,
+      "name": "WILL OSPREAY"
+    }
+  ]
+}

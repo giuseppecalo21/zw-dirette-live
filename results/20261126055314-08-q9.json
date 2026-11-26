@@ -1,0 +1,59 @@
+{
+  "file": "20261126055314-08-q9.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-26T05:53:39+00:00",
+  "response": [
+    {
+      "id": 18133,
+      "count": 1,
+      "name": "#AEW"
+    },
+    {
+      "id": 18577,
+      "count": 3,
+      "name": "#AEW REDEMPTION"
+    },
+    {
+      "id": 18837,
+      "count": 1,
+      "name": "#AEWAllin"
+    },
+    {
+      "id": 18921,
+      "count": 1,
+      "name": "#AEWALLOUT"
+    },
+    {
+      "id": 16524,
+      "count": 1,
+      "name": "#AEWDoN"
+    },
+    {
+      "id": 18229,
+      "count": 3,
+      "name": "#AEWDynamite"
+    },
+    {
+      "id": 15511,
+      "count": 0,
+      "name": "AAEW"
+    },
+    {
+      "id": 13348,
+      "count": 0,
+      "name": "AEAEWWaew"
+    },
+    {
+      "id": 10650,
+      "count": 10356,
+      "name": "AEW"
+    },
+    {
+      "id": 15179,
+      "count": 2,
+      "name": "AEW All Access"
+    }
+  ]
+}

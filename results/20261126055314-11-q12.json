@@ -1,0 +1,29 @@
+{
+  "file": "20261126055314-11-q12.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-26T05:53:41+00:00",
+  "response": [
+    {
+      "id": 18578,
+      "count": 1,
+      "name": "#MJF"
+    },
+    {
+      "id": 11054,
+      "count": 647,
+      "name": "MJF"
+    },
+    {
+      "id": 15285,
+      "count": 2,
+      "name": "MJF DAY"
+    },
+    {
+      "id": 14009,
+      "count": 3,
+      "name": "MJF promo"
+    }
+  ]
+}

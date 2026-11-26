@@ -1,0 +1,59 @@
+{
+  "file": "20261126055314-23-q24.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-26T05:53:49+00:00",
+  "response": [
+    {
+      "id": 10598,
+      "count": 6,
+      "name": "#reymysterio #wwe"
+    },
+    {
+      "id": 18142,
+      "count": 16,
+      "name": "#wwe"
+    },
+    {
+      "id": 18473,
+      "count": 1,
+      "name": "#WWEClash"
+    },
+    {
+      "id": 16428,
+      "count": 1,
+      "name": "#WWEDRAFT"
+    },
+    {
+      "id": 18444,
+      "count": 1,
+      "name": "#WWEItalia"
+    },
+    {
+      "id": 18560,
+      "count": 1,
+      "name": "#WWENOC"
+    },
+    {
+      "id": 17863,
+      "count": 5,
+      "name": "#WWENXT"
+    },
+    {
+      "id": 16077,
+      "count": 37,
+      "name": "#WWERAW"
+    },
+    {
+      "id": 18607,
+      "count": 1,
+      "name": "@wweraw"
+    },
+    {
+      "id": 8195,
+      "count": 3,
+      "name": "Abbonati WWE network"
+    }
+  ]
+}

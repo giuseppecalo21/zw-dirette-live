@@ -1,0 +1,59 @@
+{
+  "file": "20261126055314-17-q18.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-26T05:53:45+00:00",
+  "response": [
+    {
+      "id": 10909,
+      "count": 1,
+      "name": "Botch main event"
+    },
+    {
+      "id": 212,
+      "count": 21,
+      "name": "Dark Main Event"
+    },
+    {
+      "id": 10917,
+      "count": 4,
+      "name": "Dark Main Event Match"
+    },
+    {
+      "id": 7829,
+      "count": 1,
+      "name": "Dark main event NXT"
+    },
+    {
+      "id": 6884,
+      "count": 19,
+      "name": "Dark main event Raw"
+    },
+    {
+      "id": 7225,
+      "count": 8,
+      "name": "Dark main event SD"
+    },
+    {
+      "id": 7755,
+      "count": 5,
+      "name": "Dark main event Smackdown"
+    },
+    {
+      "id": 8564,
+      "count": 1,
+      "name": "Dark main event Smackdown Live"
+    },
+    {
+      "id": 1625,
+      "count": 9,
+      "name": "Dark matches prima di Main Event/Smackdown"
+    },
+    {
+      "id": 18054,
+      "count": 2,
+      "name": "John Cena’s Final Match: WWE Saturday Night’s Main Event"
+    }
+  ]
+}
