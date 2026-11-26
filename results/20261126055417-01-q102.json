@@ -1,0 +1,309 @@
+{
+  "file": "20261126055417-01-q102.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-26T05:54:26+00:00",
+  "response": [
+    {
+      "id": 69,
+      "count": 47240,
+      "name": "WWE"
+    },
+    {
+      "id": 4887,
+      "count": 1216,
+      "name": "WWE Italia"
+    },
+    {
+      "id": 252,
+      "count": 406,
+      "name": "WWE network"
+    },
+    {
+      "id": 5757,
+      "count": 247,
+      "name": "WWE Smackdown"
+    },
+    {
+      "id": 11152,
+      "count": 229,
+      "name": "wwe raw"
+    },
+    {
+      "id": 10021,
+      "count": 124,
+      "name": "WWE Monday Night Raw"
+    },
+    {
+      "id": 4583,
+      "count": 121,
+      "name": "WWE Championship"
+    },
+    {
+      "id": 18563,
+      "count": 111,
+      "name": "WWE SummerSlam 2026"
+    },
+    {
+      "id": 85,
+      "count": 110,
+      "name": "WWE; NXT"
+    },
+    {
+      "id": 7744,
+      "count": 95,
+      "name": "licenziamenti WWE"
+    },
+    {
+      "id": 11297,
+      "count": 93,
+      "name": "wwe spoiler"
+    },
+    {
+      "id": 367,
+      "count": 92,
+      "name": "WWE; Raw"
+    },
+    {
+      "id": 9983,
+      "count": 83,
+      "name": "WWE Royal Rumble"
+    },
+    {
+      "id": 17223,
+      "count": 79,
+      "name": "WWE Evolve"
+    },
+    {
+      "id": 11101,
+      "count": 76,
+      "name": "wwe nxt"
+    },
+    {
+      "id": 10022,
+      "count": 74,
+      "name": "WWE Summerslam"
+    },
+    {
+      "id": 9268,
+      "count": 72,
+      "name": "wwe wrestlemania"
+    },
+    {
+      "id": 6421,
+      "count": 67,
+      "name": "wwe main event"
+    },
+    {
+      "id": 10528,
+      "count": 67,
+      "name": "WWE Wrestlemania 35"
+    },
+    {
+      "id": 9301,
+      "count": 57,
+      "name": "wwe hall of fame"
+    },
+    {
+      "id": 11379,
+      "count": 55,
+      "name": "WWE Backstage"
+    },
+    {
+      "id": 8051,
+      "count": 54,
+      "name": "WWE Draft"
+    },
+    {
+      "id": 7122,
+      "count": 52,
+      "name": "WWE2K17"
+    },
+    {
+      "id": 1454,
+      "count": 51,
+      "name": "WWE Live"
+    },
+    {
+      "id": 10518,
+      "count": 45,
+      "name": "WWE Crown Jewel"
+    },
+    {
+      "id": 18696,
+      "count": 44,
+      "name": "WWE Money in the Bank 2026"
+    },
+    {
+      "id": 1636,
+      "count": 43,
+      "name": "WWE Title"
+    },
+    {
+      "id": 13004,
+      "count": 40,
+      "name": "WWE WrestleMania 37"
+    },
+    {
+      "id": 18042,
+      "count": 38,
+      "name": "WWE WrestleMania 42"
+    },
+    {
+      "id": 10026,
+      "count": 37,
+      "name": "WWE Backlash"
+    },
+    {
+      "id": 16077,
+      "count": 37,
+      "name": "#WWERAW"
+    },
+    {
+      "id": 18287,
+      "count": 36,
+      "name": "WWE Clash in Italy"
+    },
+    {
+      "id": 12937,
+      "count": 35,
+      "name": "WWE Elimination Chamber"
+    },
+    {
+      "id": 3497,
+      "count": 35,
+      "name": "WWE Universe"
+    },
+    {
+      "id": 17560,
+      "count": 34,
+      "name": "WWE Unreal"
+    },
+    {
+      "id": 18305,
+      "count": 34,
+      "name": "WWE Night of Champions 2026"
+    },
+    {
+      "id": 17343,
+      "count": 33,
+      "name": "WWE Evolution 2"
+    },
+    {
+      "id": 17079,
+      "count": 31,
+      "name": "WWE Royal Rumble 2026"
+    },
+    {
+      "id": 18919,
+      "count": 30,
+      "name": "WWE Crown Jewel 2026"
+    },
+    {
+      "id": 10739,
+      "count": 30,
+      "name": "WWE Women's Tag Team Champion"
+    },
+    {
+      "id": 11633,
+      "count": 30,
+      "name": "AEW/WWE"
+    },
+    {
+      "id": 17410,
+      "count": 30,
+      "name": "WWE Money in the Bank 2025"
+    },
+    {
+      "id": 10023,
+      "count": 29,
+      "name": "WWE Survivor Series"
+    },
+    {
+      "id": 13570,
+      "count": 29,
+      "name": "WWE NXT Championship"
+    },
+    {
+      "id": 14465,
+      "count": 28,
+      "name": "Undisputed WWE Universal Championship"
+    },
+    {
+      "id": 14606,
+      "count": 28,
+      "name": "WWE Undisputed Universal Championship"
+    },
+    {
+      "id": 17812,
+      "count": 27,
+      "name": "WWE Crown Jewel 2025"
+    },
+    {
+      "id": 18371,
+      "count": 27,
+      "name": "WWE Backlash 2026"
+    },
+    {
+      "id": 10024,
+      "count": 27,
+      "name": "WWE Money in the Bank"
+    },
+    {
+      "id": 2434,
+      "count": 27,
+      "name": "WWE World Heavyweight Championship"
+    },
+    {
+      "id": 2506,
+      "count": 27,
+      "name": "WWE Champion"
+    },
+    {
+      "id": 2569,
+      "count": 27,
+      "name": "WWE shop"
+    },
+    {
+      "id": 16896,
+      "count": 26,
+      "name": "Wwe id"
+    },
+    {
+      "id": 17254,
+      "count": 26,
+      "name": "WWE Backlash 2025"
+    },
+    {
+      "id": 12324,
+      "count": 26,
+      "name": "WWE ThunderDome"
+    },
+    {
+      "id": 10340,
+      "count": 26,
+      "name": "WWE Evolution"
+    },
+    {
+      "id": 15313,
+      "count": 25,
+      "name": "WWE Night of Champions"
+    },
+    {
+      "id": 867,
+      "count": 25,
+      "name": "wwe studios"
+    },
+    {
+      "id": 3669,
+      "count": 25,
+      "name": "WWE Superstar"
+    },
+    {
+      "id": 7454,
+      "count": 24,
+      "name": "WWE Tag Team Championship"
+    }
+  ]
+}

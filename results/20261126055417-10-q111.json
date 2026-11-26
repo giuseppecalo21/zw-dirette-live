@@ -1,0 +1,49 @@
+{
+  "file": "20261126055417-10-q111.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-26T05:54:34+00:00",
+  "response": [
+    {
+      "id": 15730,
+      "count": 26,
+      "name": "AEW Worlds End"
+    },
+    {
+      "id": 18081,
+      "count": 11,
+      "name": "AEW Worlds End 2025"
+    },
+    {
+      "id": 19046,
+      "count": 2,
+      "name": "AEW Worlds End 2026"
+    },
+    {
+      "id": 18106,
+      "count": 1,
+      "name": "AEW Worlds End 205"
+    },
+    {
+      "id": 15829,
+      "count": 46,
+      "name": "WORLDS END"
+    },
+    {
+      "id": 18017,
+      "count": 11,
+      "name": "Worlds End 2025"
+    },
+    {
+      "id": 19172,
+      "count": 1,
+      "name": "Worlds End 2026"
+    },
+    {
+      "id": 17033,
+      "count": 0,
+      "name": "Worlds Ends"
+    }
+  ]
+}

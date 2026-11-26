@@ -1,1 +1,0 @@
-{"action": "get", "path": "wp/v2/posts?categories=2&search=Main+Event&per_page=4&_fields=title,link,date"}

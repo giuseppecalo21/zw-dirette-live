@@ -1,0 +1,49 @@
+{
+  "file": "20261126055417-07-q108.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-26T05:54:31+00:00",
+  "response": [
+    {
+      "id": 10900,
+      "count": 227,
+      "name": "Andrade"
+    },
+    {
+      "id": 12219,
+      "count": 5,
+      "name": "Andrade &amp; Angel Garza"
+    },
+    {
+      "id": 10006,
+      "count": 2,
+      "name": "andrade almas"
+    },
+    {
+      "id": 7858,
+      "count": 24,
+      "name": "Andrade Cien Almas"
+    },
+    {
+      "id": 13434,
+      "count": 112,
+      "name": "Andrade El Idolo"
+    },
+    {
+      "id": 19134,
+      "count": 0,
+      "name": "Andrade El Ídolo"
+    },
+    {
+      "id": 14582,
+      "count": 1,
+      "name": "Andrade Family Office"
+    },
+    {
+      "id": 10309,
+      "count": 1,
+      "name": "Andrade'Cien'Almas"
+    }
+  ]
+}
