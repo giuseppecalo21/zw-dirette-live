@@ -1,0 +1,12 @@
+{
+  "file": "20261127235111-00-read.json",
+  "action": "fetch",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T23:51:25+00:00",
+  "response": {
+    "bytes": 179987,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "body_file": "20261127235111-00-read.body"
+}
