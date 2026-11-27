@@ -1,12 +1,13 @@
 # Risultati automatici – ultimo giro
 
-Ora: 27/11/2026 18:58 (ora italiana). Canale: Make (scenario 9888949).
+Ora: 28/11/2026 01:05 (ora italiana). Canale: Make (scenario 9888949).
 
-## Candidati (Fightful, ultime 48 ore; pagina con data di oggi in testa)
-- NJPW World Tag League Night Four (27.11, pubblicato da Fightful alle 14:57 UTC) → PUBBLICATO: https://zonawrestling.net/risultati-njpw-world-tag-league-27-11-2026/ (ID 386310, autore 1, immagine 386311, categorie 2 + 10273). La chiamata a Make ha risposto "Bad Gateway", ma lo scenario ha completato la pubblicazione: verificato sul sito, nessun rilancio.
-  Nota: nella fonte il match a sei Unbound Co. (Nagai, Cobb, Tsuji) vs United Empire (Zane Jay, Jake Lee, Newman) non ha esito: omesso dall'elenco per non inventare il vincitore.
-- AEW Collision 26.11, WWE Main Event 25.11, AEW Dynamite 25.11, Focus Pro Mo Money Mo Problems 4, NJPW World Tag League 24/25.11, WWE NXT 24.11, Beyond Rent Free, CMLL Lunes Clásico 23.11, CMLL Martes 24.11, MLW Fusion 19.11, WWE Raw 23.11 → già pubblicati.
+## Candidati (Fightful, ultime 48 ore; pagina con data del 27/11 in testa, corretta per l'ora USA)
+- PWJ Loyalty Over Everything (22.11, pubblicato da Fightful il 27.11 alle 18:34 UTC) → PUBBLICATO: https://zonawrestling.net/risultati-pwj-loyalty-over-everything-2026/ (ID 386325, autore 1, immagine 386326, categorie 2 + 52, retrodatato al 23.11 20:00). Make ha risposto "Bad Gateway" ma ha completato: verificato sul sito, nessun rilancio.
+- Power Pro Lucha Neon Genesis Cibernetico (22.11, pubblicato il 27.11 alle 21:57 UTC) → PUBBLICATO: https://zonawrestling.net/risultati-power-pro-lucha-neon-genesis-cibernetico-2026/ (ID 386328, autore 1, immagine 386329, categorie 2 + 52, retrodatato al 23.11 20:30). Stesso "Bad Gateway", verificato sul sito.
+- NJPW World Tag League 27.11, AEW Collision 26.11, WWE Main Event 25.11, AEW Dynamite 25.11, NJPW WTL 24/25.11, WWE NXT 24.11, CMLL 23-24.11, Beyond Rent Free, Focus Pro → già pubblicati.
 
 ## Note
-- ROH TV della settimana: ancora nessun risultato su Fightful.
-- Clone locale di nuovo in "HEAD detached" (commit locale "coda: read" non pushato): risolto con checkout -B main origin/main.
+- SmackDown 27.11: non ancora andato in onda/risultati non presenti (giro delle 6:40).
+- ROH TV della settimana: nessun risultato né su Fightful né su Wrestleview.
+- Clone locale di nuovo in "HEAD detached": risolto con checkout -B main origin/main.
