@@ -1,0 +1,129 @@
+{
+  "file": "20261127175151-00-d.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T17:52:00+00:00",
+  "response": [
+    {
+      "id": 386266,
+      "date": "2026-11-27T06:55:46",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: AEW Collision 26.11.2026"
+      }
+    },
+    {
+      "id": 386258,
+      "date": "2026-11-26T21:35:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: SIW Iron Fist Parte 1"
+      }
+    },
+    {
+      "id": 386218,
+      "date": "2026-11-26T07:08:18",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: AEW Dynamite 25.11.2026"
+      }
+    },
+    {
+      "id": 386215,
+      "date": "2026-11-26T06:56:51",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE Main Event 25.11.2026"
+      }
+    },
+    {
+      "id": 386197,
+      "date": "2026-11-25T19:00:47",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 25.11.2026"
+      }
+    },
+    {
+      "id": 386152,
+      "date": "2026-11-25T08:08:16",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Martes de Arena México 24.11.2026"
+      }
+    },
+    {
+      "id": 386142,
+      "date": "2026-11-25T07:15:45",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE NXT 24.11.2026"
+      }
+    },
+    {
+      "id": 386123,
+      "date": "2026-11-24T18:53:49",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 24.11.2026"
+      }
+    },
+    {
+      "id": 386110,
+      "date": "2026-11-24T12:59:18",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Lunes Clásico 23.11.2026"
+      }
+    },
+    {
+      "id": 386082,
+      "date": "2026-11-24T06:55:30",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE Raw 23.11.2026"
+      }
+    },
+    {
+      "id": 386049,
+      "date": "2026-11-23T18:54:18",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 23.11.2026"
+      }
+    },
+    {
+      "id": 386040,
+      "date": "2026-11-23T12:59:52",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Domingo Familiar 22.11.2026"
+      }
+    },
+    {
+      "id": 386136,
+      "date": "2026-11-23T01:30:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: Beyond Wrestling Rent Free 2026"
+      }
+    },
+    {
+      "id": 386068,
+      "date": "2026-11-23T01:00:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: Beyond Wrestling Still Alive 2026"
+      }
+    },
+    {
+      "id": 386211,
+      "date": "2026-11-22T20:00:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: Focus Pro Wrestling Mo Money Mo Problems 4 2026"
+      }
+    }
+  ]
+}

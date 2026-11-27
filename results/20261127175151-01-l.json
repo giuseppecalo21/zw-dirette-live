@@ -1,0 +1,51 @@
+{
+  "file": "20261127175151-01-l.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T17:52:03+00:00",
+  "response": [
+    {
+      "date": "2026-11-27T15:43:04",
+      "link": "https://zonawrestling.net/wrestling-tv-streaming-weekend-27-29-novembre-2026/",
+      "title": {
+        "rendered": "Wrestling nel weekend in TV e streaming: Survivor Series WarGames, World Tag League, Goddesses of STARDOM e tanto altro"
+      }
+    },
+    {
+      "date": "2026-11-27T08:23:53",
+      "link": "https://zonawrestling.net/collision-26-11-2026-la-risposta-e-no/",
+      "title": {
+        "rendered": "Collision 26.11.2026 La risposta è no"
+      }
+    },
+    {
+      "date": "2026-11-27T08:00:59",
+      "link": "https://zonawrestling.net/aew-mercedes-mone-e-il-cut-travolgono-i-death-riders-annunciato-match-senza-squalifica-contro-marina-shafir/",
+      "title": {
+        "rendered": "AEW: Mercedes Moné e il Cut travolgono i Death Riders, sarà rematch contro Marina Shafir"
+      }
+    },
+    {
+      "date": "2026-11-27T07:57:10",
+      "link": "https://zonawrestling.net/dynamite-25-11-2026-il-diavolo-sale-sulla-scala/",
+      "title": {
+        "rendered": "Dynamite 25.11.2026 Il diavolo sale sulla scala"
+      }
+    },
+    {
+      "date": "2026-11-27T06:55:46",
+      "link": "https://zonawrestling.net/risultati-aew-collision-26-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Collision 26.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-26T17:00:00",
+      "link": "https://zonawrestling.net/the-ajpw-odyssey-11/",
+      "title": {
+        "rendered": "The AJPW Odyssey #11"
+      }
+    }
+  ]
+}

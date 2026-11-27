@@ -1,1 +1,0 @@
-{"action": "get", "path": "wp/v2/posts?search=World+Tag+League&per_page=6&_fields=title,link,date"}
