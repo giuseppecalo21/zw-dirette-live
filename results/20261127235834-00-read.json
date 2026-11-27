@@ -1,0 +1,10 @@
+{
+  "file": "20261127235834-00-read.json",
+  "action": "fetch",
+  "http_status": 404,
+  "ok": false,
+  "processed_at": "2026-11-27T23:58:43+00:00",
+  "response": {
+    "error": "HTTP 404"
+  }
+}
