@@ -1,0 +1,24 @@
+{
+  "file": "20261127235610-00-get.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T23:56:19+00:00",
+  "response": [
+    {
+      "id": 386325,
+      "date": "2026-11-23T20:00:00",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-pwj-loyalty-over-everything-2026/",
+      "title": {
+        "raw": "RISULTATI: PWJ Loyalty Over Everything 2026"
+      },
+      "author": 1,
+      "featured_media": 386326,
+      "categories": [
+        52,
+        2
+      ]
+    }
+  ]
+}
