@@ -1,0 +1,59 @@
+{
+  "file": "20261127055311-05-g6.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T05:53:39+00:00",
+  "response": [
+    {
+      "id": 15173,
+      "count": 337,
+      "name": "AEW Collision"
+    },
+    {
+      "id": 18506,
+      "count": 4,
+      "name": "AEW Collision: Summer Blockbuster"
+    },
+    {
+      "id": 19049,
+      "count": 4,
+      "name": "AEW Dynamite/Collision"
+    },
+    {
+      "id": 14546,
+      "count": 2,
+      "name": "capital collision"
+    },
+    {
+      "id": 17056,
+      "count": 2,
+      "name": "Christmas Collision"
+    },
+    {
+      "id": 15394,
+      "count": 463,
+      "name": "Collision"
+    },
+    {
+      "id": 16811,
+      "count": 3,
+      "name": "Collision Grand Slam"
+    },
+    {
+      "id": 17138,
+      "count": 2,
+      "name": "Collision Homecoming"
+    },
+    {
+      "id": 15330,
+      "count": 1,
+      "name": "collision in philadelphia"
+    },
+    {
+      "id": 18400,
+      "count": 1,
+      "name": "Collision Playoff Palooza"
+    }
+  ]
+}

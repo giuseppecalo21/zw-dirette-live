@@ -1,0 +1,29 @@
+{
+  "file": "20261127055311-06-g7.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T05:53:41+00:00",
+  "response": [
+    {
+      "id": 15878,
+      "count": 11,
+      "name": "DRAGUNOV"
+    },
+    {
+      "id": 18077,
+      "count": 1,
+      "name": "Ija Dragunov"
+    },
+    {
+      "id": 13730,
+      "count": 7,
+      "name": "Ilija Dragunov"
+    },
+    {
+      "id": 2979,
+      "count": 157,
+      "name": "ILJA DRAGUNOV"
+    }
+  ]
+}

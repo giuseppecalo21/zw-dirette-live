@@ -1,0 +1,14 @@
+{
+  "file": "20261127055311-10-g11.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T05:53:45+00:00",
+  "response": [
+    {
+      "id": 11538,
+      "count": 102,
+      "name": "Bandido"
+    }
+  ]
+}
