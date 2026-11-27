@@ -1,0 +1,24 @@
+{
+  "file": "20261127175607-00-v.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T17:56:16+00:00",
+  "response": [
+    {
+      "id": 386310,
+      "date": "2026-11-27T18:54:52",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-njpw-world-tag-league-27-11-2026/",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 27.11.2026"
+      },
+      "author": 1,
+      "featured_media": 386311,
+      "categories": [
+        10273,
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "file": "20261127175607-01-v2.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T17:56:19+00:00",
+  "response": [
+    {
+      "id": 386310,
+      "slug": "risultati-njpw-world-tag-league-27-11-2026",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 27.11.2026"
+      }
+    },
+    {
+      "id": 343449,
+      "slug": "risultati-njpw-world-tag-league-2024-26-27-11-2024-day-6-7",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW \"World Tag League 2024\" 26-27.11.2024 (Day 6-7)"
+      }
+    },
+    {
+      "id": 338633,
+      "slug": "dynamite-27-11-2024-parte-il-continental-classic",
+      "status": "publish",
+      "title": {
+        "raw": "Dynamite 27.11.2024 Parte il Continental Classic"
+      }
+    },
+    {
+      "id": 284202,
+      "slug": "risultati-njpw-world-tag-league-super-junior-tag-league-2022-26-27-11-2022-day-5-6",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW \"World Tag League/Super Junior Tag League 2022\" 26-27.11.2022 (Day 5-6)"
+      }
+    },
+    {
+      "id": 284193,
+      "slug": "risultati-ajpw-real-world-tag-league-junior-battle-of-glory-2022-27-11-2022-day-6",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: AJPW \"Real World Tag League/Junior Battle Of Glory 2022\" 27.11.2022 (Day 6)"
+      }
+    },
+    {
+      "id": 254349,
+      "slug": "risultati-ajpw-real-world-tag-league-2021-27-11-05-12-2021-day-7-8-finale-torneo",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: AJPW \"Real World Tag League 2021\" 27.11-05.12.2021 (Day 7-8, Finale Torneo)"
+      }
+    },
+    {
+      "id": 253651,
+      "slug": "risultati-ajpw-real-world-tag-league-2021-23-27-11-2021-day-5-6",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: AJPW \"Real World Tag League 2021\" 23-27.11.2021 (Day 5-6)"
+      }
+    },
+    {
+      "id": 84587,
+      "slug": "hayabusa-video-la-top-5-dei-suoi-migliori-incontri-secondo-zw",
+      "status": "publish",
+      "title": {
+        "raw": "HAYABUSA VIDEO: La Top 5 dei suoi migliori incontri secondo ZW"
+      }
+    },
+    {
+      "id": 48519,
+      "slug": "chiedilo-a-zona-wrestling-218",
+      "status": "publish",
+      "title": {
+        "raw": "Chiedilo a Zona Wrestling #218"
+      }
+    }
+  ]
+}
