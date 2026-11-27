@@ -1,0 +1,39 @@
+{
+  "file": "20261127175310-00-t4.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T17:53:18+00:00",
+  "response": [
+    {
+      "id": 8587,
+      "count": 79,
+      "name": "Jeff Cobb"
+    },
+    {
+      "id": 123,
+      "count": 2196,
+      "name": "NJPW"
+    },
+    {
+      "id": 1313,
+      "count": 43,
+      "name": "Sanada"
+    },
+    {
+      "id": 14612,
+      "count": 19,
+      "name": "united empire"
+    },
+    {
+      "id": 14238,
+      "count": 38,
+      "name": "YOTA TSUJI"
+    },
+    {
+      "id": 1478,
+      "count": 30,
+      "name": "YUJI NAGATA"
+    }
+  ]
+}
