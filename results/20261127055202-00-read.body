@@ -256,7 +256,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </style>
 <link rel='stylesheet' id='ctf_styles-css' href='https://www.fightful.com/wp-content/plugins/custom-twitter-feeds-pro/css/ctf-styles.min.css?ver=2.5.0' media='all' />
 <link rel='stylesheet' id='patreon-wordpress-css-css' href='https://www.fightful.com/wp-content/plugins/patreon-connect/assets/css/app.css?ver=1.13.1' media='all' />
-<link rel='stylesheet' id='wpdp-style2-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/front-styles.css?t=1795737078&#038;ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
+<link rel='stylesheet' id='wpdp-style2-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/front-styles.css?t=1795758731&#038;ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
 <link rel='stylesheet' id='wpdp-style3-css' href='https://www.fightful.com/wp-content/plugins/wp-datepicker/css/jquery-ui.css?ver=db15b84483b6ef43308e5864b622c4dc' media='all' />
 <link rel='stylesheet' id='tie-css-base-css' href='https://www.fightful.com/wp-content/themes/jannah/assets/css/base.min.css?ver=7.3.0' media='all' />
 <link rel='stylesheet' id='tie-css-styles-css' href='https://www.fightful.com/wp-content/themes/jannah/assets/css/style.min.css?ver=7.3.0' media='all' />
@@ -282,7 +282,7 @@ jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","curr
 //# sourceURL=jquery-ui-datepicker-js-after
 </script>
 <script id="wpdp-scripts2-js-extra">
-var wpdp_obj = {"nonce":"0fbaff9428","wpml_current_language":null};
+var wpdp_obj = {"nonce":"f1faa67d88","wpml_current_language":null};
 //# sourceURL=wpdp-scripts2-js-extra
 </script>
 <script id="wpdp-scripts2-js" src="https://www.fightful.com/wp-content/plugins/wp-datepicker/js/scripts-front.js?ver=db15b84483b6ef43308e5864b622c4dc"></script>
@@ -352,7 +352,7 @@ gtag("config", "GT-MQP9FZ6");
 
 			
 					<div class="topbar-today-date">
-						Thursday, November 26 2026					</div>
+						Friday, November 27 2026					</div>
 					
 			<div class="tie-alignleft">
 							</div><!-- .tie-alignleft /-->
@@ -989,7 +989,7 @@ gtag("config", "GT-MQP9FZ6");
         </div>                
                 <div class="ad-sidebar-portrait"></div>
 
-                <div class="widget-title the-global-title"><div class="the-subtitle"><h3>RESULTS</h3></div></div><div class="results sidebar-list"><ul class="display-posts-listing"><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/aew-collision-spoilers-for-11-26-taped-on-11-25/">AEW Collision Spoilers For 11/26 (Taped On 11/25)</a> <span class="date">November 26, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-main-event-results-11-25/">WWE Main Event Results (11/25)</a> <span class="date">November 25, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/">AEW Dynamite Results (11/25/2026): Hangman Page vs. Jay White, Andrade vs. Kyle Fletcher, Tag Title Match, Jon Moxley, More</a> <span class="date">November 25, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/focus-pro-mo-money-mo-problems-4-results-11-21/">Focus Pro Mo Money Mo Problems 4 Results (11/21)</a> <span class="date">November 25, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-nxt-results-11-24-2026-zaria-vs-izzi-dame-perros-del-mal-mason-rook-more/">WWE NXT Results (11/24/2026): ZARIA vs. Izzi Dame, Perros del Mal, Mason Rook, More</a> <span class="date">November 24, 2026 </span></li></ul></div>            </div><!-- /sidebar-container -->
+                <div class="widget-title the-global-title"><div class="the-subtitle"><h3>RESULTS</h3></div></div><div class="results sidebar-list"><ul class="display-posts-listing"><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/aew-collision-results-11-26-continental-classic-continues/">AEW Collision Results (11/26): Continental Classic Continues</a> <span class="date">November 26, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/aew-collision-spoilers-for-11-26-taped-on-11-25/">AEW Collision Spoilers For 11/26 (Taped On 11/25)</a> <span class="date">November 26, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-main-event-results-11-25/">WWE Main Event Results (11/25)</a> <span class="date">November 25, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/">AEW Dynamite Results (11/25/2026): Hangman Page vs. Jay White, Andrade vs. Kyle Fletcher, Tag Title Match, Jon Moxley, More</a> <span class="date">November 25, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/focus-pro-mo-money-mo-problems-4-results-11-21/">Focus Pro Mo Money Mo Problems 4 Results (11/21)</a> <span class="date">November 25, 2026 </span></li></ul></div>            </div><!-- /sidebar-container -->
 
                         <div class="latest-posts-container">
                 <div class="latest-posts-list-container">
@@ -998,6 +998,27 @@ gtag("config", "GT-MQP9FZ6");
                     </div>
 
                     <div class="latest-posts-list">
+
+                        
+                            <div class="latest-post-item">
+                                                                    <a class="featured-image" href="https://www.fightful.com/wrestling/aew-collision-results-11-26-continental-classic-continues/">
+                                        <div class="image-container">
+                                            <img class="lazy" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201%201%22%3E%3C%2Fsvg%3E" data-src="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/26091115/Screenshot-2026-11-25-at-8.05.09-PM-768x412.png"
+                                                alt="AEW Collision Results (11/26): Continental Classic Continues">
+                                        </div>
+                                    </a>
+                                
+                                <div class="featured-text">
+                                    <div class="title"><a
+                                            href="https://www.fightful.com/wrestling/aew-collision-results-11-26-continental-classic-continues/">AEW Collision Results (11/26): Continental Classic Continues</a>
+                                    </div>
+                                    <div class="post-excerpt">All Elite Wrestling aired the latest episode of AEW Collision on November...</div>
+                                    <div class="post-meta">
+                                        <span class="post-date">November 26, 2026 7:44 pm</span>
+                                                                                    | <span class="post-author">By Jeremy Lambert</span>
+                                                                            </div>
+                                </div>
+                            </div><!-- /latest-post-item -->
 
                         
                             <div class="latest-post-item">
@@ -1294,36 +1315,15 @@ gtag("config", "GT-MQP9FZ6");
                             </div><!-- /latest-post-item -->
 
                         
-                            <div class="latest-post-item">
-                                                                    <a class="featured-image" href="https://www.fightful.com/wrestling/more-details-on-tna-firing-mike-romo/">
-                                        <div class="image-container">
-                                            <img class="lazy" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201%201%22%3E%3C%2Fsvg%3E" data-src="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/11/21202633/Screenshot-2026-11-21-at-8.26.21-PM-768x406.png"
-                                                alt="More Details On TNA Firing Mike Romo">
-                                        </div>
-                                    </a>
-                                
-                                <div class="featured-text">
-                                    <div class="title"><a
-                                            href="https://www.fightful.com/wrestling/more-details-on-tna-firing-mike-romo/">More Details On TNA Firing Mike Romo</a>
-                                    </div>
-                                    <div class="post-excerpt">More details on TNA letting go of Mike Romo. Fightful Select reports,...</div>
-                                    <div class="post-meta">
-                                        <span class="post-date">November 23, 2026 2:50 pm</span>
-                                                                                    | <span class="post-author">By Jeremy Lambert</span>
-                                                                            </div>
-                                </div>
-                            </div><!-- /latest-post-item -->
-
-                        
                     </div><!-- /latest-posts-list -->
 
                     <div class="pagination">
                         <span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=2&#038;nocache=202611270050&#038;zwts=20261126235117">2</a>
-<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=3&#038;nocache=202611270050&#038;zwts=20261126235117">3</a>
+<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=2&#038;nocache=202611270655&#038;zwts=20261127055210">2</a>
+<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=3&#038;nocache=202611270655&#038;zwts=20261127055210">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=939&#038;nocache=202611270050&#038;zwts=20261126235117">939</a>
-<a class="next page-numbers" href="https://www.fightful.com/wrestling/results/?paged=2&#038;nocache=202611270050&#038;zwts=20261126235117">>></a>                    </div>
+<a class="page-numbers" href="https://www.fightful.com/wrestling/results/?paged=939&#038;nocache=202611270655&#038;zwts=20261127055210">939</a>
+<a class="next page-numbers" href="https://www.fightful.com/wrestling/results/?paged=2&#038;nocache=202611270655&#038;zwts=20261127055210">>></a>                    </div>
 
                 </div><!-- /list-container -->
             </div><!-- /posts-container -->
@@ -1366,7 +1366,7 @@ gtag("config", "GT-MQP9FZ6");
 <div class="the-subtitle"><h3>RESULTS</h3></div>
 </div>
 <div class="sidebar-list">
-<ul class="display-posts-listing"><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/aew-collision-spoilers-for-11-26-taped-on-11-25/">AEW Collision Spoilers For 11/26 (Taped On 11/25)</a> <span class="date">November 26, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-main-event-results-11-25/">WWE Main Event Results (11/25)</a> <span class="date">November 25, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/">AEW Dynamite Results (11/25/2026): Hangman Page vs. Jay White, Andrade vs. Kyle Fletcher, Tag Title Match, Jon Moxley, More</a> <span class="date">November 25, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/focus-pro-mo-money-mo-problems-4-results-11-21/">Focus Pro Mo Money Mo Problems 4 Results (11/21)</a> <span class="date">November 25, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-nxt-results-11-24-2026-zaria-vs-izzi-dame-perros-del-mal-mason-rook-more/">WWE NXT Results (11/24/2026): ZARIA vs. Izzi Dame, Perros del Mal, Mason Rook, More</a> <span class="date">November 24, 2026 </span></li></ul>
+<ul class="display-posts-listing"><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/aew-collision-results-11-26-continental-classic-continues/">AEW Collision Results (11/26): Continental Classic Continues</a> <span class="date">November 26, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/aew-collision-spoilers-for-11-26-taped-on-11-25/">AEW Collision Spoilers For 11/26 (Taped On 11/25)</a> <span class="date">November 26, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/wwe-main-event-results-11-25/">WWE Main Event Results (11/25)</a> <span class="date">November 25, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/aew-dynamite-results-11-25-2026-hangman-page-vs-jay-white-andrade-vs-kyle-fletcher-tag-title-match-jon-moxley-more/">AEW Dynamite Results (11/25/2026): Hangman Page vs. Jay White, Andrade vs. Kyle Fletcher, Tag Title Match, Jon Moxley, More</a> <span class="date">November 25, 2026 </span></li><li class="listing-item"><a class="title" href="https://www.fightful.com/wrestling/focus-pro-mo-money-mo-problems-4-results-11-21/">Focus Pro Mo Money Mo Problems 4 Results (11/21)</a> <span class="date">November 25, 2026 </span></li></ul>
 </div>
 <div class="clearfix"></div></div><!-- .widget /-->						</div><!-- .theiaStickySidebar /-->
 					</aside><!-- .sidebar /-->
@@ -1493,7 +1493,7 @@ gtag("config", "GT-MQP9FZ6");
 				<a class="forget-text" href="https://www.fightful.com/hello/?action=lostpassword&redirect_to=https%3A%2F%2Fwww.fightful.com">Forget?</a>
 			</div>
 
-			<input type="hidden" name="redirect_to" value="/wrestling/results/?nocache=202611270050&amp;zwts=20261126235117"/>
+			<input type="hidden" name="redirect_to" value="/wrestling/results/?nocache=202611270655&amp;zwts=20261127055210"/>
 			<label for="rememberme" class="rememberme">
 				<input id="rememberme" name="rememberme" type="checkbox" checked="checked" value="forever" /> Remember me			</label>
 
@@ -1517,7 +1517,7 @@ gtag("config", "GT-MQP9FZ6");
 		</div><!-- .tie-popup-container /-->
 	</div><!-- .tie-popup /-->
 	<style type="text/css" data-ctf-style="3">.ctf-feed-3 .ctf-tweet-actions a{font-size:12px!important;}.ctf-feed-3 .ctf-quoted-tweet{font-size:20px!important;}.ctf-feed-3 .ctf-twitterlink{font-size:9px!important;}.ctf-feed-3.ctf-regular-style .ctf-item, .ctf-feed-3 .ctf-header{border-bottom:1px solid #DDD!important;}</style><script id="patreon-wordpress-js-js" src="https://www.fightful.com/wp-content/plugins/patreon-connect/assets/js/app.js?ver=db15b84483b6ef43308e5864b622c4dc"></script>
-<script id="datepicker-script-auto-js" src="https://www.fightful.com/wp-content/plugins/wp-datepicker/js/wpdp_auto_script.js?ver=202611261151"></script>
+<script id="datepicker-script-auto-js" src="https://www.fightful.com/wp-content/plugins/wp-datepicker/js/wpdp_auto_script.js?ver=202611270552"></script>
 <script id="tie-scripts-js-extra">
 var tie = {"is_rtl":"","ajaxurl":"https://www.fightful.com/wp-admin/admin-ajax.php","is_side_aside_light":"","is_taqyeem_active":"","is_sticky_video":"","mobile_menu_top":"","mobile_menu_active":"area_1","mobile_menu_parent":"","lightbox_all":"true","lightbox_gallery":"true","lightbox_skin":"dark","lightbox_thumb":"horizontal","lightbox_arrows":"true","is_singular":"1","autoload_posts":"","reading_indicator":"true","lazyload":"","select_share":"true","select_share_twitter":"true","select_share_facebook":"true","select_share_linkedin":"","select_share_email":"","facebook_app_id":"5303202981","twitter_username":"","responsive_tables":"true","ad_blocker_detector":"","sticky_behavior":"default","sticky_desktop":"true","sticky_mobile":"true","sticky_mobile_behavior":"default","ajax_loader":"\u003Cdiv class=\"loader-overlay\"\u003E\n\t\t\t\t\u003Cdiv class=\"spinner\"\u003E\n\t\t\t\t\t\u003Cdiv class=\"bounce1\"\u003E\u003C/div\u003E\n\t\t\t\t\t\u003Cdiv class=\"bounce2\"\u003E\u003C/div\u003E\n\t\t\t\t\t\u003Cdiv class=\"bounce3\"\u003E \u003C/div\u003E\n\t\t\t\t\u003C/div\u003E\n\t\t\t\u003C/div\u003E","type_to_search":"","lang_no_results":"Nothing Found","sticky_share_mobile":"true","sticky_share_post":"","sticky_share_post_menu":""};
 //# sourceURL=tie-scripts-js-extra
@@ -1529,7 +1529,7 @@ var tie = {"is_rtl":"","ajaxurl":"https://www.fightful.com/wp-admin/admin-ajax.p
 <script id="tie-js-desktop-js" src="https://www.fightful.com/wp-content/themes/jannah/assets/js/desktop.min.js?ver=7.3.0"></script>
 <script id="twitter-widgets-single-js" src="https://platform.twitter.com/widgets.js"></script>
 <script id="ctf_scripts-js-extra">
-var ctfOptions = {"ajax_url":"https://www.fightful.com/wp-admin/admin-ajax.php","nonce":"eb71e2a5e0","font_method":"svg","placeholder":"https://www.fightful.com/wp-content/plugins/custom-twitter-feeds-pro/img/placeholder.png","resized_url":"https://www.fightful.com/wp-content/uploads/sb-twitter-feed-images/"};
+var ctfOptions = {"ajax_url":"https://www.fightful.com/wp-admin/admin-ajax.php","nonce":"306560b3a2","font_method":"svg","placeholder":"https://www.fightful.com/wp-content/plugins/custom-twitter-feeds-pro/img/placeholder.png","resized_url":"https://www.fightful.com/wp-content/uploads/sb-twitter-feed-images/"};
 //# sourceURL=ctf_scripts-js-extra
 </script>
 <script id="ctf_scripts-js" src="https://www.fightful.com/wp-content/plugins/custom-twitter-feeds-pro/js/ctf-scripts.min.js?ver=2.5.0"></script>
@@ -1568,5 +1568,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Page Caching using Disk: Enhanced (Requested URI contains query) 
 Lazy Loading
 
-Served from: www.fightful.com @ 2026-11-26 18:51:23 by W3 Total Cache
+Served from: www.fightful.com @ 2026-11-27 00:52:16 by W3 Total Cache
 -->
