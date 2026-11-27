@@ -1,0 +1,44 @@
+{
+  "file": "20261127235240-06-p7.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T23:53:11+00:00",
+  "response": [
+    {
+      "date": "2026-11-07T20:34:26",
+      "link": "https://zonawrestling.net/crown-jewel-oba-femi-decisivo-penta-e-jevon-evans-nuovi-campioni-di-coppia/",
+      "title": {
+        "rendered": "CROWN JEWEL: Oba Femi decisivo, Penta e Je&#8217;Von Evans nuovi campioni di coppia"
+      }
+    },
+    {
+      "date": "2026-11-05T13:22:46",
+      "link": "https://zonawrestling.net/nxt-04-11-2026-grayson-waller-lascia-senza-fiato-cm-punk/",
+      "title": {
+        "rendered": "NXT 04.11.2026 Grayson Waller lascia senza fiato CM Punk"
+      }
+    },
+    {
+      "date": "2026-11-03T08:00:00",
+      "link": "https://zonawrestling.net/wwe-ecco-il-tuo-nuovo-boricua-badass/",
+      "title": {
+        "rendered": "WWE, ecco il tuo nuovo &#8220;Boricua Badass&#8221;"
+      }
+    },
+    {
+      "date": "2026-10-20T08:00:00",
+      "link": "https://zonawrestling.net/il-mistero-dello-scheletro-danzante/",
+      "title": {
+        "rendered": "Il mistero dello scheletro danzante"
+      }
+    },
+    {
+      "date": "2026-10-17T10:52:15",
+      "link": "https://zonawrestling.net/wwe-ricky-saints-perde-la-testa-e-costa-a-se-stesso-il-match-rey-fenix-e-ancora-laaa-cruiserweight-champion/",
+      "title": {
+        "rendered": "WWE: Ricky Saints perde la testa e costa a se stesso il match, Rey Fénix è ancora campione"
+      }
+    }
+  ]
+}

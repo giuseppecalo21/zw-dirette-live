@@ -1,0 +1,44 @@
+{
+  "file": "20261127235240-00-p1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T23:52:52+00:00",
+  "response": [
+    {
+      "date": "2026-11-27T08:23:53",
+      "link": "https://zonawrestling.net/collision-26-11-2026-la-risposta-e-no/",
+      "title": {
+        "rendered": "Collision 26.11.2026 La risposta è no"
+      }
+    },
+    {
+      "date": "2026-11-22T06:55:43",
+      "link": "https://zonawrestling.net/risultati-aew-collision-21-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Collision 21.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-19T23:56:00",
+      "link": "https://zonawrestling.net/dynamite-18-11-2026-sorprese-continentali/",
+      "title": {
+        "rendered": "Dynamite 18.11.2026 Sorprese Continentali"
+      }
+    },
+    {
+      "date": "2026-11-15T10:40:30",
+      "link": "https://zonawrestling.net/aew-the-cut-trionfano-nel-caos-dellanarchy-in-the-arena-match-a-full-gear/",
+      "title": {
+        "rendered": "AEW: The Cut trionfano nel caos dell&#8217;Anarchy in the Arena Match a Full Gear"
+      }
+    },
+    {
+      "date": "2026-11-15T08:21:13",
+      "link": "https://zonawrestling.net/risultati-aew-full-gear-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Full Gear 2026"
+      }
+    }
+  ]
+}

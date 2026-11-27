@@ -1,0 +1,44 @@
+{
+  "file": "20261127235240-02-p3.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T23:52:59+00:00",
+  "response": [
+    {
+      "date": "2026-11-21T19:14:21",
+      "link": "https://zonawrestling.net/risultati-roh-fortnite-to-final-battle-20-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: ROH Fortnight to Final Battle 20.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-14T22:24:58",
+      "link": "https://zonawrestling.net/deonna-purrazzo-il-pubblico-aew-non-sa-chi-sia-la-virtuosa/",
+      "title": {
+        "rendered": "Deonna Purrazzo: “Il pubblico AEW non sa chi sia la Virtuosa”"
+      }
+    },
+    {
+      "date": "2026-11-06T03:59:23",
+      "link": "https://zonawrestling.net/risultati-roh-tv-05-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: ROH TV 05.11.2026"
+      }
+    },
+    {
+      "date": "2026-10-16T18:23:06",
+      "link": "https://zonawrestling.net/risultati-roh-tv-15-10-2026/",
+      "title": {
+        "rendered": "RISULTATI: ROH TV 15.10.2026"
+      }
+    },
+    {
+      "date": "2026-08-03T22:24:29",
+      "link": "https://zonawrestling.net/tna-anche-jody-threat-lascia-la-federazione-dopo-aver-chiesto-la-rescissione/",
+      "title": {
+        "rendered": "TNA: Anche Jody Threat lascia la federazione dopo aver chiesto la rescissione"
+      }
+    }
+  ]
+}

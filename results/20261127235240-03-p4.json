@@ -1,0 +1,44 @@
+{
+  "file": "20261127235240-03-p4.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T23:53:03+00:00",
+  "response": [
+    {
+      "date": "2026-11-27T08:23:53",
+      "link": "https://zonawrestling.net/collision-26-11-2026-la-risposta-e-no/",
+      "title": {
+        "rendered": "Collision 26.11.2026 La risposta è no"
+      }
+    },
+    {
+      "date": "2026-11-27T07:57:10",
+      "link": "https://zonawrestling.net/dynamite-25-11-2026-il-diavolo-sale-sulla-scala/",
+      "title": {
+        "rendered": "Dynamite 25.11.2026 Il diavolo sale sulla scala"
+      }
+    },
+    {
+      "date": "2026-11-27T06:55:46",
+      "link": "https://zonawrestling.net/risultati-aew-collision-26-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: AEW Collision 26.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-22T13:14:42",
+      "link": "https://zonawrestling.net/aew-la-classifica-del-continental-classic-2026-dopo-collision/",
+      "title": {
+        "rendered": "AEW: La classifica del Continental Classic 2026 dopo Collision"
+      }
+    },
+    {
+      "date": "2026-11-19T23:56:00",
+      "link": "https://zonawrestling.net/dynamite-18-11-2026-sorprese-continentali/",
+      "title": {
+        "rendered": "Dynamite 18.11.2026 Sorprese Continentali"
+      }
+    }
+  ]
+}

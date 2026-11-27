@@ -1,0 +1,19 @@
+{
+  "file": "20261127235240-11-t13.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T23:53:18+00:00",
+  "response": [
+    {
+      "id": 9489,
+      "count": 36,
+      "name": "tjp"
+    },
+    {
+      "id": 16004,
+      "count": 5,
+      "name": "TJPW"
+    }
+  ]
+}

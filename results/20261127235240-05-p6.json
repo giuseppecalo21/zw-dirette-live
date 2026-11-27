@@ -1,0 +1,44 @@
+{
+  "file": "20261127235240-05-p6.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-27T23:53:08+00:00",
+  "response": [
+    {
+      "date": "2026-11-13T20:59:00",
+      "link": "https://zonawrestling.net/risultati-wrestling-open-12-11-2026-2/",
+      "title": {
+        "rendered": "RISULTATI: Wrestling Open (Beyond Wrestling) 12.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-13T18:00:00",
+      "link": "https://zonawrestling.net/risultati-freelance-hadouken-2026/",
+      "title": {
+        "rendered": "RISULTATI: Freelance Hadouken 2026"
+      }
+    },
+    {
+      "date": "2026-11-13T12:00:00",
+      "link": "https://zonawrestling.net/risultati-wrestling-open-12-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: Wrestling Open 12.11.2026"
+      }
+    },
+    {
+      "date": "2026-10-31T12:00:00",
+      "link": "https://zonawrestling.net/risultati-new-texas-pro-wrestling-8-year-anniversary-event-2026/",
+      "title": {
+        "rendered": "RISULTATI: New Texas Pro Wrestling 8 Year Anniversary Event 2026"
+      }
+    },
+    {
+      "date": "2026-10-30T12:00:00",
+      "link": "https://zonawrestling.net/risultati-wrestling-open-29-10-2026/",
+      "title": {
+        "rendered": "RISULTATI: Wrestling Open 29.10.2026"
+      }
+    }
+  ]
+}
