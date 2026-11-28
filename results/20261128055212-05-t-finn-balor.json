@@ -1,0 +1,44 @@
+{
+  "file": "20261128055212-05-t-finn-balor.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T05:52:23+00:00",
+  "response": [
+    {
+      "id": 15235,
+      "count": 3,
+      "name": "demon Finn Balor"
+    },
+    {
+      "id": 15504,
+      "count": 19,
+      "name": "Finn Bàlor"
+    },
+    {
+      "id": 3051,
+      "count": 701,
+      "name": "Finn Balor"
+    },
+    {
+      "id": 5726,
+      "count": 1,
+      "name": "Finn Bàlor WWE Samoa Joe"
+    },
+    {
+      "id": 8302,
+      "count": 2,
+      "name": "Infortunio Finn Balor"
+    },
+    {
+      "id": 5583,
+      "count": 1,
+      "name": "John Cena Kevin Owens Live Event Japan WWE Battleground Finn Bàlor"
+    },
+    {
+      "id": 5666,
+      "count": 1,
+      "name": "WWE Finn Bàlor Kevin Owens Tokyo Japan Giappone NXT"
+    }
+  ]
+}

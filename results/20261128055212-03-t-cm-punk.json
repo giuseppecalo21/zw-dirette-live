@@ -1,0 +1,59 @@
+{
+  "file": "20261128055212-03-t-cm-punk.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T05:52:22+00:00",
+  "response": [
+    {
+      "id": 693,
+      "count": 1,
+      "name": "Addio CM Punk"
+    },
+    {
+      "id": 128,
+      "count": 2178,
+      "name": "Cm Punk"
+    },
+    {
+      "id": 13697,
+      "count": 3,
+      "name": "CM Punk AEW"
+    },
+    {
+      "id": 14344,
+      "count": 1,
+      "name": "cm punk aew world championship"
+    },
+    {
+      "id": 14794,
+      "count": 1,
+      "name": "cm punk infortunio"
+    },
+    {
+      "id": 761,
+      "count": 2,
+      "name": "CM Punk Jim Ross"
+    },
+    {
+      "id": 13696,
+      "count": 2,
+      "name": "CM Punk promo"
+    },
+    {
+      "id": 18502,
+      "count": 1,
+      "name": "cm punk return"
+    },
+    {
+      "id": 6316,
+      "count": 2,
+      "name": "cm punk ritorna in wwe"
+    },
+    {
+      "id": 6319,
+      "count": 3,
+      "name": "cm punk ufc"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "file": "20261128055212-01-p.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T05:52:20+00:00",
+  "response": {
+    "id": 386331,
+    "link": "https://zonawrestling.net/diretta-live-wwe-smackdown-del-27-11-2026/",
+    "title": {
+      "rendered": "DIRETTA LIVE: WWE SmackDown del 27.11.2026"
+    }
+  }
+}

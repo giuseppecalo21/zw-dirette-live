@@ -1,0 +1,24 @@
+{
+  "file": "20261128055212-07-t-sami-zayn.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T05:52:25+00:00",
+  "response": [
+    {
+      "id": 16527,
+      "count": 1,
+      "name": "Alpha AcademSami Zayn"
+    },
+    {
+      "id": 362,
+      "count": 798,
+      "name": "Sami Zayn"
+    },
+    {
+      "id": 18484,
+      "count": 0,
+      "name": "Sami Zayn l"
+    }
+  ]
+}

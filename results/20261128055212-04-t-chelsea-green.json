@@ -1,0 +1,14 @@
+{
+  "file": "20261128055212-04-t-chelsea-green.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T05:52:23+00:00",
+  "response": [
+    {
+      "id": 2833,
+      "count": 315,
+      "name": "Chelsea Green"
+    }
+  ]
+}
