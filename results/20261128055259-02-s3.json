@@ -1,0 +1,44 @@
+{
+  "file": "20261128055259-02-s3.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T05:53:15+00:00",
+  "response": [
+    {
+      "date": "2026-11-26T08:00:00",
+      "link": "https://zonawrestling.net/punk-costera-la-vittoria-al-team-u-s-a/",
+      "title": {
+        "rendered": "Punk costerà la vittoria al team U.S.A.?"
+      }
+    },
+    {
+      "date": "2026-11-24T06:55:30",
+      "link": "https://zonawrestling.net/risultati-wwe-raw-23-11-2026/",
+      "title": {
+        "rendered": "RISULTATI: WWE Raw 23.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-22T22:08:57",
+      "link": "https://zonawrestling.net/trick-williams-voglio-cody-rhodes-nel-mio-primo-main-event-di-wrestlemania/",
+      "title": {
+        "rendered": "Trick Williams: “Voglio Cody Rhodes nel mio primo main event di WrestleMania”"
+      }
+    },
+    {
+      "date": "2026-11-21T10:09:02",
+      "link": "https://zonawrestling.net/wwe-dal-ritorno-di-hacksaw-jim-duggan-al-forfait-di-trick-williams-caos-nel-team-usa/",
+      "title": {
+        "rendered": "WWE: Dal ritorno di Hacksaw Jim Duggan al forfait di Trick Williams, caos nel Team USA"
+      }
+    },
+    {
+      "date": "2026-11-21T09:32:57",
+      "link": "https://zonawrestling.net/smackdown-20-11-2026-ce-chi-dice-no/",
+      "title": {
+        "rendered": "SmackDown 20.11.2026 C&#8217;è chi dice no"
+      }
+    }
+  ]
+}

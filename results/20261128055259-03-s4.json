@@ -1,0 +1,44 @@
+{
+  "file": "20261128055259-03-s4.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T05:53:18+00:00",
+  "response": [
+    {
+      "date": "2026-11-27T15:43:04",
+      "link": "https://zonawrestling.net/wrestling-tv-streaming-weekend-27-29-novembre-2026/",
+      "title": {
+        "rendered": "Wrestling nel weekend in TV e streaming: Survivor Series WarGames, World Tag League, Goddesses of STARDOM e tanto altro"
+      }
+    },
+    {
+      "date": "2026-11-27T11:39:30",
+      "link": "https://zonawrestling.net/jacy-jayne-confessa-il-suo-passato-da-hater-portavo-cartelli-con-scritto-john-cena-sucks-agli-show-wwe/",
+      "title": {
+        "rendered": "Jacy Jayne confessa il suo passato da hater: &#8220;Portavo cartelli con scritto John Cena Sucks agli show WWE&#8221;"
+      }
+    },
+    {
+      "date": "2026-11-27T08:00:00",
+      "link": "https://zonawrestling.net/wwe-survivor-series-2026-preview/",
+      "title": {
+        "rendered": "WWE Survivor Series 2026 – Preview"
+      }
+    },
+    {
+      "date": "2026-11-26T10:10:30",
+      "link": "https://zonawrestling.net/wwe-smackdown-annunciato-un-match-titolato-femminile-e-una-sfida-tra-blake-monroe-e-chelsea-green/",
+      "title": {
+        "rendered": "WWE: SmackDown, annunciato un match titolato femminile e una sfida tra Blake Monroe e Chelsea Green"
+      }
+    },
+    {
+      "date": "2026-11-23T11:49:53",
+      "link": "https://zonawrestling.net/charlotte-flair-rivela-alexa-bliss-mi-ha-aiutata-a-superare-un-momento-buio-della-mia-vita/",
+      "title": {
+        "rendered": "Charlotte Flair rivela: &#8220;Alexa Bliss mi ha aiutata a superare un momento buio della mia vita&#8221;"
+      }
+    }
+  ]
+}

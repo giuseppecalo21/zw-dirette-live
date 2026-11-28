@@ -1,0 +1,44 @@
+{
+  "file": "20261128055259-01-s2.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T05:53:12+00:00",
+  "response": [
+    {
+      "date": "2026-11-28T02:04:53",
+      "link": "https://zonawrestling.net/ultimora-e-morto-bronson-reed-della-wwe-lutto-nel-mondo-del-wrestling/",
+      "title": {
+        "rendered": "ULTIM&#8217;ORA: È morto Bronson Reed della WWE, lutto nel mondo del wrestling"
+      }
+    },
+    {
+      "date": "2026-11-27T15:43:04",
+      "link": "https://zonawrestling.net/wrestling-tv-streaming-weekend-27-29-novembre-2026/",
+      "title": {
+        "rendered": "Wrestling nel weekend in TV e streaming: Survivor Series WarGames, World Tag League, Goddesses of STARDOM e tanto altro"
+      }
+    },
+    {
+      "date": "2026-11-27T08:00:00",
+      "link": "https://zonawrestling.net/wwe-survivor-series-2026-preview/",
+      "title": {
+        "rendered": "WWE Survivor Series 2026 – Preview"
+      }
+    },
+    {
+      "date": "2026-11-27T07:57:10",
+      "link": "https://zonawrestling.net/dynamite-25-11-2026-il-diavolo-sale-sulla-scala/",
+      "title": {
+        "rendered": "Dynamite 25.11.2026 Il diavolo sale sulla scala"
+      }
+    },
+    {
+      "date": "2026-11-26T22:09:13",
+      "link": "https://zonawrestling.net/wwe-survivor-series-supera-i-35-000-biglietti-ma-resta-sotto-ledizione-2025/",
+      "title": {
+        "rendered": "WWE: Survivor Series supera i 35.000 biglietti, ma resta sotto l&#8217;edizione 2025"
+      }
+    }
+  ]
+}
