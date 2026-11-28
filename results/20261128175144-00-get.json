@@ -1,0 +1,129 @@
+{
+  "file": "20261128175144-00-get.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T17:51:53+00:00",
+  "response": [
+    {
+      "id": 386359,
+      "date": "2026-11-28T12:55:55",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Leyenda Azul 2026"
+      }
+    },
+    {
+      "id": 386338,
+      "date": "2026-11-28T06:55:35",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE SmackDown 27.11.2026"
+      }
+    },
+    {
+      "id": 386310,
+      "date": "2026-11-27T18:54:52",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 27.11.2026"
+      }
+    },
+    {
+      "id": 386266,
+      "date": "2026-11-27T06:55:46",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: AEW Collision 26.11.2026"
+      }
+    },
+    {
+      "id": 386258,
+      "date": "2026-11-26T21:35:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: SIW Iron Fist Parte 1"
+      }
+    },
+    {
+      "id": 386218,
+      "date": "2026-11-26T07:08:18",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: AEW Dynamite 25.11.2026"
+      }
+    },
+    {
+      "id": 386215,
+      "date": "2026-11-26T06:56:51",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE Main Event 25.11.2026"
+      }
+    },
+    {
+      "id": 386197,
+      "date": "2026-11-25T19:00:47",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 25.11.2026"
+      }
+    },
+    {
+      "id": 386152,
+      "date": "2026-11-25T08:08:16",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Martes de Arena México 24.11.2026"
+      }
+    },
+    {
+      "id": 386142,
+      "date": "2026-11-25T07:15:45",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE NXT 24.11.2026"
+      }
+    },
+    {
+      "id": 386123,
+      "date": "2026-11-24T18:53:49",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 24.11.2026"
+      }
+    },
+    {
+      "id": 386110,
+      "date": "2026-11-24T12:59:18",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: CMLL Lunes Clásico 23.11.2026"
+      }
+    },
+    {
+      "id": 386082,
+      "date": "2026-11-24T06:55:30",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: WWE Raw 23.11.2026"
+      }
+    },
+    {
+      "id": 386328,
+      "date": "2026-11-23T20:30:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: Power Pro Lucha Neon Genesis Cibernetico 2026"
+      }
+    },
+    {
+      "id": 386325,
+      "date": "2026-11-23T20:00:00",
+      "status": "publish",
+      "title": {
+        "raw": "RISULTATI: PWJ Loyalty Over Everything 2026"
+      }
+    }
+  ]
+}
