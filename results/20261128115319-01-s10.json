@@ -1,0 +1,19 @@
+{
+  "file": "20261128115319-01-s10.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T11:53:37+00:00",
+  "response": [
+    {
+      "id": 4615,
+      "count": 1,
+      "name": "Jessamyn Duke e Marina Shafir"
+    },
+    {
+      "id": 10564,
+      "count": 63,
+      "name": "Marina Shafir"
+    }
+  ]
+}

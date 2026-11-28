@@ -1,0 +1,19 @@
+{
+  "file": "20261128115319-04-s13.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T11:53:39+00:00",
+  "response": [
+    {
+      "id": 14215,
+      "count": 1,
+      "name": "AGUILA DORADA"
+    },
+    {
+      "id": 953,
+      "count": 64,
+      "name": "MASCARA DORADA"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "file": "20261128115319-09-s5.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T11:53:53+00:00",
+  "response": [
+    {
+      "id": 386310,
+      "date": "2026-11-27T18:54:52",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-njpw-world-tag-league-27-11-2026/",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 27.11.2026"
+      }
+    },
+    {
+      "id": 386303,
+      "date": "2026-11-27T15:43:04",
+      "status": "publish",
+      "link": "https://zonawrestling.net/wrestling-tv-streaming-weekend-27-29-novembre-2026/",
+      "title": {
+        "raw": "Wrestling nel weekend in TV e streaming: Survivor Series WarGames, World Tag League, Goddesses of STARDOM e tanto altro"
+      }
+    },
+    {
+      "id": 386264,
+      "date": "2026-11-27T08:00:00",
+      "status": "publish",
+      "link": "https://zonawrestling.net/wwe-survivor-series-2026-preview/",
+      "title": {
+        "raw": "WWE Survivor Series 2026 – Preview"
+      }
+    },
+    {
+      "id": 386276,
+      "date": "2026-11-27T07:57:10",
+      "status": "publish",
+      "link": "https://zonawrestling.net/dynamite-25-11-2026-il-diavolo-sale-sulla-scala/",
+      "title": {
+        "raw": "Dynamite 25.11.2026 Il diavolo sale sulla scala"
+      }
+    },
+    {
+      "id": 386197,
+      "date": "2026-11-25T19:00:47",
+      "status": "publish",
+      "link": "https://zonawrestling.net/risultati-njpw-world-tag-league-25-11-2026/",
+      "title": {
+        "raw": "RISULTATI: NJPW World Tag League 25.11.2026"
+      }
+    }
+  ]
+}
