@@ -1,0 +1,24 @@
+{
+  "file": "20261128175223-03-g4.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T17:52:37+00:00",
+  "response": [
+    {
+      "id": 12707,
+      "count": 33,
+      "name": "REAL WORLD TAG LEAGUE"
+    },
+    {
+      "id": 8738,
+      "count": 69,
+      "name": "world tag league"
+    },
+    {
+      "id": 3557,
+      "count": 1,
+      "name": "WORLD TAG LEAGUE 2014"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "file": "20261128175223-00-g1.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T17:52:34+00:00",
+  "response": [
+    {
+      "date": "2026-11-28T09:46:27",
+      "link": "https://zonawrestling.net/wwe-il-wrestling-piange-bronson-reed-la-compagnia-lo-ricorda-con-un-toccante-doppio-tributo/",
+      "title": {
+        "rendered": "WWE: Il wrestling piange Bronson Reed, la compagnia lo ricorda con un toccante doppio tributo"
+      }
+    },
+    {
+      "date": "2026-11-28T08:57:51",
+      "link": "https://zonawrestling.net/wwe-kevin-owens-ricorda-bronson-reed-con-un-discorso-commosso-durante-uno-show-dal-vivo/",
+      "title": {
+        "rendered": "WWE: Kevin Owens ricorda Bronson Reed con un discorso commosso durante uno show dal vivo"
+      }
+    },
+    {
+      "date": "2026-11-28T02:04:53",
+      "link": "https://zonawrestling.net/ultimora-e-morto-bronson-reed-della-wwe-lutto-nel-mondo-del-wrestling/",
+      "title": {
+        "rendered": "ULTIM&#8217;ORA: È morto Bronson Reed della WWE, lutto nel mondo del wrestling"
+      }
+    },
+    {
+      "date": "2026-11-28T01:46:51",
+      "link": "https://zonawrestling.net/diretta-live-wwe-smackdown-del-27-11-2026/",
+      "title": {
+        "rendered": "DIRETTA LIVE: WWE SmackDown del 27.11.2026"
+      }
+    },
+    {
+      "date": "2026-11-27T21:00:00",
+      "link": "https://zonawrestling.net/wwe-dave-meltzer-ha-fornito-un-aggiornamento-sullinfortunio-di-logan-paul/",
+      "title": {
+        "rendered": "WWE: Dave Meltzer ha fornito un aggiornamento sull&#8217;infortunio di Logan Paul"
+      }
+    }
+  ]
+}

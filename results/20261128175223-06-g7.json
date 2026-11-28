@@ -1,0 +1,19 @@
+{
+  "file": "20261128175223-06-g7.json",
+  "action": "get",
+  "http_status": 200,
+  "ok": true,
+  "processed_at": "2026-11-28T17:52:39+00:00",
+  "response": [
+    {
+      "id": 4068,
+      "count": 2,
+      "name": "NOAH TMDK"
+    },
+    {
+      "id": 1716,
+      "count": 48,
+      "name": "TMDK"
+    }
+  ]
+}
